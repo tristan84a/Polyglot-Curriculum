@@ -1,7 +1,7 @@
 POLYGLOT FRENCH SYLLABUS
 
-Version: 0.2 Status: Current Charter version:
-Pre-Charter Encoding: UTF-8
+Version: 0.2 Status: Current Charter version: 0.5
+Encoding: UTF-8
 
 PURPOSE
 
