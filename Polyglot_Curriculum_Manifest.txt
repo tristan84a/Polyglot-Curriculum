@@ -32,6 +32,7 @@ Turkish     600000-699999        600000-600049        50
 Arabic      700000-799999        700000-700049        50
 Ojibwe      800000-899999        800000-800098        99
 Spanish      900000-999999        900000-900099        100
+Russian     1000000-1099999       1000000-1000099       100
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -203,6 +204,25 @@ ser/estar/hay split is now visible enough to inform syllabus design.
 Spanish syllabus v0.1 now reconciles the prototype into the long-term roadmap.
 Continue from the current CSV under that syllabus; early structures may be
 reinforced longitudinally rather than exhaustively drilled before progression.
+
+RUSSIAN
+Syllabus: Syllabi/Polyglot_Russian_Syllabus_v0.2.txt
+Syllabus version: 0.2
+Card file: Cards/Russian.csv
+Cards: 100
+Used IDs: 1000000-1000099
+Checkpoint: Russian has begun with a 100-card seed built primarily from
+the successful pacing lessons of the current Polyglot decks, with syllabus
+v0.2 used as a roadmap rather than a rigid opening script. The deck uses
+ordinary Cyrillic from the first card and the shared lexical seed, then
+moves quickly into present zero-copula identification/description,
+singular adjective gender agreement, personal pronouns, first-conjugation
+present forms with читать/работать, basic questions and verbal negation,
+place vocabulary, говорить and видеть, early accusative contrasts,
+хотеть + infinitive, and the natural у + genitive + есть/нет possession
+construction. Review this seed before substantial expansion; future cards
+can reinforce early structures longitudinally while moving into plural,
+location/direction cases, additional conjugation patterns and aspect.
 
 4. MAINTENANCE RULES
 
