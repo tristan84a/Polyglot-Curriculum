@@ -1,0 +1,955 @@
+﻿POLYGLOT UKRAINIAN SYLLABUS
+
+Version: 0.1
+Status: Draft for curriculum review
+Charter version: 0.3
+Encoding: UTF-8
+
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for modern Ukrainian
+in Polyglot. It specifies content, prerequisite order, and card strategy,
+not learner progress. Routine card generation changes the manifest and CSV,
+not this syllabus.
+
+Vocabulary and lexical usage grow continuously. Grammar units define
+structural progression but do not freeze vocabulary. Unit sizes follow
+completion standards rather than fixed card quotas.
+
+The established Polyglot syllabi provide structural and editorial models,
+but Ukrainian is organized according to its own grammar, usage, orthography,
+and prerequisite relationships. Similarity to Russian may inform comparison
+but does not make Russian the structural authority for Ukrainian.
+
+
+TERMINOLOGY
+
+INTRODUCED — A form, word, construction, orthographic element, or
+distinction has begun to be demonstrated.
+
+ESTABLISHED — The canonical curriculum has demonstrated the item
+sufficiently for its basic operation to be assumed later. This describes
+curriculum state, not learner mastery.
+
+REUSABLE — An established item or structure may appear naturally in later
+cards without being the principal teaching objective.
+
+LEXICAL ANCHOR — A word deliberately selected to make a grammatical,
+semantic, morphological, or orthographic pattern visible. Anchors do not
+limit additional vocabulary.
+
+CANONICAL SEQUENCE — The static pedagogical ordering of cards and concepts.
+Scheduling frequency may adapt to performance; curriculum order does not.
+
+COMPLETION STANDARD — The coverage required before a unit's principal
+concept may be treated as established.
+
+DELIBERATELY EXCLUDED — Material postponed because it would obscure the
+current pattern, depends on later knowledge, or deserves separate treatment.
+
+
+COURSE-WIDE UKRAINIAN PRINCIPLES
+
+1.  Use ordinary contemporary Ukrainian Cyrillic in every Target from the
+    first card. There is no transliteration or alphabet-name bootstrap.
+2.  InputHint is normally blank. Ukrainian is entered directly with a
+    Ukrainian keyboard; unfamiliar script, pronunciation, or keyboard layout
+    does not by itself justify an InputHint.
+3.  Begin with useful words and naturally complete utterances. Use
+    conventional citation forms and natural Ukrainian syntax rather than
+    mirroring English mechanically.
+4.  Every Target should be natural for its intended meaning and register
+    and worth retaining permanently. Beginner difficulty is controlled by
+    selection and sequencing, not beginnerized Ukrainian.
+5.  Noun gender, animacy, case, adjective agreement, verbal aspect, stress,
+    and stem alternations are longitudinal systems rather than one-time
+    paradigm lessons.
+6.  Ukrainian has seven cases. Case functions are established through
+    controlled examples before paradigms are broadened; the vocative is
+    treated as an ordinary productive part of modern Ukrainian, not an
+    ornamental late exception.
+7.  Present-tense nominal identification normally permits a zero copula.
+    є is taught according to its actual existential, possessive, emphatic,
+    and contextual uses rather than as a mandatory equivalent of English
+    "is."
+8.  Imperfective and perfective aspect develop longitudinally. Aspect
+    partners are treated as lexical and morphological relationships, not as
+    mechanically interchangeable translations.
+9.  Ukrainian imperfective future includes both analytic forms with бути
+    and the synthetic future. Both belong to ordinary modern competence and
+    receive explicit treatment.
+10. Word order is flexible but not arbitrary. Neutral ordering, information
+    structure, focus, rhythm, and discourse context are developed
+    progressively rather than treating all permutations as equivalent.
+11. Ukrainian-specific phonological and orthographic alternations, including
+    у/в, і/й, з/із/зі, apostrophe use, soft sign, and relevant consonant or
+    vowel alternations, are learned through real language and later
+    systematized explicitly.
+12. ґ and г are distinct letters and sounds in standard Ukrainian and are
+    preserved according to conventional spelling.
+13. Productive patterns precede exceptions where possible. High-frequency
+    irregular forms may appear early when ordinary language requires them.
+14. Grammar is normally learned through controlled examples rather than
+    terminology questions.
+15. A card's single Target must be natural and sufficiently determined by
+    its English prompt. Prompts should disambiguate aspect, case, lexical
+    choice, register, motion, or information structure where necessary.
+16. High-frequency words develop longitudinally across senses,
+    constructions, case frames, collocations, idioms, and register.
+17. Contemporary broadly neutral standard Ukrainian is the initial
+    reference variety. Common colloquial, regional, historical, literary,
+    and contact-influenced forms are introduced later and described without
+    displacing the standard.
+18. Russian similarity must not encourage Russian calques, Russian
+    orthography, or assumptions that cognate words have identical meaning,
+    government, aspect, stress, or register.
+
+
+STAGE 1 — AUTHENTIC CYRILLIC AND CORE LEXICON
+
+UK-01 — Core concrete nouns and authentic Ukrainian Cyrillic
+
+PREREQUISITES: None.
+OBJECTIVE: Begin ordinary Ukrainian spelling and high-value concrete nouns
+together.
+LEXICAL ANCHORS: дім, книга, стіл, вода, місто, людина.
+CARD STRATEGY: English meaning → natural Ukrainian citation form. Select
+useful vocabulary rather than constructing an alphabet inventory.
+VOCABULARY DEVELOPMENT: People, objects, food, animals, and places.
+DELIBERATELY EXCLUDED: Alphabet-name quizzes, transliterated Targets, full
+declension, and detached spelling drills.
+COMPLETION STANDARD: Enough varied useful Cyrillic vocabulary is established
+to support the first short utterances.
+LEADS TO: UK-03–UK-10.
+
+UK-02 — Core qualities and actions
+
+PREREQUISITES: UK-01 begun.
+OBJECTIVE: Build useful descriptive and action vocabulary without forcing
+premature agreement or conjugation.
+LEXICAL ANCHORS: добре, погано, багато, читати, знати, працювати.
+CARD STRATEGY: Use natural standalone adverbs and verb infinitives where
+appropriate; adjective citation forms may appear lexically before their
+agreement system is taught.
+VOCABULARY DEVELOPMENT: Daily activities, common qualities, and concrete
+actions.
+DELIBERATELY EXCLUDED: Full adjective paradigms, full conjugation, and an
+aspect-pair requirement for every new verb.
+COMPLETION STANDARD: A varied lexical base supports the first predicates
+without a dense run of abstract vocabulary.
+LEADS TO: UK-05, UK-08, UK-11.
+
+UK-03 — Personal and demonstrative reference
+
+PREREQUISITES: UK-01.
+OBJECTIVE: Introduce я, ти, він, вона, воно, ми, ви, вони and це where
+naturally used.
+CARD STRATEGY: Distinguish singular informal ти from plural or polite ви
+through prompt context; do not mechanically retain pronouns in later
+sentences when Ukrainian naturally omits or deemphasizes them.
+DELIBERATELY EXCLUDED: Oblique pronoun forms, full demonstrative agreement,
+and fine pragmatic distinctions.
+COMPLETION STANDARD: Basic person, number, gender, and reference operate in
+short utterances.
+LEADS TO: UK-04, UK-08.
+
+UK-04 — Present identification and zero copula
+
+PREREQUISITES: UK-01, UK-03.
+OBJECTIVE: Establish natural nominal and adjectival predicates without
+inserting a mandatory present-tense copula.
+CORE PATTERNS: Це дім. Вона лікарка. Дім великий.
+CARD STRATEGY: Contrast identification, occupation, and description.
+Introduce є only where Ukrainian naturally calls for it.
+VOCABULARY DEVELOPMENT: Occupations, identities, and common descriptions.
+DELIBERATELY EXCLUDED: Past/future forms of бути and the wider discourse
+distribution of є.
+COMPLETION STANDARD: Several natural predicate types establish the ordinary
+zero-copula pattern without English calques.
+LEADS TO: UK-05–UK-07.
+
+UK-05 — Noun gender and basic adjective agreement
+
+PREREQUISITES: UK-01, UK-04.
+OBJECTIVE: Make masculine, feminine, and neuter visible through useful nouns
+and attributive adjectives.
+LEXICAL ANCHORS: новий дім, нова книга, нове місто.
+CARD STRATEGY: Contrast one adjective across genders before widening the
+lexicon.
+DELIBERATELY EXCLUDED: Oblique cases, plural agreement, possessive
+paradigms, and less productive ending classes.
+COMPLETION STANDARD: Basic singular nominative agreement is productive
+across all three genders.
+LEADS TO: UK-14, UK-31.
+
+UK-06 — Basic negation and yes/no questions
+
+PREREQUISITES: UK-04.
+OBJECTIVE: Establish не and natural yes/no question formation.
+CARD STRATEGY: Contrast positive and negative predicates, then declarative
+and question contexts with unambiguous English prompts.
+DELIBERATELY EXCLUDED: Negative pronouns, genitive under negation,
+scope-sensitive negation, and emphatic constructions.
+COMPLETION STANDARD: Negation and basic questions work across several
+natural utterance types.
+LEADS TO: UK-07, UK-12.
+
+UK-07 — Existence and possession with є / немає
+
+PREREQUISITES: UK-03, UK-04, UK-06.
+OBJECTIVE: Establish common existence and possession patterns such as
+У мене є книга and У мене немає книги, while distinguishing contexts in
+which є is naturally absent.
+CARD STRATEGY: Treat the constructions as Ukrainian patterns rather than
+literal equivalents of English "have."
+DELIBERATELY EXCLUDED: Full genitive paradigms and the complete range of
+existential word order.
+COMPLETION STANDARD: Several possessors and concrete referents establish
+affirmative and negative possession/existence naturally.
+LEADS TO: UK-21, UK-26.
+
+UK-08 — Present tense: first productive verb patterns
+
+PREREQUISITES: UK-02, UK-03.
+OBJECTIVE: Establish finite present forms through a small coherent set of
+imperfective verbs.
+CARD STRATEGY: Contrast persons and numbers systematically before adding
+more stem alternations; permit natural subject omission.
+DELIBERATELY EXCLUDED: Perfective future interpretation, past tense,
+imperative, and dense irregularity.
+COMPLETION STANDARD: Person/number marking is productive across several
+verbs and natural short sentences.
+LEADS TO: UK-09–UK-11.
+
+UK-09 — Present tense: additional patterns and common irregulars
+
+PREREQUISITES: UK-08.
+OBJECTIVE: Broaden present-tense conjugation to additional productive
+patterns and indispensable high-frequency irregular or stem-changing verbs.
+CARD STRATEGY: Establish coherent regular contrasts before exceptions; do
+not present a single undifferentiated conjugation table.
+COMPLETION STANDARD: Major present endings and selected high-frequency
+irregularities operate across varied contexts.
+LEADS TO: UK-10, UK-13.
+
+UK-10 — Early sentence synthesis
+
+PREREQUISITES: UK-01–UK-09.
+OBJECTIVE: Combine identity, description, negation, possession, questions,
+and present actions with fresh useful vocabulary.
+CARD STRATEGY: Keep Ukrainian word order natural and vary information focus
+only where the prompt remains exact-match compatible.
+COMPLETION STANDARD: Short sentences use a growing lexicon and all
+established patterns without dependence on a tiny anchor set.
+LEADS TO: UK-11 onward.
+
+
+STAGE 2 — SENTENCE TOOLS AND FIRST CASE FUNCTIONS
+
+UK-11 — Question words
+
+OBJECTIVE: Establish хто, що, де, куди, звідки, коли, як, чому and other
+high-value interrogatives progressively in natural questions.
+
+UK-12 — Negation with verbs
+
+OBJECTIVE: Extend не across verbal predicates and distinguish ordinary
+verbal negation from немає and later negative-pronoun systems.
+
+UK-13 — Infinitive complements and early modal constructions
+
+OBJECTIVE: Establish common patterns with хотіти, могти, треба, потрібно,
+можна and related meanings one distinction at a time.
+
+UK-14 — Nominative plural and adjective agreement
+
+OBJECTIVE: Establish productive plural noun and adjective patterns before
+less common stem and stress exceptions.
+
+UK-15 — Accusative singular: inanimate direct objects
+
+OBJECTIVE: Establish prototypical direct objects, beginning with forms that
+make the nominative/accusative relationship transparent.
+
+UK-16 — Accusative singular: animacy and visible contrasts
+
+OBJECTIVE: Establish animate masculine patterns and the role of animacy
+through concrete lexical contrasts rather than an abstract table.
+
+UK-17 — Locative singular with в/у and на
+
+OBJECTIVE: Establish common location expressions and the locative case in
+controlled spatial contexts.
+CARD STRATEGY: Teach lexical choice of в/у versus на separately from the
+case ending itself.
+
+UK-18 — Direction with в/у and на + accusative
+
+OBJECTIVE: Contrast location with destination using familiar places and
+motion vocabulary.
+
+UK-19 — Instrumental accompaniment with з
+
+OBJECTIVE: Introduce a high-value instrumental function through transparent
+"with" relationships before broadening instrumental morphology.
+
+UK-20 — Vocative: direct address
+
+OBJECTIVE: Establish the productive modern vocative with names, kinship
+terms, common forms of address, and suitable nouns.
+CARD STRATEGY: Use actual address contexts so the form has a communicative
+function rather than appearing as a detached seventh-case table.
+DELIBERATELY EXCLUDED: Rare, stylistically marked, and unstable variants.
+COMPLETION STANDARD: Common masculine and feminine vocative patterns are
+established sufficiently for ordinary direct address.
+LEADS TO: UK-43, UK-91.
+
+UK-21 — Genitive singular: absence, possession, source, and quantity
+
+OBJECTIVE: Broaden the genitive from немає into several high-value
+functions using controlled noun classes.
+
+UK-22 — Dative singular: recipients and experiencers
+
+OBJECTIVE: Establish recipients and common experiencer constructions,
+including age and selected impersonal meanings where appropriate.
+
+UK-23 — Basic place, time, and manner adverbs
+
+OBJECTIVE: Expand useful sentence tools such as тут/тут, там, зараз, потім,
+сьогодні, завтра and common manner expressions in natural positions.
+
+UK-24 — First case and sentence synthesis
+
+COMMON CARD STRATEGY: Introduce each new case function with a limited set of
+nouns whose forms expose the pattern. Widen gender and stem classes after
+the function is visible. Do not ask for case names as answers.
+
+COMPLETION STANDARD: The principal early functions are established across
+multiple lexical representatives and can combine in short natural
+sentences.
+
+DELIBERATELY EXCLUDED: Full plural oblique paradigms, exhaustive
+prepositional government, rare declensions, and unrestricted word-order
+variation.
+
+
+STAGE 3 — PAST, FUTURE, AND FIRST ASPECT CONTRASTS
+
+UK-25 — Imperfective past
+
+OBJECTIVE: Establish past forms and gender/number marking with familiar
+imperfective verbs.
+
+UK-26 — Past and future of бути
+
+OBJECTIVE: Establish був/була/було/були and future forms in natural
+identification, location, existence, and other contexts.
+
+UK-27 — Analytic imperfective future
+
+OBJECTIVE: Establish буду + infinitive across persons with familiar
+imperfective verbs.
+
+UK-28 — Synthetic imperfective future
+
+OBJECTIVE: Establish forms such as читатиму as an ordinary Ukrainian future
+strategy and relate them to the analytic future without claiming complete
+pragmatic identity in every context.
+CARD STRATEGY: Begin with transparent familiar verbs and vary person
+systematically.
+
+UK-29 — First imperfective/perfective contrasts
+
+OBJECTIVE: Introduce transparent aspectual pairs in contexts contrasting
+ongoing/repeated/process meanings with completed bounded events.
+
+UK-30 — Perfective future
+
+OBJECTIVE: Establish that perfective non-past forms ordinarily refer to
+future completed events and contrast them with imperfective present and
+both imperfective future strategies.
+
+UK-31 — Aspect in questions, negation, and expected result
+
+OBJECTIVE: Begin context-sensitive aspect selection without reducing the
+system to English tense labels.
+
+UK-32 — Common nontransparent aspect partners
+
+OBJECTIVE: Introduce high-frequency aspectual relationships that must be
+learned substantially as lexical families.
+
+UK-33 — Past/future/aspect synthesis
+
+COMMON CARD STRATEGY: English prompts should provide enough temporal,
+iterative, process, or result context to elicit one intended aspect and
+future construction.
+
+COMPLETION STANDARD: Aspect is visible across several verb families, and
+past plus both imperfective future strategies and perfective future are
+structurally established.
+
+DELIBERATELY EXCLUDED: Exhaustive prefix semantics, fine discourse-level
+aspect choice, and low-frequency aspectual derivation.
+
+
+STAGE 4 — CASE SYSTEM IN USE
+
+UK-34 — Accusative plural and animacy
+
+OBJECTIVE: Extend direct-object marking and animacy across plural nouns,
+pronouns, and established agreement patterns.
+
+UK-35 — Genitive plural
+
+OBJECTIVE: Establish productive genitive plural patterns, then common
+zero endings and irregularities in quantity, absence, and other established
+functions.
+
+UK-36 — Dative plural and agreement
+
+OBJECTIVE: Extend recipient and experiencer patterns to plural noun phrases.
+
+UK-37 — Instrumental singular beyond accompaniment
+
+OBJECTIVE: Establish means/instrument, selected predicate complements, and
+other high-value instrumental uses as distinct constructions.
+
+UK-38 — Instrumental plural and agreement
+
+OBJECTIVE: Broaden instrumental morphology to plural noun phrases.
+
+UK-39 — Locative plural
+
+OBJECTIVE: Extend established location/aboutness functions to plural forms
+and relevant prepositions.
+
+UK-40 — Genitive after numbers and quantity
+
+OBJECTIVE: Establish Ukrainian numeral-governed noun patterns progressively,
+including distinctions after один, два/три/чотири, higher numerals, and
+quantifiers.
+
+UK-41 — Core preposition government
+
+OBJECTIVE: Establish frequent prepositions and their case frames in semantic
+families rather than as an arbitrary list.
+
+UK-42 — Personal pronouns in oblique cases
+
+OBJECTIVE: Establish high-frequency pronoun forms through already known case
+functions, including prepositional variants where required.
+
+UK-43 — Possessive and demonstrative pronouns through cases
+
+OBJECTIVE: Develop мій, твій, наш, ваш, свій, цей, той and related forms
+through established case functions.
+
+UK-44 — Vocative expansion and address patterns
+
+OBJECTIVE: Broaden vocative morphology, adjective+noun address, names,
+patronymics where appropriate, titles, and socially natural address.
+
+UK-45 — Case synthesis in connected everyday sentences
+
+COMMON CARD STRATEGY: Contrast semantic roles, prepositions, and endings in
+small families. Mix cases only after each principal function is visible.
+Maintain animacy and agreement contrasts.
+
+COMPLETION STANDARD: Productive singular and plural case forms plus
+indispensable irregulars support natural use of all seven cases in common
+functions.
+
+DELIBERATELY EXCLUDED: Rare historical endings, marginal variants, and
+idiomatic government better learned with later lexical items.
+
+
+STAGE 5 — VERBAL STRUCTURE, IMPERATIVE, REFLEXIVES, AND MOTION
+
+UK-46 — Imperative
+
+OBJECTIVE: Establish productive singular and plural/polite imperative forms
+with familiar verbs before widening irregularity.
+
+UK-47 — Aspect choice in requests and commands
+
+OBJECTIVE: Develop aspect in instructions, requests, warnings, and negative
+imperatives through context rather than one English gloss.
+
+UK-48 — Reflexive -ся / -сь
+
+OBJECTIVE: Establish common lexical, reciprocal, middle-like, and productive
+reflexive uses while respecting ordinary placement and variation.
+
+UK-49 — Impersonal and indefinite-personal constructions
+
+OBJECTIVE: Establish common Ukrainian clauses that do not require an
+English-style explicit subject.
+
+UK-50 — іти / ходити and movement on foot
+
+OBJECTIVE: Establish high-frequency directional and habitual/repeated motion
+contrasts through actual contexts.
+
+UK-51 — їхати / їздити and movement by transport
+
+OBJECTIVE: Establish the corresponding transport contrast and its lexical
+frames.
+
+UK-52 — Destination, source, route, and motion case frames
+
+OBJECTIVE: Integrate motion with established cases and prepositions.
+
+UK-53 — Prefixed motion verbs
+
+OBJECTIVE: Develop common meanings such as arrival, departure, entry, exit,
+approach, and passage with appropriate aspectual relationships.
+
+UK-54 — Additional motion families
+
+OBJECTIVE: Expand to high-frequency movement verbs by usefulness, keeping
+directionality, repetition, and lexical meaning distinct.
+
+UK-55 — Carrying and leading motion
+
+OBJECTIVE: Establish common verbs for carrying, transporting, and leading,
+with their argument structures and aspectual families.
+
+UK-56 — Motion and aspect synthesis
+
+COMPLETION STANDARD: Major combinations of means, direction, frequency,
+prefix, case frame, and aspect can be recovered from context across varied
+destinations and situations.
+
+
+STAGE 6 — ADJECTIVES, PRONOUNS, COMPARISON, AND NUMBER
+
+UK-57 — Full adjective declension
+
+OBJECTIVE: Extend adjective agreement systematically across established
+cases, genders, and numbers.
+
+UK-58 — Possessive, demonstrative, interrogative, and relative agreement
+
+OBJECTIVE: Consolidate adjective-like pronoun paradigms through meaningful
+noun phrases rather than isolated tables.
+
+UK-59 — Comparative forms
+
+OBJECTIVE: Establish productive synthetic and analytic comparison and
+natural comparative constructions.
+
+UK-60 — Superlatives
+
+OBJECTIVE: Establish най- and other ordinary superlative/degree strategies
+with appropriate syntax.
+
+UK-61 — Numerals in dates, time, prices, ages, and measurements
+
+OBJECTIVE: Develop cardinal numerals in high-value real contexts while
+expanding their case behaviour progressively.
+
+UK-62 — Ordinals and agreement
+
+OBJECTIVE: Establish ordinal morphology and agreement through dates,
+sequence, floors, rankings, and other ordinary contexts.
+
+UK-63 — Collective and other Ukrainian numeral patterns
+
+OBJECTIVE: Introduce common collective numerals and other language-specific
+quantity patterns where ordinary usage warrants them.
+
+UK-64 — Indefinite, negative, and universal pronouns
+
+OBJECTIVE: Establish productive forms and Ukrainian negative-concord
+patterns through controlled contrasts.
+
+UK-65 — Noun-phrase and quantification synthesis
+
+COMPLETION STANDARD: Agreement, comparison, reference, and quantity operate
+naturally across established case functions. Rare numeral variants remain
+available for later lexical expansion.
+
+
+STAGE 7 — COMPLEX SENTENCES AND INFORMATION STRUCTURE
+
+UK-66 — Coordination
+
+OBJECTIVE: Establish і, й, та, а, але, або, чи and their principal semantic
+contrasts, including ordinary euphonic and stylistic distribution.
+
+UK-67 — Core subordinate clauses
+
+OBJECTIVE: Establish high-frequency complement, causal, conditional, and
+temporal links such as що, тому що, якщо, коли.
+
+UK-68 — Relative який
+
+OBJECTIVE: Establish antecedent agreement and clause-internal case one role
+at a time.
+
+UK-69 — Other relatives and correlatives
+
+OBJECTIVE: Expand хто, що, де, куди, звідки and related relative/correlative
+structures.
+
+UK-70 — Reported statements and indirect questions
+
+OBJECTIVE: Establish common complement patterns and indirect-question
+constructions, including чи where appropriate.
+
+UK-71 — Conditions and би / б
+
+OBJECTIVE: Establish real and counterfactual conditional patterns, then
+develop the clitic variants according to ordinary phonological context.
+
+UK-72 — Flexible word order and information structure
+
+OBJECTIVE: Distinguish neutral orders from marked topic/focus arrangements
+and show how context affects constituent placement.
+
+UK-73 — Negation scope and contrastive focus
+
+OBJECTIVE: Develop meanings that cannot be captured by treating не as a
+simple word-level switch.
+
+UK-74 — Clause and information-structure synthesis
+
+CARD STRATEGY: English prompts must provide discourse context when focus,
+word order, or conjunction choice affects the intended Target.
+
+COMPLETION STANDARD: Major clause types operate across varied pronoun and
+case roles, with natural Ukrainian information packaging visible.
+
+
+STAGE 8 — EXPANDED ASPECT, VOICE, AND VERBAL DERIVATION
+
+UK-75 — Aspect in repeated events, duration, and completed sequences
+
+UK-76 — Aspect under negation, modal constructions, and infinitive
+complements
+
+UK-77 — Prefixes and lexical meaning
+
+OBJECTIVE: Distinguish productive aspectual relationships from prefixes that
+create substantially new lexical verbs.
+
+UK-78 — Secondary imperfectives and derived aspect families
+
+OBJECTIVE: Develop productive and high-frequency derived imperfectives
+without implying that every aspect pair is mechanically predictable.
+
+UK-79 — Passive constructions with -ся and passive participles
+
+OBJECTIVE: Establish natural Ukrainian passive strategies with attention to
+register and competition with active or impersonal alternatives.
+
+UK-80 — Passive participles and result/state distinctions
+
+OBJECTIVE: Develop productive passive participial morphology and its
+adjectival or resultative uses.
+
+UK-81 — Active participial meanings and preferred modern alternatives
+
+OBJECTIVE: Teach forms actually encountered while making visible that some
+active-participial patterns are limited, stylistically marked, or often
+replaced by relative clauses/adjectival constructions in contemporary
+standard Ukrainian.
+CARD STRATEGY: Do not import Russian participial productivity into
+Ukrainian.
+
+UK-82 — Verbal adverbs (дієприслівники)
+
+OBJECTIVE: Establish common adverbial-participle forms, aspect relations,
+subject control, punctuation, and register.
+
+UK-83 — Verbal morphology synthesis in connected prose
+
+COMPLETION STANDARD: Productive aspectual, voice, participial, and
+derivational systems are represented across several verb families, while
+recognition-oriented or stylistically restricted forms are clearly
+distinguished from ordinary productive usage.
+
+
+STAGE 9 — WORD FORMATION, EUPHONY, ORTHOGRAPHY, AND PRONUNCIATION
+
+UK-84 — Productive noun, adjective, and verb derivation
+
+OBJECTIVE: Develop useful word families and recurring affixes without
+assuming semantic transparency.
+
+UK-85 — Diminutives, augmentatives, and expressive derivation
+
+OBJECTIVE: Establish common productive forms together with their pragmatic
+and emotional force.
+
+UK-86 — Prefix meaning and lexicalization
+
+OBJECTIVE: Revisit prefixes across lexical families, separating productive
+meaning tendencies from conventional lexical meanings.
+
+UK-87 — у / в alternation
+
+OBJECTIVE: Establish the major euphonic and contextual factors governing
+у/в while recognizing lexicalized forms and stylistic variation.
+
+UK-88 — і / й / та and related euphonic alternation
+
+OBJECTIVE: Develop ordinary conjunction and glide alternations as features
+of fluent contemporary Ukrainian rather than arbitrary spelling swaps.
+
+UK-89 — з / із / зі and phonological ease
+
+OBJECTIVE: Establish common prepositional variants and their distribution
+through real phrases.
+
+UK-90 — Apostrophe, soft sign, and йотовані letters
+
+OBJECTIVE: Systematize spelling and pronunciation patterns already
+encountered in vocabulary, including distinctions that affect morphology
+or word recognition.
+
+UK-91 — г / ґ and other Ukrainian sound-letter distinctions
+
+OBJECTIVE: Consolidate language-specific orthographic contrasts in real
+lexical items without transliteration cards.
+
+UK-92 — Consonant and vowel alternations in morphology
+
+OBJECTIVE: Develop productive alternations appearing in declension,
+conjugation, derivation, and comparison.
+
+UK-93 — Stress and pronunciation
+
+OBJECTIVE: Develop stress movement, vowel/consonant realization, and other
+pronunciation features that materially affect comprehension or production;
+use external audio/reference support where useful.
+
+UK-94 — Orthographic conventions and punctuation
+
+OBJECTIVE: Establish capitalization, punctuation, quotation/direct-speech
+conventions, abbreviations, and other ordinary written norms.
+
+UK-95 — Derivational and literacy synthesis
+
+COMPLETION STANDARD: Common productive word families, euphonic alternations,
+orthographic rules, and pronunciation-sensitive patterns operate in natural
+words and sentences. Conventional spelling is never replaced with
+transcription to simplify production.
+
+
+STAGE 10 — PHRASEOLOGY, REGISTER, AND NATURAL USAGE
+
+UK-96 — High-frequency verbs across senses and case frames
+
+OBJECTIVE: Develop common verbs longitudinally across their major senses,
+aspect families, complements, constructions, and collocations.
+
+UK-97 — Conventional verb-noun and adjective-noun collocations
+
+UK-98 — Spatial, temporal, and abstract preposition choices
+
+OBJECTIVE: Expand beyond introductory case rules into conventional lexical
+government and semantic contrasts.
+
+UK-99 — Particles and stance
+
+OBJECTIVE: Develop high-frequency particles and discourse words in context,
+including pragmatic force that lacks simple English equivalents.
+
+UK-100 — Politeness, address, ти / ви, names, and patronymics
+
+OBJECTIVE: Integrate pronoun choice, vocative forms, names, patronymics,
+titles, and social distance in contemporary contexts.
+
+UK-101 — Conversational ellipsis, responses, and spoken discourse
+
+UK-102 — Neutral, informal, and formal written choices
+
+OBJECTIVE: Develop register-sensitive vocabulary and constructions without
+making bureaucratic or literary language the default.
+
+UK-103 — Russian-Ukrainian contact and interference
+
+OBJECTIVE: Establish important distinctions where widespread contact makes
+Russian-like forms, calques, cognates, stress patterns, government, or
+semantic assumptions a realistic source of confusion.
+CARD STRATEGY: Teach correct Ukrainian through positive contextual contrasts;
+do not turn the curriculum into a catalogue of errors or treat ordinary
+variation as contamination.
+
+UK-104 — Idioms, proverbs, and figurative constructions of ordinary reach
+
+UK-105 — Phraseology and register synthesis
+
+COMPLETION STANDARD: High-frequency constructions, collocations, pragmatic
+patterns, common polysemy, and socially relevant register distinctions have
+systematic breadth rather than token representation. These domains continue
+expanding in all later stages.
+
+CARD STRATEGY: Give concrete context and register in prompts. Separate valid
+alternative constructions into distinct objectives when exact matching
+requires it.
+
+
+STAGE 11 — BROAD VOCABULARY EXPANSION
+
+These are organizing domains, not sealed thematic blocks. Vocabulary from
+every domain begins much earlier; here lexical breadth becomes the principal
+organizing purpose because the grammatical scaffold is mature.
+
+UK-106 — Household and everyday life
+UK-107 — Food and cooking
+UK-108 — Clothing and personal possessions
+UK-109 — Family and relationships
+UK-110 — Body and health
+UK-111 — Work and occupations
+UK-112 — Education
+UK-113 — Travel and transportation
+UK-114 — Buildings, towns, and public places
+UK-115 — Nature, plants, and animals
+UK-116 — Weather and environment
+UK-117 — Tools, materials, and physical objects
+UK-118 — Technology and communications
+UK-119 — Commerce, money, and finance
+UK-120 — Government, law, and public institutions
+UK-121 — Science and mathematics
+UK-122 — Arts, literature, and culture
+UK-123 — Religion and philosophy
+UK-124 — Emotions, personality, and human behaviour
+UK-125 — Abstract concepts and relationships
+
+COMMON OBJECTIVE: Build broad educated-adult lexical competence while
+recycling mature Ukrainian grammar and orthography.
+
+CARD STRATEGY: Include natural case frames, aspect partners where useful,
+polysemy, derivational families, collocations, semantic contrasts, and
+register. Space confusable items unless deliberate contrast is the
+objective.
+
+COMPLETION STANDARD: Useful breadth is established in every domain without
+a fixed word count. All domains remain expandable.
+
+
+STAGE 12 — EDUCATED-ADULT LEXICON
+
+UK-126 — Lower-frequency verbs and aspect families
+UK-127 — Lower-frequency adjectives and concrete nouns
+UK-128 — Abstract and academic vocabulary
+UK-129 — Professional and institutional language
+UK-130 — General scientific and technical vocabulary
+UK-131 — Political, legal, and economic vocabulary
+UK-132 — Cultural and literary vocabulary
+UK-133 — Fine semantic distinctions, near-synonyms, and case frames
+UK-134 — Advanced derivation, abbreviations, and word families
+UK-135 — Less-common idioms, collocations, and figurative senses
+UK-136 — Lexical distinctions among Ukrainian, international, and
+contact-sensitive vocabulary
+
+COMMON OBJECTIVE: Approach the breadth, precision, phraseology, and
+orthographic competence expected of a typical educated adult.
+
+CARD STRATEGY: Use mature grammar freely. Continue developing aspect,
+government, preferred combinations, register, polysemy, and semantic
+boundaries rather than reducing later vocabulary to translation pairs.
+
+DELIBERATELY EXCLUDED: Narrow specialist terminology without broad
+educated-adult relevance.
+
+COMPLETION STANDARD: Coverage remains extensible, with substantial rather
+than merely representative phraseology and lexical usage.
+
+
+STAGE 13 — MATURE LANGUAGE COMPETENCE / LONG TAIL
+
+UK-137 — Major regional variation encountered in contemporary Ukraine
+UK-138 — Generational and contemporary spoken usage
+UK-139 — Formal and literary constructions still encountered today
+UK-140 — Historical language and older vocabulary encountered in modern
+texts, quotations, institutions, and culture
+UK-141 — Twentieth-century and Soviet-era vocabulary of continuing cultural
+or historical relevance
+UK-142 — Specialized vocabulary of broad cultural relevance
+UK-143 — Less frequent but reasonable educated-adult vocabulary
+UK-144 — Idiomatic and figurative long tail
+UK-145 — Continuing lexical, grammatical, and constructional expansion
+
+COMMON OBJECTIVE: Move toward the practical asymptote of modern Ukrainian
+competence: vocabulary, grammar, morphology, constructions, orthography,
+phraseology, registers, variation, and cultural-linguistic distinctions a
+typical educated adult might reasonably know and encounter.
+
+CARD STRATEGY: Select by exposure, usefulness, semantic range, and register.
+Continue developing senses, constructions, collocations, idioms, case
+frames, aspectual relationships, and orthographic knowledge.
+
+COMPLETION STANDARD: There is intentionally no absolute terminal card or
+word count. UK-145 remains expandable. "Complete" describes direction and
+scope, not exhaustion of every attested Ukrainian word, dialect form, or
+specialist expression.
+
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1.  Unit completion establishes canonical coverage, not learner mastery.
+2.  Established vocabulary and grammar become reusable; later cards
+    increasingly combine them in natural sentences.
+3.  New structural concepts normally appear first with controlled lexical
+    load. Vocabulary continues growing through every stage.
+4.  Ukrainian Cyrillic and conventional contemporary orthography apply from
+    the first Target. InputHint is normally blank because Ukrainian is typed
+    directly in its own script.
+5.  Pronunciation, stress, keyboard familiarity, and alphabet reference may
+    be supported externally without becoming transliteration cards.
+6.  Later cards progressively develop common words across senses,
+    constructions, aspect families, case frames, collocations, idioms, and
+    register.
+7.  The scheduler supplies extra repetition without changing canonical
+    introduction order.
+8.  Existing valid Ukrainian cards remain valid if later reconciled with
+    this syllabus. Fill meaningful prerequisite gaps by convergence rather
+    than restarting or renumbering sound cards.
+9.  Future amendments may split, merge, reorder, or refine units without
+    renumbering existing stable card IDs.
+10. Parallel units within a stage may interleave once their prerequisites
+    are satisfied; unit numbers state the default canonical path.
+11. Similarity to Russian or another Slavic language may assist explanation
+    and lexical selection, but Ukrainian usage and structure remain
+    authoritative.
+
+
+AMENDMENT POLICY
+
+Change this syllabus only when the canonical Ukrainian curriculum changes.
+Routine card generation and learner progress do not amend it.
+
+An amendment should identify affected units, state the pedagogical change,
+say whether it affects future cards only or requires existing-card
+correction, increment the version, and preserve a concise amendment record.
+
+
+AMENDMENT HISTORY
+
+Version 0.1
+- Initial Ukrainian syllabus under Polyglot Curriculum Charter 0.3.
+- Begins authentic Ukrainian Cyrillic with ordinary vocabulary and no
+  transliteration or alphabet bootstrap.
+- Establishes Ukrainian as an independent curriculum rather than a
+  derivative of Russian despite substantial structural and lexical
+  similarity.
+- Builds the seven-case system by communicative function, introducing the
+  vocative early as ordinary productive grammar.
+- Develops imperfective/perfective aspect longitudinally and gives both
+  analytic and synthetic imperfective futures explicit treatment.
+- Gives Ukrainian euphonic alternations and language-specific orthography
+  dedicated development through authentic language.
+- Distinguishes contemporary Ukrainian participial usage from a mechanically
+  imported Russian model.
+- Includes Russian-Ukrainian contact and interference as a later natural-
+  usage issue without making contact phenomena the organizing principle of
+  the course.
+- Retains continuous vocabulary, polysemy, phraseology, register, broad
+  educated-adult lexical development, and an indefinitely expandable long
+  tail.
