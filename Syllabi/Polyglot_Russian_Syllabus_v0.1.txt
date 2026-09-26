@@ -1,0 +1,447 @@
+POLYGLOT RUSSIAN SYLLABUS
+
+Version: 0.1  Status: Draft for curriculum review
+Charter version: 0.3  Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for modern Russian in
+Polyglot. It specifies content, prerequisite order, and card strategy, not
+learner progress. Routine card generation changes the manifest and CSV, not
+this syllabus. Vocabulary and lexical usage grow continuously. Unit sizes
+follow completion standards rather than fixed card quotas.
+
+TERMINOLOGY
+
+INTRODUCED means first demonstrated; ESTABLISHED means sufficiently
+represented in the canonical sequence for basic later reuse; REUSABLE
+means available naturally in subsequent cards. These are curriculum
+states, not measures of learner mastery. A LEXICAL ANCHOR makes a pattern
+visible without limiting vocabulary. DELIBERATELY EXCLUDED identifies
+material reserved for later units. A COMPLETION STANDARD states what
+must be demonstrated before a unit is established.
+
+COURSE-WIDE RUSSIAN PRINCIPLES
+
+1. Use ordinary contemporary Russian Cyrillic in every Target from the
+   first card. Romanization may be optional InputHint, never a substitute
+   Target. Preserve ё where it is part of the chosen spelling; do not
+   silently accept its replacement by е under exact matching.
+2. Begin with useful words and naturally complete utterances. Use
+   conventional noun citation forms and natural phrase prompts; do not
+   insert needless subject pronouns or copulas to mirror English.
+3. Gender, animacy, stress-sensitive pronunciation, case and aspect are
+   longitudinal systems, not single table-memorization events.
+4. Present tense of быть has ordinarily no overt copula in simple
+   identification. Its past and future forms receive explicit treatment.
+5. Establish a function of each case in controlled contrast before
+   widening its endings and governance; singular forms precede most
+   plural paradigms. Exceptions arrive when their use warrants them.
+6. Introduce imperfective verbs and the present early. Introduce
+   perfective partners with concrete completed events, then revisit
+   aspect throughout tense, negation, imperative and discourse.
+7. Teach motion verbs as paired systems of directionality, means and
+   aspect in stages; do not reduce идти/ходить to arbitrary synonyms.
+8. Use a broadly neutral contemporary standard as the initial reference.
+   Spoken, formal, regional and literary differences follow when useful.
+9. A card's single Target must be natural for its specific meaning and
+   register. Disambiguate English prompts where aspect, case, word order,
+   politeness or a lexical choice permits several valid answers.
+10. Grammar is taught chiefly through controlled examples. Increase
+    lexical variety after the new pattern is visible; established words
+    and structures remain available across later units.
+
+STAGE 1 — CYRILLIC THROUGH USEFUL VOCABULARY
+
+PREREQUISITES: None. OBJECTIVE: Begin ordinary Russian spelling and
+high-value concrete nouns together. LEXICAL ANCHORS: дом, книга, стол,
+вода, город, человек. CARD STRATEGY: Use natural citation forms with
+specific English prompts. VOCABULARY DEVELOPMENT: People, objects, food
+and places. DELIBERATELY EXCLUDED: Alphabet-name quizzes, romanized
+Targets, full declension and rare orthographic patterns. COMPLETION
+STANDARD: Enough varied Cyrillic vocabulary is established to support
+short sentences. LEADS TO: RU-03–RU-10.
+
+RU-02 — Core qualities and actions
+PREREQUISITES: RU-01 begun. OBJECTIVE: Build useful semantic anchors
+without forcing premature agreement or conjugation. LEXICAL ANCHORS:
+хорошо, плохо, много, читать, знать, работать. CARD STRATEGY: Initially
+use natural standalone adverbs and verb citation forms; revisit actions
+in finite sentences after RU-08. VOCABULARY DEVELOPMENT: Concrete daily
+activities and qualities. DELIBERATELY EXCLUDED: Full adjective
+paradigm and aspect-pair assumption for every verb. COMPLETION STANDARD:
+A varied base supports the first predicates without long runs of
+abstract verbs. LEADS TO: RU-06, RU-08, RU-11.
+
+RU-03 — Personal and demonstrative reference
+PREREQUISITES: RU-01. OBJECTIVE: Introduce я, ты, он, она, оно, мы, вы,
+они and это where naturally used. CARD STRATEGY: Distinguish polite or
+plural вы with prompt context; avoid mechanically repeating pronouns in
+later sentences. DELIBERATELY EXCLUDED: Oblique forms, full demonstrative
+agreement and pragmatic nuance of ты/вы. COMPLETION STANDARD: Basic
+person, number, gender and reference can be recognized and produced in
+short utterances. LEADS TO: RU-04, RU-08.
+
+RU-04 — Present identification and zero copula
+PREREQUISITES: RU-01, RU-03. OBJECTIVE: Establish natural noun and
+adjective predicates without an overt present-tense “is.” CORE PATTERN:
+Это дом. Она врач. Дом большой. CARD STRATEGY: Contrast identification,
+profession and description; supply context where English “it” is vague.
+VOCABULARY DEVELOPMENT: Occupations and common descriptions.
+DELIBERATELY EXCLUDED: Past/future был/будет, instrumental predicate
+alternatives and exhaustive short adjectives. COMPLETION STANDARD:
+Several persons and both noun/adjective predicates establish the absent
+present copula without unnatural English calques. LEADS TO: RU-05–RU-07.
+
+RU-05 — Noun gender and basic adjective agreement
+PREREQUISITES: RU-01, RU-04. OBJECTIVE: Make masculine, feminine and
+neuter visible through useful nouns and attributive adjectives. LEXICAL
+ANCHORS: новый дом, новая книга, новое окно. CARD STRATEGY: Contrast
+one adjective across several nouns, then vary adjectives and nouns;
+keep predicative forms distinct from attributive forms. DELIBERATELY
+EXCLUDED: Oblique cases, plural agreement, exceptional gender endings
+and short-form adjective distribution. COMPLETION STANDARD: Productive
+basic singular agreement is demonstrated across all three genders.
+LEADS TO: RU-14, RU-30.
+
+RU-06 — Basic negation and yes/no questions
+PREREQUISITES: RU-04. OBJECTIVE: Establish не and natural question
+intonation/punctuation in simple predicates. CARD STRATEGY: Contrast
+positive/negative meanings, then declarative/question contexts with
+controlled English prompts. DELIBERATELY EXCLUDED: нет + genitive,
+negative pronouns, scope contrasts and double negation. COMPLETION
+STANDARD: Negation and basic questions work across several natural
+sentences. LEADS TO: RU-07, RU-12.
+
+RU-07 — Existence and possession with есть / нет
+PREREQUISITES: RU-03, RU-04, RU-06. OBJECTIVE: Introduce У меня есть
+книга and У меня нет книги as constructions, with the required genitive
+form treated initially in a small controlled set. CARD STRATEGY: Do not
+replace natural Russian possession with a literal “I have” calque;
+contrast having an item with description where есть may be absent.
+DELIBERATELY EXCLUDED: Full genitive paradigm and all possessive
+alternations. COMPLETION STANDARD: Several personal possessors and
+concrete objects establish affirmative and negative constructions as
+whole patterns. LEADS TO: RU-20, RU-25.
+
+RU-08 — Imperfective present: first conjugation
+PREREQUISITES: RU-02, RU-03. OBJECTIVE: Establish finite present forms
+through a small coherent class, e.g. читать, работать. CARD STRATEGY:
+Contrast persons and numbers before adding other classes; use natural
+subject omission when recoverable. DELIBERATELY EXCLUDED: Perfective
+“present,” irregular stems, past tense and imperative. COMPLETION
+STANDARD: Person/number endings are productive across multiple verbs
+and natural short sentences. LEADS TO: RU-09–RU-11.
+
+RU-09 — Imperfective present: second conjugation and common irregulars
+PREREQUISITES: RU-08. OBJECTIVE: Add a coherent second conjugation, then
+high-frequency stem changes such as говорить, видеть, хотеть, мочь as
+separate patterns. CARD STRATEGY: Complete a regular contrast first;
+introduce irregular verbs for their real uses, not as one dense list.
+DELIBERATELY EXCLUDED: Exhaustive exception catalog. COMPLETION
+STANDARD: Major endings and selected indispensable irregular forms can
+be used in varied contexts. LEADS TO: RU-10, RU-13.
+
+RU-10 — Early sentence synthesis
+PREREQUISITES: RU-01–RU-09. OBJECTIVE: Combine identity, description,
+negation, possession and present actions with fresh useful vocabulary.
+CARD STRATEGY: Vary person and information focus only where the English
+prompt remains unambiguous; keep Russian word order natural. COMPLETION
+STANDARD: Short sentences no longer require a frozen anchor vocabulary
+and all established patterns remain available. LEADS TO: RU-11 onward.
+
+STAGE 2 — SENTENCE TOOLS AND FIRST CASE FUNCTIONS
+
+RU-11 — Question words: кто, что, где, когда, как, почему.
+RU-12 — Negation with verbs; contrast не with нет in their basic uses.
+RU-13 — Infinitive complements and early modal constructions: хотеть,
+мочь, надо/нужно, with distinctions introduced separately.
+RU-14 — Nominative plural and adjective agreement; productive endings
+before stem and stress exceptions.
+RU-15 — Accusative singular of inanimate direct objects; contrast the
+unchanged masculine/neuter forms with regular feminine -у/-ю.
+RU-16 — Accusative animate masculine singular; use visible nominative /
+genitive contrast rather than an abstract animacy table.
+RU-17 — Location with в/на + prepositional singular; distinguish uses
+lexically instead of imposing one English spatial rule.
+RU-18 — Direction with в/на + accusative; contrast location versus goal.
+RU-19 — Basic place, time and manner adverbs, including здесь/там and
+сейчас/потом, in natural sentence positions.
+RU-20 — Genitive singular for absence, possession and simple quantities;
+revisit у меня нет with a widening noun inventory.
+RU-21 — Simple sentence and case synthesis.
+
+COMMON CARD STRATEGY: Introduce each new case function with a limited
+set of nouns whose endings expose the pattern. Vary gender and stem
+classes after the function is clear; separate lexical choice of в/на
+from the case contrast. Do not require a case-name answer.
+COMPLETION STANDARD: The indicated function is established across
+multiple lexical representatives, genders and sentence contexts as
+appropriate; RU-21 mixes them without relying on isolated forms.
+DELIBERATELY EXCLUDED: Full plural oblique paradigms, all preposition
+governance and unrestricted free word order.
+
+STAGE 3 — PAST, FUTURE AND FIRST ASPECT CONTRASTS
+
+RU-22 — Imperfective past: gender/number agreement and past time.
+RU-23 — Past of быть and natural past identification/location.
+RU-24 — Imperfective compound future: буду + infinitive.
+RU-25 — First transparent imperfective/perfective pairs for process
+versus completed bounded event; distinguish past contexts before
+expanding forms.
+RU-26 — Perfective simple future; contrast its form and meaning with
+imperfective present and compound future.
+RU-27 — Aspect in questions, negation and expected result: first
+controlled contrasts, avoiding one-to-one English tense glosses.
+RU-28 — Common nontransparent aspect partners as lexical families.
+RU-29 — Past/future/aspect synthesis with context-rich prompts.
+
+COMMON CARD STRATEGY: Use time and outcome context to elicit one natural
+aspect. Never present a perfective form as ordinary present tense.
+Reintroduce aspect later with new constructions and discourse.
+COMPLETION STANDARD: The learner can see the form/meaning distinction
+across several verb families and future and past contexts.
+DELIBERATELY EXCLUDED: Exhaustive aspect rules and all prefix semantics.
+
+STAGE 4 — CASE SYSTEM IN USE
+
+RU-30 — Accusative plural and animacy across nouns and adjectives.
+RU-31 — Genitive plural: productive patterns, then common irregular and
+zero endings, anchored to quantity and absence.
+RU-32 — Dative singular: recipients, age and common experiencer patterns.
+RU-33 — Dative plural and adjective/pronoun agreement.
+RU-34 — Instrumental singular: means, accompaniment with с, and selected
+predicate uses as separately contrasted constructions.
+RU-35 — Instrumental plural and agreement.
+RU-36 — Prepositional plural; location and aboutness with о/об.
+RU-37 — Genitive after numbers and quantity: 1, 2–4, 5+, with agreement
+and exceptional numeral forms developed incrementally.
+RU-38 — Core preposition governance: к, от, из, с, без, для, после.
+RU-39 — Personal pronouns in oblique cases, including н- after relevant
+prepositions and stress-bearing variants where significant.
+RU-40 — Possessive and demonstrative pronouns through core cases;
+мой/твой/наш/ваш, свой and этот/тот in separate contrasts.
+RU-41 — Case synthesis in connected everyday sentences.
+
+COMMON CARD STRATEGY: Contrast semantic roles, prepositions and endings
+in small families; mix cases only after each principal function is
+established. Keep animacy visible in both singular and plural.
+COMPLETION STANDARD: Productive forms and indispensable irregulars
+support natural use of each case and agreement in varied contexts.
+DELIBERATELY EXCLUDED: Rare inflection classes, historical variants and
+idiomatic governance best introduced with later lexical items.
+
+STAGE 5 — VERBAL STRUCTURE AND MOTION
+
+RU-42 — Imperative: productive singular and plural/polite forms.
+RU-43 — Aspect choice in requests, instructions, warnings and negative
+imperatives; context must distinguish process from expected result.
+RU-44 — Reflexive -ся/-сь: common lexical and productive meanings.
+RU-45 — Indefinite-personal and impersonal constructions with common
+verbs; avoid artificial subject insertion.
+RU-46 — идти/ходить: one-way underway versus habitual or multidirectional
+motion on foot, with actual context rather than “go” alone.
+RU-47 — ехать/ездить: corresponding motion by transport.
+RU-48 — Destination, source and route with motion and their case frames.
+RU-49 — Arriving, leaving and going in/out: motion prefixes attached to
+appropriate base verbs, with aspect partners developed explicitly.
+RU-50 — Additional unprefixed motion pairs: бегать/бежать,
+летать/лететь, плавать/плыть and others by frequency.
+RU-51 — Carrying/leading motion: нести/носить, вести/водить,
+везти/возить; distinguish what or whom moves.
+RU-52 — Motion and aspect synthesis: habitual, underway, round trip,
+completed departure and arrival.
+
+COMMON CARD STRATEGY: Introduce one contrast at a time in grounded
+scenes. A perfective prefixed motion verb and its imperfective partner
+must not be equated mechanically with directional/indeterminate pairs.
+COMPLETION STANDARD: Major combinations of means, direction, frequency,
+prefix and aspect are recoverable from context across varied destinations.
+
+STAGE 6 — NOUN PHRASES, COMPARISON AND NUMBER
+
+RU-53 — Full adjective declension across established cases.
+RU-54 — Hard/soft adjective stems, spelling constraints and stress
+patterns where relevant to written forms.
+RU-55 — Short adjectives: common predicative uses and meaning contrasts.
+RU-56 — Comparative forms and чем; synthetic and analytic strategies.
+RU-57 — Superlatives and degree expressions.
+RU-58 — Numerals in dates, time, prices, ages and measurements; numeral
+case forms expanded in useful contexts.
+RU-59 — Ordinals and agreement.
+RU-60 — Indefinite, negative and universal pronouns; никого/ничего and
+obligatory negative concord in relevant constructions.
+RU-61 — Noun-phrase and quantification synthesis.
+
+COMPLETION STANDARD: Agreement, comparison and quantities operate in
+natural phrases across relevant genders, numbers and cases. Rare numeral
+variants can remain for advanced lexical expansion.
+
+STAGE 7 — COMPLEX SENTENCES AND INFORMATION STRUCTURE
+
+RU-62 — Coordination: и, а, но, или and semantic contrasts.
+RU-63 — Subordinate clauses with что, потому что, если and когда.
+RU-64 — Relative который: antecedent agreement and clause-internal
+case, developed one role at a time.
+RU-65 — Other relatives and correlatives: кто, что, где, куда, откуда.
+RU-66 — Complement clauses, reported statements and questions with ли.
+RU-67 — Conditions, temporal relations and counterfactuals with бы.
+RU-68 — Flexible word order: topic, focus, given/new information and
+intonation; distinguish neutral ordering from marked alternatives.
+RU-69 — Negation scope and contrastive focus.
+RU-70 — Clause and information-structure synthesis.
+
+CARD STRATEGY: English prompts must supply discourse context when word
+order or focus matters; avoid claiming every permutation is equivalent.
+COMPLETION STANDARD: Each clause type is demonstrated with varied
+pronoun and case roles, and natural information packaging is visible.
+
+STAGE 8 — EXPANDED ASPECT, VOICE AND VERBAL DERIVATION
+
+RU-71 — Aspect in repeated events, duration and completed sequences.
+RU-72 — Aspect under negation, modal verbs and infinitive complements.
+RU-73 — Prefixes and shifts in lexical meaning; distinguish new lexical
+verbs from straightforward aspect partners.
+RU-74 — Secondary imperfectives and iterative/habitual derivatives.
+RU-75 — Passive with -ся and passive participles in appropriate registers.
+RU-76 — Active and passive participles: present/past and aspect
+constraints, beginning with forms encountered in ordinary prose.
+RU-77 — Short passive participles and result/state contrasts.
+RU-78 — Verbal adverbs (деепричастия), subject control and register.
+RU-79 — Verbal morphology synthesis in connected prose.
+
+COMPLETION STANDARD: Productive patterns, common irregulars and their
+syntactic restrictions are shown across different verb families; rarer
+forms may be primarily recognition oriented.
+
+STAGE 9 — WORD FORMATION, ORTHOGRAPHY AND PRONUNCIATION
+
+RU-80 — Productive noun, adjective and verb derivation and families.
+RU-81 — Diminutives, augmentatives and their social/pragmatic force.
+RU-82 — Prefix meaning and idiomatic lexicalization across families.
+RU-83 — Spelling rules after velars, hushers and ц; endings in context.
+RU-84 — Ь/ъ, palatalization and consonant alternations in real words.
+RU-85 — Stress movement, vowel reduction and pronunciation differences
+that affect comprehension; use audio/reference support where needed.
+RU-86 — Orthographic conventions: ё/е in authentic sources, capitals,
+punctuation, direct speech and abbreviations.
+RU-87 — Derivational and literacy synthesis.
+
+COMPLETION STANDARD: Common productive families and orthographic
+alternations are usable in natural words and sentences. Never replace a
+conventional spelling with a transcription to simplify production.
+
+STAGE 10 — PHRASEOLOGY, REGISTER AND NATURAL USAGE
+
+RU-88 — High-frequency verbs across senses and case frames: быть,
+делать, идти, брать, дать, стоять and others longitudinally.
+RU-89 — Conventional verb-noun and adjective-noun collocations.
+RU-90 — Spatial, temporal and abstract preposition choices.
+RU-91 — Particles and stance: же, ведь, ли, бы, вот, ну and others in
+context, with pragmatic constraints.
+RU-92 — Politeness, address, ты/вы, patronymics and social distance.
+RU-93 — Conversational ellipsis, responses and spoken discourse.
+RU-94 — Neutral, informal and formal written choices; bureaucratic
+style where common, without making it the default.
+RU-95 — Idioms, proverbs and figurative constructions of ordinary reach.
+RU-96 — Phraseology and register synthesis.
+
+COMPLETION STANDARD: Systematic coverage of high-frequency constructions,
+collocations, pragmatic patterns and common polysemy, beyond a few
+illustrative idioms. These domains continue expanding in later stages.
+CARD STRATEGY: Give a concrete context and register in prompts; separate
+valid alternative constructions into distinct objectives.
+
+STAGE 11 — BROAD VOCABULARY EXPANSION
+
+RU-97 — Household and daily life. RU-98 — Food and cooking.
+RU-99 — Clothing and possessions. RU-100 — Family and relationships.
+RU-101 — Body and health. RU-102 — Work and occupations.
+RU-103 — Education. RU-104 — Travel and transportation.
+RU-105 — Buildings, towns and public places.
+RU-106 — Nature, plants and animals. RU-107 — Weather and environment.
+RU-108 — Tools, materials and physical objects.
+RU-109 — Technology and communications.
+RU-110 — Commerce, money and finance.
+RU-111 — Government, law and public institutions.
+RU-112 — Science and mathematics. RU-113 — Arts, literature and culture.
+RU-114 — Religion and philosophy.
+RU-115 — Emotion, personality and human behaviour.
+RU-116 — Abstract concepts and relationships.
+
+COMMON OBJECTIVE: Broaden educated-adult vocabulary while recycling
+mature grammar. These are organizing domains, not sealed blocks:
+relevant vocabulary begins much earlier. CARD STRATEGY: Include natural
+case frames, aspect partners when useful, polysemy, collocations and
+contrastive examples; space confusable items. COMPLETION STANDARD:
+Useful breadth in each domain, with no fixed word count; all domains
+remain expandable.
+
+STAGE 12 — EDUCATED-ADULT LEXICON
+
+RU-117 — Lower-frequency verbs and aspect families.
+RU-118 — Lower-frequency adjectives and concrete nouns.
+RU-119 — Abstract and academic vocabulary.
+RU-120 — Professional and institutional language.
+RU-121 — General scientific and technical vocabulary.
+RU-122 — Political, legal and economic vocabulary.
+RU-123 — Cultural and literary vocabulary.
+RU-124 — Fine semantic distinctions, near-synonyms and argument frames.
+RU-125 — Advanced derivation, abbreviations and word families.
+RU-126 — Less-common idioms, collocations and figurative senses.
+
+COMMON OBJECTIVE: Approach the breadth and precision of an educated
+adult. CARD STRATEGY: Use mature grammar freely, revealing register,
+aspect, case governance and preferred combinations. DELIBERATELY
+EXCLUDED: Narrow specialist terminology without broad relevance.
+COMPLETION STANDARD: Coverage remains extensible, with substantial
+rather than merely representative phraseology.
+
+STAGE 13 — MATURE LANGUAGE COMPETENCE / LONG TAIL
+
+RU-127 — Common regional and national-standard variation.
+RU-128 — Generational and contemporary spoken usage.
+RU-129 — Formal and literary constructions still encountered today.
+RU-130 — Historical or Soviet-era vocabulary encountered in modern texts.
+RU-131 — Specialized vocabulary of broad cultural relevance.
+RU-132 — Less frequent but reasonable educated-adult words.
+RU-133 — Idiomatic and figurative long tail.
+RU-134 — Continuing lexical and constructional expansion.
+
+COMMON OBJECTIVE: Move toward the practical asymptote of modern Russian
+competence, not exhaustion of all attested vocabulary. CARD STRATEGY:
+Select by exposure, usefulness and register; continue developing senses,
+constructions, collocations and idioms. COMPLETION STANDARD: No absolute
+terminal word count; RU-134 remains expandable.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1. Completion establishes canonical coverage, not learner mastery.
+2. Established vocabulary and grammar become reusable; later cards
+   increasingly combine them in natural sentences.
+3. New structural concepts normally appear first with controlled lexical
+   load. Vocabulary keeps growing through every stage.
+4. Cyrillic and conventional orthography apply from the first Target;
+   InputHint may provide practical reading/input guidance after answering.
+5. The scheduler supplies extra repetition without changing canonical
+   introduction order.
+6. Existing valid Russian cards remain valid. Fill prerequisite gaps
+   through future generation rather than renumbering existing card IDs.
+7. Amendments may split, merge or reorder units without renumbering cards.
+8. Parallel units in a stage may interleave once their prerequisites are
+   met; unit numbers state the default canonical path.
+
+AMENDMENT POLICY
+
+Change this syllabus only when the canonical Russian curriculum changes.
+Record affected units, pedagogical rationale, impact on future or existing
+cards, new version and concise history. Routine card generation does not
+amend it.
+
+AMENDMENT HISTORY
+
+Version 0.1 — Initial draft. Establishes RU-01 through RU-134 under
+Charter 0.3. Begins authentic Cyrillic with vocabulary, builds case by
+function, separates imperfective present from first aspect contrasts,
+and stages motion verbs and aspect across the course. Retains continuous
+lexical and phraseological development and completion-based units.
