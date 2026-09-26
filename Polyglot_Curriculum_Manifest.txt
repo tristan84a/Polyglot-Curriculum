@@ -32,7 +32,7 @@ Turkish     600000-699999        600000-600049        50
 Arabic      700000-799999        700000-700049        50
 Ojibwe      800000-899999        800000-800098        99
 Spanish      900000-999999        900000-900099        100
-Russian     1000000-1099999       1000000-1000099       100
+Russian     1000000-1099999       1000000-1000452       453
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -209,20 +209,24 @@ RUSSIAN
 Syllabus: Syllabi/Polyglot_Russian_Syllabus_v0.2.txt
 Syllabus version: 0.2
 Card file: Cards/Russian.csv
-Cards: 100
-Used IDs: 1000000-1000099
-Checkpoint: Russian has begun with a 100-card seed built primarily from
-the successful pacing lessons of the current Polyglot decks, with syllabus
-v0.2 used as a roadmap rather than a rigid opening script. The deck uses
-ordinary Cyrillic from the first card and the shared lexical seed, then
-moves quickly into present zero-copula identification/description,
-singular adjective gender agreement, personal pronouns, first-conjugation
-present forms with читать/работать, basic questions and verbal negation,
-place vocabulary, говорить and видеть, early accusative contrasts,
-хотеть + infinitive, and the natural у + genitive + есть/нет possession
-construction. Review this seed before substantial expansion; future cards
-can reinforce early structures longitudinally while moving into plural,
-location/direction cases, additional conjugation patterns and aspect.
+Cards: 453
+Used IDs: 1000000-1000452
+Checkpoint: Russian has advanced to 453 cards under syllabus v0.2 after a
+quick validation of the 100-card seed. The seed aligned well with RU-01
+through RU-10 while intentionally previewing accusative and genitive
+functions. The expansion develops nominative plural and adjective
+agreement, additional first- and second-conjugation/high-frequency verbs,
+question words and modal constructions, prepositional location versus
+accusative direction, идти/ехать, broader accusative animacy, possession
+and absence with genitive, imperfective past and past быть, compound
+imperfective future, first controlled imperfective/perfective contrasts,
+dative recipients and experiencers, initial instrumental accompaniment,
+numbers and quantity, imperatives, reflexive учиться, core preposition
+government, demonstratives/possessives and simple coordination/subordination.
+This reaches well beyond the old syllabus's opening stages by deliberate
+longitudinal interleaving; future expansion should reinforce aspect and
+case while broadening motion, past/future narration and noun-phrase
+agreement rather than treating each syllabus unit as a sealed block.
 
 4. MAINTENANCE RULES
 
