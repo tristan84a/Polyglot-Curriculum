@@ -1,637 +1,601 @@
 ﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
-100000,French,house,maison,,noun
-100001,French,man,homme,,noun
-100002,French,woman,femme,,noun
-100003,French,child,enfant,,noun
-100004,French,book,livre,,noun
-100005,French,car,voiture,,noun
-100006,French,cat,chat,,noun
-100007,French,dog,chien,,noun
-100008,French,houses,maisons,,noun
-100009,French,men,hommes,,noun
-100010,French,women,femmes,,noun
-100011,French,children,enfants,,noun
-100012,French,big,grand,,adjective
-100013,French,small,petit,,adjective
-100014,French,good,bon,,adjective
-100015,French,bad,mauvais,,adjective
-100016,French,new,nouveau,,adjective
-100017,French,old,vieux,,adjective
-100018,French,red,rouge,,adjective
-100019,French,the house,la maison,,grammar
-100020,French,the man,l'homme,,grammar
-100021,French,the woman,la femme,,grammar
-100022,French,the child,l'enfant,,grammar
-100023,French,the houses,les maisons,,grammar
-100024,French,the men,les hommes,,grammar
-100025,French,the women,les femmes,,grammar
-100026,French,the children,les enfants,,grammar
-100027,French,a house,une maison,,phrase
-100028,French,a man,un homme,,phrase
-100029,French,a woman,une femme,,phrase
-100030,French,a child,un enfant,,phrase
-100031,French,a book,un livre,,phrase
-100032,French,a car,une voiture,,phrase
-100033,French,a cat,un chat,,phrase
-100034,French,a dog,un chien,,phrase
-100035,French,some books,des livres,,phrase
-100036,French,some cars,des voitures,,phrase
-100037,French,some cats,des chats,,phrase
-100038,French,some dogs,des chiens,,phrase
-100039,French,The house is big.,La maison est grande.,,grammar
-100040,French,The man is big.,L'homme est grand.,,grammar
-100041,French,The woman is small.,La femme est petite.,,grammar
-100042,French,The child is small.,L'enfant est petit.,,grammar
-100043,French,The house is good.,La maison est bonne.,,grammar
-100044,French,The man is good.,L'homme est bon.,,grammar
-100045,French,The woman is good.,La femme est bonne.,,grammar
-100046,French,The book is new.,Le livre est nouveau.,,grammar
-100047,French,The car is new.,La voiture est nouvelle.,,grammar
-100048,French,The dog is old.,Le chien est vieux.,,grammar
-100049,French,The house is old.,La maison est vieille.,,grammar
-100050,French,The houses are big.,Les maisons sont grandes.,,grammar
-100051,French,The men are big.,Les hommes sont grands.,,grammar
-100052,French,The women are small.,Les femmes sont petites.,,grammar
-100053,French,The children are small.,Les enfants sont petits.,,grammar
-100054,French,The food is good.,La nourriture est bonne.,,sentence
-100055,French,I,je,,pronoun
-100056,French,you (singular informal),tu,,pronoun
-100057,French,he,il,,pronoun
-100058,French,she,elle,,pronoun
-100059,French,we,nous,,pronoun
-100060,French,you (plural/formal),vous,,pronoun
-100061,French,they (masculine/mixed),ils,,pronoun
-100062,French,they (feminine),elles,,pronoun
-100063,French,We are here. (informal/general),On est ici.,,sentence
-100064,French,We live here. (informal/general),On vit ici.,,sentence
-100065,French,We work today. (informal/general),On travaille aujourd'hui.,,sentence
-100066,French,We understand. (informal/general),On comprend.,,sentence
-100067,French,to be,être,,verb
-100068,French,I am.,Je suis.,,grammar
-100069,French,You are. (singular informal),Tu es.,,grammar
-100070,French,He is.,Il est.,,grammar
-100071,French,She is.,Elle est.,,grammar
-100072,French,We are.,Nous sommes.,,grammar
-100073,French,You are. (plural/formal),Vous êtes.,,grammar
-100074,French,They are. (masculine/mixed),Ils sont.,,grammar
-100075,French,They are. (feminine),Elles sont.,,grammar
-100076,French,to have,avoir,,verb
-100077,French,I have a book.,J'ai un livre.,,sentence
-100078,French,You have a book. (singular informal),Tu as un livre.,,sentence
-100079,French,He has a book.,Il a un livre.,,sentence
-100080,French,She has a book.,Elle a un livre.,,sentence
-100081,French,We have a book.,Nous avons un livre.,,sentence
-100082,French,You have a book. (plural/formal),Vous avez un livre.,,sentence
-100083,French,They have a book. (masculine/mixed),Ils ont un livre.,,sentence
-100084,French,I have a red car.,J'ai une voiture rouge.,,sentence
-100085,French,She has a small dog.,Elle a un petit chien.,,sentence
-100086,French,He has a new book.,Il a un nouveau livre.,,sentence
-100087,French,not,ne…pas,,grammar
-100088,French,He is not big.,Il n'est pas grand.,,grammar
-100089,French,She is not small.,Elle n'est pas petite.,,grammar
-100090,French,I do not eat.,Je ne mange pas.,,grammar
-100091,French,He does not see the house.,Il ne voit pas la maison.,,grammar
-100092,French,We do not eat.,Nous ne mangeons pas.,,grammar
-100093,French,to eat,manger,,verb
-100094,French,food,nourriture,,noun
-100095,French,bread,pain,,noun
-100096,French,I eat.,Je mange.,,grammar
-100097,French,He eats.,Il mange.,,grammar
-100098,French,She eats.,Elle mange.,,grammar
-100099,French,We eat.,Nous mangeons.,,grammar
-100100,French,They eat. (masculine/mixed),Ils mangent.,,grammar
-100101,French,The child eats.,L'enfant mange.,,grammar
-100102,French,The man eats bread.,L'homme mange du pain.,,grammar
-100103,French,to speak,parler,,verb
-100104,French,I speak.,Je parle.,,sentence
-100105,French,He speaks.,Il parle.,,sentence
-100106,French,She speaks.,Elle parle.,,sentence
-100107,French,We speak.,Nous parlons.,,sentence
-100108,French,You speak. (plural/formal),Vous parlez.,,sentence
-100109,French,They speak. (masculine/mixed),Ils parlent.,,sentence
-100110,French,French (language),français,,noun
-100111,French,I speak French.,Je parle français.,,sentence
-100112,French,She speaks French.,Elle parle français.,,sentence
-100113,French,to like,aimer,,verb
-100114,French,I like the house.,J'aime la maison.,,sentence
-100115,French,He likes the dog.,Il aime le chien.,,sentence
-100116,French,She likes the cat.,Elle aime le chat.,,sentence
-100117,French,We like the book.,Nous aimons le livre.,,sentence
-100118,French,They like the car. (masculine/mixed),Ils aiment la voiture.,,sentence
-100119,French,to work,travailler,,verb
-100120,French,I work.,Je travaille.,,sentence
-100121,French,You work. (singular informal),Tu travailles.,,sentence
-100122,French,He works.,Il travaille.,,sentence
-100123,French,She works.,Elle travaille.,,sentence
-100124,French,We work.,Nous travaillons.,,sentence
-100125,French,You work. (plural/formal),Vous travaillez.,,sentence
-100126,French,They work. (masculine/mixed),Ils travaillent.,,sentence
-100127,French,The man works.,L'homme travaille.,,sentence
-100128,French,The woman works.,La femme travaille.,,sentence
-100129,French,to play,jouer,,verb
-100130,French,I play.,Je joue.,,sentence
-100131,French,You play. (singular informal),Tu joues.,,sentence
-100132,French,He plays.,Il joue.,,sentence
-100133,French,She plays.,Elle joue.,,sentence
-100134,French,We play.,Nous jouons.,,sentence
-100135,French,You play. (plural/formal),Vous jouez.,,sentence
-100136,French,They play. (masculine/mixed),Ils jouent.,,sentence
-100137,French,The child plays.,L'enfant joue.,,sentence
-100138,French,You eat. (singular informal),Tu manges.,,sentence
-100139,French,You eat. (plural/formal),Vous mangez.,,sentence
-100140,French,The man eats.,L'homme mange.,,sentence
-100141,French,The woman eats.,La femme mange.,,sentence
-100142,French,to go,aller,,verb
-100143,French,I go.,Je vais.,,sentence
-100144,French,You go. (singular informal),Tu vas.,,sentence
-100145,French,He goes.,Il va.,,sentence
-100146,French,She goes.,Elle va.,,sentence
-100147,French,We go.,Nous allons.,,sentence
-100148,French,You go. (plural/formal),Vous allez.,,sentence
-100149,French,They go. (masculine/mixed),Ils vont.,,sentence
-100150,French,to the house,à la maison,,phrase
-100151,French,to the car,à la voiture,,phrase
-100152,French,He goes to the house.,Il va à la maison.,,sentence
-100153,French,She goes to the car.,Elle va à la voiture.,,sentence
-100154,French,to the book,au livre,,phrase
-100155,French,to the dog,au chien,,phrase
-100156,French,The child goes to the dog.,L'enfant va au chien.,,sentence
-100157,French,I go to the house.,Je vais à la maison.,,sentence
-100158,French,to do / to make,faire,,verb
-100159,French,I do.,Je fais.,,sentence
-100160,French,You do. (singular informal),Tu fais.,,sentence
-100161,French,He does.,Il fait.,,sentence
-100162,French,She does.,Elle fait.,,sentence
-100163,French,We do.,Nous faisons.,,sentence
-100164,French,You do. (plural/formal),Vous faites.,,sentence
-100165,French,They do. (masculine/mixed),Ils font.,,sentence
-100166,French,a cake,un gâteau,,phrase
-100167,French,I make a cake.,Je fais un gâteau.,,sentence
-100168,French,We make a cake.,Nous faisons un gâteau.,,sentence
-100169,French,They make a cake. (masculine/mixed),Ils font un gâteau.,,sentence
-100170,French,You choose. (singular informal),Tu choisis.,,sentence
-100171,French,He chooses.,Il choisit.,,sentence
-100172,French,She chooses.,Elle choisit.,,sentence
-100173,French,You choose. (plural/formal),Vous choisissez.,,sentence
-100174,French,The child chooses a book.,L'enfant choisit un livre.,,sentence
-100175,French,to finish,finir,,verb
-100176,French,I finish.,Je finis.,,sentence
-100177,French,You finish. (singular informal),Tu finis.,,sentence
-100178,French,He finishes.,Il finit.,,sentence
-100179,French,She finishes.,Elle finit.,,sentence
-100180,French,We finish.,Nous finissons.,,sentence
-100181,French,You finish. (plural/formal),Vous finissez.,,sentence
-100182,French,They finish. (masculine/mixed),Ils finissent.,,sentence
-100183,French,to choose,choisir,,verb
-100184,French,I choose.,Je choisis.,,sentence
-100185,French,We choose.,Nous choisissons.,,sentence
-100186,French,They choose. (masculine/mixed),Ils choisissent.,,sentence
-100187,French,to sell,vendre,,verb
-100188,French,I sell.,Je vends.,,sentence
-100189,French,You sell. (singular informal),Tu vends.,,sentence
-100190,French,He sells.,Il vend.,,sentence
-100191,French,We sell.,Nous vendons.,,sentence
-100192,French,You sell. (plural/formal),Vous vendez.,,sentence
-100193,French,They sell. (masculine/mixed),Ils vendent.,,sentence
-100194,French,to wait,attendre,,verb
-100195,French,I wait.,J'attends.,,sentence
-100196,French,She waits.,Elle attend.,,sentence
-100197,French,We wait.,Nous attendons.,,sentence
-100198,French,They wait. (masculine/mixed),Ils attendent.,,sentence
-100199,French,The woman sells the car.,La femme vend la voiture.,,sentence
-100200,French,The man waits here.,L'homme attend ici.,,sentence
-100201,French,to see,voir,,verb
-100202,French,I see.,Je vois.,,grammar
-100203,French,He sees.,Il voit.,,grammar
-100204,French,She sees.,Elle voit.,,grammar
-100205,French,We see.,Nous voyons.,,grammar
-100206,French,They see. (masculine/mixed),Ils voient.,,grammar
-100207,French,The woman sees the house.,La femme voit la maison.,,grammar
-100208,French,The child sees the dog.,L'enfant voit le chien.,,grammar
-100209,French,to come,venir,,verb
-100210,French,I come.,Je viens.,,sentence
-100211,French,You come. (singular informal),Tu viens.,,sentence
-100212,French,He comes.,Il vient.,,sentence
-100213,French,She comes.,Elle vient.,,sentence
-100214,French,We come.,Nous venons.,,sentence
-100215,French,You come. (plural/formal),Vous venez.,,sentence
-100216,French,They come. (masculine/mixed),Ils viennent.,,sentence
-100217,French,to take,prendre,,verb
-100218,French,I take.,Je prends.,,sentence
-100219,French,You take. (singular informal),Tu prends.,,sentence
-100220,French,He takes.,Il prend.,,sentence
-100221,French,She takes.,Elle prend.,,sentence
-100222,French,We take.,Nous prenons.,,sentence
-100223,French,You take. (plural/formal),Vous prenez.,,sentence
-100224,French,They take. (masculine/mixed),Ils prennent.,,sentence
-100225,French,I take the book.,Je prends le livre.,,sentence
-100226,French,He takes the book.,Il prend le livre.,,sentence
-100227,French,to want,vouloir,,verb
-100228,French,water,eau,,noun
-100229,French,I want water.,Je veux de l'eau.,,grammar
-100230,French,He wants water.,Il veut de l'eau.,,grammar
-100231,French,She wants water.,Elle veut de l'eau.,,grammar
-100232,French,We want water.,Nous voulons de l'eau.,,grammar
-100233,French,They want water. (masculine/mixed),Ils veulent de l'eau.,,grammar
-100234,French,to live,vivre,,verb
-100235,French,I live.,Je vis.,,sentence
-100236,French,You live. (singular informal),Tu vis.,,sentence
-100237,French,He lives.,Il vit.,,sentence
-100238,French,She lives.,Elle vit.,,sentence
-100239,French,We live.,Nous vivons.,,sentence
-100240,French,You live. (plural/formal),Vous vivez.,,sentence
-100241,French,They live. (masculine/mixed),Ils vivent.,,sentence
-100242,French,I live in the house.,Je vis dans la maison.,,sentence
-100243,French,She lives in the house.,Elle vit dans la maison.,,sentence
-100244,French,to read,lire,,verb
-100245,French,I read.,Je lis.,,sentence
-100246,French,You read. (singular informal),Tu lis.,,sentence
-100247,French,He reads.,Il lit.,,sentence
-100248,French,She reads.,Elle lit.,,sentence
-100249,French,We read.,Nous lisons.,,sentence
-100250,French,You read. (plural/formal),Vous lisez.,,sentence
-100251,French,They read. (masculine/mixed),Ils lisent.,,sentence
-100252,French,I read the book.,Je lis le livre.,,sentence
-100253,French,The child reads the book.,L'enfant lit le livre.,,sentence
-100254,French,to write,écrire,,verb
-100255,French,I write.,J'écris.,,sentence
-100256,French,You write. (singular informal),Tu écris.,,sentence
-100257,French,He writes.,Il écrit.,,sentence
-100258,French,She writes.,Elle écrit.,,sentence
-100259,French,We write.,Nous écrivons.,,sentence
-100260,French,You write. (plural/formal),Vous écrivez.,,sentence
-100261,French,They write. (masculine/mixed),Ils écrivent.,,sentence
-100262,French,The woman writes.,La femme écrit.,,sentence
-100263,French,The man writes.,L'homme écrit.,,sentence
-100264,French,to sleep,dormir,,verb
-100265,French,I sleep.,Je dors.,,sentence
-100266,French,You sleep. (singular informal),Tu dors.,,sentence
-100267,French,He sleeps.,Il dort.,,sentence
-100268,French,She sleeps.,Elle dort.,,sentence
-100269,French,We sleep.,Nous dormons.,,sentence
-100270,French,to drink,boire,,verb
-100271,French,I drink.,Je bois.,,sentence
-100272,French,You drink. (singular informal),Tu bois.,,sentence
-100273,French,He drinks.,Il boit.,,sentence
-100274,French,She drinks.,Elle boit.,,sentence
-100275,French,We drink.,Nous buvons.,,sentence
-100276,French,You drink. (plural/formal),Vous buvez.,,sentence
-100277,French,They drink. (masculine/mixed),Ils boivent.,,sentence
-100278,French,You sleep. (plural/formal),Vous dormez.,,sentence
-100279,French,I drink water.,Je bois de l'eau.,,sentence
-100280,French,He drinks water.,Il boit de l'eau.,,sentence
-100281,French,She drinks water.,Elle boit de l'eau.,,sentence
-100282,French,We drink water.,Nous buvons de l'eau.,,sentence
-100283,French,They sleep. (masculine/mixed),Ils dorment.,,sentence
-100284,French,to understand,comprendre,,verb
-100285,French,I understand.,Je comprends.,,sentence
-100286,French,You understand. (singular informal),Tu comprends.,,sentence
-100287,French,He understands.,Il comprend.,,sentence
-100288,French,She understands.,Elle comprend.,,sentence
-100289,French,We understand.,Nous comprenons.,,sentence
-100290,French,You understand. (plural/formal),Vous comprenez.,,sentence
-100291,French,They understand. (masculine/mixed),Ils comprennent.,,sentence
-100292,French,I understand the man.,Je comprends l'homme.,,sentence
-100293,French,I understand the woman.,Je comprends la femme.,,sentence
-100294,French,The children finish.,Les enfants finissent.,,sentence
-100295,French,The women choose the books.,Les femmes choisissent les livres.,,sentence
-100296,French,The man does not sell the car.,L'homme ne vend pas la voiture.,,sentence
-100297,French,We do not wait here.,Nous n'attendons pas ici.,,sentence
-100298,French,The child makes a cake.,L'enfant fait un gâteau.,,sentence
-100299,French,The men come today.,Les hommes viennent aujourd'hui.,,sentence
-100300,French,The women read here.,Les femmes lisent ici.,,sentence
-100301,French,The children do not sleep.,Les enfants ne dorment pas.,,sentence
-100302,French,The man drinks water today.,L'homme boit de l'eau aujourd'hui.,,sentence
-100303,French,The woman understands the child.,La femme comprend l'enfant.,,sentence
-100304,French,The dogs live here.,Les chiens vivent ici.,,sentence
-100305,French,The cats do not eat the food.,Les chats ne mangent pas la nourriture.,,sentence
-100306,French,I see a house.,Je vois une maison.,,sentence
-100307,French,She sees a dog.,Elle voit un chien.,,sentence
-100308,French,He sees a car.,Il voit une voiture.,,sentence
-100309,French,The man sees a woman.,L'homme voit une femme.,,sentence
-100310,French,coffee,café,,noun
-100311,French,milk,lait,,noun
-100312,French,rice,riz,,noun
-100313,French,soup,soupe,,noun
-100314,French,vegetables,légumes,,noun
-100315,French,I drink some coffee.,Je bois du café.,,sentence
-100316,French,She drinks some milk.,Elle boit du lait.,,sentence
-100317,French,We eat some rice.,Nous mangeons du riz.,,sentence
-100318,French,He eats some soup.,Il mange de la soupe.,,sentence
-100319,French,They eat some vegetables. (masculine/mixed),Ils mangent des légumes.,,sentence
-100320,French,The child drinks some water.,L'enfant boit de l'eau.,,sentence
-100321,French,a lot,beaucoup,,adverb
-100322,French,a little / not much,peu,,adverb
-100323,French,enough,assez,,adverb
-100324,French,too much / too many,trop,,adverb
-100325,French,a cup,une tasse,,noun
-100326,French,a bottle,une bouteille,,noun
-100327,French,I drink a lot of water.,Je bois beaucoup d'eau.,,sentence
-100328,French,She eats little bread.,Elle mange peu de pain.,,sentence
-100329,French,We have enough food.,Nous avons assez de nourriture.,,sentence
-100330,French,He drinks too much coffee.,Il boit trop de café.,,sentence
-100331,French,a bottle of water,une bouteille d'eau,,phrase
-100332,French,a cup of coffee,une tasse de café,,phrase
-100333,French,a table,une table,,noun
-100334,French,a chair,une chaise,,noun
-100335,French,a door,une porte,,noun
-100336,French,a room,une pièce,,noun
-100337,French,on,sur,,preposition
-100338,French,under,sous,,preposition
-100339,French,in front of,devant,,preposition
-100340,French,behind,derrière,,preposition
-100341,French,near,près de,,preposition
-100342,French,far from,loin de,,preposition
-100343,French,The book is on the table.,Le livre est sur la table.,,sentence
-100344,French,The cat is under the table.,Le chat est sous la table.,,sentence
-100345,French,The car is in front of the house.,La voiture est devant la maison.,,sentence
-100346,French,The dog is behind the door.,Le chien est derrière la porte.,,sentence
-100347,French,The chair is near the door.,La chaise est près de la porte.,,sentence
-100348,French,The car is far from the house.,La voiture est loin de la maison.,,sentence
-100349,French,with,avec,,preposition
-100350,French,with the man,avec l'homme,,phrase
-100351,French,with the woman,avec la femme,,phrase
-100352,French,The child comes with the woman.,L'enfant vient avec la femme.,,sentence
-100353,French,The man comes with the dog.,L'homme vient avec le chien.,,sentence
-100354,French,here,ici,,adverb
-100355,French,The book is here.,Le livre est ici.,,sentence
-100356,French,The cat is here.,Le chat est ici.,,sentence
-100357,French,The woman is here.,La femme est ici.,,sentence
-100358,French,The dog is here.,Le chien est ici.,,sentence
-100359,French,The child is here.,L'enfant est ici.,,sentence
-100360,French,there,là,,adverb
-100361,French,The book is there.,Le livre est là.,,sentence
-100362,French,The cat is there.,Le chat est là.,,sentence
-100363,French,The dog is there.,Le chien est là.,,sentence
-100364,French,the park,le parc,,noun
-100365,French,the school,l'école,,noun
-100366,French,the children (plural),les enfants,,phrase
-100367,French,to the park,au parc,,phrase
-100368,French,to the school,à l'école,,phrase
-100369,French,to the children,aux enfants,,phrase
-100370,French,from the park,du parc,,phrase
-100371,French,from the school,de l'école,,phrase
-100372,French,from the house,de la maison,,phrase
-100373,French,from the children,des enfants,,phrase
-100374,French,We go to the park.,Nous allons au parc.,,sentence
-100375,French,She comes from the school.,Elle vient de l'école.,,sentence
-100376,French,The man comes from the house.,L'homme vient de la maison.,,sentence
-100377,French,The woman speaks to the children.,La femme parle aux enfants.,,sentence
-100378,French,well,bien,,adverb
-100379,French,badly,mal,,adverb
-100380,French,often,souvent,,adverb
-100381,French,always,toujours,,adverb
-100382,French,sometimes,parfois,,adverb
-100383,French,quickly,vite,,adverb
-100384,French,slowly,lentement,,adverb
-100385,French,already,déjà,,adverb
-100386,French,She speaks French well.,Elle parle bien français.,,sentence
-100387,French,He writes badly.,Il écrit mal.,,sentence
-100388,French,We often read.,Nous lisons souvent.,,sentence
-100389,French,They always work. (masculine/mixed),Ils travaillent toujours.,,sentence
-100390,French,I sometimes drink coffee.,Je bois parfois du café.,,sentence
-100391,French,The child eats slowly.,L'enfant mange lentement.,,sentence
-100392,French,day,jour,,noun
-100393,French,night,nuit,,noun
-100394,French,today,aujourd'hui,,adverb
-100395,French,I work today.,Je travaille aujourd'hui.,,sentence
-100396,French,He works today.,Il travaille aujourd'hui.,,sentence
-100397,French,She works today.,Elle travaille aujourd'hui.,,sentence
-100398,French,We work today.,Nous travaillons aujourd'hui.,,sentence
-100399,French,I read today.,Je lis aujourd'hui.,,sentence
-100400,French,I write today.,J'écris aujourd'hui.,,sentence
-100401,French,I play today.,Je joue aujourd'hui.,,sentence
-100402,French,my books,mes livres,,phrase
-100403,French,your books (singular informal),tes livres,,phrase
-100404,French,his book,son livre,,phrase
-100405,French,her book,son livre,,phrase
-100406,French,his house,sa maison,,phrase
-100407,French,her house,sa maison,,phrase
-100408,French,his cars,ses voitures,,phrase
-100409,French,our house,notre maison,,phrase
-100410,French,our books,nos livres,,phrase
-100411,French,your house (plural/formal),votre maison,,phrase
-100412,French,your books (plural/formal),vos livres,,phrase
-100413,French,their house,leur maison,,phrase
-100414,French,their books,leurs livres,,phrase
-100415,French,His book is here.,Son livre est ici.,,sentence
-100416,French,Her house is big.,Sa maison est grande.,,sentence
-100417,French,Our car is new.,Notre voiture est nouvelle.,,sentence
-100418,French,Our books are here.,Nos livres sont ici.,,sentence
-100419,French,Your dog is small. (plural/formal possessor),Votre chien est petit.,,sentence
-100420,French,Their cat is old.,Leur chat est vieux.,,sentence
-100421,French,Their cars are red.,Leurs voitures sont rouges.,,sentence
-100422,French,mother,mère,,noun
-100423,French,father,père,,noun
-100424,French,friend,ami,,noun
-100425,French,my house,ma maison,,phrase
-100426,French,my book,mon livre,,phrase
-100427,French,my car,ma voiture,,phrase
-100428,French,my cat,mon chat,,phrase
-100429,French,My house is small.,Ma maison est petite.,,sentence
-100430,French,My car is red.,Ma voiture est rouge.,,sentence
-100431,French,My cat is old.,Mon chat est vieux.,,sentence
-100432,French,your house (singular informal),ta maison,,phrase
-100433,French,your book (singular informal),ton livre,,phrase
-100434,French,Your house is big. (singular informal),Ta maison est grande.,,sentence
-100435,French,Your book is new. (singular informal),Ton livre est nouveau.,,sentence
-100436,French,this book,ce livre,,phrase
-100437,French,this dog,ce chien,,phrase
-100438,French,this man,cet homme,,phrase
-100439,French,this child,cet enfant,,phrase
-100440,French,this house,cette maison,,phrase
-100441,French,this woman,cette femme,,phrase
-100442,French,these books,ces livres,,phrase
-100443,French,these houses,ces maisons,,phrase
-100444,French,This book is new.,Ce livre est nouveau.,,sentence
-100445,French,This dog is small.,Ce chien est petit.,,sentence
-100446,French,This man works here.,Cet homme travaille ici.,,sentence
-100447,French,This child reads.,Cet enfant lit.,,sentence
-100448,French,This house is big.,Cette maison est grande.,,sentence
-100449,French,This woman speaks French.,Cette femme parle français.,,sentence
-100450,French,These books are here.,Ces livres sont ici.,,sentence
-100451,French,These children play.,Ces enfants jouent.,,sentence
-100452,French,I see this car.,Je vois cette voiture.,,sentence
-100453,French,She takes this book.,Elle prend ce livre.,,sentence
-100454,French,We like this house.,Nous aimons cette maison.,,sentence
-100455,French,They see these dogs. (masculine/mixed),Ils voient ces chiens.,,sentence
-100456,French,He speaks with this woman.,Il parle avec cette femme.,,sentence
-100457,French,The child plays with these cats.,L'enfant joue avec ces chats.,,sentence
-100458,French,zero,zéro,,number
-100459,French,one,un,,number
-100460,French,two,deux,,number
-100461,French,three,trois,,number
-100462,French,four,quatre,,number
-100463,French,five,cinq,,number
-100464,French,six,six,,number
-100465,French,seven,sept,,number
-100466,French,eight,huit,,number
-100467,French,nine,neuf,,number
-100468,French,ten,dix,,number
-100469,French,eleven,onze,,number
-100470,French,twelve,douze,,number
-100471,French,thirteen,treize,,number
-100472,French,fourteen,quatorze,,number
-100473,French,fifteen,quinze,,number
-100474,French,sixteen,seize,,number
-100475,French,seventeen,dix-sept,,number
-100476,French,eighteen,dix-huit,,number
-100477,French,nineteen,dix-neuf,,number
-100478,French,twenty,vingt,,number
-100479,French,twenty-one,vingt et un,,number
-100480,French,twenty-two,vingt-deux,,number
-100481,French,thirty,trente,,number
-100482,French,forty,quarante,,number
-100483,French,fifty,cinquante,,number
-100484,French,sixty,soixante,,number
-100485,French,seventy,soixante-dix,,number
-100486,French,seventy-one,soixante et onze,,number
-100487,French,eighty,quatre-vingts,,number
-100488,French,eighty-one,quatre-vingt-un,,number
-100489,French,ninety,quatre-vingt-dix,,number
-100490,French,ninety-one,quatre-vingt-onze,,number
-100491,French,one hundred,cent,,number
-100492,French,two hundred,deux cents,,number
-100493,French,two hundred one,deux cent un,,number
-100494,French,one thousand,mille,,number
-100495,French,year,année,,noun
-100496,French,week,semaine,,noun
-100497,French,month,mois,,noun
-100498,French,hour,heure,,noun
-100499,French,minute,minute,,noun
-100500,French,Monday,lundi,,noun
-100501,French,Tuesday,mardi,,noun
-100502,French,Wednesday,mercredi,,noun
-100503,French,Thursday,jeudi,,noun
-100504,French,Friday,vendredi,,noun
-100505,French,Saturday,samedi,,noun
-100506,French,Sunday,dimanche,,noun
-100507,French,January,janvier,,noun
-100508,French,February,février,,noun
-100509,French,March,mars,,noun
-100510,French,April,avril,,noun
-100511,French,May,mai,,noun
-100512,French,June,juin,,noun
-100513,French,July,juillet,,noun
-100514,French,August,août,,noun
-100515,French,September,septembre,,noun
-100516,French,October,octobre,,noun
-100517,French,November,novembre,,noun
-100518,French,December,décembre,,noun
-100519,French,I am twenty years old.,J'ai vingt ans.,,sentence
-100520,French,She is thirty years old.,Elle a trente ans.,,sentence
-100521,French,The child is five years old.,L'enfant a cinq ans.,,sentence
-100522,French,You are twenty years old. (singular informal),Tu as vingt ans.,,sentence
-100523,French,I am forty years old.,J'ai quarante ans.,,sentence
-100524,French,It is one o'clock.,Il est une heure.,,sentence
-100525,French,It is two o'clock.,Il est deux heures.,,sentence
-100526,French,It is three thirty.,Il est trois heures et demie.,,sentence
-100527,French,It is four fifteen.,Il est quatre heures et quart.,,sentence
-100528,French,It is five forty-five.,Il est six heures moins le quart.,,sentence
-100529,French,Today is Monday.,"Aujourd'hui, c'est lundi.",,sentence
-100530,French,Today is Friday.,"Aujourd'hui, c'est vendredi.",,sentence
-100531,French,on Monday,lundi,,adverb
-100532,French,on Saturday,samedi,,adverb
-100533,French,the first of May,le premier mai,,phrase
-100534,French,the second of May,le deux mai,,phrase
-100535,French,the tenth of June,le dix juin,,phrase
-100536,French,in January,en janvier,,phrase
-100537,French,in August,en août,,phrase
-100538,French,two days,deux jours,,phrase
-100539,French,three weeks,trois semaines,,phrase
-100540,French,four months,quatre mois,,phrase
-100541,French,five years,cinq ans,,phrase
-100542,French,one minute,une minute,,phrase
-100543,French,ten minutes,dix minutes,,phrase
-100544,French,two hours,deux heures,,phrase
-100545,French,There is a book on the table.,Il y a un livre sur la table.,,sentence
-100546,French,There is a cat under the table.,Il y a un chat sous la table.,,sentence
-100547,French,There is a car in front of the house.,Il y a une voiture devant la maison.,,sentence
-100548,French,There is a dog behind the door.,Il y a un chien derrière la porte.,,sentence
-100549,French,There is a chair near the door.,Il y a une chaise près de la porte.,,sentence
-100550,French,There is a school near the park.,Il y a une école près du parc.,,sentence
-100551,French,There is water in the bottle.,Il y a de l'eau dans la bouteille.,,sentence
-100552,French,There is coffee in the cup.,Il y a du café dans la tasse.,,sentence
-100553,French,There is food on the table.,Il y a de la nourriture sur la table.,,sentence
-100554,French,There are books on the table.,Il y a des livres sur la table.,,sentence
-100555,French,There are children in the park.,Il y a des enfants dans le parc.,,sentence
-100556,French,There are two cars in front of the house.,Il y a deux voitures devant la maison.,,sentence
-100557,French,There are three books here.,Il y a trois livres ici.,,sentence
-100558,French,There are five chairs in the room.,Il y a cinq chaises dans la pièce.,,sentence
-100559,French,There is a woman at the school.,Il y a une femme à l'école.,,sentence
-100560,French,There is a man in the park.,Il y a un homme dans le parc.,,sentence
-100561,French,There is a dog here.,Il y a un chien ici.,,sentence
-100562,French,There is a cat there.,Il y a un chat là.,,sentence
-100563,French,There is no coffee.,Il n'y a pas de café.,,sentence
-100564,French,There is no water in the bottle.,Il n'y a pas d'eau dans la bouteille.,,sentence
-100565,French,There are no books on the table.,Il n'y a pas de livres sur la table.,,sentence
-100566,French,There are no children here.,Il n'y a pas d'enfants ici.,,sentence
-100567,French,There is a small house near the school.,Il y a une petite maison près de l'école.,,sentence
-100568,French,There are two red cars here.,Il y a deux voitures rouges ici.,,sentence
-100569,French,There is a new book on this table.,Il y a un nouveau livre sur cette table.,,sentence
-100570,French,This is a book.,C'est un livre.,,sentence
-100571,French,This is a house.,C'est une maison.,,sentence
-100572,French,This is my book.,C'est mon livre.,,sentence
-100573,French,This is her car.,C'est sa voiture.,,sentence
-100574,French,This is our house.,C'est notre maison.,,sentence
-100575,French,These are books.,Ce sont des livres.,,sentence
-100576,French,These are my books.,Ce sont mes livres.,,sentence
-100577,French,These are their cars.,Ce sont leurs voitures.,,sentence
-100578,French,He is a man.,C'est un homme.,,sentence
-100579,French,She is a woman.,C'est une femme.,,sentence
-100580,French,He is my friend.,C'est mon ami.,,sentence
-100581,French,She is my friend.,C'est mon amie.,,sentence
-100582,French,He is a teacher.,C'est un professeur.,,sentence
-100583,French,She is a teacher.,C'est une professeure.,,sentence
-100584,French,He is tall.,Il est grand.,,sentence
-100585,French,She is tall.,Elle est grande.,,sentence
-100586,French,He is small.,Il est petit.,,sentence
-100587,French,She is small.,Elle est petite.,,sentence
-100588,French,He is here.,Il est ici.,,sentence
-100589,French,She is there.,Elle est là.,,sentence
-100590,French,He is French.,Il est français.,,sentence
-100591,French,She is French.,Elle est française.,,sentence
-100592,French,It is a big house.,C'est une grande maison.,,sentence
-100593,French,It is big. (referring to the house),Elle est grande.,,sentence
-100594,French,It is a new car.,C'est une nouvelle voiture.,,sentence
-100595,French,It is new. (referring to the car),Elle est nouvelle.,,sentence
-100596,French,They are my friends. (masculine/mixed),Ce sont mes amis.,,sentence
-100597,French,They are here. (masculine/mixed),Ils sont ici.,,sentence
-100598,French,They are my friends. (feminine),Ce sont mes amies.,,sentence
-100599,French,They are here. (feminine),Elles sont ici.,,sentence
-100600,French,This man reads the new book.,Cet homme lit le nouveau livre.,,sentence
-100601,French,This woman writes slowly.,Cette femme écrit lentement.,,sentence
-100602,French,These children play in the park.,Ces enfants jouent dans le parc.,,sentence
-100603,French,My father works at the school.,Mon père travaille à l'école.,,sentence
-100604,French,My mother reads in the room.,Ma mère lit dans la pièce.,,sentence
-100605,French,Our friends come today.,Nos amis viennent aujourd'hui.,,sentence
-100606,French,Their children eat at the table.,Leurs enfants mangent à la table.,,sentence
-100607,French,Your car is in front of our house. (singular informal),Ta voiture est devant notre maison.,,sentence
-100608,French,His dog sleeps under the table.,Son chien dort sous la table.,,sentence
-100609,French,Her cat eats slowly.,Son chat mange lentement.,,sentence
-100610,French,We often go to the park.,Nous allons souvent au parc.,,sentence
-100611,French,They sometimes drink coffee here. (masculine/mixed),Ils boivent parfois du café ici.,,sentence
-100612,French,I always read in this room.,Je lis toujours dans cette pièce.,,sentence
-100613,French,She already has this book.,Elle a déjà ce livre.,,sentence
-100614,French,He does not want this car.,Il ne veut pas cette voiture.,,sentence
-100615,French,We do not live near the school.,Nous ne vivons pas près de l'école.,,sentence
-100616,French,These women speak French well.,Ces femmes parlent bien français.,,sentence
-100617,French,The children read quickly.,Les enfants lisent vite.,,sentence
-100618,French,I take two books.,Je prends deux livres.,,sentence
-100619,French,She reads three books.,Elle lit trois livres.,,sentence
-100620,French,We have four chairs.,Nous avons quatre chaises.,,sentence
-100621,French,There are five children in this school.,Il y a cinq enfants dans cette école.,,sentence
-100622,French,This child is ten years old.,Cet enfant a dix ans.,,sentence
-100623,French,My father is forty years old.,Mon père a quarante ans.,,sentence
-100624,French,Today is Tuesday.,"Aujourd'hui, c'est mardi.",,sentence
-100625,French,It is eight o'clock.,Il est huit heures.,,sentence
-100626,French,We work on Wednesday.,Nous travaillons mercredi.,,sentence
-100627,French,They come on Friday. (masculine/mixed),Ils viennent vendredi.,,sentence
-100628,French,This bottle has water in it.,Il y a de l'eau dans cette bouteille.,,sentence
-100629,French,There is a cat near my house.,Il y a un chat près de ma maison.,,sentence
-100630,French,This is our new car.,C'est notre nouvelle voiture.,,sentence
-100631,French,These are their new books.,Ce sont leurs nouveaux livres.,,sentence
-100632,French,My friend is here. (male),Mon ami est ici.,,sentence
-100633,French,My mother is French.,Ma mère est française.,,sentence
-100634,French,My father speaks French well.,Mon père parle bien français.,,sentence
-100635,French,Our dog sleeps behind the door.,Notre chien dort derrière la porte.,,sentence
+100000,French,house,maison,,
+100001,French,man,homme,,
+100002,French,woman,femme,,
+100003,French,child,enfant,,
+100004,French,big,grand,,
+100005,French,small,petit,,
+100006,French,good,bon,,
+100007,French,bad,mauvais,,
+100008,French,the house,la maison,,
+100009,French,the man,l'homme,,
+100010,French,the woman,la femme,,
+100011,French,the child,l'enfant,,
+100012,French,to be,être,,
+100013,French,The house is big.,La maison est grande.,,
+100014,French,The man is big.,L'homme est grand.,,
+100015,French,The woman is small.,La femme est petite.,,
+100016,French,The child is small.,L'enfant est petit.,,
+100017,French,The house is good.,La maison est bonne.,,
+100018,French,The man is good.,L'homme est bon.,,
+100019,French,The woman is good.,La femme est bonne.,,
+100020,French,book,livre,,
+100021,French,car,voiture,,
+100022,French,new,nouveau,,
+100023,French,old,vieux,,
+100024,French,a book,un livre,,
+100025,French,a car,une voiture,,
+100026,French,The book is new.,Le livre est nouveau.,,
+100027,French,The car is new.,La voiture est nouvelle.,,
+100028,French,The house is old.,La maison est vieille.,,
+100029,French,I,je,,
+100030,French,you (singular informal),tu,,
+100031,French,he,il,,
+100032,French,she,elle,,
+100033,French,we,nous,,
+100034,French,you (plural/formal),vous,,
+100035,French,they (masculine/mixed),ils,,
+100036,French,they (feminine),elles,,
+100037,French,I am good.,Je suis bon.,,
+100038,French,You are good. (singular informal),Tu es bon.,,
+100039,French,He is good.,Il est bon.,,
+100040,French,She is good.,Elle est bonne.,,
+100041,French,We are good.,Nous sommes bons.,,
+100042,French,You are good. (plural/formal),Vous êtes bons.,,
+100043,French,They are good. (masculine/mixed),Ils sont bons.,,
+100044,French,They are good. (feminine),Elles sont bonnes.,,
+100045,French,houses,maisons,,
+100046,French,men,hommes,,
+100047,French,women,femmes,,
+100048,French,children,enfants,,
+100049,French,the houses,les maisons,,
+100050,French,the men,les hommes,,
+100051,French,The houses are big.,Les maisons sont grandes.,,
+100052,French,The men are big.,Les hommes sont grands.,,
+100053,French,The women are small.,Les femmes sont petites.,,
+100054,French,The children are small.,Les enfants sont petits.,,
+100055,French,cat,chat,,
+100056,French,dog,chien,,
+100057,French,red,rouge,,
+100058,French,a cat,un chat,,
+100059,French,a dog,un chien,,
+100060,French,to have,avoir,,
+100061,French,I have a book.,J'ai un livre.,,
+100062,French,You have a book. (singular informal),Tu as un livre.,,
+100063,French,He has a book.,Il a un livre.,,
+100064,French,She has a car.,Elle a une voiture.,,
+100065,French,We have a dog.,Nous avons un chien.,,
+100066,French,You have a cat. (plural/formal),Vous avez un chat.,,
+100067,French,They have a house. (masculine/mixed),Ils ont une maison.,,
+100068,French,They have a car. (feminine),Elles ont une voiture.,,
+100069,French,to speak,parler,,
+100070,French,French (language),français,,
+100071,French,I speak French.,Je parle français.,,
+100072,French,You speak French. (singular informal),Tu parles français.,,
+100073,French,He speaks French.,Il parle français.,,
+100074,French,She speaks French.,Elle parle français.,,
+100075,French,We speak French.,Nous parlons français.,,
+100076,French,You speak French. (plural/formal),Vous parlez français.,,
+100077,French,They speak French. (masculine/mixed),Ils parlent français.,,
+100078,French,I am not big.,Je ne suis pas grand.,,
+100079,French,The house is not small.,La maison n'est pas petite.,,
+100080,French,She is not bad.,Elle n'est pas mauvaise.,,
+100081,French,We do not speak French.,Nous ne parlons pas français.,,
+100082,French,He does not speak French.,Il ne parle pas français.,,
+100083,French,to work,travailler,,
+100084,French,I work.,Je travaille.,,
+100085,French,You work. (singular informal),Tu travailles.,,
+100086,French,He works.,Il travaille.,,
+100087,French,We work.,Nous travaillons.,,
+100088,French,You work. (plural/formal),Vous travaillez.,,
+100089,French,They work. (masculine/mixed),Ils travaillent.,,
+100090,French,He does not work.,Il ne travaille pas.,,
+100091,French,We do not work.,Nous ne travaillons pas.,,
+100092,French,we / one / people (`on`),on,,
+100093,French,We work. (informal/general),On travaille.,,
+100094,French,We speak French. (informal/general),On parle français.,,
+100095,French,We do not work. (informal/general),On ne travaille pas.,,
+100096,French,to eat,manger,,
+100097,French,bread,pain,,
+100098,French,I eat.,Je mange.,,
+100099,French,The child eats.,L'enfant mange.,,
+100100,French,The man eats.,L'homme mange.,,
+100101,French,We eat.,Nous mangeons.,,
+100102,French,They eat. (masculine/mixed),Ils mangent.,,
+100103,French,I do not eat.,Je ne mange pas.,,
+100104,French,The child does not eat.,L'enfant ne mange pas.,,
+100105,French,food,nourriture,,
+100106,French,The food is good.,La nourriture est bonne.,,
+100107,French,The man eats bread.,L'homme mange du pain.,,
+100108,French,I eat bread.,Je mange du pain.,,
+100109,French,The child eats bread.,L'enfant mange du pain.,,
+100110,French,to like / to love,aimer,,
+100111,French,I like the house.,J'aime la maison.,,
+100112,French,You like the book. (singular informal),Tu aimes le livre.,,
+100113,French,He likes the dog.,Il aime le chien.,,
+100114,French,She likes the cat.,Elle aime le chat.,,
+100115,French,We like the car.,Nous aimons la voiture.,,
+100116,French,You like the house. (plural/formal),Vous aimez la maison.,,
+100117,French,They like the book. (masculine/mixed),Ils aiment le livre.,,
+100118,French,The woman likes the dog.,La femme aime le chien.,,
+100119,French,The child likes the cat.,L'enfant aime le chat.,,
+100120,French,I do not like the car.,Je n'aime pas la voiture.,,
+100121,French,She does not like the book.,Elle n'aime pas le livre.,,
+100122,French,We like the red car.,Nous aimons la voiture rouge.,,
+100123,French,The man likes the small house.,L'homme aime la petite maison.,,
+100124,French,to play,jouer,,
+100125,French,I play.,Je joue.,,
+100126,French,You play. (singular informal),Tu joues.,,
+100127,French,The child plays.,L'enfant joue.,,
+100128,French,We play.,Nous jouons.,,
+100129,French,They play. (masculine/mixed),Ils jouent.,,
+100130,French,The children play.,Les enfants jouent.,,
+100131,French,She does not play.,Elle ne joue pas.,,
+100132,French,We do not play.,Nous ne jouons pas.,,
+100133,French,here,ici,,
+100134,French,there,là,,
+100135,French,The man is here.,L'homme est ici.,,
+100136,French,The woman is there.,La femme est là.,,
+100137,French,We work here.,Nous travaillons ici.,,
+100138,French,They play here. (masculine/mixed),Ils jouent ici.,,
+100139,French,The child does not play here.,L'enfant ne joue pas ici.,,
+100140,French,to go,aller,,
+100141,French,I go.,Je vais.,,
+100142,French,You go. (singular informal),Tu vas.,,
+100143,French,He goes.,Il va.,,
+100144,French,She goes.,Elle va.,,
+100145,French,We go.,Nous allons.,,
+100146,French,You go. (plural/formal),Vous allez.,,
+100147,French,They go. (masculine/mixed),Ils vont.,,
+100148,French,The man goes.,L'homme va.,,
+100149,French,The children go.,Les enfants vont.,,
+100150,French,school,école,,
+100151,French,park,parc,,
+100152,French,to the house,à la maison,,
+100153,French,to school,à l'école,,
+100154,French,to the park,au parc,,
+100155,French,I go to the house.,Je vais à la maison.,,
+100156,French,She goes to school.,Elle va à l'école.,,
+100157,French,The child goes to the park.,L'enfant va au parc.,,
+100158,French,We go to the park.,Nous allons au parc.,,
+100159,French,They go to school. (masculine/mixed),Ils vont à l'école.,,
+100160,French,He does not go to school.,Il ne va pas à l'école.,,
+100161,French,We do not go to the park.,Nous n'allons pas au parc.,,
+100162,French,to do / to make,faire,,
+100163,French,I do / make.,Je fais.,,
+100164,French,You do / make. (singular informal),Tu fais.,,
+100165,French,He does / makes.,Il fait.,,
+100166,French,We do / make.,Nous faisons.,,
+100167,French,You do / make. (plural/formal),Vous faites.,,
+100168,French,They do / make. (masculine/mixed),Ils font.,,
+100169,French,cake,gâteau,,
+100170,French,a cake,un gâteau,,
+100171,French,I make a cake.,Je fais un gâteau.,,
+100172,French,She makes a cake.,Elle fait un gâteau.,,
+100173,French,We make a cake.,Nous faisons un gâteau.,,
+100174,French,They make a cake. (masculine/mixed),Ils font un gâteau.,,
+100175,French,Is the house big?,Est-ce que la maison est grande ?,,
+100176,French,Is the child small?,Est-ce que l'enfant est petit ?,,
+100177,French,Does he speak French?,Est-ce qu'il parle français ?,,
+100178,French,Does she work?,Est-ce qu'elle travaille ?,,
+100179,French,Do you speak French? (singular informal),Est-ce que tu parles français ?,,
+100180,French,Do you work? (plural/formal),Est-ce que vous travaillez ?,,
+100181,French,Do they play? (masculine/mixed),Est-ce qu'ils jouent ?,,
+100182,French,Does the woman like the book?,Est-ce que la femme aime le livre ?,,
+100183,French,Does the child eat bread?,Est-ce que l'enfant mange du pain ?,,
+100184,French,Do we go to the park?,Est-ce que nous allons au parc ?,,
+100185,French,Does he go to school?,Est-ce qu'il va à l'école ?,,
+100186,French,Does she make a cake?,Est-ce qu'elle fait un gâteau ?,,
+100187,French,Does he not work?,Est-ce qu'il ne travaille pas ?,,
+100188,French,Does she not like the car?,Est-ce qu'elle n'aime pas la voiture ?,,
+100189,French,yes,oui,,
+100190,French,no,non,,
+100191,French,"Yes, I speak French.","Oui, je parle français.",,
+100192,French,"No, I do not speak French.","Non, je ne parle pas français.",,
+100193,French,"Yes, she works.","Oui, elle travaille.",,
+100194,French,"No, she does not work.","Non, elle ne travaille pas.",,
+100195,French,Does the man like the red car?,Est-ce que l'homme aime la voiture rouge ?,,
+100196,French,"No, he does not like the red car.","Non, il n'aime pas la voiture rouge.",,
+100197,French,Does the child play here?,Est-ce que l'enfant joue ici ?,,
+100198,French,"Yes, the child plays here.","Oui, l'enfant joue ici.",,
+100199,French,Do they go to the park? (masculine/mixed),Est-ce qu'ils vont au parc ?,,
+100200,French,to finish,finir,,
+100201,French,I finish.,Je finis.,,
+100202,French,He finishes.,Il finit.,,
+100203,French,We finish.,Nous finissons.,,
+100204,French,They finish. (masculine/mixed),Ils finissent.,,
+100205,French,to choose,choisir,,
+100206,French,You choose. (singular informal),Tu choisis.,,
+100207,French,She chooses a book.,Elle choisit un livre.,,
+100208,French,We choose a car.,Nous choisissons une voiture.,,
+100209,French,They choose the red car. (masculine/mixed),Ils choisissent la voiture rouge.,,
+100210,French,I do not choose the red car.,Je ne choisis pas la voiture rouge.,,
+100211,French,Do you choose the book? (plural/formal),Est-ce que vous choisissez le livre ?,,
+100212,French,to see,voir,,
+100213,French,I see the house.,Je vois la maison.,,
+100214,French,You see the man. (singular informal),Tu vois l'homme.,,
+100215,French,She sees the child.,Elle voit l'enfant.,,
+100216,French,We see the car.,Nous voyons la voiture.,,
+100217,French,They see the dog. (masculine/mixed),Ils voient le chien.,,
+100218,French,I do not see the cat.,Je ne vois pas le chat.,,
+100219,French,Do you see the school? (plural/formal),Est-ce que vous voyez l'école ?,,
+100220,French,What do you see? (singular informal),Qu'est-ce que tu vois ?,,
+100221,French,I see a house.,Je vois une maison.,,
+100222,French,What does she see?,Qu'est-ce qu'elle voit ?,,
+100223,French,She sees a red car.,Elle voit une voiture rouge.,,
+100224,French,What do they see? (masculine/mixed),Qu'est-ce qu'ils voient ?,,
+100225,French,to take,prendre,,
+100226,French,I take the book.,Je prends le livre.,,
+100227,French,She takes the car.,Elle prend la voiture.,,
+100228,French,We take the book.,Nous prenons le livre.,,
+100229,French,They take the books. (masculine/mixed),Ils prennent les livres.,,
+100230,French,He does not take the car.,Il ne prend pas la voiture.,,
+100231,French,Do you take the book? (singular informal),Est-ce que tu prends le livre ?,,
+100232,French,What does the child take?,Qu'est-ce que l'enfant prend ?,,
+100233,French,The child takes a book.,L'enfant prend un livre.,,
+100234,French,where,où,,
+100235,French,Where is the house?,Où est la maison ?,,
+100236,French,Where is the book?,Où est le livre ?,,
+100237,French,Where is the woman?,Où est la femme ?,,
+100238,French,Where do you work? (singular informal),Où est-ce que tu travailles ?,,
+100239,French,Where does she work?,Où est-ce qu'elle travaille ?,,
+100240,French,Where do the children play?,Où est-ce que les enfants jouent ?,,
+100241,French,Where do we go?,Où est-ce que nous allons ?,,
+100242,French,who,qui,,
+100243,French,Who is here?,Qui est ici ?,,
+100244,French,Who works here?,Qui travaille ici ?,,
+100245,French,Who speaks French?,Qui parle français ?,,
+100246,French,Who sees the car?,Qui voit la voiture ?,,
+100247,French,Who takes the book?,Qui prend le livre ?,,
+100248,French,The woman takes the book.,La femme prend le livre.,,
+100249,French,The man sees the woman.,L'homme voit la femme.,,
+100250,French,water,eau,,
+100251,French,coffee,café,,
+100252,French,milk,lait,,
+100253,French,cheese,fromage,,
+100254,French,meat,viande,,
+100255,French,to drink,boire,,
+100256,French,I drink water.,Je bois de l'eau.,,
+100257,French,She drinks coffee.,Elle boit du café.,,
+100258,French,The child drinks milk.,L'enfant boit du lait.,,
+100259,French,We drink water.,Nous buvons de l'eau.,,
+100260,French,They drink coffee. (masculine/mixed),Ils boivent du café.,,
+100261,French,Do you drink coffee? (singular informal),Est-ce que tu bois du café ?,,
+100262,French,What do you drink? (singular informal),Qu'est-ce que tu bois ?,,
+100263,French,I eat cheese.,Je mange du fromage.,,
+100264,French,She eats meat.,Elle mange de la viande.,,
+100265,French,We eat bread.,Nous mangeons du pain.,,
+100266,French,The children eat cheese.,Les enfants mangent du fromage.,,
+100267,French,Do they eat meat? (masculine/mixed),Est-ce qu'ils mangent de la viande ?,,
+100268,French,What does the child eat?,Qu'est-ce que l'enfant mange ?,,
+100269,French,apple,pomme,,
+100270,French,I do not drink coffee.,Je ne bois pas de café.,,
+100271,French,She does not drink milk.,Elle ne boit pas de lait.,,
+100272,French,We do not eat meat.,Nous ne mangeons pas de viande.,,
+100273,French,He does not eat cheese.,Il ne mange pas de fromage.,,
+100274,French,Do you not drink coffee? (singular informal),Est-ce que tu ne bois pas de café ?,,
+100275,French,What do you eat? (plural/formal),Qu'est-ce que vous mangez ?,,
+100276,French,What do you drink? (plural/formal),Qu'est-ce que vous buvez ?,,
+100277,French,Who drinks coffee?,Qui boit du café ?,,
+100278,French,Who eats bread?,Qui mange du pain ?,,
+100279,French,The woman drinks water.,La femme boit de l'eau.,,
+100280,French,table,table,,
+100281,French,chair,chaise,,
+100282,French,door,porte,,
+100283,French,room,pièce,,
+100284,French,in,dans,,
+100285,French,on,sur,,
+100286,French,under,sous,,
+100287,French,The book is on the table.,Le livre est sur la table.,,
+100288,French,The cat is under the table.,Le chat est sous la table.,,
+100289,French,The dog is in the house.,Le chien est dans la maison.,,
+100290,French,The woman is in the room.,La femme est dans la pièce.,,
+100291,French,near,près de,,
+100292,French,The chair is near the door.,La chaise est près de la porte.,,
+100293,French,in front of,devant,,
+100294,French,The car is in front of the house.,La voiture est devant la maison.,,
+100295,French,behind,derrière,,
+100296,French,The dog is behind the door.,Le chien est derrière la porte.,,
+100297,French,Where is the cat?,Où est le chat ?,,
+100298,French,garden,jardin,,
+100299,French,The children play in the park.,Les enfants jouent dans le parc.,,
+100300,French,Where do you work? (plural/formal),Où est-ce que vous travaillez ?,,
+100301,French,We work at the school.,Nous travaillons à l'école.,,
+100302,French,The child does not play in the house.,L'enfant ne joue pas dans la maison.,,
+100303,French,The man eats in the room.,L'homme mange dans la pièce.,,
+100304,French,The woman drinks coffee at the table.,La femme boit du café à la table.,,
+100305,French,to come,venir,,
+100306,French,I come.,Je viens.,,
+100307,French,She comes.,Elle vient.,,
+100308,French,We come.,Nous venons.,,
+100309,French,They come. (masculine/mixed),Ils viennent.,,
+100310,French,The man comes to the house.,L'homme vient à la maison.,,
+100311,French,The children come to school.,Les enfants viennent à l'école.,,
+100312,French,She does not come to the park.,Elle ne vient pas au parc.,,
+100313,French,Where do you come from? (singular informal),D'où est-ce que tu viens ?,,
+100314,French,from the house,de la maison,,
+100315,French,from the school,de l'école,,
+100316,French,from the park,du parc,,
+100317,French,I come from the house.,Je viens de la maison.,,
+100318,French,He comes from the park.,Il vient du parc.,,
+100319,French,Where does she come from?,D'où est-ce qu'elle vient ?,,
+100320,French,to sell,vendre,,
+100321,French,I sell the car.,Je vends la voiture.,,
+100322,French,He sells the book.,Il vend le livre.,,
+100323,French,We sell the house.,Nous vendons la maison.,,
+100324,French,They sell the car. (masculine/mixed),Ils vendent la voiture.,,
+100325,French,Do you sell the house? (plural/formal),Est-ce que vous vendez la maison ?,,
+100326,French,She does not sell the book.,Elle ne vend pas le livre.,,
+100327,French,to wait,attendre,,
+100328,French,I wait.,J'attends.,,
+100329,French,She waits.,Elle attend.,,
+100330,French,We wait.,Nous attendons.,,
+100331,French,The man waits here.,L'homme attend ici.,,
+100332,French,The woman waits at the school.,La femme attend à l'école.,,
+100333,French,Do they wait here? (masculine/mixed),Est-ce qu'ils attendent ici ?,,
+100334,French,Why?,Pourquoi ?,,
+100335,French,Why do you wait? (singular informal),Pourquoi est-ce que tu attends ?,,
+100336,French,Why does she work here?,Pourquoi est-ce qu'elle travaille ici ?,,
+100337,French,Why do they go to the park? (masculine/mixed),Pourquoi est-ce qu'ils vont au parc ?,,
+100338,French,because,parce que,,
+100339,French,to be hungry,avoir faim,,
+100340,French,I am hungry.,J'ai faim.,,
+100341,French,The child is hungry.,L'enfant a faim.,,
+100342,French,Are you hungry? (singular informal),Est-ce que tu as faim ?,,
+100343,French,morning,matin,,
+100344,French,She eats because she is hungry.,Elle mange parce qu'elle a faim.,,
+100345,French,my house,ma maison,,
+100346,French,my book,mon livre,,
+100347,French,my car,ma voiture,,
+100348,French,my books,mes livres,,
+100349,French,My house is small.,Ma maison est petite.,,
+100350,French,My book is on the table.,Mon livre est sur la table.,,
+100351,French,My car is red.,Ma voiture est rouge.,,
+100352,French,your house (singular informal),ta maison,,
+100353,French,your book (singular informal),ton livre,,
+100354,French,your books (singular informal),tes livres,,
+100355,French,Your house is big. (singular informal),Ta maison est grande.,,
+100356,French,Where is your book? (singular informal),Où est ton livre ?,,
+100357,French,his book,son livre,,
+100358,French,her book,son livre,,
+100359,French,his house,sa maison,,
+100360,French,her house,sa maison,,
+100361,French,his books,ses livres,,
+100362,French,her books,ses livres,,
+100363,French,His book is here.,Son livre est ici.,,
+100364,French,Her house is big.,Sa maison est grande.,,
+100365,French,our house,notre maison,,
+100366,French,our books,nos livres,,
+100367,French,Our house is near the park.,Notre maison est près du parc.,,
+100368,French,Our books are on the table.,Nos livres sont sur la table.,,
+100369,French,your house (plural/formal),votre maison,,
+100370,French,your books (plural/formal),vos livres,,
+100371,French,Where is your car? (plural/formal),Où est votre voiture ?,,
+100372,French,their house,leur maison,,
+100373,French,their books,leurs livres,,
+100374,French,Their house is near the school.,Leur maison est près de l'école.,,
+100375,French,Their books are here.,Leurs livres sont ici.,,
+100376,French,Do you see my car? (singular informal),Est-ce que tu vois ma voiture ?,,
+100377,French,She takes her book.,Elle prend son livre.,,
+100378,French,We go to our house.,Nous allons à notre maison.,,
+100379,French,They sell their car. (masculine/mixed),Ils vendent leur voiture.,,
+100380,French,today,aujourd'hui,,
+100381,French,often,souvent,,
+100382,French,always,toujours,,
+100383,French,sometimes,parfois,,
+100384,French,already,déjà,,
+100385,French,I work today.,Je travaille aujourd'hui.,,
+100386,French,She comes today.,Elle vient aujourd'hui.,,
+100387,French,We often go to the park.,Nous allons souvent au parc.,,
+100388,French,They sometimes drink coffee here. (masculine/mixed),Ils boivent parfois du café ici.,,
+100389,French,The child always plays here.,L'enfant joue toujours ici.,,
+100390,French,She already has the book.,Elle a déjà le livre.,,
+100391,French,Do you work today? (singular informal),Est-ce que tu travailles aujourd'hui ?,,
+100392,French,Where do they work today? (masculine/mixed),Où est-ce qu'ils travaillent aujourd'hui ?,,
+100393,French,Why does she come today?,Pourquoi est-ce qu'elle vient aujourd'hui ?,,
+100394,French,We do not always eat here.,Nous ne mangeons pas toujours ici.,,
+100395,French,He does not often drink coffee.,Il ne boit pas souvent de café.,,
+100396,French,My child sometimes plays in the park.,Mon enfant joue parfois dans le parc.,,
+100397,French,Our dog is under the table.,Notre chien est sous la table.,,
+100398,French,Their cat is in the house.,Leur chat est dans la maison.,,
+100399,French,Who works at the school?,Qui travaille à l'école ?,,
+100400,French,there is / there are,il y a,,
+100401,French,There is a book on the table.,Il y a un livre sur la table.,,
+100402,French,There is a cat in the house.,Il y a un chat dans la maison.,,
+100403,French,There are children in the park.,Il y a des enfants dans le parc.,,
+100404,French,There are books on the table.,Il y a des livres sur la table.,,
+100405,French,Is there a dog in the house?,Est-ce qu'il y a un chien dans la maison ?,,
+100406,French,Are there children at school?,Est-ce qu'il y a des enfants à l'école ?,,
+100407,French,There is no coffee.,Il n'y a pas de café.,,
+100408,French,There are no books on the table.,Il n'y a pas de livres sur la table.,,
+100409,French,What is there in the room?,Qu'est-ce qu'il y a dans la pièce ?,,
+100410,French,city,ville,,
+100411,French,street,rue,,
+100412,French,store,magasin,,
+100413,French,restaurant,restaurant,,
+100414,French,There is a restaurant near the park.,Il y a un restaurant près du parc.,,
+100415,French,There is a store on this street.,Il y a un magasin dans cette rue.,,
+100416,French,There are many houses in the city.,Il y a beaucoup de maisons dans la ville.,,
+100417,French,many / a lot of,beaucoup de,,
+100418,French,I have many books.,J'ai beaucoup de livres.,,
+100419,French,She drinks a lot of water.,Elle boit beaucoup d'eau.,,
+100420,French,We eat a lot of bread.,Nous mangeons beaucoup de pain.,,
+100421,French,The city has many restaurants.,La ville a beaucoup de restaurants.,,
+100422,French,There are not many cars here.,Il n'y a pas beaucoup de voitures ici.,,
+100423,French,Are there many stores in the city?,Est-ce qu'il y a beaucoup de magasins dans la ville ?,,
+100424,French,Why are there many cars here?,Pourquoi est-ce qu'il y a beaucoup de voitures ici ?,,
+100425,French,this man,cet homme,,
+100426,French,this woman,cette femme,,
+100427,French,this book,ce livre,,
+100428,French,this house,cette maison,,
+100429,French,these books,ces livres,,
+100430,French,these houses,ces maisons,,
+100431,French,This man works here.,Cet homme travaille ici.,,
+100432,French,This woman speaks French.,Cette femme parle français.,,
+100433,French,This book is good.,Ce livre est bon.,,
+100434,French,This house is old.,Cette maison est vieille.,,
+100435,French,These children play in the park.,Ces enfants jouent dans le parc.,,
+100436,French,These cars are red.,Ces voitures sont rouges.,,
+100437,French,Do you like this book? (singular informal),Est-ce que tu aimes ce livre ?,,
+100438,French,Does she see this man?,Est-ce qu'elle voit cet homme ?,,
+100439,French,We do not like this car.,Nous n'aimons pas cette voiture.,,
+100440,French,Who lives in this house?,Qui vit dans cette maison ?,,
+100441,French,to live,vivre,,
+100442,French,I live in this city.,Je vis dans cette ville.,,
+100443,French,She lives near the school.,Elle vit près de l'école.,,
+100444,French,We live in this house.,Nous vivons dans cette maison.,,
+100445,French,They live in the city. (masculine/mixed),Ils vivent dans la ville.,,
+100446,French,Where do you live? (singular informal),Où est-ce que tu vis ?,,
+100447,French,He does not live here.,Il ne vit pas ici.,,
+100448,French,Who lives here?,Qui vit ici ?,,
+100449,French,Many people live in this city.,Beaucoup de gens vivent dans cette ville.,,
+100450,French,people,gens,,
+100451,French,friend (male),ami,,
+100452,French,friend (female),amie,,
+100453,French,family,famille,,
+100454,French,tired,fatigué,,
+100455,French,happy,heureux,,
+100456,French,ready,prêt,,
+100457,French,My friend lives here. (male),Mon ami vit ici.,,
+100458,French,My friend works at the school. (female),Mon amie travaille à l'école.,,
+100459,French,Our family lives in this city.,Notre famille vit dans cette ville.,,
+100460,French,The man is tired.,L'homme est fatigué.,,
+100461,French,The woman is tired.,La femme est fatiguée.,,
+100462,French,The child is happy.,L'enfant est heureux.,,
+100463,French,The woman is happy.,La femme est heureuse.,,
+100464,French,We are ready. (masculine/mixed),Nous sommes prêts.,,
+100465,French,They are ready. (feminine),Elles sont prêtes.,,
+100466,French,to be thirsty,avoir soif,,
+100467,French,I am thirsty.,J'ai soif.,,
+100468,French,The children are thirsty.,Les enfants ont soif.,,
+100469,French,Are you thirsty? (plural/formal),Est-ce que vous avez soif ?,,
+100470,French,to be afraid,avoir peur,,
+100471,French,The child is afraid.,L'enfant a peur.,,
+100472,French,I am not afraid.,Je n'ai pas peur.,,
+100473,French,Are they afraid? (masculine/mixed),Est-ce qu'ils ont peur ?,,
+100474,French,Why is the child afraid?,Pourquoi est-ce que l'enfant a peur ?,,
+100475,French,when,quand,,
+100476,French,When do you work? (singular informal),Quand est-ce que tu travailles ?,,
+100477,French,When does she come?,Quand est-ce qu'elle vient ?,,
+100478,French,When do the children eat?,Quand est-ce que les enfants mangent ?,,
+100479,French,When do we go to the park?,Quand est-ce que nous allons au parc ?,,
+100480,French,how,comment,,
+100481,French,How are you? (singular informal),Comment vas-tu ?,,
+100482,French,How do you make a cake?,Comment est-ce que tu fais un gâteau ?,,
+100483,French,How does she come here?,Comment est-ce qu'elle vient ici ?,,
+100484,French,How do you know? (singular informal),Comment est-ce que tu sais ?,,
+100485,French,to know (a fact / how),savoir,,
+100486,French,I know.,Je sais.,,
+100487,French,She knows.,Elle sait.,,
+100488,French,We know.,Nous savons.,,
+100489,French,They know. (masculine/mixed),Ils savent.,,
+100490,French,I do not know.,Je ne sais pas.,,
+100491,French,Do you know? (plural/formal),Est-ce que vous savez ?,,
+100492,French,which / what (masculine singular),quel,,
+100493,French,which / what (feminine singular),quelle,,
+100494,French,which / what (masculine plural),quels,,
+100495,French,which / what (feminine plural),quelles,,
+100496,French,Which book do you choose? (singular informal),Quel livre est-ce que tu choisis ?,,
+100497,French,Which car does she take?,Quelle voiture est-ce qu'elle prend ?,,
+100498,French,Which books do they choose? (masculine/mixed),Quels livres est-ce qu'ils choisissent ?,,
+100499,French,Which houses do you see? (plural/formal),Quelles maisons est-ce que vous voyez ?,,
+100500,French,yesterday,hier,,
+100501,French,this morning,ce matin,,
+100502,French,this evening,ce soir,,
+100503,French,now,maintenant,,
+100504,French,yesterday evening / last night,hier soir,,
+100505,French,I worked yesterday.,J'ai travaillé hier.,,
+100506,French,She worked yesterday.,Elle a travaillé hier.,,
+100507,French,We worked this morning.,Nous avons travaillé ce matin.,,
+100508,French,They played yesterday. (masculine/mixed),Ils ont joué hier.,,
+100509,French,The children played in the park.,Les enfants ont joué dans le parc.,,
+100510,French,I ate this morning.,J'ai mangé ce matin.,,
+100511,French,She ate bread.,Elle a mangé du pain.,,
+100512,French,We drank coffee.,Nous avons bu du café.,,
+100513,French,He drank water.,Il a bu de l'eau.,,
+100514,French,What did you eat? (singular informal),Qu'est-ce que tu as mangé ?,,
+100515,French,What did she drink?,Qu'est-ce qu'elle a bu ?,,
+100516,French,Did you work yesterday? (plural/formal),Est-ce que vous avez travaillé hier ?,,
+100517,French,Did they play in the park? (masculine/mixed),Est-ce qu'ils ont joué dans le parc ?,,
+100518,French,I did not work yesterday.,Je n'ai pas travaillé hier.,,
+100519,French,She did not eat this morning.,Elle n'a pas mangé ce matin.,,
+100520,French,We did not drink coffee.,Nous n'avons pas bu de café.,,
+100521,French,When did you work? (singular informal),Quand est-ce que tu as travaillé ?,,
+100522,French,Where did the children play?,Où est-ce que les enfants ont joué ?,,
+100523,French,Why did she not work?,Pourquoi est-ce qu'elle n'a pas travaillé ?,,
+100524,French,Who ate the bread?,Qui a mangé le pain ?,,
+100525,French,to buy,acheter,,
+100526,French,I buy bread.,J'achète du pain.,,
+100527,French,She buys a book.,Elle achète un livre.,,
+100528,French,We buy food.,Nous achetons de la nourriture.,,
+100529,French,What do you buy? (plural/formal),Qu'est-ce que vous achetez ?,,
+100530,French,I bought a book.,J'ai acheté un livre.,,
+100531,French,She bought bread.,Elle a acheté du pain.,,
+100532,French,They bought a car. (masculine/mixed),Ils ont acheté une voiture.,,
+100533,French,to read,lire,,
+100534,French,I read the book.,Je lis le livre.,,
+100535,French,She reads a book.,Elle lit un livre.,,
+100536,French,We read here.,Nous lisons ici.,,
+100537,French,They read a lot. (masculine/mixed),Ils lisent beaucoup.,,
+100538,French,What are you reading? (singular informal),Qu'est-ce que tu lis ?,,
+100539,French,I read the book. (past),J'ai lu le livre.,,
+100540,French,She read this book.,Elle a lu ce livre.,,
+100541,French,Have you read this book? (plural/formal),Est-ce que vous avez lu ce livre ?,,
+100542,French,I have not read this book.,Je n'ai pas lu ce livre.,,
+100543,French,to write,écrire,,
+100544,French,I write.,J'écris.,,
+100545,French,She writes.,Elle écrit.,,
+100546,French,We write.,Nous écrivons.,,
+100547,French,I wrote.,J'ai écrit.,,
+100548,French,She wrote this morning.,Elle a écrit ce matin.,,
+100549,French,Did you write yesterday? (singular informal),Est-ce que tu as écrit hier ?,,
+100550,French,letter,lettre,,
+100551,French,question,question,,
+100552,French,answer,réponse,,
+100553,French,to understand,comprendre,,
+100554,French,I understand.,Je comprends.,,
+100555,French,She understands the question.,Elle comprend la question.,,
+100556,French,We understand.,Nous comprenons.,,
+100557,French,I do not understand.,Je ne comprends pas.,,
+100558,French,Do you understand? (plural/formal),Est-ce que vous comprenez ?,,
+100559,French,I understood the question.,J'ai compris la question.,,
+100560,French,She did not understand.,Elle n'a pas compris.,,
+100561,French,to answer,répondre,,
+100562,French,I answer the question.,Je réponds à la question.,,
+100563,French,She answers.,Elle répond.,,
+100564,French,We answer the question.,Nous répondons à la question.,,
+100565,French,I answered the question.,J'ai répondu à la question.,,
+100566,French,She answered yesterday.,Elle a répondu hier.,,
+100567,French,to ask someone,demander à quelqu'un,,
+100568,French,I ask a question.,Je pose une question.,,
+100569,French,She asks a question.,Elle pose une question.,,
+100570,French,He asks the woman.,Il demande à la femme.,,
+100571,French,I asked a question.,J'ai posé une question.,,
+100572,French,She answered my question.,Elle a répondu à ma question.,,
+100573,French,I understand her answer.,Je comprends sa réponse.,,
+100574,French,Why did he ask that question?,Pourquoi est-ce qu'il a posé cette question ?,,
+100575,French,I went to the park.,Je suis allé au parc.,,
+100576,French,She went to school.,Elle est allée à l'école.,,
+100577,French,The man went to the store.,L'homme est allé au magasin.,,
+100578,French,The woman went to the restaurant.,La femme est allée au restaurant.,,
+100579,French,We went to the park. (masculine/mixed),Nous sommes allés au parc.,,
+100580,French,We went to the city. (feminine),Nous sommes allées dans la ville.,,
+100581,French,They went to school. (masculine/mixed),Ils sont allés à l'école.,,
+100582,French,They went to the store. (feminine),Elles sont allées au magasin.,,
+100583,French,Did she go to the park?,Est-ce qu'elle est allée au parc ?,,
+100584,French,He did not go to school.,Il n'est pas allé à l'école.,,
+100585,French,Where did they go? (feminine),Où est-ce qu'elles sont allées ?,,
+100586,French,I came yesterday. (male speaker),Je suis venu hier.,,
+100587,French,I came yesterday. (female speaker),Je suis venue hier.,,
+100588,French,She came this morning.,Elle est venue ce matin.,,
+100589,French,We came yesterday. (masculine/mixed),Nous sommes venus hier.,,
+100590,French,They came this morning. (feminine),Elles sont venues ce matin.,,
+100591,French,Did he come yesterday?,Est-ce qu'il est venu hier ?,,
+100592,French,She did not come.,Elle n'est pas venue.,,
+100593,French,"When did you come? (singular informal, male)",Quand est-ce que tu es venu ?,,
+100594,French,"When did you come? (singular informal, female)",Quand est-ce que tu es venue ?,,
+100595,French,Where did the woman go?,Où est-ce que la femme est allée ?,,
+100596,French,Why did the children go to the park?,Pourquoi est-ce que les enfants sont allés au parc ?,,
+100597,French,My friend came yesterday. (male),Mon ami est venu hier.,,
+100598,French,My friend came this morning. (female),Mon amie est venue ce matin.,,
+100599,French,Who came yesterday?,Qui est venu hier ?,,
