@@ -1,0 +1,665 @@
+POLYGLOT FRENCH SYLLABUS
+
+Version: 0.2 Status: Current Charter version:
+Pre-Charter Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for French in
+Polyglot. It specifies what is taught, its dependency order, and how
+major concepts should be represented in cards. It does not record
+progress. Routine card generation therefore does not amend this
+document.
+
+Vocabulary acquisition is continuous. Grammar units define structural
+progression but do not freeze vocabulary. Units have no fixed card
+quota; a unit is complete when its canonical sequence satisfies its
+completion standard.
+
+TERMINOLOGY
+
+INTRODUCED — A form, word, construction, or distinction has begun to be
+demonstrated.
+
+ESTABLISHED — The canonical curriculum has demonstrated the item
+sufficiently for its basic operation to be assumed later. This describes
+the curriculum, not learner performance.
+
+REUSABLE — An established item or structure may appear naturally in
+later cards without being the principal teaching objective.
+
+LEXICAL ANCHOR — A word deliberately selected to make a grammatical or
+semantic pattern visible. Anchors do not limit additional vocabulary.
+
+CANONICAL SEQUENCE — The static pedagogical ordering of cards and
+concepts. Scheduling frequency may adapt to performance; curriculum
+order does not.
+
+COMPLETION STANDARD — The coverage required before a unit’s principal
+concept may be treated as established.
+
+DELIBERATELY EXCLUDED — Material postponed because it would obscure the
+current pattern, depends on later knowledge, or deserves separate
+treatment.
+
+COURSE-WIDE PRINCIPLES
+
+1.  Vocabulary grows throughout all stages; grammar is not demonstrated
+    indefinitely with a tiny closed vocabulary.
+2.  When grammar is new, lexical novelty is initially restrained enough
+    that the pattern remains visible. Lexical freedom increases as the
+    pattern becomes established.
+3.  Productive rules precede exceptions and competing paradigms.
+4.  Grammar is normally learned through controlled examples rather than
+    terminology questions.
+5.  A lexical item may appear alone before becoming reusable in
+    sentences.
+6.  Established grammar may be combined freely in later units.
+7.  French orthography, accents, agreement, punctuation and
+    capitalization are part of the target.
+8.  Common contemporary French precedes literary, archaic and unusually
+    formal structures.
+9.  Neutral, informal and formal usage are eventually distinguished
+    explicitly.
+10. Metropolitan French provides the initial grammatical reference
+    point; important Canadian and other major francophone usage is later
+    taught explicitly.
+
+OPENING PACING DIRECTIVE
+
+The historical early French card sequence is an approved Polyglot pacing
+model. Begin with the compact seed maison, homme, femme, enfant, grand,
+petit, bon, mauvais, then move almost immediately into article-bearing
+phrases, adjective agreement, être, and short sentences. Additional nouns,
+adjectives, pronouns, and verbs should arrive in small reusable increments.
+
+FR-01 and FR-02 therefore do not require large standalone inventories
+before FR-03 onward begins. Their completion standards are satisfied
+initially by a small productive seed; lexical breadth continues
+longitudinally. The historical first roughly 50–60 cards may be reused
+closely where still consistent with the current syllabus. Later historical
+choices such as very early negation or inversion questions are not made
+canonical merely by this pacing endorsement.
+
+STAGE 1 — BOOTSTRAP
+
+FR-01 — Core concrete nouns
+
+PREREQUISITES: None. OBJECTIVE: Establish a useful stock of highly
+concrete nouns while making gender and article-bearing noun phrases
+visible. LEXICAL ANCHORS: maison, homme, femme, enfant, livre, voiture,
+chat, chien. CARD STRATEGY: Begin with high-frequency imageable nouns;
+reuse them quickly in descriptive and verbal sentences. VOCABULARY
+DEVELOPMENT: Add concrete everyday nouns that support many later
+constructions. DELIBERATELY EXCLUDED: Large thematic lists, rare
+synonyms and specialist vocabulary. COMPLETION STANDARD: Enough varied
+nouns exist to support early sentences without constant lexical
+repetition. LEADS TO: FR-03, FR-04, FR-06 and later sentence
+construction.
+
+FR-02 — Core adjectives
+
+PREREQUISITES: FR-01 beginning noun stock. OBJECTIVE: Introduce common
+descriptions and prepare adjective agreement. CORE PATTERN: Adjectives
+may vary for gender and number. LEXICAL ANCHORS: grand, petit, bon,
+mauvais, nouveau, vieux. CARD STRATEGY: Establish useful meanings before
+systematic inflection; reuse adjectives across nouns. VOCABULARY
+DEVELOPMENT: Add high-frequency physical and evaluative adjectives.
+DELIBERATELY EXCLUDED: Fine placement distinctions and irregular
+comparison. COMPLETION STANDARD: Enough adjective variety exists to
+demonstrate agreement without relying on one or two words. LEADS TO:
+FR-04, FR-06, comparison and advanced adjective placement.
+
+FR-03 — Gender and definite/indefinite articles
+
+PREREQUISITES: FR-01. OBJECTIVE: Establish le/la/l’/les and un/une/des
+and make gender a persistent lexical property. CORE PATTERN: le, la, l’,
+les; un, une, des. CARD STRATEGY: Contrast masculine/feminine and
+singular/plural in ordinary phrases and sentences; introduce elision
+naturally. VOCABULARY DEVELOPMENT: New nouns continue reinforcing
+article/gender patterns. DELIBERATELY EXCLUDED: Partitives, à/de
+contractions, advanced omission. COMPLETION STANDARD: All basic definite
+and indefinite forms appear across gender and number. LEADS TO: FR-04,
+FR-18, FR-21.
+
+FR-04 — Basic adjective agreement and placement
+
+PREREQUISITES: FR-01–03. OBJECTIVE: Establish basic gender/number
+agreement and normal placement. CORE PATTERN: Regular -e feminine and -s
+plural first. CARD STRATEGY: Establish the regular pattern before
+irregularities; contrast the same adjective across noun genders/numbers.
+VOCABULARY DEVELOPMENT: Continue noun/adjective growth. DELIBERATELY
+EXCLUDED: Rare irregular forms and subtle position-dependent meaning.
+COMPLETION STANDARD: All four basic agreement combinations occur with
+multiple nouns/adjectives. LEADS TO: FR-06, FR-72, FR-124.
+
+FR-05 — Subject pronouns
+
+PREREQUISITES: Minimal vocabulary. OBJECTIVE: Establish je, tu, il,
+elle, on, nous, vous, ils, elles. CARD STRATEGY: Teach meaning and
+social/number distinctions, especially tu/vous and practical on; reuse
+immediately with verbs. DELIBERATELY EXCLUDED: Stressed pronouns and
+advanced discourse uses of on. COMPLETION STANDARD: All subject pronouns
+can support later controlled verb examples. LEADS TO: FR-06 onward.
+
+FR-06 — Être: identity and description
+
+PREREQUISITES: FR-02–05. OBJECTIVE: Establish present être through
+identity, classification and description. CORE PATTERN: suis, es, est,
+sommes, êtes, sont. CARD STRATEGY: Build the paradigm through meaningful
+sentences; mix persons after systematic introduction. VOCABULARY
+DEVELOPMENT: Occupations, identities, nationalities and descriptions may
+grow cautiously. DELIBERATELY EXCLUDED: Systematic c’est/il est
+contrast, compound tenses and passive. COMPLETION STANDARD: All present
+forms occur in ordinary sentences and later mixed contexts. LEADS TO:
+FR-10, FR-27 and later constructions.
+
+FR-07 — Avoir: possession and basic expressions
+
+PREREQUISITES: FR-05 and basic noun phrases. OBJECTIVE: Establish
+present avoir in possession and common expressions. CORE PATTERN: ai,
+as, a, avons, avez, ont. CARD STRATEGY: Begin with possession, then a
+limited set of common avoir expressions. VOCABULARY DEVELOPMENT:
+Possessions, family and basic physical-state vocabulary. DELIBERATELY
+EXCLUDED: Passé composé auxiliary use until FR-46. COMPLETION STANDARD:
+All present forms are demonstrated and reused. LEADS TO: FR-25, FR-46.
+
+FR-08 — Basic negation with ne…pas
+
+PREREQUISITES: FR-06–07 and usable verbs. OBJECTIVE: Establish standard
+basic negation and finite-verb placement. CORE PATTERN: ne/n’ + finite
+verb + pas. CARD STRATEGY: Pair affirmative/negative meanings across
+subjects and verbs; retain standard written ne. DELIBERATELY EXCLUDED:
+jamais, plus, rien, personne and informal ne-dropping. COMPLETION
+STANDARD: Negation occurs across multiple subjects/verbs including
+elision. LEADS TO: FR-33 and later tense-specific negation.
+
+STAGE 2 — PRESENT-TENSE FOUNDATION
+
+FR-09 — Regular -er verbs
+
+PREREQUISITES: FR-05 and basic sentence structure. OBJECTIVE: Establish
+the principal productive present -er paradigm. CORE PATTERN: -e, -es,
+-e, -ons, -ez, -ent. LEXICAL ANCHORS: parler plus at least one other
+useful regular -er verb. CARD STRATEGY: Introduce infinitives, singular
+then plural forms; use additional verbs to demonstrate productivity;
+later mix persons. VOCABULARY DEVELOPMENT: Add useful verbs and
+compatible nouns/adverbs without obscuring morphology. DELIBERATELY
+EXCLUDED: Spelling-change subclasses until the regular paradigm is
+secure. COMPLETION STANDARD: All person/number forms occur with multiple
+verbs and in mixed sentences. LEADS TO: FR-10 and all later finite-verb
+work.
+
+FR-10 — Present-tense subject–verb agreement
+
+PREREQUISITES: FR-05–09. OBJECTIVE: Generalize the relationship between
+grammatical subject and finite verb. CARD STRATEGY: Vary pronoun and
+lexical-noun subjects; mix être, avoir and regular verbs. COMPLETION
+STANDARD: Agreement is demonstrated with pronouns and noun subjects
+across number. LEADS TO: All later verb paradigms.
+
+FR-11 — High-frequency irregular verbs I: aller, faire
+
+PREREQUISITES: FR-09–10. OBJECTIVE: Introduce indispensable irregular
+paradigms without weakening the regular model. LEXICAL ANCHORS: aller,
+faire. CARD STRATEGY: Establish each separately before mixing; build
+useful motion/activity expressions. VOCABULARY DEVELOPMENT: Places and
+everyday activities. DELIBERATELY EXCLUDED: Futur proche as a systematic
+tense until FR-62. COMPLETION STANDARD: All common present forms of both
+verbs are demonstrated and reused. LEADS TO: FR-62 and present
+synthesis.
+
+FR-12 — Regular -ir verbs: finir-type
+
+PREREQUISITES: FR-05, FR-09–10. OBJECTIVE: Establish the productive
+present-tense finir-type -ir paradigm. CORE PATTERN: finis, finis,
+finit, finissons, finissez, finissent. LEXICAL ANCHORS: finir, choisir.
+CARD STRATEGY: Introduce one infinitive before finite forms; establish
+singular then plural forms; use a second verb to prove productivity; mix
+only after systematic presentation. VOCABULARY DEVELOPMENT: Continue
+high-frequency vocabulary; keep earliest examples transparent, then
+increase lexical novelty. DELIBERATELY EXCLUDED: partir, sortir, dormir,
+servir, venir and other non-finir-type -ir verbs. COMPLETION STANDARD:
+All six forms appear; at least two verbs demonstrate productivity; -iss-
+plural is clear; forms are reused outside paradigm order. LEADS TO:
+FR-15, FR-16 and later tenses.
+
+FR-13 — Regular -re verbs
+
+PREREQUISITES: FR-09–12. OBJECTIVE: Establish a principal productive -re
+present pattern. CORE PATTERN: A transparent model such as vendre.
+LEXICAL ANCHORS: vendre plus a compatible reinforcing verb. CARD
+STRATEGY: Build the paradigm systematically and demonstrate transfer.
+DELIBERATELY EXCLUDED: Highly irregular -re verbs such as prendre.
+COMPLETION STANDARD: The basic pattern appears with more than one
+compatible verb. LEADS TO: FR-14–16.
+
+FR-14 — High-frequency irregular verbs II: venir, prendre, voir
+
+PREREQUISITES: Established present agreement and regular paradigms.
+OBJECTIVE: Add indispensable irregular verbs while preserving distinct
+paradigms. CARD STRATEGY: Introduce one paradigm at a time; mix only
+after each is visible. VOCABULARY DEVELOPMENT: Motion, handling and
+perception vocabulary. DELIBERATELY EXCLUDED: An undifferentiated
+“irregular verb list.” COMPLETION STANDARD: Each paradigm has practical
+person/number coverage in natural sentences. LEADS TO: FR-15–16.
+
+FR-15 — Other common irregular present-tense verbs
+
+PREREQUISITES: FR-14. OBJECTIVE: Expand the usable present system with
+high-frequency irregular/stem-changing verbs. CARD STRATEGY: Organize
+genuine families where possible; otherwise establish high-value verbs
+individually. VOCABULARY DEVELOPMENT: Continuous. DELIBERATELY EXCLUDED:
+Low-frequency literary/specialist irregularities. COMPLETION STANDARD: A
+practical core supports unrestricted basic present sentences. LEADS TO:
+FR-16.
+
+FR-16 — Present-tense synthesis
+
+PREREQUISITES: FR-09–15. OBJECTIVE: Integrate regular and irregular
+present forms without signaling conjugation class. CARD STRATEGY: Mix
+persons, lexical subjects, negation and increasingly varied vocabulary.
+VOCABULARY DEVELOPMENT: Increase breadth relative to earliest morphology
+units. COMPLETION STANDARD: Present tense functions as reusable
+background grammar. LEADS TO: All subsequent stages.
+
+STAGE 3 — BUILDING THE SIMPLE SENTENCE
+
+FR-17 — Direct objects
+
+OBJECTIVE: Establish ordinary transitive sentences and subject/object
+distinction through use. CARD STRATEGY: Use clear verb/object
+combinations and vary both arguments. VOCABULARY DEVELOPMENT: Strong
+opportunity for concrete nouns and transitive verbs. DELIBERATELY
+EXCLUDED: Object pronouns until FR-37. COMPLETION STANDARD:
+Direct-object noun phrases are routine in affirmative/negative
+sentences.
+
+FR-18 — Partitive articles
+
+OBJECTIVE: Establish du, de la, de l’, des for unspecified quantities.
+LEXICAL ANCHORS: Common foods, drinks and materials. CARD STRATEGY:
+Contrast countable and mass-like contexts naturally. VOCABULARY
+DEVELOPMENT: Food, drink, materials and consumption. DELIBERATELY
+EXCLUDED: Advanced article omission. COMPLETION STANDARD: All forms
+occur in natural contexts.
+
+FR-19 — Quantity and expressions with de
+
+OBJECTIVE: Establish beaucoup de, peu de, assez de, trop de and
+quantity + de. VOCABULARY DEVELOPMENT: Numbers, containers, measures and
+consumption. COMPLETION STANDARD: Several common quantity constructions
+work across noun types.
+
+FR-20 — Prepositions of place
+
+OBJECTIVE: Build common spatial relations: dans, sur, sous, devant,
+derrière, près de, loin de, etc. VOCABULARY DEVELOPMENT: Places, rooms,
+furniture and geography. DELIBERATELY EXCLUDED: Abstract idiomatic
+prepositional uses. COMPLETION STANDARD: A practical spatial system
+supports ordinary location sentences.
+
+FR-21 — À and de with articles
+
+OBJECTIVE: Establish au, aux, du, des alongside à la/de la/à l’/de l’.
+CARD STRATEGY: Use destinations, locations, origins and associations
+naturally. DELIBERATELY EXCLUDED: Every idiomatic verb-preposition
+pairing. COMPLETION STANDARD: Contracted/uncontracted forms are
+routinely selected.
+
+FR-22 — Basic adverbs
+
+OBJECTIVE: Add common manner, frequency, time and degree adverbs.
+LEXICAL ANCHORS: bien, mal, souvent, toujours, parfois, vite, lentement,
+déjà. DELIBERATELY EXCLUDED: Fine compound-tense placement. COMPLETION
+STANDARD: Several major semantic classes are reusable.
+
+FR-23 — Possessive determiners
+
+OBJECTIVE: Establish mon/ma/mes through leur/leurs and the distinction
+between possessor and possessed-noun agreement. VOCABULARY DEVELOPMENT:
+Family, body and possessions. DELIBERATELY EXCLUDED: Possessive pronouns
+until FR-78. COMPLETION STANDARD: All possessor persons and major noun
+combinations appear.
+
+FR-24 — Demonstrative determiners
+
+OBJECTIVE: Establish ce, cet, cette, ces. DELIBERATELY EXCLUDED:
+Demonstrative pronouns until FR-77. COMPLETION STANDARD: All basic forms
+are established.
+
+FR-25 — Numbers, age, dates and time
+
+OBJECTIVE: Provide functional numbers and calendar/time language,
+including avoir + age. CARD STRATEGY: Build number formation
+systematically in practical contexts. VOCABULARY DEVELOPMENT: Days,
+months, dates and time periods. COMPLETION STANDARD: Everyday numerical,
+age, date and time expressions are usable.
+
+FR-26 — Il y a and existence/location
+
+OBJECTIVE: Establish il y a as the ordinary existential construction.
+DELIBERATELY EXCLUDED: Past/future forms until those tense systems
+exist. COMPLETION STANDARD: Existence statements are reusable without
+treating il as referential.
+
+FR-27 — C’est / ce sont versus il/elle est
+
+OBJECTIVE: Establish the major practical distinction between
+identification/classification and personal-subject description. CARD
+STRATEGY: Controlled contrasts rather than rules alone. VOCABULARY
+DEVELOPMENT: Professions, identities and descriptions. COMPLETION
+STANDARD: Canonical contexts are repeatedly contrasted.
+
+FR-28 — Simple sentence synthesis
+
+OBJECTIVE: Integrate expanded simple sentences before questions,
+commands and pronoun substitution. CARD STRATEGY: Mix articles, objects,
+adverbs, prepositions, possession, demonstration, numbers and existence.
+VOCABULARY DEVELOPMENT: Accelerate everyday vocabulary while grammar is
+familiar. COMPLETION STANDARD: Simple declaratives support substantial
+lexical variety.
+
+STAGE 4 — QUESTIONS, COMMANDS AND NEGATION
+
+FR-29 Yes/no questions: intonation Objective: ordinary yes/no questions
+using declarative order and interrogative intonation/punctuation.
+
+FR-30 Est-ce que questions Objective: establish est-ce que as a
+productive neutral question frame.
+
+FR-31 Basic question words Objective: establish qui, que/qu’est-ce que,
+où, quand, pourquoi, comment, combien and other high-value
+interrogatives one function at a time.
+
+FR-32 Inversion Objective: establish standard inversion and its register
+relative to earlier question strategies.
+
+FR-33 Expanded negation Objective: add jamais, plus, rien, personne and
+other high-frequency negative constructions, individually before mixing.
+
+FR-34 Affirmative imperative Objective: establish practical tu, nous and
+vous commands.
+
+FR-35 Negative imperative Objective: combine imperative structure with
+established negation.
+
+FR-36 Question and command synthesis Objective: mix question strategies,
+question words, negation and commands in realistic exchanges; expand
+conversational vocabulary.
+
+STAGE 5 — OBJECT PRONOUNS AND PRONOMINAL VERBS
+
+FR-37 Direct-object pronouns Objective: establish me, te, le, la, nous,
+vous, les before the finite verb; begin by replacing familiar noun
+objects.
+
+FR-38 Indirect-object pronouns Objective: establish common indirect
+personal objects, especially lui and leur, in contrast with direct
+objects.
+
+FR-39 Y Objective: establish y first for concrete place reference, then
+appropriate à-complements.
+
+FR-40 En Objective: establish en for de-complements, quantities and
+partitive/indefinite reference.
+
+FR-41 Multiple object pronouns Objective: establish common pronoun
+ordering incrementally rather than as one ordering chart.
+
+FR-42 Reflexive/pronominal verbs Objective: establish reflexive pronouns
+and common pronominal verbs; distinguish genuinely reflexive meanings
+from lexicalized pronominal verbs. Vocabulary: daily routine and
+personal care.
+
+FR-43 Pronouns with commands Objective: establish object-pronoun
+placement/forms in affirmative and negative imperatives.
+
+FR-44 Object-pronoun synthesis Objective: integrate direct, indirect, y,
+en, reflexive and common multiple-pronoun structures until reusable.
+
+STAGE 6 — PAST TIME I: PASSÉ COMPOSÉ
+
+FR-45 Regular past participles Objective: establish -é, -i and -u
+patterns using known verbs.
+
+FR-46 Passé composé with avoir Objective: establish auxiliary avoir +
+past participle as the principal compound-past pattern.
+
+FR-47 Common irregular past participles Objective: add high-frequency
+irregular participles, prioritizing already known verbs.
+
+FR-48 Passé composé with être Objective: establish common être-auxiliary
+verbs as a practical lexical set.
+
+FR-49 Agreement with être Objective: systematically contrast participle
+gender/number agreement.
+
+FR-50 Passé composé of pronominal verbs Objective: combine established
+pronominal verbs with compound-past formation.
+
+FR-51 Negation and questions in the passé composé Objective: apply
+established question/negation systems to compound verbs.
+
+FR-52 Past-participle agreement with preceding direct objects Objective:
+establish the principal avoir-agreement rule using transparent
+pronoun/object contrasts.
+
+FR-53 Passé composé synthesis Objective: make completed past events
+reusable background grammar while expanding event vocabulary.
+
+STAGE 7 — PAST TIME II: IMPARFAIT AND NARRATION
+
+FR-54 Formation of the imparfait — productive nous-stem formation,
+including être. FR-55 Past states and continuing situations — associate
+imparfait with states/background circumstances. FR-56 Habitual/repeated
+past actions — develop habitual past with suitable time expressions.
+FR-57 Background description — use imparfait for setting, weather,
+appearance and circumstance. FR-58 Passé composé versus imparfait —
+build the aspectual contrast through paired contexts, not English
+substitution rules. FR-59 Interrupted and simultaneous actions — extend
+the aspectual contrast to interacting events. FR-60 Plus-que-parfait —
+establish anteriority to a past reference point. FR-61 Past-time
+narrative synthesis — integrate all three systems in connected
+narratives.
+
+STAGE 8 — FUTURE AND CONDITIONAL
+
+FR-62 Futur proche — aller + infinitive for imminent/planned future.
+FR-63 Futur simple: regular formation. FR-64 Irregular future stems.
+FR-65 Future-time clauses. FR-66 Present conditional: future-like
+stems + imparfait-like endings. FR-67 Polite requests and softened
+statements. FR-68 Hypothetical situations. FR-69 Si clauses I:
+real/probable. FR-70 Si clauses II: hypothetical present/future. FR-71
+Future/conditional synthesis.
+
+STAGE 9 — COMPARISON, DEGREE AND REFERENCE
+
+FR-72 Comparative adjectives. FR-73 Superlative adjectives. FR-74 Adverb
+comparison. FR-75 Irregular comparison: meilleur, mieux, etc. FR-76
+Indefinite determiners and pronouns. FR-77 Demonstrative pronouns. FR-78
+Possessive pronouns. FR-79 Reference and comparison synthesis.
+
+STAGE 10 — RELATIVE AND COMPLEX CLAUSES
+
+FR-80 Relative qui — subject relatives. FR-81 Relative que —
+direct-object relatives and contrast with qui. FR-82 Relative où —
+place/time reference. FR-83 Dont — relative replacement of
+de-complements. FR-84 Preposition + lequel forms. FR-85 Basic
+conjunctions and clause coordination. FR-86 Cause and consequence. FR-87
+Purpose. FR-88 Concession and opposition. FR-89 Complex-clause
+synthesis. Vocabulary development: opinions, reasons, plans,
+institutions and social/abstract topics can expand rapidly.
+
+STAGE 11 — SUBJUNCTIVE
+
+FR-90 Present subjunctive: regular formation. FR-91 Common irregular
+subjunctive forms. FR-92 Necessity and obligation — begin with
+characteristic triggers such as il faut que. FR-93 Desire, preference
+and emotion. FR-94 Doubt, uncertainty and judgment — avoid reducing mood
+to a mechanical trigger list. FR-95 Subjunctive after conjunctions.
+FR-96 Indicative versus subjunctive — controlled contrasts after both
+are independently established. FR-97 Subjunctive synthesis — make the
+mood reusable in appropriate complex sentences.
+
+STAGE 12 — INFINITIVES, PARTICIPLES AND VERBAL STRUCTURES
+
+FR-98 Verb + infinitive constructions. FR-99 Preposition + infinitive.
+FR-100 Faire + infinitive. FR-101 Laisser + infinitive. FR-102 Present
+participle. FR-103 Gérondif. FR-104 Passive voice. FR-105
+Verbal-structure synthesis.
+
+STAGE 13 — ADVANCED TENSE, ASPECT AND MOOD
+
+FR-106 Past conditional. FR-107 Si clauses III: unreal past. FR-108 Past
+subjunctive. FR-109 Anterior relationships among events. FR-110 Tense
+sequencing in complex discourse. FR-111 Literary recognition: passé
+simple — prioritize recognition and high-frequency written forms. FR-112
+Literary recognition: imperfect subjunctive and related forms —
+recognition, not ordinary conversational production. FR-113 Advanced
+tense/mood synthesis with explicit register awareness.
+
+STAGE 14 — REPORTED SPEECH AND DISCOURSE
+
+FR-114 Direct versus indirect speech. FR-115 Reported statements. FR-116
+Reported questions and commands. FR-117 Tense relationships in past
+reporting without importing an inflexible English backshift rule. FR-118
+Discourse connectors. FR-119 Emphasis and dislocation. FR-120 Cleft
+constructions. FR-121 Spoken discourse structures. FR-122
+Extended-discourse synthesis: explanation, narration, argument and
+conversation.
+
+STAGE 15 — ADVANCED NOMINAL AND SYNTACTIC STRUCTURES
+
+FR-123 Advanced article use and omission. FR-124 Advanced adjective
+position and meaning. FR-125 Advanced pronoun reference. FR-126 Advanced
+en and y. FR-127 Complex negation, scope and ne…que. FR-128 Formal
+interrogative structures. FR-129 Nominalization. FR-130 Written
+syntactic compression. FR-131 Advanced syntax synthesis.
+
+STAGE 16 — IDIOM, REGISTER AND NATURAL USAGE
+
+FR-132 Common fixed expressions. FR-133 High-frequency idiomatic verb
+constructions. FR-134 Collocations. FR-135 Everyday conversational
+French. FR-136 Informal spoken structures, including appropriate ne
+omission. FR-137 Neutral versus formal vocabulary. FR-138 Formal written
+French. FR-139 Familiar vocabulary and widely encountered slang,
+avoiding overinvestment in ephemeral slang. FR-140 Pragmatics:
+politeness, tu/vous, mitigation and social distance. FR-141 Register
+switching.
+
+STAGE 17 — BROAD VOCABULARY EXPANSION
+
+These are major lexical domains, not sealed thematic blocks. Vocabulary
+from every domain may appear much earlier. Here lexical breadth becomes
+the principal organizing purpose because the grammatical scaffold is
+mature.
+
+FR-142 Household and everyday life. FR-143 Food and cooking. FR-144
+Clothing and personal objects. FR-145 Family and relationships. FR-146
+Body and health. FR-147 Work and occupations. FR-148 Education. FR-149
+Travel and transportation. FR-150 Buildings, towns and public places.
+FR-151 Nature, plants and animals. FR-152 Weather and environment.
+FR-153 Tools, materials and physical objects. FR-154 Technology and
+communications. FR-155 Commerce, money and finance. FR-156 Government,
+law and public institutions. FR-157 Science and mathematics. FR-158
+Arts, literature and culture. FR-159 Religion and philosophy. FR-160
+Emotions, personality and human behaviour. FR-161 Abstract concepts and
+relationships.
+
+COMMON OBJECTIVE Build broad educated-adult lexical competence while
+recycling mature grammar.
+
+CARD STRATEGY Prefer useful lexical distinctions, natural collocations
+and sentences that reveal usage. Avoid long runs of minimally
+contextualized near-synonyms.
+
+COMPLETION STANDARD No fixed word count. These domains remain expandable
+and may overlap later long-tail work.
+
+STAGE 18 — EDUCATED-ADULT LEXICON
+
+FR-162 Lower-frequency verbs. FR-163 Lower-frequency adjectives. FR-164
+Lower-frequency concrete nouns. FR-165 Abstract nouns. FR-166 Academic
+vocabulary. FR-167 Professional and institutional vocabulary. FR-168
+Scientific and technical general vocabulary. FR-169 Political, legal and
+economic vocabulary. FR-170 Cultural and literary vocabulary. FR-171
+Less-common idioms and collocations. FR-172 Fine semantic distinctions
+and near-synonyms. FR-173 Word families and derivational morphology.
+FR-174 Productive prefixes and suffixes.
+
+COMMON OBJECTIVE Move toward the breadth and precision expected of a
+typical educated adult.
+
+CARD STRATEGY Use mature grammar freely. Attend to register,
+collocation, argument structure, false synonymy, derivational
+relationships and distinctions poorly represented by bare one-word
+glosses.
+
+DELIBERATELY EXCLUDED Narrow specialist vocabulary unless commonly
+encountered by educated nonspecialists.
+
+STAGE 19 — MATURE LANGUAGE COMPETENCE / LONG TAIL
+
+FR-175 Regional variation commonly encountered by educated speakers.
+FR-176 Metropolitan, Canadian and other major francophone usage. FR-177
+Generational and contemporary usage. FR-178 Formal and literary
+vocabulary. FR-179 Historical vocabulary still encountered in modern
+texts. FR-180 Specialized vocabulary of broad cultural relevance. FR-181
+Rare but reasonably educated-adult vocabulary. FR-182 Idiomatic and
+figurative long tail. FR-183 Continuing lexical expansion.
+
+COMMON OBJECTIVE Approach the practical asymptote of the Polyglot
+definition of a complete modern language curriculum: vocabulary,
+constructions, idioms, registers and cultural-linguistic distinctions a
+typical educated adult might reasonably know and encounter.
+
+CARD STRATEGY Selection becomes increasingly frequency-, usefulness-,
+register- and exposure-sensitive. Mature grammar is assumed.
+
+COMPLETION STANDARD There is intentionally no absolute terminal word
+count. FR-183 is expandable. “Complete” describes direction and scope,
+not exhaustion of every possible French word.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1.  Unit completion means its canonical sequence adequately demonstrates
+    its objective; it does not claim learner mastery.
+2.  Once established, grammar becomes reusable unless temporary
+    simplification is pedagogically useful.
+3.  Vocabulary introduced at any point remains reusable.
+4.  Later cards increasingly combine multiple established structures
+    naturally.
+5.  New grammar should normally be the principal structural novelty in
+    its earliest cards.
+6.  The scheduler, not curriculum order, supplies extra repetition for
+    difficult material.
+7.  Future amendments may split, merge, reorder or refine units without
+    renumbering existing card IDs.
+
+AMENDMENT POLICY
+
+This syllabus changes only when the canonical French curriculum changes.
+Generating cards or advancing through a unit does not amend it.
+
+An amendment should identify affected units, state the pedagogical
+change, say whether it affects future cards only or requires
+existing-card correction, increment the version, and preserve a concise
+amendment record.
+
+AMENDMENT HISTORY
+
+Version 0.1 - Initial draft. - Establishes FR-01 through FR-183. - Makes
+vocabulary growth continuous alongside grammar-led structural
+progression. - Separates curriculum specification from progress. - Uses
+completion standards rather than fixed card quotas. - Gives near-term
+units substantially more implementation detail than distant long-tail
+units.
+
+
+Version 0.2
+- Adopts Charter 0.5 small-seed and just-in-time pacing.
+- Makes the historical early French sequence the explicit pacing model
+  without canonizing every historical grammar choice.
+- Clarifies that FR-01/FR-02 do not require large lexical inventories
+  before productive structure begins.
