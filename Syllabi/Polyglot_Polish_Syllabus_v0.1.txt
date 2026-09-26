@@ -1,0 +1,993 @@
+POLYGLOT POLISH SYLLABUS
+
+Version: 0.1 Status: Draft for curriculum review Charter version: 0.3
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for modern Polish
+in Polyglot. It specifies content, prerequisite order, and card
+strategy, not learner progress. Routine card generation changes the
+manifest and CSV, not this syllabus.
+
+Vocabulary and lexical usage grow continuously. Grammar units define
+structural progression but do not freeze vocabulary. Unit sizes follow
+completion standards rather than fixed card quotas.
+
+The established Polyglot syllabi provide structural and editorial
+models, but Polish is organized according to its own grammar, usage,
+orthography, and prerequisite relationships. Similarity to Russian,
+Ukrainian, or other Slavic languages may inform comparison but does not
+make another language the structural authority for Polish.
+
+TERMINOLOGY
+
+INTRODUCED — A form, word, construction, orthographic element, or
+distinction has begun to be demonstrated.
+
+ESTABLISHED — The canonical curriculum has demonstrated the item
+sufficiently for its basic operation to be assumed later. This describes
+curriculum state, not learner mastery.
+
+REUSABLE — An established item or structure may appear naturally in
+later cards without being the principal teaching objective.
+
+LEXICAL ANCHOR — A word deliberately selected to make a grammatical,
+semantic, morphological, or orthographic pattern visible. Anchors do not
+limit additional vocabulary.
+
+CANONICAL SEQUENCE — The static pedagogical ordering of cards and
+concepts. Scheduling frequency may adapt to performance; curriculum
+order does not.
+
+COMPLETION STANDARD — The coverage required before a unit’s principal
+concept may be treated as established.
+
+DELIBERATELY EXCLUDED — Material postponed because it would obscure the
+current pattern, depends on later knowledge, or deserves separate
+treatment.
+
+COURSE-WIDE POLISH PRINCIPLES
+
+1.  Use ordinary contemporary Polish orthography in every Target from
+    the first card. Preserve all required diacritics: ą, ć, ę, ł, ń, ó,
+    ś, ź, ż. Exact matching treats these as meaningful spelling
+    distinctions.
+2.  InputHint is normally blank. Polish is entered directly with an
+    appropriate Latin-script keyboard; unfamiliar diacritics or
+    pronunciation do not by themselves justify an InputHint.
+3.  Begin with useful words and naturally complete utterances. Use
+    conventional citation forms and natural Polish syntax rather than
+    mirroring English mechanically.
+4.  Every Target should be natural for its intended meaning and register
+    and worth retaining permanently. Beginner difficulty is controlled
+    by selection and sequencing, not beginnerized Polish.
+5.  Noun gender, animacy/personhood, case, adjective agreement, verbal
+    aspect, stem alternations, and stress-sensitive morphology are
+    longitudinal systems rather than one-time paradigm lessons.
+6.  Polish has seven cases. Case functions are established through
+    controlled examples before paradigms are broadened. The vocative is
+    treated as productive modern grammar whose distribution depends on
+    lexical item, register, and address context.
+7.  The gender system must not be reduced to masculine/feminine/neuter.
+    Early singular gender provides a foundation, but masculine animate,
+    masculine personal, and plural masculine-personal versus
+    non-masculine-personal distinctions receive explicit development.
+8.  Present-tense nominal identification uses być naturally; Polish is
+    not taught through a Russian-style zero-copula model.
+9.  Imperfective and perfective aspect develop longitudinally. Aspect
+    partners are treated as lexical and morphological relationships, not
+    as mechanically interchangeable translations.
+10. Polish non-past perfective forms normally have future reference. The
+    imperfective future with forms of być and an infinitive or past-like
+    form is developed separately and naturally.
+11. Word order is flexible but not arbitrary. Neutral ordering,
+    information structure, focus, clitic placement, rhythm, and
+    discourse context are developed progressively rather than treating
+    all permutations as equivalent.
+12. Pronunciation and spelling relationships such as ó/u, rz/ż, ch/h,
+    nasal vowels, palatalization, and consonant alternations are learned
+    through real vocabulary before later systematization. Conventional
+    spelling is never replaced by phonetic transcription.
+13. Productive patterns precede exceptions where possible.
+    High-frequency irregular forms may appear early when ordinary
+    language requires them.
+14. Grammar is normally learned through controlled examples rather than
+    terminology questions.
+15. A card’s single Target must be natural and sufficiently determined
+    by its English prompt. Prompts should disambiguate aspect, case,
+    lexical choice, register, motion, gender/personhood, or information
+    structure where necessary.
+16. High-frequency words develop longitudinally across senses,
+    constructions, case frames, collocations, idioms, derivational
+    families, and register.
+17. Contemporary broadly neutral standard Polish is the initial
+    reference variety. Common colloquial, regional, historical,
+    literary, and generational forms are introduced later and described
+    without displacing the standard.
+18. Similarity to other Slavic languages may assist explanation and
+    lexical selection, but Polish usage, government, aspect, spelling,
+    stress, personhood distinctions, and conventional phraseology remain
+    authoritative.
+
+STAGE 1 — AUTHENTIC ORTHOGRAPHY AND CORE LEXICON
+
+PL-01 — Core concrete nouns and authentic Polish spelling
+
+PREREQUISITES: None. OBJECTIVE: Begin ordinary Polish spelling and
+high-value concrete nouns together. LEXICAL ANCHORS: dom, książka, stół,
+woda, miasto, człowiek. CARD STRATEGY: English meaning → natural Polish
+citation form. Select useful vocabulary that naturally exposes ordinary
+letters and diacritics rather than constructing an alphabet inventory.
+VOCABULARY DEVELOPMENT: People, objects, food, animals, and places.
+DELIBERATELY EXCLUDED: Alphabet-name quizzes, ASCII substitutes for
+Polish letters, full declension, and detached spelling drills.
+COMPLETION STANDARD: Enough varied useful vocabulary is established to
+support the first short utterances. LEADS TO: PL-03–PL-10.
+
+PL-02 — Core qualities and actions
+
+PREREQUISITES: PL-01 begun. OBJECTIVE: Build useful descriptive and
+action vocabulary without forcing premature agreement or conjugation.
+LEXICAL ANCHORS: dobrze, źle, dużo, czytać, wiedzieć, pracować. CARD
+STRATEGY: Use natural standalone adverbs and verb infinitives where
+appropriate; adjective citation forms may appear lexically before their
+agreement system is taught. VOCABULARY DEVELOPMENT: Daily activities,
+common qualities, and concrete actions. DELIBERATELY EXCLUDED: Full
+adjective paradigms, full conjugation, and an aspect-pair requirement
+for every new verb. COMPLETION STANDARD: A varied lexical base supports
+the first predicates without a dense run of abstract vocabulary. LEADS
+TO: PL-05, PL-08, PL-11.
+
+PL-03 — Personal and demonstrative reference
+
+PREREQUISITES: PL-01. OBJECTIVE: Introduce ja, ty, on, ona, ono, my, wy,
+oni, one and to where naturally used. CARD STRATEGY: Make oni versus one
+visible as a genuine Polish plural distinction but postpone the full
+masculine-personal system. Do not mechanically retain subject pronouns
+once verb morphology makes them unnecessary. DELIBERATELY EXCLUDED:
+Oblique pronoun forms, honorific Pan/Pani systems, and full
+demonstrative agreement. COMPLETION STANDARD: Basic person, number,
+singular gender, and plural reference operate in short utterances. LEADS
+TO: PL-04, PL-08, PL-15.
+
+PL-04 — Present identification with być
+
+PREREQUISITES: PL-01, PL-03. OBJECTIVE: Establish jestem, jesteś, jest,
+jesteśmy, jesteście, są in natural identification, classification,
+occupation, and description. CORE PATTERNS: To jest dom. Ona jest
+lekarką. Dom jest duży. CARD STRATEGY: Use natural Polish predicate
+structures rather than mapping every English “be” sentence to one fixed
+construction. VOCABULARY DEVELOPMENT: Occupations, identities, and
+common descriptions. DELIBERATELY EXCLUDED: Past/future być, advanced
+instrumental predicates, and colloquial copular ellipsis. COMPLETION
+STANDARD: Common present-tense uses of być are established across
+persons and natural predicate types. LEADS TO: PL-05–PL-07.
+
+PL-05 — Noun gender and basic adjective agreement
+
+PREREQUISITES: PL-01, PL-04. OBJECTIVE: Make masculine, feminine, and
+neuter singular gender visible through useful nouns and attributive
+adjectives. LEXICAL ANCHORS: nowy dom, nowa książka, nowe miasto. CARD
+STRATEGY: Contrast one adjective across genders before widening the
+lexicon. DELIBERATELY EXCLUDED: Masculine subgenders, oblique cases,
+plural agreement, and less productive ending classes. COMPLETION
+STANDARD: Basic singular nominative agreement is productive across all
+three genders. LEADS TO: PL-14, PL-16, PL-57.
+
+PL-06 — Basic negation and yes/no questions
+
+PREREQUISITES: PL-04. OBJECTIVE: Establish nie and natural yes/no
+question formation, including czy where appropriate. CARD STRATEGY:
+Contrast positive and negative predicates, then declarative and question
+contexts. Do not imply that every spoken yes/no question requires czy.
+DELIBERATELY EXCLUDED: Negative pronouns, genitive under negation,
+scope-sensitive negation, and emphatic constructions. COMPLETION
+STANDARD: Negation and basic questions work across several natural
+utterance types. LEADS TO: PL-07, PL-12.
+
+PL-07 — Existence and possession with być / mieć
+
+PREREQUISITES: PL-03, PL-04, PL-06. OBJECTIVE: Establish common
+existential and possession patterns with jest/są, nie ma, and mieć while
+distinguishing their ordinary functions. CARD STRATEGY: Avoid forcing
+one English “have/there is” pattern onto all Polish contexts.
+DELIBERATELY EXCLUDED: Full genitive paradigms, possessive pronouns, and
+advanced existential word order. COMPLETION STANDARD: Several possessors
+and concrete referents establish affirmative and negative
+existence/possession naturally. LEADS TO: PL-21, PL-26.
+
+PL-08 — Present tense: first productive verb patterns
+
+PREREQUISITES: PL-02, PL-03. OBJECTIVE: Establish finite present forms
+through a small coherent set of imperfective verbs. CARD STRATEGY:
+Contrast persons and numbers systematically before adding more stem
+alternations; allow natural subject omission. DELIBERATELY EXCLUDED:
+Perfective future interpretation, past tense, imperative, and dense
+irregularity. COMPLETION STANDARD: Person/number marking is productive
+across several verbs and natural short sentences. LEADS TO: PL-09–PL-11.
+
+PL-09 — Present tense: additional patterns and common irregulars
+
+PREREQUISITES: PL-08. OBJECTIVE: Broaden present-tense conjugation to
+additional productive patterns and indispensable high-frequency
+irregular or stem-changing verbs. CARD STRATEGY: Establish coherent
+contrasts before exceptions; do not present a single undifferentiated
+conjugation table. COMPLETION STANDARD: Major present endings and
+selected high-frequency irregularities operate across varied contexts.
+LEADS TO: PL-10, PL-13.
+
+PL-10 — Early sentence synthesis
+
+PREREQUISITES: PL-01–PL-09. OBJECTIVE: Combine identity, description,
+negation, existence, possession, questions, and present actions with
+fresh useful vocabulary. CARD STRATEGY: Keep Polish word order natural
+and vary information focus only where the prompt remains exact-match
+compatible. COMPLETION STANDARD: Short sentences use a growing lexicon
+and all established patterns without dependence on a tiny anchor set.
+LEADS TO: PL-11 onward.
+
+STAGE 2 — SENTENCE TOOLS AND FIRST CASE FUNCTIONS
+
+PL-11 — Question words
+
+OBJECTIVE: Establish kto, co, gdzie, dokąd, skąd, kiedy, jak, dlaczego,
+który and other high-value interrogatives progressively in natural
+questions.
+
+PL-12 — Negation with verbs
+
+OBJECTIVE: Extend nie across verbal predicates and distinguish ordinary
+verbal negation from nie ma and later negative-pronoun systems.
+
+PL-13 — Infinitive complements and early modal constructions
+
+OBJECTIVE: Establish common patterns with chcieć, móc, musieć, trzeba,
+można and related meanings one distinction at a time.
+
+PL-14 — Nominative plural: first noun and adjective patterns
+
+OBJECTIVE: Establish common plural forms and adjective agreement while
+keeping masculine-personal morphology initially controlled.
+
+PL-15 — Masculine-personal versus non-masculine-personal plural: first
+contrast
+
+PREREQUISITES: PL-03, PL-05, PL-14. OBJECTIVE: Establish oni versus one
+and the first visible agreement consequences through concrete
+human/non-human groups. CARD STRATEGY: Begin with transparent
+noun/adjective/pronoun contrasts; develop the system longitudinally
+rather than as one exhaustive table. DELIBERATELY EXCLUDED: Full virile
+plural declension and numeral consequences. COMPLETION STANDARD: The
+learner can recognize that Polish plural agreement depends on
+masculine-personal status, not simply plural number. LEADS TO: PL-34,
+PL-57, PL-63.
+
+PL-16 — Accusative singular: inanimate direct objects
+
+OBJECTIVE: Establish prototypical direct objects, beginning with forms
+that make nominative/accusative relationships transparent.
+
+PL-17 — Accusative singular: masculine animacy
+
+OBJECTIVE: Establish the genitive-like accusative of masculine animate
+nouns through concrete contrasts. DELIBERATELY EXCLUDED: Full
+masculine-personal plural and fine variation in animate/inanimate
+lexical classification.
+
+PL-18 — Locative singular with w and na
+
+OBJECTIVE: Establish common location expressions and the locative case
+in controlled spatial contexts. CARD STRATEGY: Teach lexical choice of w
+versus na separately from the case ending itself.
+
+PL-19 — Direction with do + genitive and na + accusative
+
+OBJECTIVE: Establish common destination patterns and contrast them with
+location using familiar places and motion vocabulary.
+
+PL-20 — Instrumental accompaniment with z
+
+OBJECTIVE: Introduce a high-value instrumental function through
+transparent “with” relationships before broadening instrumental
+morphology.
+
+PL-21 — Genitive singular: absence, possession, source, and quantity
+
+OBJECTIVE: Broaden the genitive from nie ma into several high-value
+functions using controlled noun classes.
+
+PL-22 — Dative singular: recipients and experiencers
+
+OBJECTIVE: Establish recipients and common experiencer constructions
+through high-frequency verbs and expressions.
+
+PL-23 — Vocative: direct address
+
+OBJECTIVE: Establish productive common vocative forms with names,
+kinship terms, titles, and ordinary forms of address. CARD STRATEGY: Use
+actual address contexts and contrast nominative where modern usage
+permits or prefers it. DELIBERATELY EXCLUDED: Rare, archaic, and
+unstable variants. COMPLETION STANDARD: Common masculine and feminine
+address patterns are established without implying that vocative and
+nominative are freely interchangeable in every context. LEADS TO: PL-44,
+PL-100.
+
+PL-24 — Basic place, time, frequency, and manner adverbs
+
+OBJECTIVE: Expand useful sentence tools such as tutaj, tam, teraz,
+potem, dzisiaj, jutro, często, zawsze, dobrze, szybko in natural
+positions.
+
+PL-25 — First case and sentence synthesis
+
+COMMON CARD STRATEGY: Introduce each new case function with a limited
+set of nouns whose forms expose the pattern. Widen gender and stem
+classes after the function is visible. Do not ask for case names as
+answers.
+
+COMPLETION STANDARD: Principal early case functions are established
+across multiple lexical representatives and can combine in short natural
+sentences.
+
+DELIBERATELY EXCLUDED: Full plural oblique paradigms, exhaustive
+prepositional government, rare declensions, and unrestricted word-order
+variation.
+
+STAGE 3 — PAST, FUTURE, AND FIRST ASPECT CONTRASTS
+
+PL-26 — Imperfective past: gender and number
+
+OBJECTIVE: Establish past forms with familiar imperfective verbs,
+including gender distinctions in singular and the first plural agreement
+contrasts.
+
+PL-27 — Past of być and natural past predicates
+
+OBJECTIVE: Establish byłem/byłam, byłeś/byłaś, był/była/było, byli/były
+and related forms in natural identification, location, and description.
+
+PL-28 — Imperfective future with być + infinitive
+
+OBJECTIVE: Establish będę + infinitive across persons with familiar
+imperfective verbs.
+
+PL-29 — Imperfective future with być + past-like form
+
+OBJECTIVE: Establish ordinary alternatives such as będę czytał/czytała,
+including gender agreement, without claiming that all analytic variants
+are pragmatically identical in every context.
+
+PL-30 — First imperfective/perfective contrasts
+
+OBJECTIVE: Introduce transparent aspectual pairs in contexts contrasting
+ongoing/repeated/process meanings with completed bounded events.
+
+PL-31 — Perfective future
+
+OBJECTIVE: Establish that perfective non-past forms ordinarily refer to
+future completed events and contrast them with imperfective present and
+imperfective future.
+
+PL-32 — Aspect in questions, negation, and expected result
+
+OBJECTIVE: Begin context-sensitive aspect selection without reducing the
+system to English tense labels.
+
+PL-33 — Common nontransparent aspect partners
+
+OBJECTIVE: Introduce high-frequency aspectual relationships that must be
+learned substantially as lexical families.
+
+PL-34 — Past-tense masculine-personal plural
+
+PREREQUISITES: PL-15, PL-26. OBJECTIVE: Establish byli, robili, czytali
+and corresponding non-masculine-personal forms such as były, robiły,
+czytały in meaningful human and non-human group contrasts. COMPLETION
+STANDARD: Plural past agreement reflects the core masculine-personal
+distinction across several verb families.
+
+PL-35 — Past/future/aspect synthesis
+
+COMMON CARD STRATEGY: English prompts should provide enough temporal,
+iterative, process, result, and participant-gender context to elicit one
+intended aspect and form.
+
+COMPLETION STANDARD: Aspect is visible across several verb families, and
+past, imperfective future, and perfective future are structurally
+established.
+
+DELIBERATELY EXCLUDED: Exhaustive prefix semantics, fine discourse-level
+aspect choice, and low-frequency aspectual derivation.
+
+STAGE 4 — CASE SYSTEM IN USE
+
+PL-36 — Accusative plural and masculine-personal distinctions
+
+OBJECTIVE: Extend direct-object marking to plural noun phrases,
+including masculine-personal forms and agreement.
+
+PL-37 — Genitive plural
+
+OBJECTIVE: Establish productive genitive plural patterns, then common
+zero endings and irregularities in quantity, absence, negation, and
+established prepositional functions.
+
+PL-38 — Dative plural and agreement
+
+OBJECTIVE: Extend recipient and experiencer patterns to plural noun
+phrases.
+
+PL-39 — Instrumental singular beyond accompaniment
+
+OBJECTIVE: Establish means/instrument, predicate nominals after być
+where required, and other high-value instrumental uses as distinct
+constructions.
+
+PL-40 — Instrumental plural and agreement
+
+OBJECTIVE: Broaden instrumental morphology to plural noun phrases.
+
+PL-41 — Locative plural
+
+OBJECTIVE: Extend established location/aboutness functions to plural
+forms and relevant prepositions.
+
+PL-42 — Genitive under negation
+
+OBJECTIVE: Establish the productive relationship between negated
+transitive predicates and genitive objects while distinguishing contexts
+and variation that do not fit a simplistic automatic conversion rule.
+
+PL-43 — Core preposition government
+
+OBJECTIVE: Establish frequent prepositions and their case frames in
+semantic families rather than as an arbitrary list.
+
+PL-44 — Personal pronouns in oblique cases
+
+OBJECTIVE: Establish high-frequency pronoun forms through already known
+case functions, including stressed/full and clitic-like variants where
+ordinary usage requires them.
+
+PL-45 — Possessive and demonstrative pronouns through cases
+
+OBJECTIVE: Develop mój, twój, nasz, wasz, swój, ten, tamten and related
+forms through established case functions.
+
+PL-46 — Vocative expansion and address patterns
+
+OBJECTIVE: Broaden vocative morphology, adjective+noun address, names,
+titles, kinship terms, and socially natural address.
+
+PL-47 — Case synthesis in connected everyday sentences
+
+COMMON CARD STRATEGY: Contrast semantic roles, prepositions, endings,
+animacy, and personhood in small families. Mix cases only after each
+principal function is visible.
+
+COMPLETION STANDARD: Productive singular and plural case forms plus
+indispensable irregulars support natural use of all seven cases in
+common functions.
+
+DELIBERATELY EXCLUDED: Rare historical endings, marginal variants, and
+idiomatic government better learned with later lexical items.
+
+STAGE 5 — VERBAL STRUCTURE, IMPERATIVE, REFLEXIVES, AND MOTION
+
+PL-48 — Imperative
+
+OBJECTIVE: Establish productive imperative forms with familiar verbs
+before widening irregularity and periphrastic commands.
+
+PL-49 — Aspect choice in requests and commands
+
+OBJECTIVE: Develop aspect in instructions, requests, warnings, and
+negative imperatives through context rather than one English gloss.
+
+PL-50 — Reflexive się: lexical and productive uses
+
+OBJECTIVE: Establish common reflexive, reciprocal, middle-like,
+anticausative, and impersonal uses while keeping lexicalized verbs
+distinct from purely compositional reflexives.
+
+PL-51 — Placement of się and unstressed pronouns
+
+OBJECTIVE: Develop ordinary placement tendencies and restrictions
+without turning flexible Polish word order into arbitrary movement.
+
+PL-52 — Impersonal and indefinite-personal constructions
+
+OBJECTIVE: Establish common clauses with -no/-to, się, third-person
+forms, and other strategies that do not require an English-style
+explicit subject.
+
+PL-53 — iść / chodzić: movement on foot
+
+OBJECTIVE: Establish current one-directional motion versus habitual,
+repeated, or multidirectional motion through actual contexts.
+
+PL-54 — jechać / jeździć: movement by transport
+
+OBJECTIVE: Establish the corresponding transport contrast and its
+lexical frames.
+
+PL-55 — Destination, source, route, and motion case frames
+
+OBJECTIVE: Integrate motion with established cases and prepositions,
+including do, z/ze, od, przez, w, na and po as appropriate.
+
+PL-56 — Prefixed motion verbs
+
+OBJECTIVE: Develop common meanings such as arrival, departure, entry,
+exit, approach, passage, and return with appropriate aspectual
+relationships.
+
+PL-57 — Additional motion families
+
+OBJECTIVE: Expand to high-frequency movement verbs by usefulness,
+keeping directionality, repetition, and lexical meaning distinct.
+
+PL-58 — Carrying, leading, and transporting
+
+OBJECTIVE: Establish common verbs such as nieść/nosić, prowadzić,
+wieźć/wozić and their aspectual and argument-structure relationships.
+
+PL-59 — Motion and aspect synthesis
+
+COMPLETION STANDARD: Major combinations of means, direction, frequency,
+prefix, case frame, and aspect can be recovered from context across
+varied destinations and situations.
+
+STAGE 6 — ADJECTIVES, PRONOUNS, COMPARISON, AND NUMBER
+
+PL-60 — Full adjective declension
+
+OBJECTIVE: Extend adjective agreement systematically across established
+cases, genders, numbers, animacy, and masculine-personal distinctions.
+
+PL-61 — Possessive, demonstrative, interrogative, and relative agreement
+
+OBJECTIVE: Consolidate adjective-like pronoun paradigms through
+meaningful noun phrases rather than isolated tables.
+
+PL-62 — Comparative adjectives and adverbs
+
+OBJECTIVE: Establish productive synthetic and analytic comparison,
+suppletive common forms, and natural comparative constructions.
+
+PL-63 — Superlatives
+
+OBJECTIVE: Establish naj- and ordinary superlative/degree strategies
+with appropriate syntax.
+
+PL-64 — Cardinal numerals: one, two, three, four
+
+OBJECTIVE: Establish the distinctive agreement and case behaviour of low
+cardinals in high-value contexts.
+
+PL-65 — Cardinal numerals: five and above
+
+OBJECTIVE: Establish genitive-governing patterns and their interaction
+with verb agreement progressively.
+
+PL-66 — Masculine-personal numerals and plural personhood
+
+OBJECTIVE: Develop forms and constructions such as dwaj/dwóch,
+trzej/trzech and their syntactic consequences without presenting all
+variants at once.
+
+PL-67 — Collective numerals
+
+OBJECTIVE: Introduce dwoje, troje and other common collective numerals
+with the noun classes and meanings that license them.
+
+PL-68 — Numerals in dates, time, prices, ages, and measurements
+
+OBJECTIVE: Develop numbers in high-value real contexts while expanding
+case behaviour progressively.
+
+PL-69 — Ordinals and agreement
+
+OBJECTIVE: Establish ordinal morphology and agreement through dates,
+sequence, floors, rankings, and other ordinary contexts.
+
+PL-70 — Indefinite, negative, and universal pronouns
+
+OBJECTIVE: Establish forms with ktoś/coś, nikt/nic, każdy, wszyscy and
+related systems together with Polish negative concord.
+
+PL-71 — Noun-phrase and quantification synthesis
+
+COMPLETION STANDARD: Agreement, comparison, reference, personhood, and
+quantity operate naturally across established case functions. Rare
+numeral variants remain available for later lexical expansion.
+
+STAGE 7 — COMPLEX SENTENCES AND INFORMATION STRUCTURE
+
+PL-72 — Coordination
+
+OBJECTIVE: Establish i, a, ale, albo, lub, czy and their principal
+semantic and stylistic contrasts.
+
+PL-73 — Core subordinate clauses
+
+OBJECTIVE: Establish high-frequency complement, causal, conditional, and
+temporal links such as że, bo, ponieważ, jeśli/jeżeli, kiedy, gdy.
+
+PL-74 — Relative który
+
+OBJECTIVE: Establish antecedent agreement and clause-internal case one
+role at a time.
+
+PL-75 — Other relatives and correlatives
+
+OBJECTIVE: Expand kto, co, gdzie, dokąd, skąd, kiedy, jak and related
+relative/correlative structures.
+
+PL-76 — Reported statements and indirect questions
+
+OBJECTIVE: Establish common complement patterns and indirect-question
+constructions, including czy and interrogative words.
+
+PL-77 — Conditional mood with by
+
+OBJECTIVE: Establish conditional morphology and meanings through clear
+present/future hypothetical and counterfactual contexts.
+
+PL-78 — Mobile conditional particles and person marking
+
+OBJECTIVE: Develop forms such as zrobiłbym, gdybym, żebyś and the
+placement and attachment behaviour of by-person endings in natural
+constructions.
+
+PL-79 — żeby and purpose/complement clauses
+
+OBJECTIVE: Establish common purpose, desired-action, command-reporting,
+and complement patterns while distinguishing them from że clauses.
+
+PL-80 — Flexible word order and information structure
+
+OBJECTIVE: Distinguish neutral orders from marked topic/focus
+arrangements and show how context affects constituent placement.
+
+PL-81 — Clitic ordering and prosodic placement
+
+OBJECTIVE: Develop ordinary positioning of unstressed pronouns, się,
+conditional particles, and related weak elements in natural sentences.
+
+PL-82 — Negation scope and contrastive focus
+
+OBJECTIVE: Develop meanings that cannot be captured by treating nie as a
+simple word-level switch.
+
+PL-83 — Clause and information-structure synthesis
+
+CARD STRATEGY: English prompts must provide discourse context when
+focus, word order, clitic placement, or conjunction choice affects the
+intended Target.
+
+COMPLETION STANDARD: Major clause types operate across varied pronoun
+and case roles, with natural Polish information packaging visible.
+
+STAGE 8 — EXPANDED ASPECT, VOICE, AND VERBAL DERIVATION
+
+PL-84 — Aspect in repeated events, duration, and completed sequences
+
+PL-85 — Aspect under negation, modal constructions, and infinitive
+complements
+
+PL-86 — Prefixes and lexical meaning
+
+OBJECTIVE: Distinguish productive aspectual relationships from prefixes
+that create substantially new lexical verbs.
+
+PL-87 — Secondary imperfectives and derived aspect families
+
+OBJECTIVE: Develop productive and high-frequency derived imperfectives
+without implying that every aspect pair is mechanically predictable.
+
+PL-88 — Habitual and iterative derivation
+
+OBJECTIVE: Establish productive or common iterative/habitual
+relationships where modern Polish maintains meaningful contrasts.
+
+PL-89 — Passive with być / zostać + passive participle
+
+OBJECTIVE: Establish state/result and eventive passive strategies
+through natural contrasts.
+
+PL-90 — Passive and impersonal się
+
+OBJECTIVE: Compare passive-like, middle, impersonal, and active
+alternatives according to natural Polish usage rather than English voice
+preferences.
+
+PL-91 — Passive participles and result/state distinctions
+
+OBJECTIVE: Develop productive passive participial morphology and its
+adjectival or resultative uses.
+
+PL-92 — Active adjectival participles
+
+OBJECTIVE: Establish forms in -ący as productive modifiers, including
+agreement and their relationship to finite relative clauses.
+
+PL-93 — Contemporary adverbial participles
+
+OBJECTIVE: Establish present forms in -ąc and anterior forms in
+-wszy/-łszy, their aspect restrictions, subject control, punctuation,
+and register.
+
+PL-94 — Verbal morphology synthesis in connected prose
+
+COMPLETION STANDARD: Productive aspectual, voice, participial, and
+derivational systems are represented across several verb families, while
+lexicalized or stylistically restricted forms are distinguished from
+ordinary productive usage.
+
+STAGE 9 — WORD FORMATION, ORTHOGRAPHY, AND PRONUNCIATION
+
+PL-95 — Productive noun, adjective, and verb derivation
+
+OBJECTIVE: Develop useful word families and recurring affixes without
+assuming semantic transparency.
+
+PL-96 — Diminutives, augmentatives, and expressive derivation
+
+OBJECTIVE: Establish common productive forms together with pragmatic,
+emotional, and register effects.
+
+PL-97 — Prefix meaning and lexicalization
+
+OBJECTIVE: Revisit prefixes across lexical families, separating
+productive meaning tendencies from conventional lexical meanings.
+
+PL-98 — Palatalization and consonant alternations in morphology
+
+OBJECTIVE: Systematize alternations already encountered in declension,
+conjugation, derivation, and comparison.
+
+PL-99 — ó / u and rz / ż
+
+OBJECTIVE: Consolidate major spelling contrasts and morphologically
+useful alternations through real word families without pretending that
+all spellings are synchronically predictable.
+
+PL-100 — ch / h and other orthographic contrasts
+
+OBJECTIVE: Develop conventional spelling, productive alternations where
+present, and lexical learning where spelling is not predictable.
+
+PL-101 — Nasal vowels ą / ę in spelling and pronunciation
+
+OBJECTIVE: Relate stable orthography to context-sensitive pronunciation
+in real words and inflectional patterns.
+
+PL-102 — Softness, i, j, and consonant spelling
+
+OBJECTIVE: Systematize common relationships among palatalization, i,
+digraphs, and morphological spelling.
+
+PL-103 — Stress and pronunciation
+
+OBJECTIVE: Establish the overwhelmingly penultimate stress pattern,
+common exceptions, clitic/prosodic behaviour, and pronunciation features
+that materially affect comprehension or production; use external
+audio/reference support where useful.
+
+PL-104 — Orthographic conventions and punctuation
+
+OBJECTIVE: Establish capitalization, punctuation,
+quotation/direct-speech conventions, abbreviations, hyphenation, and
+other ordinary written norms.
+
+PL-105 — Derivational and literacy synthesis
+
+COMPLETION STANDARD: Common productive word families, orthographic
+rules, morphophonemic alternations, and pronunciation-sensitive patterns
+operate in natural words and sentences. Conventional spelling is never
+replaced with transcription to simplify production.
+
+STAGE 10 — PHRASEOLOGY, REGISTER, AND NATURAL USAGE
+
+PL-106 — High-frequency verbs across senses and case frames
+
+OBJECTIVE: Develop common verbs longitudinally across major senses,
+aspect families, complements, constructions, and collocations.
+
+PL-107 — Conventional verb-noun and adjective-noun collocations
+
+PL-108 — Spatial, temporal, and abstract preposition choices
+
+OBJECTIVE: Expand beyond introductory case rules into conventional
+lexical government and semantic contrasts.
+
+PL-109 — Particles and stance
+
+OBJECTIVE: Develop high-frequency particles and discourse words such as
+przecież, właśnie, chyba, nawet, tylko, już, jeszcze, no and others in
+context, including pragmatic force without simple English equivalents.
+
+PL-110 — Pan/Pani/Państwo and social address
+
+OBJECTIVE: Establish Polish third-person honorific address, titles,
+first names, surnames, vocatives, ty/wy, and social distance in
+contemporary contexts. CARD STRATEGY: Do not translate Pan/Pani
+mechanically as English “Mr./Mrs.” when the grammatical construction is
+the teaching objective.
+
+PL-111 — Conversational ellipsis, responses, and spoken discourse
+
+PL-112 — Neutral, informal, colloquial, and formal written choices
+
+OBJECTIVE: Develop register-sensitive vocabulary and constructions
+without making bureaucratic or literary language the default.
+
+PL-113 — Common regional and contact-sensitive distinctions
+
+OBJECTIVE: Introduce widely encountered regional or contact-influenced
+lexical, phonological, and grammatical variants when they matter for
+modern comprehension, while maintaining neutral standard Polish as the
+reference. CARD STRATEGY: Describe variation rather than constructing a
+catalogue of errors.
+
+PL-114 — Idioms, proverbs, and figurative constructions of ordinary
+reach
+
+PL-115 — Phraseology and register synthesis
+
+COMPLETION STANDARD: High-frequency constructions, collocations,
+pragmatic patterns, common polysemy, and socially relevant register
+distinctions have systematic breadth rather than token representation.
+These domains continue expanding in all later stages.
+
+CARD STRATEGY: Give concrete context and register in prompts. Separate
+valid alternative constructions into distinct objectives when exact
+matching requires it.
+
+STAGE 11 — BROAD VOCABULARY EXPANSION
+
+These are organizing domains, not sealed thematic blocks. Vocabulary
+from every domain begins much earlier; here lexical breadth becomes the
+principal organizing purpose because the grammatical scaffold is mature.
+
+PL-116 — Household and everyday life PL-117 — Food and cooking PL-118 —
+Clothing and personal possessions PL-119 — Family and relationships
+PL-120 — Body and health PL-121 — Work and occupations PL-122 —
+Education PL-123 — Travel and transportation PL-124 — Buildings, towns,
+and public places PL-125 — Nature, plants, and animals PL-126 — Weather
+and environment PL-127 — Tools, materials, and physical objects PL-128 —
+Technology and communications PL-129 — Commerce, money, and finance
+PL-130 — Government, law, and public institutions PL-131 — Science and
+mathematics PL-132 — Arts, literature, and culture PL-133 — Religion and
+philosophy PL-134 — Emotions, personality, and human behaviour PL-135 —
+Abstract concepts and relationships
+
+COMMON OBJECTIVE: Build broad educated-adult lexical competence while
+recycling mature Polish grammar and orthography.
+
+CARD STRATEGY: Include natural case frames, aspect partners where
+useful, polysemy, derivational families, collocations, semantic
+contrasts, and register. Space confusable items unless deliberate
+contrast is the objective.
+
+COMPLETION STANDARD: Useful breadth is established in every domain
+without a fixed word count. All domains remain expandable.
+
+STAGE 12 — EDUCATED-ADULT LEXICON
+
+PL-136 — Lower-frequency verbs and aspect families PL-137 —
+Lower-frequency adjectives and concrete nouns PL-138 — Abstract and
+academic vocabulary PL-139 — Professional and institutional language
+PL-140 — General scientific and technical vocabulary PL-141 — Political,
+legal, and economic vocabulary PL-142 — Cultural and literary vocabulary
+PL-143 — Fine semantic distinctions, near-synonyms, and case frames
+PL-144 — Advanced derivation, abbreviations, and word families PL-145 —
+Less-common idioms, collocations, and figurative senses PL-146 — Lexical
+distinctions among native, international, and contact-sensitive
+vocabulary
+
+COMMON OBJECTIVE: Approach the breadth, precision, phraseology, and
+orthographic competence expected of a typical educated adult.
+
+CARD STRATEGY: Use mature grammar freely. Continue developing aspect,
+government, preferred combinations, register, polysemy, and semantic
+boundaries rather than reducing later vocabulary to translation pairs.
+
+DELIBERATELY EXCLUDED: Narrow specialist terminology without broad
+educated-adult relevance.
+
+COMPLETION STANDARD: Coverage remains extensible, with substantial
+rather than merely representative phraseology and lexical usage.
+
+STAGE 13 — MATURE LANGUAGE COMPETENCE / LONG TAIL
+
+PL-147 — Major regional variation encountered in contemporary Poland
+PL-148 — Generational and contemporary spoken usage PL-149 — Formal and
+literary constructions still encountered today PL-150 — Historical
+language and older vocabulary encountered in modern texts, quotations,
+institutions, religion, and culture PL-151 — Twentieth-century
+vocabulary of continuing cultural or historical relevance PL-152 —
+Specialized vocabulary of broad cultural relevance PL-153 — Less
+frequent but reasonable educated-adult vocabulary PL-154 — Idiomatic and
+figurative long tail PL-155 — Continuing lexical, grammatical, and
+constructional expansion
+
+COMMON OBJECTIVE: Move toward the practical asymptote of modern Polish
+competence: vocabulary, grammar, morphology, constructions, orthography,
+phraseology, registers, variation, and cultural-linguistic distinctions
+a typical educated adult might reasonably know and encounter.
+
+CARD STRATEGY: Select by exposure, usefulness, semantic range, and
+register. Continue developing senses, constructions, collocations,
+idioms, case frames, aspectual relationships, derivational families, and
+orthographic knowledge.
+
+COMPLETION STANDARD: There is intentionally no absolute terminal card or
+word count. PL-155 remains expandable. “Complete” describes direction
+and scope, not exhaustion of every attested Polish word, dialect form,
+archaic form, or specialist expression.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1.  Unit completion establishes canonical coverage, not learner mastery.
+2.  Established vocabulary and grammar become reusable; later cards
+    increasingly combine them in natural sentences.
+3.  New structural concepts normally appear first with controlled
+    lexical load. Vocabulary continues growing through every stage.
+4.  Conventional contemporary Polish orthography, including required
+    diacritics, applies from the first Target. InputHint is normally
+    blank because Polish is typed directly in its own script.
+5.  Pronunciation, keyboard familiarity, alphabet reference, and
+    spelling explanation may be supported externally without replacing
+    authentic Targets.
+6.  Later cards progressively develop common words across senses,
+    constructions, aspect families, case frames, collocations, idioms,
+    derivational families, and register.
+7.  The scheduler supplies extra repetition without changing canonical
+    introduction order.
+8.  Existing valid Polish cards remain valid if later reconciled with
+    this syllabus. Fill meaningful prerequisite gaps by convergence
+    rather than restarting or renumbering sound cards.
+9.  Future amendments may split, merge, reorder, or refine units without
+    renumbering existing stable card IDs.
+10. Parallel units within a stage may interleave once their
+    prerequisites are satisfied; unit numbers state the default
+    canonical path.
+11. Similarity to Russian, Ukrainian, Czech, Slovak, or another Slavic
+    language may assist explanation and lexical selection, but Polish
+    usage and structure remain authoritative.
+
+AMENDMENT POLICY
+
+Change this syllabus only when the canonical Polish curriculum changes.
+Routine card generation and learner progress do not amend it.
+
+An amendment should identify affected units, state the pedagogical
+change, say whether it affects future cards only or requires
+existing-card correction, increment the version, and preserve a concise
+amendment record.
+
+AMENDMENT HISTORY
+
+Version 0.1 - Initial Polish syllabus under Polyglot Curriculum Charter
+0.3. - Begins authentic contemporary Polish orthography with ordinary
+vocabulary; Polish diacritics are required from their first natural
+occurrence. - Establishes Polish as an independent curriculum rather
+than a derivative of Russian, Ukrainian, German, or another existing
+Polyglot syllabus. - Builds the seven-case system by communicative
+function and treats the vocative as productive modern grammar with
+context-sensitive distribution. - Develops masculine animacy/personhood
+and the plural masculine-personal versus non-masculine-personal
+distinction longitudinally across pronouns, agreement, past tense,
+cases, and numerals. - Develops imperfective/perfective aspect
+longitudinally and distinguishes imperfective analytic future from
+perfective non-past future. - Gives Polish numeral syntax,
+reflexive/clitic placement, conditional particles, motion verbs,
+participles, and information structure dedicated development. -
+Integrates Polish morphophonemic and orthographic systems such as
+palatalization, ó/u, rz/ż, ch/h, and ą/ę through authentic vocabulary
+before later systematization. - Retains continuous vocabulary, polysemy,
+phraseology, register, broad educated-adult lexical development, and an
+indefinitely expandable long tail.
