@@ -1,225 +1,141 @@
 ﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
-200000,German,house,Haus,,noun
-200001,German,man,Mann,,noun
-200002,German,woman,Frau,,noun
-200003,German,child,Kind,,noun
-200004,German,book,Buch,,noun
-200005,German,car,Auto,,noun
-200006,German,cat,Katze,,noun
-200007,German,dog,Hund,,noun
-200008,German,table,Tisch,,noun
-200009,German,chair,Stuhl,,noun
-200010,German,door,Tür,,noun
-200011,German,window,Fenster,,noun
-200012,German,room,Zimmer,,noun
-200013,German,water,Wasser,,noun
-200014,German,bread,Brot,,noun
-200015,German,apple,Apfel,,noun
-200016,German,school,Schule,,noun
-200017,German,city,Stadt,,noun
-200018,German,street,Straße,,noun
-200019,German,friend (male),Freund,,noun
-200020,German,friend (female),Freundin,,noun
-200021,German,mother,Mutter,,noun
-200022,German,father,Vater,,noun
-200023,German,day,Tag,,noun
-200024,German,big,groß,,adjective
-200025,German,small,klein,,adjective
-200026,German,good,gut,,adjective
-200027,German,bad,schlecht,,adjective
-200028,German,new,neu,,adjective
-200029,German,old,alt,,adjective
-200030,German,young,jung,,adjective
-200031,German,beautiful,schön,,adjective
-200032,German,fast,schnell,,adjective
-200033,German,slow,langsam,,adjective
-200034,German,warm,warm,,adjective
-200035,German,cold,kalt,,adjective
-200036,German,the house,das Haus,,phrase
-200037,German,the man,der Mann,,phrase
-200038,German,the woman,die Frau,,phrase
-200039,German,the child,das Kind,,phrase
-200040,German,the book,das Buch,,phrase
-200041,German,the car,das Auto,,phrase
-200042,German,the cat,die Katze,,phrase
-200043,German,the dog,der Hund,,phrase
-200044,German,a house,ein Haus,,phrase
-200045,German,a man,ein Mann,,phrase
-200046,German,a woman,eine Frau,,phrase
-200047,German,a child,ein Kind,,phrase
-200048,German,a book,ein Buch,,phrase
-200049,German,a car,ein Auto,,phrase
-200050,German,a cat,eine Katze,,phrase
-200051,German,a dog,ein Hund,,phrase
-200052,German,men,Männer,,phrase
-200053,German,women,Frauen,,phrase
-200054,German,children,Kinder,,phrase
-200055,German,books,Bücher,,phrase
-200056,German,the men,die Männer,,phrase
-200057,German,the women,die Frauen,,phrase
-200058,German,the children,die Kinder,,phrase
-200059,German,the books,die Bücher,,phrase
-200060,German,I,ich,,pronoun
-200061,German,you (singular informal),du,,pronoun
-200062,German,he,er,,pronoun
-200063,German,she,sie,,pronoun
-200064,German,it,es,,pronoun
-200065,German,we,wir,,pronoun
-200066,German,you (plural informal),ihr,,pronoun
-200067,German,you (formal),Sie,,pronoun
-200068,German,they,sie,,pronoun
-200069,German,to be,sein,,verb
-200070,German,I am.,Ich bin.,,sentence
-200071,German,You are. (singular informal),Du bist.,,sentence
-200072,German,He is.,Er ist.,,sentence
-200073,German,She is.,Sie ist.,,sentence
-200074,German,It is.,Es ist.,,sentence
-200075,German,We are.,Wir sind.,,sentence
-200076,German,You are. (plural informal),Ihr seid.,,sentence
-200077,German,You are. (formal),Sie sind.,,sentence
-200078,German,They are.,Sie sind.,,sentence
-200079,German,The house is big.,Das Haus ist groß.,,sentence
-200080,German,The woman is young.,Die Frau ist jung.,,sentence
-200081,German,The book is new.,Das Buch ist neu.,,sentence
-200082,German,The dog is old.,Der Hund ist alt.,,sentence
-200083,German,The water is cold.,Das Wasser ist kalt.,,sentence
-200084,German,The room is warm.,Das Zimmer ist warm.,,sentence
-200085,German,to have,haben,,verb
-200086,German,I have.,Ich habe.,,sentence
-200087,German,You have. (singular informal),Du hast.,,sentence
-200088,German,He has.,Er hat.,,sentence
-200089,German,She has.,Sie hat.,,sentence
-200090,German,It has.,Es hat.,,sentence
-200091,German,We have.,Wir haben.,,sentence
-200092,German,You have. (plural informal),Ihr habt.,,sentence
-200093,German,You have. (formal),Sie haben.,,sentence
-200094,German,They have.,Sie haben.,,sentence
-200095,German,I have a book.,Ich habe ein Buch.,,sentence
-200096,German,She has a car.,Sie hat ein Auto.,,sentence
-200097,German,We have water.,Wir haben Wasser.,,sentence
-200098,German,The man has bread.,Der Mann hat Brot.,,sentence
-200099,German,to do / to make,machen,,verb
-200100,German,to work,arbeiten,,verb
-200101,German,to live / reside,wohnen,,verb
-200102,German,to learn,lernen,,verb
-200103,German,I do.,Ich mache.,,sentence
-200104,German,You do. (singular informal),Du machst.,,sentence
-200105,German,He does.,Er macht.,,sentence
-200106,German,She does.,Sie macht.,,sentence
-200107,German,We do.,Wir machen.,,sentence
-200108,German,You do. (plural informal),Ihr macht.,,sentence
-200109,German,You do. (formal),Sie machen.,,sentence
-200110,German,They do.,Sie machen.,,sentence
-200111,German,I work.,Ich arbeite.,,sentence
-200112,German,You work. (singular informal),Du arbeitest.,,sentence
-200113,German,He works.,Er arbeitet.,,sentence
-200114,German,We work.,Wir arbeiten.,,sentence
-200115,German,You work. (plural informal),Ihr arbeitet.,,sentence
-200116,German,They work.,Sie arbeiten.,,sentence
-200117,German,I live here.,Ich wohne hier.,,sentence
-200118,German,You live here. (singular informal),Du wohnst hier.,,sentence
-200119,German,She lives here.,Sie wohnt hier.,,sentence
-200120,German,We live here.,Wir wohnen hier.,,sentence
-200121,German,I learn.,Ich lerne.,,sentence
-200122,German,He learns.,Er lernt.,,sentence
-200123,German,You learn. (plural informal),Ihr lernt.,,sentence
-200124,German,They learn.,Sie lernen.,,sentence
-200125,German,The man works here.,Der Mann arbeitet hier.,,sentence
-200126,German,The woman lives there.,Die Frau wohnt dort.,,sentence
-200127,German,The child learns here.,Das Kind lernt hier.,,sentence
-200128,German,The children work there.,Die Kinder arbeiten dort.,,sentence
-200129,German,My father works here.,Mein Vater arbeitet hier.,,sentence
-200130,German,The friend lives in the city.,Der Freund wohnt in der Stadt.,,sentence
-200131,German,I am not old.,Ich bin nicht alt.,,sentence
-200132,German,The house is not small.,Das Haus ist nicht klein.,,sentence
-200133,German,He does not work.,Er arbeitet nicht.,,sentence
-200134,German,We do not live here.,Wir wohnen nicht hier.,,sentence
-200135,German,The water is not warm.,Das Wasser ist nicht warm.,,sentence
-200136,German,The book is not new.,Das Buch ist nicht neu.,,sentence
-200137,German,I have no car.,Ich habe kein Auto.,,sentence
-200138,German,She has no book.,Sie hat kein Buch.,,sentence
-200139,German,He has no dog.,Er hat keinen Hund.,,sentence
-200140,German,We have no water.,Wir haben kein Wasser.,,sentence
-200141,German,The woman has no cat.,Die Frau hat keine Katze.,,sentence
-200142,German,The child has no bread.,Das Kind hat kein Brot.,,sentence
-200143,German,The man works.,Der Mann arbeitet.,,sentence
-200144,German,The men work.,Die Männer arbeiten.,,sentence
-200145,German,The woman learns.,Die Frau lernt.,,sentence
-200146,German,The women learn.,Die Frauen lernen.,,sentence
-200147,German,The child lives here.,Das Kind wohnt hier.,,sentence
-200148,German,The children live here.,Die Kinder wohnen hier.,,sentence
-200149,German,My mother is here.,Meine Mutter ist hier.,,sentence
-200150,German,My parents are here.,Meine Eltern sind hier.,,sentence
-200151,German,The dogs are old.,Die Hunde sind alt.,,sentence
-200152,German,The woman has a book.,Die Frau hat ein Buch.,,sentence
-200153,German,The women have books.,Die Frauen haben Bücher.,,sentence
-200154,German,to see,sehen,,verb
-200155,German,to read,lesen,,verb
-200156,German,to eat,essen,,verb
-200157,German,to sleep,schlafen,,verb
-200158,German,to drive / travel by vehicle,fahren,,verb
-200159,German,I see.,Ich sehe.,,sentence
-200160,German,You see. (singular informal),Du siehst.,,sentence
-200161,German,He sees.,Er sieht.,,sentence
-200162,German,We see.,Wir sehen.,,sentence
-200163,German,You see. (plural informal),Ihr seht.,,sentence
-200164,German,They see.,Sie sehen.,,sentence
-200165,German,I read.,Ich lese.,,sentence
-200166,German,You read. (singular informal),Du liest.,,sentence
-200167,German,She reads.,Sie liest.,,sentence
-200168,German,We read.,Wir lesen.,,sentence
-200169,German,They read.,Sie lesen.,,sentence
-200170,German,I eat.,Ich esse.,,sentence
-200171,German,You eat. (singular informal),Du isst.,,sentence
-200172,German,He eats.,Er isst.,,sentence
-200173,German,We eat.,Wir essen.,,sentence
-200174,German,They eat.,Sie essen.,,sentence
-200175,German,I sleep.,Ich schlafe.,,sentence
-200176,German,You sleep. (singular informal),Du schläfst.,,sentence
-200177,German,She sleeps.,Sie schläft.,,sentence
-200178,German,We sleep.,Wir schlafen.,,sentence
-200179,German,They sleep.,Sie schlafen.,,sentence
-200180,German,I drive.,Ich fahre.,,sentence
-200181,German,You drive. (singular informal),Du fährst.,,sentence
-200182,German,He drives.,Er fährt.,,sentence
-200183,German,We drive.,Wir fahren.,,sentence
-200184,German,They drive.,Sie fahren.,,sentence
-200185,German,The child reads a book.,Das Kind liest ein Buch.,,sentence
-200186,German,The man eats bread.,Der Mann isst Brot.,,sentence
-200187,German,The woman sees the dog.,Die Frau sieht den Hund.,,sentence
-200188,German,The child sleeps.,Das Kind schläft.,,sentence
-200189,German,to go,gehen,,verb
-200190,German,to come,kommen,,verb
-200191,German,to know (a fact),wissen,,verb
-200192,German,to take,nehmen,,verb
-200193,German,to give,geben,,verb
-200194,German,I go.,Ich gehe.,,sentence
-200195,German,You go. (singular informal),Du gehst.,,sentence
-200196,German,He goes.,Er geht.,,sentence
-200197,German,We go.,Wir gehen.,,sentence
-200198,German,You go. (plural informal),Ihr geht.,,sentence
-200199,German,They go.,Sie gehen.,,sentence
-200200,German,I come.,Ich komme.,,sentence
-200201,German,You come. (singular informal),Du kommst.,,sentence
-200202,German,She comes.,Sie kommt.,,sentence
-200203,German,We come.,Wir kommen.,,sentence
-200204,German,You come. (plural informal),Ihr kommt.,,sentence
-200205,German,They come.,Sie kommen.,,sentence
-200206,German,I know.,Ich weiß.,,sentence
-200207,German,You know. (singular informal),Du weißt.,,sentence
-200208,German,He knows.,Er weiß.,,sentence
-200209,German,We know.,Wir wissen.,,sentence
-200210,German,You know. (plural informal),Ihr wisst.,,sentence
-200211,German,They know.,Sie wissen.,,sentence
-200212,German,I take the book.,Ich nehme das Buch.,,sentence
-200213,German,You take the book. (singular informal),Du nimmst das Buch.,,sentence
-200214,German,She takes the book.,Sie nimmt das Buch.,,sentence
-200215,German,We take the book.,Wir nehmen das Buch.,,sentence
-200216,German,I give the book.,Ich gebe das Buch.,,sentence
-200217,German,You give the book. (singular informal),Du gibst das Buch.,,sentence
-200218,German,He gives the book.,Er gibt das Buch.,,sentence
-200219,German,They give the book.,Sie geben das Buch.,,sentence
-200220,German,The man goes there.,Der Mann geht dorthin.,,sentence
-200221,German,The woman comes here.,Die Frau kommt hierher.,,sentence
-200222,German,The child knows that.,Das Kind weiß das.,,sentence
-200223,German,The woman takes the apple.,Die Frau nimmt den Apfel.,,sentence
+200000,German,house,Haus,,
+200001,German,man,Mann,,
+200002,German,woman,Frau,,
+200003,German,child,Kind,,
+200004,German,big,groß,,
+200005,German,small,klein,,
+200006,German,good,gut,,
+200007,German,bad,schlecht,,
+200008,German,the house,das Haus,,
+200009,German,the man,der Mann,,
+200010,German,the woman,die Frau,,
+200011,German,the child,das Kind,,
+200012,German,The house is big.,Das Haus ist groß.,,
+200013,German,The man is good.,Der Mann ist gut.,,
+200014,German,The woman is good.,Die Frau ist gut.,,
+200015,German,The child is small.,Das Kind ist klein.,,
+200016,German,I am here.,Ich bin hier.,,
+200017,German,You are here. (singular informal),Du bist hier.,,
+200018,German,He is here.,Er ist hier.,,
+200019,German,She is here.,Sie ist hier.,,
+200020,German,a house,ein Haus,,
+200021,German,a man,ein Mann,,
+200022,German,a woman,eine Frau,,
+200023,German,a child,ein Kind,,
+200024,German,book,Buch,,
+200025,German,a book,ein Buch,,
+200026,German,car,Auto,,
+200027,German,a car,ein Auto,,
+200028,German,to have,haben,,
+200029,German,I have a book.,Ich habe ein Buch.,,
+200030,German,You have a car. (singular informal),Du hast ein Auto.,,
+200031,German,The woman has a book.,Die Frau hat ein Buch.,,
+200032,German,The man has a car.,Der Mann hat ein Auto.,,
+200033,German,The child has a book.,Das Kind hat ein Buch.,,
+200034,German,dog,Hund,,
+200035,German,a dog,ein Hund,,
+200036,German,I have a dog.,Ich habe einen Hund.,,
+200037,German,The woman has a dog.,Die Frau hat einen Hund.,,
+200038,German,The man has the dog.,Der Mann hat den Hund.,,
+200039,German,The child has the dog.,Das Kind hat den Hund.,,
+200040,German,cat,Katze,,
+200041,German,a cat,eine Katze,,
+200042,German,I have a cat.,Ich habe eine Katze.,,
+200043,German,The man has a cat.,Der Mann hat eine Katze.,,
+200044,German,The child has the cat.,Das Kind hat die Katze.,,
+200045,German,The woman has the book.,Die Frau hat das Buch.,,
+200046,German,houses,Häuser,,
+200047,German,the houses,die Häuser,,
+200048,German,The houses are big.,Die Häuser sind groß.,,
+200049,German,children,Kinder,,
+200050,German,The children are small.,Die Kinder sind klein.,,
+200051,German,men,Männer,,
+200052,German,The men are here.,Die Männer sind hier.,,
+200053,German,women,Frauen,,
+200054,German,The women are here.,Die Frauen sind hier.,,
+200055,German,We are here.,Wir sind hier.,,
+200056,German,You are here. (plural informal),Ihr seid hier.,,
+200057,German,We have a car.,Wir haben ein Auto.,,
+200058,German,You have a dog. (plural informal),Ihr habt einen Hund.,,
+200059,German,They have the books.,Sie haben die Bücher.,,
+200060,German,to see,sehen,,
+200061,German,I see the woman.,Ich sehe die Frau.,,
+200062,German,You see the man. (singular informal),Du siehst den Mann.,,
+200063,German,The woman sees the child.,Die Frau sieht das Kind.,,
+200064,German,The man sees the house.,Der Mann sieht das Haus.,,
+200065,German,We see the dog.,Wir sehen den Hund.,,
+200066,German,The children see the cat.,Die Kinder sehen die Katze.,,
+200067,German,I see a man.,Ich sehe einen Mann.,,
+200068,German,The man sees a woman.,Der Mann sieht eine Frau.,,
+200069,German,The woman sees a car.,Die Frau sieht ein Auto.,,
+200070,German,not,nicht,,
+200071,German,The house is not big.,Das Haus ist nicht groß.,,
+200072,German,The car is not small.,Das Auto ist nicht klein.,,
+200073,German,I am not here.,Ich bin nicht hier.,,
+200074,German,The man is not here.,Der Mann ist nicht hier.,,
+200075,German,I don't see the dog.,Ich sehe den Hund nicht.,,
+200076,German,The woman doesn't see the child.,Die Frau sieht das Kind nicht.,,
+200077,German,We don't see the car.,Wir sehen das Auto nicht.,,
+200078,German,The children don't see the man.,Die Kinder sehen den Mann nicht.,,
+200079,German,You don't see the woman. (singular informal),Du siehst die Frau nicht.,,
+200080,German,to buy,kaufen,,
+200081,German,I buy a book.,Ich kaufe ein Buch.,,
+200082,German,You buy a car. (singular informal),Du kaufst ein Auto.,,
+200083,German,The woman buys a house.,Die Frau kauft ein Haus.,,
+200084,German,The man buys a dog.,Der Mann kauft einen Hund.,,
+200085,German,We buy the books.,Wir kaufen die Bücher.,,
+200086,German,They buy the car.,Sie kaufen das Auto.,,
+200087,German,Do you have a dog? (singular informal),Hast du einen Hund?,,
+200088,German,Do you have a car? (singular informal),Hast du ein Auto?,,
+200089,German,Does the woman have a book?,Hat die Frau ein Buch?,,
+200090,German,Do the children have a dog?,Haben die Kinder einen Hund?,,
+200091,German,Do you see the man? (singular informal),Siehst du den Mann?,,
+200092,German,Does the man see the woman?,Sieht der Mann die Frau?,,
+200093,German,Do you see the children? (plural informal),Seht ihr die Kinder?,,
+200094,German,Do you buy the book? (singular informal),Kaufst du das Buch?,,
+200095,German,Does the woman buy the car?,Kauft die Frau das Auto?,,
+200096,German,Do they buy a house?,Kaufen sie ein Haus?,,
+200097,German,Don't you see the dog? (singular informal),Siehst du den Hund nicht?,,
+200098,German,Doesn't the man have a car?,Hat der Mann kein Auto?,,
+200099,German,Doesn't the woman have a dog?,Hat die Frau keinen Hund?,,
+200100,German,I don't have a car.,Ich habe kein Auto.,,
+200101,German,The woman doesn't have a book.,Die Frau hat kein Buch.,,
+200102,German,The man doesn't have a dog.,Der Mann hat keinen Hund.,,
+200103,German,The child doesn't have a cat.,Das Kind hat keine Katze.,,
+200104,German,We don't have a house.,Wir haben kein Haus.,,
+200105,German,bread,Brot,,
+200106,German,apple,Apfel,,
+200107,German,water,Wasser,,
+200108,German,to eat,essen,,
+200109,German,I eat bread.,Ich esse Brot.,,
+200110,German,The child eats an apple.,Das Kind isst einen Apfel.,,
+200111,German,The man eats bread.,Der Mann isst Brot.,,
+200112,German,We eat apples.,Wir essen Äpfel.,,
+200113,German,Do you eat bread? (singular informal),Isst du Brot?,,
+200114,German,Does the woman eat an apple?,Isst die Frau einen Apfel?,,
+200115,German,The child doesn't eat bread.,Das Kind isst kein Brot.,,
+200116,German,The man doesn't eat an apple.,Der Mann isst keinen Apfel.,,
+200117,German,to drink,trinken,,
+200118,German,I drink water.,Ich trinke Wasser.,,
+200119,German,Do you drink water? (singular informal),Trinkst du Wasser?,,
+200120,German,what,was,,
+200121,German,What do you see? (singular informal),Was siehst du?,,
+200122,German,What does the man see?,Was sieht der Mann?,,
+200123,German,What do you have? (singular informal),Was hast du?,,
+200124,German,What does the woman buy?,Was kauft die Frau?,,
+200125,German,What does the child eat?,Was isst das Kind?,,
+200126,German,who,wer,,
+200127,German,Who is here?,Wer ist hier?,,
+200128,German,Who has the book?,Wer hat das Buch?,,
+200129,German,Who sees the dog?,Wer sieht den Hund?,,
+200130,German,Who buys the car?,Wer kauft das Auto?,,
+200131,German,where,wo,,
+200132,German,Where is the child?,Wo ist das Kind?,,
+200133,German,Where is the woman?,Wo ist die Frau?,,
+200134,German,school,Schule,,
+200135,German,in the school,in der Schule,,
+200136,German,The child is in the school.,Das Kind ist in der Schule.,,
+200137,German,Where is the man?,Wo ist der Mann?,,
+200138,German,The woman is in the school.,Die Frau ist in der Schule.,,
+200139,German,Is the woman in the school?,Ist die Frau in der Schule?,,
