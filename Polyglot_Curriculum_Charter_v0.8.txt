@@ -1,0 +1,306 @@
+POLYGLOT CURRICULUM CHARTER
+
+Version: 0.8
+Status: Current
+Encoding: UTF-8
+
+1. PURPOSE
+
+The Polyglot Curriculum Charter defines durable principles for designing
+language curricula. It deliberately does not attempt to automate every
+language-specific decision.
+
+The governing hierarchy is:
+
+Charter → Language Syllabus → Curriculum Manifest → Card CSV
+
+The Charter supplies principles. A language syllabus supplies a useful
+path forward. The manifest records progress and ID allocation. The CSV
+contains the actual authored cards. Learner scheduling state belongs to
+the app, not to curriculum design.
+
+A syllabus is a map, not a transcript of every step taken while cards are
+generated. A sound card sequence may take a prerequisite-safe detour,
+introduce a useful later structure early, or postpone part of an earlier
+unit without requiring a new syllabus version. Amend the map when the
+preferred path or destination changes, not merely because generation took
+a local detour.
+
+2. CENTRAL MODEL
+
+The curriculum is static; the scheduler is adaptive.
+
+Each language has an independent canonical curriculum. New material is
+introduced according to prerequisite knowledge, linguistic structure,
+usefulness, natural usage, and instructional clarity. Learner performance
+changes scheduling, not curriculum order.
+
+The completed deck should read as a coherent curriculum even though it is
+built incrementally. Card generation is therefore both implementation and
+discovery: early cards may reveal that a language needs a somewhat
+different route than was anticipated.
+
+3. SCOPE
+
+Polyglot moves toward a hypothetical educated-adult complete set rather
+than a finite certification endpoint.
+
+Vocabulary includes ordinary vocabulary, important senses, collocations,
+idiom, phraseology, register, semantic distinctions, institutional and
+educated discourse, and a long tail comparable to what an educated adult
+speaker might reasonably know or encounter. It does not mean every
+attested word or specialist term.
+
+Grammar includes enough morphology, syntax, discourse, pragmatics and
+orthography that ordinary modern use is not left systematically
+unexplained. Literacy is curriculum content where the language requires
+it.
+
+As a curriculum matures, difficulty need not rise monotonically. Grammar
+eventually ceases to be the main organizing axis; breadth, collocation,
+register, semantic precision and natural usage increasingly dominate.
+Later IDs represent farther travel through the language, not a requirement
+for increasingly obscure or syntactically difficult cards.
+
+4. DOCUMENTATION-LIMITED LANGUAGES
+
+Full educated-adult depth is the default.
+
+A syllabus may explicitly designate a language documentation-limited only
+when reliable resources available to Polyglot are insufficient to support
+that objective confidently. This describes a limitation of documentation
+and generation capability, never a limitation of the language.
+
+Proceed as deeply and broadly as reliable evidence permits. The frontier
+may be uneven. Stop or leave an area unresolved rather than fabricate
+vocabulary, constructions, idiom or supposedly natural usage. Improved
+resources may later move the frontier outward.
+
+5. LANGUAGE INDEPENDENCE AND LEARNING BY EXAMPLE
+
+Every language has its own path. Do not distort one language to imitate
+another.
+
+At the same time, successful Polyglot curricula are important design
+evidence. New languages should learn from existing examples rather than
+re-inventing solutions merely for originality. French, German and Japanese
+now provide deliberately reworked examples of substantially different
+openings; Hungarian, Turkish, Polish and later languages provide further
+evidence as they mature.
+
+Examples are anchors, not templates. Copy pacing, card architecture,
+controlled-example techniques, lexical choices or structural sequences
+closely when they fit. Diverge whenever the target language gives a real
+linguistic or pedagogical reason.
+
+The practical default is:
+
+understand the language → inspect useful Polyglot examples → build a small
+seed → discuss what the seed reveals → establish a path forward → continue
+in progressively larger batches.
+
+Some languages will reveal their path quickly. Others will require more
+discussion or experimentation. The documents need not predict every
+special case in advance.
+
+6. SMALL SEED AND EARLY PRODUCTIVE LANGUAGE
+
+Begin with a small reusable lexical seed and move into productive language
+as soon as the target language permits.
+
+A useful default seed to test is:
+
+house; man; woman; child; big; small; good; bad.
+
+It is not mandatory. Japanese, for example, demonstrated that a small set
+of nouns, adjectives and concrete verbs can be a better opening because it
+supports the structures Japanese naturally wants to introduce.
+
+The bootstrap exists to make productive structure possible, not to build a
+miniature dictionary. Long runs of isolated nouns, adjectives, adverbs or
+infinitives before useful phrases and sentences are normally a pacing
+failure.
+
+Vocabulary then grows just in time alongside grammar. New words should
+create opportunities for structure, and new structure should create demand
+for useful words.
+
+7. PREREQUISITES, DETOURS, AND ORDER
+
+Prerequisites matter; arbitrary seriality does not.
+
+A new pattern should be clear enough that another novelty does not obscure
+it, but independent concepts need not be exhaustively established one at a
+time. Numbered syllabus units primarily indicate useful introduction order,
+dependencies and editorial organization.
+
+Canonical row order records a coherent introduction path. It does not imply
+that adjacent cards must be presented adjacently to the learner. Polyglot
+ultimately shuffles available cards, so every card should stand on its own
+without depending on the immediately preceding card.
+
+A local deviation from syllabus order is acceptable when it produces
+natural, clear language and does not create an unresolved prerequisite
+problem. Repeated deviations may reveal that the syllabus itself should
+change; a single sensible detour normally does not.
+
+8. INTRODUCTION, ESTABLISHMENT, AND REUSE
+
+INTRODUCED means a concept has begun to be demonstrated.
+
+ESTABLISHED means the canonical curriculum has demonstrated its basic
+operation sufficiently that later cards may assume it.
+
+REUSABLE means established material may appear naturally without being the
+principal teaching objective.
+
+Introduction is not establishment. After a controlled introduction, later
+cards should deliberately reuse earlier questions, negation, number, case,
+tense, agreement, particles, word order and vocabulary while teaching new
+material. Double-duty cards are normally preferable to large isolated
+practice blocks.
+
+The scheduler supplies repetition of individual cards. The curriculum
+supplies varied examples and expanding contexts. Exact duplicate cards
+therefore have no curricular purpose and should not occur.
+
+9. RULE BEFORE EXCEPTION AND LEARNING THROUGH EXAMPLES
+
+Teach productive/default patterns clearly before competing patterns or
+exceptions when the language permits. High-frequency irregular material
+may appear early when ordinary usage requires it.
+
+Grammar is normally taught through controlled target-language examples,
+not cards asking for grammatical terminology. Early examples may be more
+controlled; later examples should become increasingly natural and
+integrated.
+
+Not every form needs a standalone introductory card before it appears.
+Once the learner has enough structure to infer a new form safely,
+comprehensible discovery is legitimate curriculum design.
+
+10. PARADIGMS AND SYSTEMATIC COVERAGE
+
+Systematic paradigms are useful when their cells teach genuine contrasts.
+They are wasteful when they merely substitute new lexical stems into an
+already-known pattern.
+
+A practical test is:
+
+If filling every cell teaches a new contrast, fill the table. If it merely
+repeats an established table with another stem, sample and reuse instead.
+
+This principle applies to conjugation, declension, agreement, classifiers,
+particles and other structured inventories. Do not swing to either extreme:
+neither recite every possible paradigm mechanically nor avoid systematic
+coverage when the distinctions themselves are important.
+
+11. VOCABULARY, PHRASEOLOGY, AND NATURAL USAGE
+
+Early vocabulary should be disproportionately useful, concrete, frequent,
+structurally productive or pedagogically valuable. Easily confused words
+should normally be spaced unless contrast is the lesson.
+
+As the grammatical scaffold matures, lexical freedom should increase.
+Common words should develop longitudinally through important senses,
+argument structures, collocations, idioms and register. Translation
+equivalents are pedagogical mappings, not claims of identical semantic
+range.
+
+Mature lexical domains develop in parallel. Do not exhaust science before
+arts, register before phraseology, or one arbitrary domain before opening
+another. Difficulty may plateau while breadth continues for many thousands
+of cards.
+
+12. AUTHENTIC LANGUAGE, ORTHOGRAPHY, AND INPUT
+
+Targets should be natural contemporary language for the intended meaning
+and register. Do not preserve explicit subjects, pronouns or other English
+structure merely because the English prompt contains them.
+
+Use authentic conventional orthography from first exposure. Writing
+systems may require language-specific pacing, but unfamiliar script alone
+is not a reason to replace normal target-language spelling with
+transliteration.
+
+InputHint is practical input-method metadata, not an alternative answer.
+Its detailed use belongs to the language syllabus or current experiment.
+
+13. SYLLABI
+
+A language syllabus should be useful enough to guide future generation
+without pretending to foresee every card.
+
+It should identify major structural dependencies, important language-
+specific issues, broad development into mature usage, and any decisions
+that future generators would otherwise have to rediscover.
+
+Do not add complexity merely to encode every conceivable exception. When a
+new language presents an uncertain design choice, discussion and a small
+prototype are often better than another universal rule.
+
+Completion standards may be used where they clarify what establishment
+requires, but they are not card quotas and need not turn the syllabus into
+a checklist of sealed blocks.
+
+14. CARD DESIGN PRINCIPLES
+
+Each card should have one intended Target under exact matching. Improve an
+ambiguous English prompt rather than hiding ambiguity behind multiple
+answers.
+
+Lexical cards normally use the language's ordinary citation form. Grammar
+should normally be embodied in useful words, phrases and sentences.
+
+Cards should stand independently because scheduling may separate them.
+Reinforcement should normally vary context rather than duplicate a card.
+
+PartOfSpeech, InputHint and other schema conventions are implementation
+details governed by the Card Generation Protocol.
+
+15. DEVELOPMENT, STABLE IDS, AND LEARNER STATE
+
+Before a deck has entered real learner use, pedagogical cleanup may justify
+reordering or renumbering draft cards. Development cleanliness outranks
+preserving accidental prototype history.
+
+Once a card has entered learner state, its ID is a stable identity. Do not
+reuse that ID for materially different curriculum content merely to tidy
+the sequence. Ordinary corrections may preserve the ID so learner state
+remains attached to the same card.
+
+Git history is the archive for superseded development material. Obsolete
+trial files need not remain beside canonical card files once their useful
+lessons have been incorporated.
+
+16. REVIEW AND HUMAN JUDGMENT
+
+Polyglot is intentionally collaborative.
+
+When a new language, script, grammatical system or generation decision
+raises a meaningful fork, inspect examples, build a small test sequence,
+and discuss the choice rather than inventing a universal rule prematurely.
+
+The objective is not maximum automation. It is a coherent curriculum
+produced efficiently with enough human judgment to notice when the target
+language is telling us that the current plan should change.
+
+17. AMENDMENTS
+
+The Charter is versioned. Amend it when system-wide curriculum principles
+change, not when routine generation advances a language.
+
+Version 0.8 simplifies the governing model around principles, discussion
+and learning by example. It formalizes the syllabus-as-roadmap principle,
+prototype-led discovery, shuffle-independent cards, duplicate avoidance,
+paradigm calibration, development-versus-live ID handling, and the
+long-tail principle that breadth may continue after difficulty plateaus.
+It replaces attempts to anticipate language-specific special cases with a
+default of small experiments and explicit discussion where needed.
+
+18. GOVERNING PRINCIPLE
+
+Use simple durable rules where they genuinely generalize. Use successful
+examples as design evidence. Let the target language determine necessary
+divergence. Discuss meaningful uncertainty instead of burying it under
+procedural complexity.
