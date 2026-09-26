@@ -435,3 +435,203 @@
 100433,French,your book (singular informal),ton livre,,phrase
 100434,French,Your house is big. (singular informal),Ta maison est grande.,,sentence
 100435,French,Your book is new. (singular informal),Ton livre est nouveau.,,sentence
+100436,French,this book,ce livre,,phrase
+100437,French,this dog,ce chien,,phrase
+100438,French,this man,cet homme,,phrase
+100439,French,this child,cet enfant,,phrase
+100440,French,this house,cette maison,,phrase
+100441,French,this woman,cette femme,,phrase
+100442,French,these books,ces livres,,phrase
+100443,French,these houses,ces maisons,,phrase
+100444,French,This book is new.,Ce livre est nouveau.,,sentence
+100445,French,This dog is small.,Ce chien est petit.,,sentence
+100446,French,This man works here.,Cet homme travaille ici.,,sentence
+100447,French,This child reads.,Cet enfant lit.,,sentence
+100448,French,This house is big.,Cette maison est grande.,,sentence
+100449,French,This woman speaks French.,Cette femme parle français.,,sentence
+100450,French,These books are here.,Ces livres sont ici.,,sentence
+100451,French,These children play.,Ces enfants jouent.,,sentence
+100452,French,I see this car.,Je vois cette voiture.,,sentence
+100453,French,She takes this book.,Elle prend ce livre.,,sentence
+100454,French,We like this house.,Nous aimons cette maison.,,sentence
+100455,French,They see these dogs. (masculine/mixed),Ils voient ces chiens.,,sentence
+100456,French,He speaks with this woman.,Il parle avec cette femme.,,sentence
+100457,French,The child plays with these cats.,L'enfant joue avec ces chats.,,sentence
+100458,French,zero,zéro,,number
+100459,French,one,un,,number
+100460,French,two,deux,,number
+100461,French,three,trois,,number
+100462,French,four,quatre,,number
+100463,French,five,cinq,,number
+100464,French,six,six,,number
+100465,French,seven,sept,,number
+100466,French,eight,huit,,number
+100467,French,nine,neuf,,number
+100468,French,ten,dix,,number
+100469,French,eleven,onze,,number
+100470,French,twelve,douze,,number
+100471,French,thirteen,treize,,number
+100472,French,fourteen,quatorze,,number
+100473,French,fifteen,quinze,,number
+100474,French,sixteen,seize,,number
+100475,French,seventeen,dix-sept,,number
+100476,French,eighteen,dix-huit,,number
+100477,French,nineteen,dix-neuf,,number
+100478,French,twenty,vingt,,number
+100479,French,twenty-one,vingt et un,,number
+100480,French,twenty-two,vingt-deux,,number
+100481,French,thirty,trente,,number
+100482,French,forty,quarante,,number
+100483,French,fifty,cinquante,,number
+100484,French,sixty,soixante,,number
+100485,French,seventy,soixante-dix,,number
+100486,French,seventy-one,soixante et onze,,number
+100487,French,eighty,quatre-vingts,,number
+100488,French,eighty-one,quatre-vingt-un,,number
+100489,French,ninety,quatre-vingt-dix,,number
+100490,French,ninety-one,quatre-vingt-onze,,number
+100491,French,one hundred,cent,,number
+100492,French,two hundred,deux cents,,number
+100493,French,two hundred one,deux cent un,,number
+100494,French,one thousand,mille,,number
+100495,French,year,année,,noun
+100496,French,week,semaine,,noun
+100497,French,month,mois,,noun
+100498,French,hour,heure,,noun
+100499,French,minute,minute,,noun
+100500,French,Monday,lundi,,noun
+100501,French,Tuesday,mardi,,noun
+100502,French,Wednesday,mercredi,,noun
+100503,French,Thursday,jeudi,,noun
+100504,French,Friday,vendredi,,noun
+100505,French,Saturday,samedi,,noun
+100506,French,Sunday,dimanche,,noun
+100507,French,January,janvier,,noun
+100508,French,February,février,,noun
+100509,French,March,mars,,noun
+100510,French,April,avril,,noun
+100511,French,May,mai,,noun
+100512,French,June,juin,,noun
+100513,French,July,juillet,,noun
+100514,French,August,août,,noun
+100515,French,September,septembre,,noun
+100516,French,October,octobre,,noun
+100517,French,November,novembre,,noun
+100518,French,December,décembre,,noun
+100519,French,I am twenty years old.,J'ai vingt ans.,,sentence
+100520,French,She is thirty years old.,Elle a trente ans.,,sentence
+100521,French,The child is five years old.,L'enfant a cinq ans.,,sentence
+100522,French,You are twenty years old. (singular informal),Tu as vingt ans.,,sentence
+100523,French,I am forty years old.,J'ai quarante ans.,,sentence
+100524,French,It is one o'clock.,Il est une heure.,,sentence
+100525,French,It is two o'clock.,Il est deux heures.,,sentence
+100526,French,It is three thirty.,Il est trois heures et demie.,,sentence
+100527,French,It is four fifteen.,Il est quatre heures et quart.,,sentence
+100528,French,It is five forty-five.,Il est six heures moins le quart.,,sentence
+100529,French,Today is Monday.,"Aujourd'hui, c'est lundi.",,sentence
+100530,French,Today is Friday.,"Aujourd'hui, c'est vendredi.",,sentence
+100531,French,on Monday,lundi,,adverb
+100532,French,on Saturday,samedi,,adverb
+100533,French,the first of May,le premier mai,,phrase
+100534,French,the second of May,le deux mai,,phrase
+100535,French,the tenth of June,le dix juin,,phrase
+100536,French,in January,en janvier,,phrase
+100537,French,in August,en août,,phrase
+100538,French,two days,deux jours,,phrase
+100539,French,three weeks,trois semaines,,phrase
+100540,French,four months,quatre mois,,phrase
+100541,French,five years,cinq ans,,phrase
+100542,French,one minute,une minute,,phrase
+100543,French,ten minutes,dix minutes,,phrase
+100544,French,two hours,deux heures,,phrase
+100545,French,There is a book on the table.,Il y a un livre sur la table.,,sentence
+100546,French,There is a cat under the table.,Il y a un chat sous la table.,,sentence
+100547,French,There is a car in front of the house.,Il y a une voiture devant la maison.,,sentence
+100548,French,There is a dog behind the door.,Il y a un chien derrière la porte.,,sentence
+100549,French,There is a chair near the door.,Il y a une chaise près de la porte.,,sentence
+100550,French,There is a school near the park.,Il y a une école près du parc.,,sentence
+100551,French,There is water in the bottle.,Il y a de l'eau dans la bouteille.,,sentence
+100552,French,There is coffee in the cup.,Il y a du café dans la tasse.,,sentence
+100553,French,There is food on the table.,Il y a de la nourriture sur la table.,,sentence
+100554,French,There are books on the table.,Il y a des livres sur la table.,,sentence
+100555,French,There are children in the park.,Il y a des enfants dans le parc.,,sentence
+100556,French,There are two cars in front of the house.,Il y a deux voitures devant la maison.,,sentence
+100557,French,There are three books here.,Il y a trois livres ici.,,sentence
+100558,French,There are five chairs in the room.,Il y a cinq chaises dans la pièce.,,sentence
+100559,French,There is a woman at the school.,Il y a une femme à l'école.,,sentence
+100560,French,There is a man in the park.,Il y a un homme dans le parc.,,sentence
+100561,French,There is a dog here.,Il y a un chien ici.,,sentence
+100562,French,There is a cat there.,Il y a un chat là.,,sentence
+100563,French,There is no coffee.,Il n'y a pas de café.,,sentence
+100564,French,There is no water in the bottle.,Il n'y a pas d'eau dans la bouteille.,,sentence
+100565,French,There are no books on the table.,Il n'y a pas de livres sur la table.,,sentence
+100566,French,There are no children here.,Il n'y a pas d'enfants ici.,,sentence
+100567,French,There is a small house near the school.,Il y a une petite maison près de l'école.,,sentence
+100568,French,There are two red cars here.,Il y a deux voitures rouges ici.,,sentence
+100569,French,There is a new book on this table.,Il y a un nouveau livre sur cette table.,,sentence
+100570,French,This is a book.,C'est un livre.,,sentence
+100571,French,This is a house.,C'est une maison.,,sentence
+100572,French,This is my book.,C'est mon livre.,,sentence
+100573,French,This is her car.,C'est sa voiture.,,sentence
+100574,French,This is our house.,C'est notre maison.,,sentence
+100575,French,These are books.,Ce sont des livres.,,sentence
+100576,French,These are my books.,Ce sont mes livres.,,sentence
+100577,French,These are their cars.,Ce sont leurs voitures.,,sentence
+100578,French,He is a man.,C'est un homme.,,sentence
+100579,French,She is a woman.,C'est une femme.,,sentence
+100580,French,He is my friend.,C'est mon ami.,,sentence
+100581,French,She is my friend.,C'est mon amie.,,sentence
+100582,French,He is a teacher.,C'est un professeur.,,sentence
+100583,French,She is a teacher.,C'est une professeure.,,sentence
+100584,French,He is tall.,Il est grand.,,sentence
+100585,French,She is tall.,Elle est grande.,,sentence
+100586,French,He is small.,Il est petit.,,sentence
+100587,French,She is small.,Elle est petite.,,sentence
+100588,French,He is here.,Il est ici.,,sentence
+100589,French,She is there.,Elle est là.,,sentence
+100590,French,He is French.,Il est français.,,sentence
+100591,French,She is French.,Elle est française.,,sentence
+100592,French,It is a big house.,C'est une grande maison.,,sentence
+100593,French,It is big. (referring to the house),Elle est grande.,,sentence
+100594,French,It is a new car.,C'est une nouvelle voiture.,,sentence
+100595,French,It is new. (referring to the car),Elle est nouvelle.,,sentence
+100596,French,They are my friends. (masculine/mixed),Ce sont mes amis.,,sentence
+100597,French,They are here. (masculine/mixed),Ils sont ici.,,sentence
+100598,French,They are my friends. (feminine),Ce sont mes amies.,,sentence
+100599,French,They are here. (feminine),Elles sont ici.,,sentence
+100600,French,This man reads the new book.,Cet homme lit le nouveau livre.,,sentence
+100601,French,This woman writes slowly.,Cette femme écrit lentement.,,sentence
+100602,French,These children play in the park.,Ces enfants jouent dans le parc.,,sentence
+100603,French,My father works at the school.,Mon père travaille à l'école.,,sentence
+100604,French,My mother reads in the room.,Ma mère lit dans la pièce.,,sentence
+100605,French,Our friends come today.,Nos amis viennent aujourd'hui.,,sentence
+100606,French,Their children eat at the table.,Leurs enfants mangent à la table.,,sentence
+100607,French,Your car is in front of our house. (singular informal),Ta voiture est devant notre maison.,,sentence
+100608,French,His dog sleeps under the table.,Son chien dort sous la table.,,sentence
+100609,French,Her cat eats slowly.,Son chat mange lentement.,,sentence
+100610,French,We often go to the park.,Nous allons souvent au parc.,,sentence
+100611,French,They sometimes drink coffee here. (masculine/mixed),Ils boivent parfois du café ici.,,sentence
+100612,French,I always read in this room.,Je lis toujours dans cette pièce.,,sentence
+100613,French,She already has this book.,Elle a déjà ce livre.,,sentence
+100614,French,He does not want this car.,Il ne veut pas cette voiture.,,sentence
+100615,French,We do not live near the school.,Nous ne vivons pas près de l'école.,,sentence
+100616,French,These women speak French well.,Ces femmes parlent bien français.,,sentence
+100617,French,The children read quickly.,Les enfants lisent vite.,,sentence
+100618,French,I take two books.,Je prends deux livres.,,sentence
+100619,French,She reads three books.,Elle lit trois livres.,,sentence
+100620,French,We have four chairs.,Nous avons quatre chaises.,,sentence
+100621,French,There are five children in this school.,Il y a cinq enfants dans cette école.,,sentence
+100622,French,This child is ten years old.,Cet enfant a dix ans.,,sentence
+100623,French,My father is forty years old.,Mon père a quarante ans.,,sentence
+100624,French,Today is Tuesday.,"Aujourd'hui, c'est mardi.",,sentence
+100625,French,It is eight o'clock.,Il est huit heures.,,sentence
+100626,French,We work on Wednesday.,Nous travaillons mercredi.,,sentence
+100627,French,They come on Friday. (masculine/mixed),Ils viennent vendredi.,,sentence
+100628,French,This bottle has water in it.,Il y a de l'eau dans cette bouteille.,,sentence
+100629,French,There is a cat near my house.,Il y a un chat près de ma maison.,,sentence
+100630,French,This is our new car.,C'est notre nouvelle voiture.,,sentence
+100631,French,These are their new books.,Ce sont leurs nouveaux livres.,,sentence
+100632,French,My friend is here. (male),Mon ami est ici.,,sentence
+100633,French,My mother is French.,Ma mère est française.,,sentence
+100634,French,My father speaks French well.,Mon père parle bien français.,,sentence
+100635,French,Our dog sleeps behind the door.,Notre chien dort derrière la porte.,,sentence
