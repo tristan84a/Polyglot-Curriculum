@@ -1,0 +1,814 @@
+POLYGLOT CURRICULUM CHARTER
+
+Version: 0.3 Status: Current Encoding: UTF-8
+
+1. PURPOSE
+
+The Polyglot Curriculum Charter governs the design of all language
+curricula in Polyglot.
+
+It defines the principles by which language-specific syllabi are
+created, amended, reconciled with existing cards, and extended toward
+mature competence. It does not prescribe one universal grammar sequence,
+one fixed vocabulary list, or one fixed number of cards.
+
+The Charter governs the syllabi. Each language syllabus governs the
+canonical curriculum for that language. The curriculum manifest, where
+used, records progress through those syllabi. The card CSV contains the
+actual cards and scheduling state.
+
+The intended hierarchy is:
+
+Charter → Language Syllabi → Curriculum Manifest → Card CSV
+
+Curriculum specification and curriculum progress are separate. Routine
+card generation changes progress, not the Charter or syllabus.
+
+2. CENTRAL MODEL
+
+The curriculum is static; the scheduler is adaptive.
+
+Each language has an independent canonical curriculum whose pedagogical
+order is determined by prerequisite knowledge, linguistic structure,
+usefulness, and instructional clarity. Learner performance may alter how
+frequently established cards recur, but it does not alter the canonical
+order in which new material is introduced.
+
+The curriculum should be designed as though the entire language course
+had already been constructed in advance, even when cards are actually
+generated in batches.
+
+This is the shrink-wrapped curriculum principle: a future observer
+should be able to inspect the completed deck and see a coherent
+pedagogical sequence that does not depend on knowing the learner’s
+historical weights, mistakes, or scheduling history.
+
+3. SCOPE OF A LANGUAGE COURSE
+
+Polyglot moves toward a hypothetical complete set rather than a finite
+certification endpoint.
+
+For vocabulary, “complete” means approximately the vocabulary, idiom,
+collocation, register, and semantic distinctions a typical educated
+adult speaker might reasonably know and encounter. It does not mean
+every attested word, every technical term, every dialect word, or every
+historical form.
+
+For grammar, “complete” means enough morphology, syntax, discourse
+structure, pragmatics, orthography, and productive patterning that
+ordinary modern use is not left systematically unexplained.
+
+For languages requiring substantial script or literacy instruction,
+literacy is part of the curriculum rather than an external prerequisite.
+
+A language may therefore have an indefinitely expandable long tail.
+Completeness describes direction and scope, not an absolute final card
+count.
+
+4. LANGUAGE INDEPENDENCE
+
+Every language has its own canonical syllabus.
+
+Languages may be interleaved mechanically in the unified Polyglot deck,
+but their pedagogical sequences are independent. Progress in French does
+not determine what German should teach next; progress in German does not
+determine what Japanese should teach next.
+
+Cross-language similarities may inform curriculum design, but one
+language must not be distorted to fit the grammatical categories or
+teaching sequence of another.
+
+Geographic, historical, typological, or learner-useful relationships
+between languages may influence the broader branching concept of
+Polyglot, but each language’s internal prerequisite structure remains
+authoritative.
+
+5. STANDARDIZATION AND LANGUAGE-SPECIFIC DIVERGENCE
+
+Structural consistency across language syllabi is the default where it
+is pedagogically neutral.
+
+No element should be changed merely for the sake of making a language
+course look different. Shared terminology, document organization, unit
+fields, broad lexical stages, and other reusable structures should
+remain consistent when they fit naturally.
+
+However, consistency is subordinate to the language itself.
+
+If even a modest change in sequence, unit structure, category, literacy
+treatment, or instructional strategy is pedagogically preferable for a
+particular language, the syllabus should make that change without
+reluctance.
+
+The standard is therefore:
+
+Preserve common structure unless there is a real reason to diverge; when
+there is a real reason, diverge as much as necessary and no more.
+
+The Charter prescribes how a curriculum is constructed. It does not
+prescribe which grammatical categories every language must contain.
+
+6. PREREQUISITE-DRIVEN ORDERING
+
+Every new card or unit should have an intelligible prerequisite
+relationship to what precedes it.
+
+A new card may introduce a new lexical item, grammatical pattern,
+orthographic element, idiom, or controlled combination of these. Except
+for the intended new material, the card should normally rely on
+previously established knowledge.
+
+Earlier material becomes reusable once sufficiently established by the
+canonical curriculum.
+
+The preferred progression is:
+
+Bootstrap useful vocabulary → rapidly construct the language’s
+grammatical scaffold → progressively enrich grammar and vocabulary
+together → broaden vocabulary and natural usage → develop the
+educated-adult long tail.
+
+This is a model, not a mandatory sequence of identical stages. Languages
+may require script bootstrap, case systems, classifiers, honorifics,
+evidentiality, agreement systems, literacy strands, or other structures
+at different points.
+
+7. RULE BEFORE EXCEPTION
+
+Teach one coherent pattern at a time.
+
+Where a productive rule exists, establish the rule before introducing
+exceptions that would obscure it. Where several competing constructions
+exist, begin with the construction that best exposes the underlying
+system or provides the most useful foundation.
+
+Exceptions should not be artificially delayed when they are
+indispensable to ordinary language, but they should be introduced in a
+way that preserves the learner’s ability to see the productive pattern.
+
+A high-frequency irregular form may therefore appear early when useful,
+while still receiving explicit treatment as an exception or separate
+pattern.
+
+8. GRAMMAR THROUGH CONTROLLED EXAMPLES
+
+Polyglot primarily teaches grammar through language, not through
+questions about grammatical terminology.
+
+A grammar concept should normally be established by a deliberately
+ordered series of words, phrases, and sentences that makes the pattern
+inferable and usable.
+
+Terminology may be used in syllabi and implementation notes because it
+helps design the curriculum. It need not become card content unless
+knowing the term itself is useful.
+
+The ordering of examples is part of the explanation.
+
+A well-designed sequence should progressively remove ambiguity about how
+the language works without requiring a prose grammar lesson before every
+structure.
+
+9. CONTINUOUS VOCABULARY ACQUISITION
+
+Vocabulary acquisition is continuous throughout the curriculum.
+
+Grammar units define structural progression; they do not restrict
+vocabulary to previously established lexical anchors. New vocabulary
+should be introduced at a rate that permits both grammatical
+comprehension and steady lexical growth.
+
+The curriculum should avoid both extremes:
+
+-   New grammar should not be obscured by a flood of unfamiliar
+    vocabulary.
+-   Vocabulary should not stagnate while a long grammatical sequence is
+    taught with the same tiny set of words.
+
+As the grammatical scaffold matures, lexical freedom should increase.
+
+Later broad-vocabulary stages indicate that lexical breadth has become
+the principal organizing purpose. They do not imply that vocabulary
+acquisition begins there.
+
+10. LEXICAL SELECTION AND SEQUENCING
+
+Early vocabulary should be disproportionately useful, concrete,
+frequent, structurally productive, or pedagogically valuable.
+
+Vocabulary selection should increasingly broaden toward ordinary adult
+life, abstract concepts, educated discourse, institutional language,
+culture, and the lower-frequency long tail.
+
+Words that are easily confused should generally be spaced rather than
+introduced as a dense cluster unless deliberate contrast is the teaching
+objective.
+
+Abstract verbs and nouns should not be introduced in large arbitrary
+runs. When possible, lexical items should later recur in contexts that
+reveal argument structure, collocation, morphology, register, or
+semantic distinctions.
+
+Frequency is important but not absolute. A somewhat less frequent word
+may precede a more frequent one when it is a better lexical anchor or
+prerequisite.
+
+11. LEXICAL USAGE, POLYSEMY, AND PHRASEOLOGY
+
+Knowing a lexical item includes more than knowing a basic translation.
+The curriculum should progressively establish the important senses,
+constructions, complements, collocations, idiomatic uses, semantic
+boundaries, and register constraints associated with common words.
+
+Lexical competence is continuous curriculum content alongside vocabulary
+acquisition and grammar. It should develop throughout the course rather
+than being postponed to a finite late-stage collection of idioms.
+
+High-frequency polysemous words should develop longitudinally. Their core
+meaning and morphology may be established early; additional common senses,
+argument structures, constructions, and collocations should be introduced
+when their grammatical, lexical, and contextual prerequisites become
+available.
+
+Translation equivalents must not be assumed to have identical semantic
+ranges across languages. Cards should progressively reveal where apparently
+corresponding words overlap, where they diverge, and how each language
+conventionally divides meaning.
+
+High-frequency words and constructions deserve coverage proportional not
+only to their frequency as isolated forms but also to their lexical
+productivity and semantic range. A versatile common verb may therefore
+require many cards distributed across widely separated curriculum stages.
+
+Idioms and fixed expressions form a continuum with ordinary collocation and
+constructional usage. Curriculum units devoted to idioms, collocations,
+phraseology, or natural usage are therefore consolidation and expansion
+stages, not permission to present a few colourful examples and treat the
+domain as complete.
+
+Where a syllabus contains a dedicated idiom, collocation, construction, or
+natural-usage stage, its completion standard should require systematic
+breadth appropriate to the language and the maturity of the course.
+Representative examples alone are insufficient when substantial
+high-frequency phraseology remains untreated.
+
+Mature lexical competence includes knowing not merely what combinations are
+grammatically possible, but what speakers conventionally say in ordinary
+contexts. Later broad-vocabulary and long-tail work should continue to add
+senses, constructions, collocations, idioms, semantic distinctions, and
+register information rather than treating phraseology as a completed
+earlier topic.
+
+12. LEXICAL ANCHORS
+
+A lexical anchor is a word deliberately chosen to make a grammatical,
+morphological, semantic, or orthographic pattern visible.
+
+Anchors are teaching tools, not vocabulary limits.
+
+A unit may name a small number of anchors while introducing additional
+vocabulary whenever that vocabulary does not obscure the unit’s
+objective.
+
+Anchors should preferably be useful enough to remain valuable after
+their instructional role is complete.
+
+13. INTRODUCED, ESTABLISHED, AND REUSABLE
+
+INTRODUCED means that a concept has appeared and begun to be
+demonstrated.
+
+ESTABLISHED means that the canonical curriculum has demonstrated the
+concept sufficiently for later cards to assume its basic operation.
+
+REUSABLE means that an established item or structure may appear
+naturally in later cards without being the principal teaching objective.
+
+These terms describe curriculum state, not learner mastery.
+
+A learner may personally struggle with an established concept. The
+adaptive scheduler addresses that by increasing exposure. The canonical
+curriculum does not retreat or reorder itself in response.
+
+14. COMPLETION STANDARDS
+
+Units do not have fixed card quotas unless a genuinely finite inventory
+makes a count pedagogically meaningful.
+
+Each unit instead has a completion standard: the minimum canonical
+coverage needed before its principal concept can be treated as
+established.
+
+Completion standards should be based on demonstration of the pattern
+across enough forms, contexts, contrasts, or lexical representatives to
+support later reuse.
+
+A simple unit may require only a few cards. A morphologically rich or
+conceptually difficult unit may require many.
+
+Variation in unit size is expected and desirable.
+
+15. DELIBERATELY EXCLUDED MATERIAL
+
+A syllabus unit should identify important material that is intentionally
+postponed when doing so prevents future ambiguity.
+
+Deliberately excluded material may include exceptions, competing
+constructions, advanced meanings, alternate registers, orthographic
+complications, or structures requiring later prerequisites.
+
+Exclusion is temporary unless the material lies outside the intended
+scope of the course.
+
+This field prevents a simplified early rule from silently becoming the
+permanent curriculum.
+
+16. CARD STRATEGY
+
+A syllabus may specify how a concept should actually be represented in
+cards.
+
+Card strategy may address such matters as:
+
+-   whether to begin with isolated lexical forms or sentences;
+-   how many contrasting forms should be introduced together;
+-   when to vary person, number, case, tense, register, or word order;
+-   whether translation ambiguity requires a controlled English prompt;
+-   how script or input guidance should be handled;
+-   when examples should become more natural and less controlled.
+
+Card strategy should serve the linguistic objective rather than force
+every language into the same exercise type.
+
+17. SCRIPT, ORTHOGRAPHY, AND LITERACY
+
+All languages follow the same fundamental card principle regardless of
+writing system: the Target uses the natural conventional orthography of
+the target language from its first appearance.
+
+Polyglot does not create a separate transliteration curriculum or
+require a romanized bootstrap before ordinary language begins. Cyrillic,
+Arabic, Georgian, Devanagari, kana, kanji, and other writing systems are
+encountered as part of learning the language itself, just as unfamiliar
+sound-letter relationships in Latin-script languages are encountered
+through ordinary vocabulary.
+
+Difficulty is controlled by the choice and ordering of vocabulary and
+structures, not by replacing the language's normal writing with a
+learner transcription.
+
+Writing-system knowledge therefore develops through repeated production
+and recognition of real words and sentences. External references,
+pronunciation audio, keyboard behaviour, alphabet tables, handwriting
+practice, or other aids may support the learner when needed; Polyglot
+need not encode every such prerequisite as permanent cards.
+
+Where a language conventionally uses more than one script or a mixed
+writing system, cards should use the ordinary contemporary orthographic
+choice for the word or expression being taught. A familiar-looking or
+pedagogically simpler spelling must not replace a conventional spelling
+merely because the learner has not yet encountered its characters.
+
+Script and literacy remain legitimate curricular subjects. Character
+structure, spelling rules, orthographic alternations, readings,
+punctuation, handwriting conventions, or other literacy systems may
+receive explicit treatment when they constitute genuine knowledge of
+the language. Such treatment should arise from authentic orthography
+rather than from a preliminary transliteration deck.
+
+Transliteration may appear as reference or input guidance where useful,
+but it is not an accepted substitute Target for ordinary language and is
+not itself treated as a language.
+18. MORPHOLOGY AND PARADIGMS
+
+Paradigms should be made visible without turning the curriculum into
+table memorization.
+
+A productive inflectional system should normally be introduced through
+controlled examples that reveal its dimensions and regularities, then
+mixed sufficiently to demonstrate productivity.
+
+The curriculum should distinguish between productive morphology,
+high-frequency irregularity, lexicalized forms, and patterns that are
+primarily useful for recognition.
+
+The appropriate dimensions are language-specific. Person, number,
+gender, noun class, case, tense, aspect, mood, politeness,
+evidentiality, definiteness, animacy, or other categories should appear
+only where the language requires them.
+
+19. SYNTAX AND INFORMATION STRUCTURE
+
+The curriculum should teach the language’s actual organizing principles
+rather than projecting English word order onto it.
+
+If a language is best understood through verb-second structure,
+topic-comment organization, argument omission, case marking, fixed
+constituent order, clause fields, particles, agreement, or another
+system, the syllabus should make that structure visible early enough to
+prevent a misleading simpler model from becoming entrenched.
+
+Simplification is useful when it is explicitly provisional and does not
+create unnecessary later unlearning.
+
+Discourse and information structure should receive explicit treatment
+when they materially affect ordinary sentence formation or
+interpretation.
+
+20. SEMANTICS, PRAGMATICS, AND REGISTER
+
+A mature curriculum must teach more than grammaticality.
+
+It should progressively establish:
+
+-   lexical meaning and semantic distinctions;
+-   collocations and idioms;
+-   ordinary pragmatic implications;
+-   politeness and social distance;
+-   formal, neutral, familiar, and informal registers where relevant;
+-   spoken versus written tendencies;
+-   generational or regional variation that an educated speaker commonly
+    encounters.
+
+Social or regional variants should be described rather than ranked as
+inherently superior or defective.
+
+Early stages may use a broadly neutral reference variety for coherence.
+Major standard and commonly encountered variants should be introduced
+later where relevant.
+
+21. TRANSLATION AND PROMPT DESIGN
+
+English prompts are tools for eliciting the intended target, not claims
+that languages map word-for-word.
+
+Prompts should be specific enough that the expected target is
+unambiguous within the curriculum. Where English has several meanings
+that the target language distinguishes, prompts may be disambiguated.
+
+One accepted target string is preferred for a card. If two target forms
+are both valid but represent different constructions, registers,
+meanings, or curricular objectives, they should normally be taught as
+separate cards or with prompts that distinguish them.
+
+Exact matching, including meaningful diacritics and case, is
+intentional.
+
+Translation should not force unnatural explicit pronouns, word order,
+tense, articles, or other English structures into the target language.
+
+Every Target is intended to remain valid as a permanent member of the
+deck. It should therefore represent natural mature-language usage for
+the intended meaning and register, not a learner-simplified surrogate.
+Curricular difficulty should be reduced by selecting simpler meanings,
+vocabulary, and structures, not by making the target language
+artificially explicit, orthographically simplified, or otherwise
+unnatural.
+
+22. INPUT GUIDANCE
+
+Input guidance may be supplied where the learner needs practical
+information about how to type a displayed target.
+
+InputHint is optional and appears as assistance about input or reading;
+it is not an alternative accepted answer and must not become a
+transliteration curriculum.
+
+For an input method that is ordinarily mediated by phonetic typing,
+InputHint may record the practical keystroke reading needed to produce
+the authentic Target. For example, a Japanese kanji Target may carry a
+romaji InputHint even though the required answer remains Japanese
+orthography.
+
+Languages that use a direct target-script keyboard normally need no
+InputHint merely because their script is unfamiliar. Input guidance may
+be omitted or may disappear whenever it adds no practical value.
+23. NATURALNESS VERSUS CONTROL
+
+Early examples should be controlled enough that the intended pattern is
+visible, but they should remain linguistically legitimate.
+
+As concepts become established, examples should become increasingly
+natural, lexically varied, and structurally integrated.
+
+The curriculum should not preserve unnatural textbook language merely
+because it is easy to parse.
+
+Conversely, highly idiomatic natural language should not be introduced
+so early that the learner cannot determine which part of the example is
+teaching the intended concept.
+
+24. SYNTHESIS UNITS
+
+Synthesis units may follow clusters of related concepts.
+
+Their purpose is not to introduce a new paradigm but to demonstrate that
+previously separated structures can operate together under realistic
+variation.
+
+Synthesis cards should reduce cues that reveal which rule is being
+tested and should broaden vocabulary where appropriate.
+
+A synthesis unit is especially useful before later stages begin treating
+the relevant grammar as unrestricted reusable background knowledge.
+
+25. BROAD VOCABULARY AND THE LONG TAIL
+
+Once the major grammatical scaffold is mature, vocabulary becomes
+increasingly dominant.
+
+Broad lexical development should cover ordinary adult domains such as
+household life, food, relationships, health, work, education,
+transportation, public places, nature, tools, technology, commerce,
+government, science, culture, emotions, and abstract concepts, adapted
+to the language and society.
+
+Later expansion should include lower-frequency verbs, adjectives and
+nouns; academic and professional vocabulary; broadly relevant
+scientific, institutional, political, legal, economic and cultural
+language; word formation; idiom; collocation; and fine semantic
+distinctions.
+
+The final long tail may include commonly encountered regional variation,
+contemporary and generational usage, formal/literary vocabulary,
+historical language still encountered in modern culture, and specialized
+vocabulary of broad relevance.
+
+26. EXISTING CARDS AND CURRICULUM RECONCILIATION
+
+A new or amended syllabus does not invalidate earlier cards merely
+because they were created before the specification existed.
+
+When an existing deck and a new syllabus differ, perform curriculum
+reconciliation:
+
+1.  Compare existing cards with the syllabus.
+2.  Determine which concepts are adequately established, partially
+    covered, or not yet covered by the canonical card sequence.
+3.  Preserve valid existing cards and IDs.
+4.  Fill meaningful prerequisite or coverage gaps.
+5.  Do not recreate material merely to make historical card order
+    visually identical to the new syllabus.
+6.  Converge toward the canonical syllabus.
+7.  Once the historical frontier is reconciled, continue normally from
+    the current canonical position.
+
+Historical deviations may be documented in implementation notes or
+progress records where useful.
+
+Reconciliation should be a finite transition, not a permanent
+alternative curriculum.
+
+27. CURRICULUM PROGRESS AND THE MANIFEST
+
+Progress does not belong inside the syllabus.
+
+A Curriculum Manifest may record compact machine-readable state such as:
+
+-   language;
+-   syllabus version;
+-   units established;
+-   units partially covered;
+-   current unit or frontier;
+-   script/literacy position where relevant;
+-   global card/ID checkpoint;
+-   reconciliation notes.
+
+The manifest is a checkpoint or cache, not the source of curriculum
+truth. The syllabus defines the intended course; the CSV contains the
+actual cards.
+
+Where the current CSV is sufficient to reconstruct progress reliably,
+the manifest need not become an unnecessary maintenance burden.
+
+28. DOCUMENT ARCHITECTURE
+
+The preferred durable document set is:
+
+1.  Polyglot Curriculum Charter — system-wide governing principles.
+2.  One living syllabus per language — the language-specific canonical
+    roadmap.
+3.  Curriculum Manifest — compact progress state where useful.
+4.  Card CSV — actual cards and scheduling state.
+
+Documents should use plain UTF-8 text with simple Markdown-like headings
+unless another format has a clear practical advantage.
+
+Syllabi and the Charter should have version numbers and concise
+amendment histories.
+
+29. LANGUAGE SYLLABUS UNIT TEMPLATE
+
+The preferred unit template is:
+
+LANGUAGE-XX — UNIT NAME
+
+PREREQUISITES Earlier units or specific concepts assumed.
+
+OBJECTIVE What the learner should acquire from this unit.
+
+CORE PATTERN The grammatical, lexical, semantic, or orthographic pattern
+being established, where applicable.
+
+LEXICAL ANCHORS A small number of words deliberately chosen to make the
+pattern visible. These are anchors, not a restriction on additional
+vocabulary.
+
+CARD STRATEGY How the concept should actually be taught through cards.
+
+VOCABULARY DEVELOPMENT What kinds of new vocabulary can sensibly be
+introduced alongside the unit.
+
+DELIBERATELY EXCLUDED Exceptions, competing constructions, or later
+concepts that would obscure the present lesson.
+
+COMPLETION STANDARD What must have been demonstrated before the
+curriculum can treat the concept as established.
+
+LEADS TO Later units that depend upon this one.
+
+IMPLEMENTATION NOTES Existing cards, historical deviations, script/input
+issues, or other special considerations.
+
+Not every field must be populated when irrelevant. Near-term units may
+be specified in considerably more detail than distant long-tail units.
+
+The template is a default organizational tool, not a requirement to
+invent content for empty fields.
+
+30. SYLLABUS DESIGN PROCEDURE
+
+When designing a new language syllabus:
+
+1.  Identify any script, orthographic, or input considerations that must develop alongside authentic language.
+2.  Identify a small useful lexical base.
+3.  Determine the language’s true foundational organizing structures
+    rather than importing categories from another language.
+4.  Build a prerequisite graph from basic structures toward mature
+    grammar.
+5.  Introduce enough vocabulary continuously to prevent grammatical
+    development from becoming lexically sterile.
+6.  Plan longitudinal development of high-frequency polysemous words,
+    constructions, collocations, and other phraseology.
+7.  Insert synthesis points where formerly isolated systems need to
+    operate together.
+8.  Identify language-specific systems requiring dedicated treatment.
+9.  Determine how literacy, orthography, register, pragmatics, and
+    variation enter the course.
+10.  Transition gradually from grammar-led organization toward broad
+    lexical development.
+11. Define the educated-adult and long-tail destination.
+12. Compare the resulting syllabus with existing Polyglot syllabi for
+    useful consistency.
+13. Preserve shared structure where neutral; change anything that needs
+    changing for the language.
+14. Stress-test the syllabus against real example cards before treating
+    it as stable.
+
+31. CARD GENERATION PROCEDURE
+
+When extending an established language deck:
+
+1.  Read the governing Charter and current language syllabus.
+2.  Determine current progress from the CSV and, where available/useful,
+    the manifest.
+3.  Reconcile historical gaps if the language predates its syllabus.
+4.  Identify the next unmet canonical objective.
+5.  Generate cards in prerequisite-aware order.
+6.  Keep the intended new concept visible by controlling other novelty.
+7.  Introduce useful vocabulary continuously.
+8.  Develop established high-frequency words longitudinally when new
+    senses, constructions, collocations, or semantic contrasts become
+    pedagogically available.
+9.  Reuse established structures naturally.
+10. Preserve stable IDs and CSV ordering.
+11. Update progress records as appropriate; do not amend the syllabus
+    merely because cards were generated.
+
+32. QUALITY TESTS
+
+A proposed card sequence should satisfy the following questions:
+
+PREREQUISITE TEST Does the card require unexplained knowledge beyond the
+intended new material?
+
+PATTERN TEST Is the intended rule or distinction visible from the
+surrounding sequence?
+
+NATURALNESS TEST Is the target language legitimate and reasonably
+natural for the intended register?
+
+PERMANENCE TEST Would the Target still be worth retaining unchanged after
+the learner becomes fully literate and advanced, or is it merely temporary
+beginner scaffolding?
+
+AMBIGUITY TEST Does the prompt identify the intended target sufficiently
+for exact-answer grading?
+
+VOCABULARY TEST Is lexical growth continuing without obscuring new
+grammar?
+
+LEXICAL-USAGE TEST Are important senses, constructions, collocations,
+semantic boundaries, and phraseology developing with appropriate breadth,
+rather than being reduced to isolated translation pairs or a few token
+idioms?
+
+INTERFERENCE TEST Are easily confused new items spaced appropriately
+unless contrast is deliberate?
+
+LANGUAGE-INTEGRITY TEST Is the language being taught according to its
+own structure rather than an imported template?
+
+REUSE TEST Are established concepts being allowed to recur naturally?
+
+SHRINK-WRAPPED TEST Would this ordering still make pedagogical sense if
+the learner’s scheduling history and performance data were erased?
+
+LONG-TERM TEST Does the sequence build toward mature adult competence
+rather than merely completing beginner textbook topics?
+
+33. AMENDMENTS
+
+The Charter should change only when a system-wide curriculum principle
+changes.
+
+A language syllabus should change only when that language’s canonical
+curriculum changes.
+
+Routine card generation and progress do not constitute amendments.
+
+An amendment should:
+
+-   identify the affected section or units;
+-   state the pedagogical change;
+-   explain whether it applies only to future cards or requires
+    correction of existing cards;
+-   increment the document version;
+-   preserve a concise amendment record.
+
+Changes should improve the curriculum rather than rewrite documents for
+stylistic novelty.
+
+34. GOVERNING PRIORITIES
+
+When principles appear to compete, use the following order of judgment:
+
+1.  Teach the target language accurately according to its own structure.
+2.  Respect prerequisite knowledge and pedagogical clarity.
+3.  Build toward useful, natural, mature language competence.
+4.  Preserve coherent canonical sequencing.
+5.  Maintain continuous vocabulary growth and longitudinal lexical-usage
+    development.
+6.  Preserve cross-language/document consistency where it does not
+    conflict with the above.
+7.  Prefer simplicity of implementation where pedagogically equivalent.
+
+This ordering means that consistency is valuable but never a reason to
+teach a language incorrectly or awkwardly.
+
+35. AMENDMENT HISTORY
+
+Version 0.1
+- Initial Charter draft.
+- Extracted from the curriculum architecture developed through French and
+  German full syllabi and the Japanese stress test/full syllabus.
+- Established the static-curriculum/adaptive-scheduler distinction,
+  independent canonical curricula, prerequisite-aware ordering,
+  rule-before-exception, controlled-example grammar teaching, continuous
+  vocabulary growth, lexical anchors, completion standards, deliberate
+  exclusions, language-specific script/literacy treatment, reconciliation,
+  document architecture, syllabus design, card generation, and quality
+  tests.
+
+Version 0.2
+- Adds a system-wide principle for lexical usage, polysemy, and phraseology.
+- Makes lexical competence a continuous strand alongside vocabulary and
+  grammar rather than a finite late-stage idiom topic.
+- Requires longitudinal development of high-frequency polysemous words,
+  including important senses, argument structures, constructions,
+  collocations, semantic boundaries, idiomatic uses, and register.
+- Clarifies that apparent translation equivalents need not share the same
+  semantic range across languages.
+- Requires dedicated idiom/collocation/natural-usage stages to achieve
+  systematic breadth rather than token-example coverage.
+- Adds lexical-usage considerations to syllabus design, card generation,
+  quality testing, and governing priorities.
+- Applies prospectively to future card generation and syllabus design.
+  Existing valid cards do not require retrospective correction solely
+  because of this amendment.
+
+
+Version 0.3
+- Establishes one writing-system policy for all languages: authentic
+  conventional target-language orthography from first exposure.
+- Removes transliteration/script bootstrap as a default curriculum stage.
+- Treats script acquisition as something that develops through real
+  vocabulary and sentences, with external aids permitted when useful.
+- Preserves InputHint as optional post-answer input/reading guidance, not
+  as an alternative Target or separate language.
+- Establishes the permanence principle: permanent cards must contain
+  natural mature-language Targets rather than learner-simplified output.
+- Clarifies that difficulty is controlled by curriculum selection and
+  sequencing, not by distorting orthography or natural expression.
+- Repairs numbering defects introduced in version 0.2 without changing
+  their substantive principles.
