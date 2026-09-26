@@ -1,0 +1,960 @@
+POLYGLOT TURKISH SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.7
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for modern standard
+Turkish in Polyglot. It follows the Polyglot Curriculum Charter v0.7:
+a small reusable lexical seed moves immediately into productive
+structure; vocabulary expands just in time alongside grammar; first
+introduction is distinct from establishment; and previously introduced
+structures should be reinforced longitudinally through later double-duty
+cards.
+
+Turkish structure is authoritative. Existing Polyglot sequences may be
+reused where they fit naturally, but Turkish is not to be distorted to
+resemble French, German, Polish, Hungarian, or another language.
+
+The syllabus is designed toward ordinary educated-adult competence
+rather than a finite beginner endpoint. Vocabulary, agglutinative
+morphology, syntax, evidential and temporal distinctions, phraseology,
+register, orthography, and natural usage continue into an expandable
+long tail.
+
+OPENING PROTOTYPE AND PACING DIRECTIVE
+
+The published 50-card Turkish prototype was designed before this full
+syllabus as a deliberate stress test. It is now the empirical opening to
+be reconciled against the syllabus rather than discarded merely because
+the specification was written later.
+
+Preferred initial lexical seed:
+
+ev — house
+erkek — man
+kadın — woman
+çocuk — child
+büyük — big
+küçük — small
+iyi — good
+kötü — bad
+
+The prototype then moves promptly into ordinary Turkish predication,
+bir and bu, personal predicate endings, natural subject omission, değil
+negation, polar questions, and the first noun plurals.
+
+The prototype establishes these principles early:
+
+1. Third-person present nominal and adjectival predicates normally have
+   no overt copular word: Ev büyük. Doktor.
+
+2. First- and second-person present nominal/adjectival predicates expose
+   personal suffixes directly: İyiyim. İyisin. Doktorum. Doktorsun.
+
+3. Turkish is ordinarily pro-drop when person is recoverable from the
+   predicate. Personal pronouns are taught as lexical forms but should
+   not be mechanically retained in neutral sentences.
+
+4. o is gender-neutral and may correspond to English he, she, or it.
+
+5. bir must develop as both numeral and indefinite determiner without
+   being treated as a mechanical equivalent of English a/an.
+
+6. değil supplies nominal/adjectival negation and itself carries personal
+   marking where required: İyi değilim.
+
+7. Polar questions use the separate question clitic/particle
+   mı/mi/mu/mü, with vowel harmony and person marking developing through
+   real examples.
+
+8. Noun plural -lar/-ler makes vowel harmony visible early. Its
+   introduction does not make plurality or vowel harmony complete.
+
+9. Turkish morphology should be learned as productive suffix
+   architecture through accumulated words and sentences, not as a
+   preliminary table of all possible suffixes.
+
+10. Negation, questions, plurality, vowel harmony, and personal marking
+    are longitudinal systems. The opening gives each enough exposure to
+    become intelligible, then later cards should reinforce them while
+    introducing new material.
+
+The opening prototype is a pacing model, not a permanent 50-card quota.
+
+STAGE 1 — SMALL SEED AND PRESENT NOMINAL/ADJECTIVAL PREDICATION
+
+TR-01 — Core concrete nouns and authentic Turkish orthography
+
+OBJECTIVE: Establish a very small reusable noun seed while exposing
+ordinary Turkish spelling, including ı, İ, ö, ü, ç, ğ, and ş as they
+naturally arise.
+
+LEXICAL ANCHORS: ev, erkek, kadın, çocuk.
+
+CARD STRATEGY: Isolated lexical cards are appropriate for the seed; move
+into productive sentences immediately.
+
+COMPLETION STANDARD: Enough nouns exist to support early predication and
+determiner use. Broader noun vocabulary develops continuously.
+
+TR-02 — Core descriptive adjectives
+
+PREREQUISITES: TR-01 begun.
+
+OBJECTIVE: Establish a small useful adjective seed.
+
+LEXICAL ANCHORS: büyük, küçük, iyi, kötü.
+
+CARD STRATEGY: Teach citation forms and immediately reuse them as
+predicates.
+
+COMPLETION STANDARD: The seed supports productive description.
+
+TR-03 — Third-person present nominal and adjectival predication
+
+PREREQUISITES: TR-01–TR-02.
+
+OBJECTIVE: Establish ordinary present third-person predicates without an
+independent copular word.
+
+CORE PATTERNS: Ev büyük. Kadın iyi. Doktor.
+
+DELIBERATELY EXCLUDED: var/yok existence, olmak as a lexical verb, past
+copular morphology, and formal or emphatic copular forms.
+
+COMPLETION STANDARD: Basic third-person nominal and adjectival
+predication is established as ordinary Turkish structure.
+
+TR-04 — bir and bu
+
+OBJECTIVE: Establish bir first as one/indefinite and bu as proximal
+demonstrative, using natural nominal predicates.
+
+CORE PATTERNS: Bu bir ev. Bu bir çocuk. Bu bir doktor.
+
+CARD STRATEGY: Do not imply that Turkish requires bir wherever English
+uses a/an. Its numeral, indefinite, and later discourse-sensitive uses
+develop longitudinally.
+
+TR-05 — Personal pronouns and gender-neutral o
+
+OBJECTIVE: Establish ben, sen, o, biz, siz, onlar as reference forms and
+make explicit that o does not encode grammatical gender.
+
+CARD STRATEGY: Pronouns may be learned as lexical forms. Do not preserve
+them in ordinary sentences merely because the English prompt has an
+explicit subject.
+
+COMPLETION STANDARD: The six basic pronouns are available as lexical
+reference forms and ordinary subject omission is anticipated.
+
+TR-06 — Present personal predicate suffixes
+
+PREREQUISITES: TR-02–TR-05.
+
+OBJECTIVE: Establish personal marking on ordinary nominal/adjectival
+predicates while preserving zero third-person singular.
+
+CORE PATTERNS: İyiyim. İyisin. İyi. İyiyiz. İyisiniz. Doktorum.
+Doktorsun. Doktoruz.
+
+CARD STRATEGY: Prefer omitted pronouns where natural. Introduce suffix
+allomorphy through real predicates rather than a detached paradigm.
+
+COMPLETION STANDARD: Core singular and plural personal predication is
+intelligible and ready for longitudinal reinforcement.
+
+TR-07 — Nominal/adjectival negation with değil
+
+OBJECTIVE: Establish değil after nominal/adjectival predicates and its
+personal marking.
+
+CORE PATTERNS: Ev büyük değil. İyi değilim. İyi değilsin.
+
+COMPLETION STANDARD: Basic predicative negation has enough controlled
+exposure to recur in later material. It remains a longitudinal strand.
+
+TR-08 — Polar questions with mı/mi/mu/mü
+
+OBJECTIVE: Establish the separate polar-question element, its vowel
+harmony, and initial interaction with personal marking.
+
+CORE PATTERNS: Ev büyük mü? Kadın iyi mi? İyi miyim? İyi misin?
+
+CARD STRATEGY: Keep question morphology visible initially, then reuse
+questions throughout later units rather than treating this as a sealed
+question block.
+
+COMPLETION STANDARD: The basic polar-question pattern is intelligible
+across representative predicate shapes and can be reinforced later.
+
+TR-09 — Noun plural -lar/-ler
+
+OBJECTIVE: Introduce noun plurality and the first highly transparent
+two-way vowel-harmonic suffix family.
+
+CORE PATTERNS: evler, çocuklar; Evler büyük. Çocuklar küçük.
+
+DELIBERATELY EXCLUDED: Full vowel-harmony theory, plural possessives,
+case-marked plurals, and every interaction with agreement.
+
+COMPLETION STANDARD: -lar/-ler is introduced productively and available
+for reuse; later cards continue varying plurality.
+
+STAGE 2 — BASIC VERBAL CLAUSES AND CORE NOMINAL MORPHOLOGY
+
+TR-10 — Basic present/progressive verbal clauses
+
+OBJECTIVE: Introduce a small set of high-value verbs through natural
+finite clauses, beginning with the ordinary -iyor progressive/present
+system where context supports it.
+
+CARD STRATEGY: Add verbs just in time. Do not create a long preliminary
+infinitive list. Omit subject pronouns where person marking makes them
+unnecessary.
+
+COMPLETION STANDARD: Basic intransitive and transitive verbal clauses
+exist sufficiently to support object marking and verbal negation.
+
+TR-11 — Accusative -(y)ı/-(y)i/-(y)u/-(y)ü and object definiteness
+
+PREREQUISITES: TR-10.
+
+OBJECTIVE: Establish marked specific/definite direct objects and contrast
+them with ordinary unmarked nonspecific objects.
+
+CARD STRATEGY: Use matched natural contrasts where possible. Avoid
+reducing Turkish accusative use to English definiteness alone.
+
+COMPLETION STANDARD: The central marked-versus-unmarked object contrast
+is inferable and reusable.
+
+TR-12 — Verbal negation -ma/-me
+
+PREREQUISITES: TR-10.
+
+OBJECTIVE: Distinguish verbal negation from nominal/adjectival değil and
+establish its position inside the verb complex.
+
+CARD STRATEGY: Recycle previously introduced persons, questions, nouns,
+and adjectives where natural.
+
+TR-13 — Verbal polar questions
+
+PREREQUISITES: TR-08, TR-10.
+
+OBJECTIVE: Extend mı/mi/mu/mü into finite verbal clauses and consolidate
+its placement relative to tense/aspect/person morphology.
+
+TR-14 — Demonstratives and basic noun phrases
+
+OBJECTIVE: Expand bu to şu and o, distinguish demonstrative determiner
+and pronoun uses, and establish ordinary noun-phrase order.
+
+TR-15 — Cardinal numbers and singular nouns after numerals
+
+OBJECTIVE: Establish basic numbers and the Turkish pattern in which nouns
+normally remain singular after numerals.
+
+CORE CONTRAST: iki ev, not a mechanically English-like plural noun.
+
+TR-16 — Basic vowel harmony as a productive system
+
+OBJECTIVE: Make explicit through accumulated plural, question, accusative,
+and verbal examples that suffix vowels are selected systematically.
+
+CARD STRATEGY: Continue teaching harmony through meaningful morphology;
+do not replace usage with abstract vowel-class quizzes.
+
+COMPLETION STANDARD: Common two-way and four-way suffix choices are
+predictable for ordinary stems, with exceptions reserved for later
+treatment.
+
+TR-17 — Buffer consonants and basic consonant alternations
+
+OBJECTIVE: Establish high-frequency morphophonology such as y-buffering
+and common p/ç/t/k alternations where suffixation naturally exposes them.
+
+DELIBERATELY EXCLUDED: Exhaustive phonological exception lists.
+
+TR-18 — Agglutinative suffix order
+
+OBJECTIVE: Make Turkish word structure increasingly transparent as an
+ordered sequence of stem plus derivational/inflectional morphology.
+
+CARD STRATEGY: Build only from already understood suffixes. Do not create
+artificially long forms merely to display agglutination.
+
+STAGE 3 — CASE, LOCATION, EXISTENCE, AND POSSESSION
+
+TR-19 — Dative -(y)a/-(y)e
+
+OBJECTIVE: Establish destination, recipient, and other high-frequency
+dative functions through natural clauses.
+
+TR-20 — Locative -da/-de/-ta/-te
+
+OBJECTIVE: Establish static location and expose consonant-conditioned
+allomorphy alongside vowel harmony.
+
+TR-21 — Ablative -dan/-den/-tan/-ten
+
+OBJECTIVE: Establish source/from relations and reinforce the same
+morphophonological architecture.
+
+TR-22 — Genitive -(n)ın/-(n)in/-(n)un/-(n)ün
+
+OBJECTIVE: Introduce possessor marking as a prerequisite to the full
+possessive construction.
+
+TR-23 — Possessive suffixes
+
+OBJECTIVE: Establish core possessed-noun morphology across persons and
+representative stem types.
+
+CARD STRATEGY: Prefer natural possessed forms and phrases over English
+possessive-pronoun substitution.
+
+TR-24 — Genitive-possessive constructions
+
+PREREQUISITES: TR-22–TR-23.
+
+OBJECTIVE: Establish Turkish possessor + possessed agreement and contrast
+it with simple English 's/of mappings.
+
+TR-25 — Compound nouns and indefinite noun compounds
+
+OBJECTIVE: Establish common noun-noun compounds with the appropriate
+compound marker on the head noun and distinguish them from definite
+genitive-possessive constructions.
+
+TR-26 — var and yok
+
+OBJECTIVE: Establish existence/nonexistence and ordinary possession
+constructions.
+
+CORE PATTERNS: Evde çocuk var. Evde çocuk yok. Kitabım var.
+
+CARD STRATEGY: Contrast with zero-copula predicates and with değil so
+that distinct Turkish systems remain visible.
+
+TR-27 — Case, possession, and existence synthesis
+
+OBJECTIVE: Integrate plural, case, possessive morphology, var/yok,
+questions, and negation through natural double-duty cards.
+
+STAGE 4 — TENSE, ASPECT, AND MOOD
+
+TR-28 — -iyor progressive/present consolidation
+
+OBJECTIVE: Broaden the initially introduced -iyor system across persons,
+negation, questions, vowel alternations, and common lexical classes.
+
+TR-29 — Aorist/geniş zaman
+
+OBJECTIVE: Establish habitual, generic, dispositional, and other core
+uses of the aorist with representative affirmative morphology.
+
+CARD STRATEGY: Treat the aorist as a Turkish tense/aspect category, not
+as a one-to-one English simple-present ending.
+
+TR-30 — Aorist negation and person interaction
+
+OBJECTIVE: Establish the distinctive negative aorist pattern and its
+person marking without burying it among unrelated exceptions.
+
+TR-31 — Direct/simple past -di
+
+OBJECTIVE: Establish the witnessed/direct past family across persons,
+negation, and questions, while leaving discourse-level evidential
+contrasts for explicit later comparison.
+
+TR-32 — Inferential/evidential past -miş
+
+OBJECTIVE: Establish core inferential, reportative, and resultative
+functions of -miş and its ordinary pragmatic range.
+
+TR-33 — -di versus -miş
+
+OBJECTIVE: Contrast direct/simple and inferential/reportative past
+meanings through controlled contexts rather than translating both merely
+as English past.
+
+TR-34 — Future -(y)acak/-(y)ecek
+
+OBJECTIVE: Establish future morphology and its person/negation/question
+interactions.
+
+TR-35 — Necessitative -malı/-meli
+
+OBJECTIVE: Establish ordinary necessity/obligation morphology and
+distinguish it from later lexical/modal alternatives.
+
+TR-36 — Ability/possibility -(y)abil/-(y)ebil
+
+OBJECTIVE: Establish productive ability/possibility morphology,
+including negation and tense combinations progressively.
+
+TR-37 — Conditional -sa/-se
+
+OBJECTIVE: Establish core conditional morphology and ordinary
+hypothetical uses.
+
+TR-38 — Imperative and optative/request forms
+
+OBJECTIVE: Establish common command, request, suggestion, and wish forms
+in a frequency- and register-aware sequence rather than as one giant
+paradigm.
+
+TR-39 — Copular past, inferential, and conditional on nominal predicates
+
+OBJECTIVE: Extend nominal/adjectival predication beyond the present using
+forms historically associated with imek and their modern suffixal or
+separate realizations.
+
+TR-40 — Tense/aspect/mood synthesis
+
+OBJECTIVE: Mix established verbal and nominal systems across person,
+polarity, question force, and discourse context while broadening
+vocabulary.
+
+STAGE 5 — NON-FINITE VERBAL SYSTEM AND COMPLEX NOMINALIZATION
+
+TR-41 — Infinitives -mak/-mek
+
+OBJECTIVE: Establish productive infinitival use beyond lexical citation
+forms.
+
+TR-42 — Verbal nouns in -ma/-me
+
+OBJECTIVE: Establish nominalized actions and distinguish them from
+negative morphology through form, syntax, and context.
+
+TR-43 — Verbal nouns in -(y)ış/-(y)iş/-(y)uş/-(y)üş
+
+OBJECTIVE: Introduce common manner/process/result nominalizations where
+lexically and syntactically useful.
+
+TR-44 — Participles in -(y)an/-(y)en
+
+OBJECTIVE: Establish subject/gap participial modifiers through natural
+noun phrases.
+
+TR-45 — Participles in -dik and possessive agreement
+
+PREREQUISITES: TR-22–TR-24.
+
+OBJECTIVE: Establish one of the central Turkish nominalized relative and
+complement structures, including person/possessive marking.
+
+TR-46 — Future participles -(y)acak/-(y)ecek
+
+OBJECTIVE: Extend participial modification to future/intended reference
+and connect it to already established future morphology.
+
+TR-47 — Adverbial converb -(y)ip
+
+OBJECTIVE: Establish same-subject event chaining and common discourse
+uses.
+
+TR-48 — Adverbial converb -(y)arak/-(y)erek
+
+OBJECTIVE: Establish manner/simultaneous-action relationships.
+
+TR-49 — Temporal converbs
+
+OBJECTIVE: Introduce high-frequency forms such as -ince, -ken, and
+-dikçe progressively according to their distinct meanings.
+
+TR-50 — Non-finite synthesis
+
+OBJECTIVE: Integrate infinitives, verbal nouns, participles, and converbs
+as a central Turkish strategy for clause combining.
+
+STAGE 6 — COMPLEMENTATION, RELATIVE CLAUSES, AND CLAUSE LINKING
+
+TR-51 — diye constructions
+
+OBJECTIVE: Establish high-frequency quotation, naming, reason/purpose,
+and complement uses progressively rather than assuming a single English
+equivalent.
+
+TR-52 — ki clauses and lexicalized ki constructions
+
+OBJECTIVE: Establish ordinary modern uses of ki while distinguishing
+them from the predominantly nominalized native clause-linking systems.
+
+TR-53 — Nominalized complement clauses
+
+OBJECTIVE: Develop -dik/-ecek and related person-marked nominalized
+complements with appropriate case and possessive morphology.
+
+TR-54 — Subject-participle relative clauses
+
+OBJECTIVE: Consolidate -(y)an/-(y)en relatives with broader vocabulary
+and syntactic roles.
+
+TR-55 — Object/oblique relative clauses
+
+OBJECTIVE: Develop -dik/-ecek relative structures and the possessor-like
+marking of their subjects.
+
+TR-56 — Causal relations
+
+OBJECTIVE: Establish common causal connectors and suffixal constructions
+with their natural register and syntactic distributions.
+
+TR-57 — Purpose and result
+
+TR-58 — Temporal clause relations
+
+TR-59 — Concession and contrast
+
+TR-60 — Coordination
+
+TR-61 — Reported speech and reported questions
+
+TR-62 — Complex-clause synthesis
+
+STAGE 7 — VOICE, VALENCY, AND DERIVATIONAL VERBS
+
+TR-63 — Passive voice
+
+OBJECTIVE: Establish productive passive morphology and common
+morphophonological variants.
+
+TR-64 — Causative voice
+
+OBJECTIVE: Establish productive causatives and their effects on argument
+structure.
+
+TR-65 — Reflexive voice
+
+OBJECTIVE: Establish productive and lexicalized reflexive morphology
+where modern Turkish uses it.
+
+TR-66 — Reciprocal/cooperative voice
+
+OBJECTIVE: Establish -(i)ş and related reciprocal/cooperative meanings,
+including lexicalized verbs.
+
+TR-67 — Multiple voice suffixes and suffix order
+
+OBJECTIVE: Combine causative, passive, reflexive/reciprocal, tense, and
+person morphology only after component systems are clear.
+
+TR-68 — Valency and case government
+
+OBJECTIVE: Develop verb-specific case selection, including Turkish verbs
+whose complements do not match the case/preposition expected from
+English.
+
+TR-69 — Voice and valency synthesis
+
+STAGE 8 — PRONOUNS, DETERMINERS, QUANTIFICATION, AND REFERENCE
+
+TR-70 — Case-marked personal pronouns
+
+OBJECTIVE: Establish bana, sana, beni, seni and other ordinary forms,
+including stem alternations.
+
+TR-71 — Reflexive kendi
+
+OBJECTIVE: Develop kendi across reflexive, emphatic, and possessive
+functions.
+
+TR-72 — Demonstratives and discourse reference
+
+OBJECTIVE: Deepen bu, şu, o and their plural/case forms according to
+spatial and discourse use.
+
+TR-73 — Interrogative pronouns and determiners
+
+OBJECTIVE: Establish kim, ne, hangi, kaç and related forms through
+natural questions.
+
+TR-74 — Indefinite pronouns and determiners
+
+OBJECTIVE: Develop biri, birisi, bazı, birkaç, herhangi and related
+systems.
+
+TR-75 — Negative polarity and hiç
+
+OBJECTIVE: Establish hiç, hiçbir, kimse and related negative/polarity
+patterns together with appropriate verbal negation.
+
+TR-76 — Universal and distributive expressions
+
+OBJECTIVE: Establish her, bütün, tüm, herkes and distributive numeral
+patterns without collapsing their semantic differences.
+
+TR-77 — Quantifier scope and noun-number behavior
+
+OBJECTIVE: Consolidate Turkish number marking under numerals,
+quantifiers, collectives, and distributive expressions.
+
+TR-78 — Reference-system synthesis
+
+STAGE 9 — COMPARISON, DEGREE, ADVERBS, AND WORD ORDER
+
+TR-79 — Comparative constructions with daha
+
+TR-80 — Comparison standard with ablative
+
+OBJECTIVE: Establish constructions such as X, Y'den daha ... through
+already known ablative morphology.
+
+TR-81 — Superlative with en
+
+TR-82 — Degree and intensification
+
+OBJECTIVE: Establish çok, biraz, oldukça, pek, daha, en and common
+lexical/intensive patterns with their semantic distinctions.
+
+TR-83 — Adverb formation and adverbial use
+
+OBJECTIVE: Develop ordinary adverbial expressions without assuming every
+English -ly adjective requires a dedicated Turkish adverb form.
+
+TR-84 — Neutral constituent order
+
+OBJECTIVE: Establish the strong Turkish head-final/SOV tendency and
+ordinary placement of objects, adverbials, and predicate material.
+
+TR-85 — Scrambling, topic, and focus
+
+OBJECTIVE: Show how constituent order can vary for information structure
+without presenting all orders as interchangeable.
+
+TR-86 — Pronoun omission and explicit subjects in discourse
+
+OBJECTIVE: Introduce explicit subject pronouns specifically where
+contrast, correction, topic shift, coordination, or disambiguation makes
+them natural.
+
+TR-87 — Word-order and information-structure synthesis
+
+STAGE 10 — DERIVATION AND WORD FORMATION
+
+TR-88 — Noun derivation
+
+TR-89 — Adjective derivation
+
+TR-90 — Adverbial and relational derivation
+
+TR-91 — Productive -li/-lı/-lu/-lü
+
+OBJECTIVE: Establish possession/association and lexicalized adjective
+formation.
+
+TR-92 — Productive -siz/-sız/-suz/-süz
+
+OBJECTIVE: Establish absence/lack and its lexical extensions.
+
+TR-93 — Productive -ci/-cı/-cu/-cü and consonant variants
+
+OBJECTIVE: Establish occupation, adherent, habitual, and related
+derivational uses with attention to lexicalization.
+
+TR-94 — -lik/-lık/-luk/-lük families
+
+OBJECTIVE: Develop abstract, collective, container/place, suitability,
+and other productive uses longitudinally.
+
+TR-95 — Verb derivation and lexicalized morphology
+
+TR-96 — Reduplication and emphatic adjective forms
+
+OBJECTIVE: Establish productive intensifying patterns and common
+lexicalized reduplications.
+
+TR-97 — Word-family synthesis
+
+STAGE 11 — TIME, NUMBER, MEASUREMENT, AND EVERYDAY SYSTEMS
+
+TR-98 — Ordinal numbers
+
+TR-99 — Fractions, decimals, percentages, and arithmetic language
+
+TR-100 — Clock time
+
+TR-101 — Dates, days, months, seasons, and years
+
+TR-102 — Duration and frequency
+
+TR-103 — Age and life-stage expressions
+
+TR-104 — Measures, amounts, containers, and prices
+
+TR-105 — Directions, distance, and spatial relations
+
+TR-106 — Time/quantity synthesis
+
+STAGE 12 — POLITENESS, REGISTER, AND NATURAL INTERACTION
+
+TR-107 — sen versus siz
+
+OBJECTIVE: Establish singular informal versus plural/formal address as a
+pragmatic system rather than merely a pronoun distinction.
+
+TR-108 — Formal address and titles
+
+TR-109 — Greetings and leave-taking
+
+TR-110 — Requests, offers, invitations, and thanks
+
+TR-111 — Apologies, permission, and service encounters
+
+TR-112 — Discourse particles and conversational markers
+
+TR-113 — Common spoken reductions and colloquial forms
+
+TR-114 — Neutral versus formal written Turkish
+
+TR-115 — Familiar language and slang
+
+TR-116 — Pragmatics, indirectness, and emphasis
+
+TR-117 — Register switching
+
+COMMON OBJECTIVE: Move from structurally correct Turkish toward natural
+production and interpretation across social contexts.
+
+STAGE 13 — PHRASEOLOGY AND LEXICAL USAGE
+
+TR-118 — High-frequency light-verb constructions
+
+OBJECTIVE: Develop productive and lexicalized combinations involving
+etmek, olmak, yapmak and other common verbs.
+
+TR-119 — Case-governed lexical constructions
+
+TR-120 — Common fixed expressions
+
+TR-121 — Idioms and figurative language
+
+TR-122 — Collocations
+
+TR-123 — Polysemy of high-frequency verbs and nouns
+
+TR-124 — Semantic boundaries versus English translation equivalents
+
+TR-125 — Formulaic social and discourse expressions
+
+TR-126 — Phraseological synthesis
+
+COMMON OBJECTIVE: Develop lexical knowledge beyond dictionary-headword
+equivalence and continue this work throughout all later stages.
+
+STAGE 14 — ADVANCED GRAMMAR AND DISCOURSE
+
+TR-127 — Advanced evidentiality and speaker stance
+
+OBJECTIVE: Deepen -miş beyond its initial past-tense treatment into
+inference, surprise, report, distancing, and related pragmatic uses.
+
+TR-128 — Tense/aspect combinations and narrative sequencing
+
+TR-129 — Advanced conditional and counterfactual constructions
+
+TR-130 — Advanced modality and necessity
+
+TR-131 — Nominalization in formal and academic prose
+
+TR-132 — Advanced participial and converb chains
+
+TR-133 — Discourse organization and reference tracking
+
+TR-134 — Emphasis, focus particles, and scope
+
+TR-135 — Ellipsis and recoverability
+
+TR-136 — Complex suffix stacking and morphophonology
+
+TR-137 — Advanced grammar synthesis
+
+LATE CURRICULUM — PARALLEL DEVELOPMENT
+
+From approximately this point onward, unit numbering records editorial
+introduction order rather than a requirement that one mature domain be
+exhausted before another begins. Once prerequisites are available,
+register, phraseology, broad lexical domains, educated-adult vocabulary,
+regional usage, and long-tail material should develop in parallel and
+reinforce one another.
+
+Later units should be introduced in roughly the numbered order,
+relatively quickly, and then revisited longitudinally. The learner need
+not master one lexical domain before another begins, nor exhaust
+phraseology before advanced vocabulary or variation develops. Numbering
+remains useful for first introduction and controlled-document
+organization; it is not a mandate for serial mastery.
+
+STAGE 15 — BROAD VOCABULARY EXPANSION
+
+These are major lexical domains, not sealed thematic blocks. Vocabulary
+from every domain may appear much earlier whenever useful for grammar or
+ordinary communication.
+
+TR-138 — Household and everyday life
+TR-139 — Food and cooking
+TR-140 — Clothing and personal objects
+TR-141 — Family and relationships
+TR-142 — Body and health
+TR-143 — Work and occupations
+TR-144 — Education
+TR-145 — Travel and transportation
+TR-146 — Buildings, towns, and public places
+TR-147 — Nature, plants, and animals
+TR-148 — Weather and environment
+TR-149 — Tools, materials, and physical objects
+TR-150 — Technology and communications
+TR-151 — Commerce, money, and finance
+TR-152 — Government, law, and public institutions
+TR-153 — Science and mathematics
+TR-154 — Arts, literature, and culture
+TR-155 — Religion and philosophy
+TR-156 — Emotions, personality, and human behaviour
+TR-157 — Abstract concepts and relationships
+
+COMMON OBJECTIVE: Build broad educated-adult lexical competence while
+continuously recycling mature Turkish grammar.
+
+CARD STRATEGY: Prefer vocabulary in natural collocations and sentences
+that reveal suffix selection, case government, voice, tense/aspect,
+nominalization, word order, register, or semantic distinctions. Avoid
+long runs of minimally contextualized words.
+
+STAGE 16 — EDUCATED-ADULT LEXICON
+
+TR-158 — Lower-frequency verbs
+TR-159 — Lower-frequency adjectives
+TR-160 — Lower-frequency concrete nouns
+TR-161 — Abstract nouns
+TR-162 — Academic vocabulary
+TR-163 — Professional and institutional vocabulary
+TR-164 — Scientific and technical general vocabulary
+TR-165 — Political, legal, and economic vocabulary
+TR-166 — Cultural and literary vocabulary
+TR-167 — Less-common idioms and collocations
+TR-168 — Fine semantic distinctions and near-synonyms
+TR-169 — Advanced word families and derivation
+
+COMMON OBJECTIVE: Move toward the lexical breadth and precision expected
+of a typical educated adult.
+
+STAGE 17 — MATURE LANGUAGE COMPETENCE / LONG TAIL
+
+TR-170 — Major regional variation
+TR-171 — Standard Turkish and commonly encountered regional usage
+TR-172 — Contemporary and generational usage
+TR-173 — Formal and literary vocabulary
+TR-174 — Ottoman-derived and historical vocabulary encountered in
+modern texts and culture
+TR-175 — Specialized vocabulary of broad cultural relevance
+TR-176 — Rare but reasonably educated-adult vocabulary
+TR-177 — Idiomatic and figurative long tail
+TR-178 — Continuing lexical expansion
+
+COMMON OBJECTIVE: Approach the practical asymptote of the Polyglot
+definition of a complete modern language curriculum: vocabulary,
+constructions, idioms, registers, grammatical distinctions, and
+cultural-linguistic knowledge a typical educated adult might reasonably
+know and encounter.
+
+COMPLETION STANDARD: There is intentionally no absolute terminal card
+count. TR-178 is expandable. "Complete" describes direction and scope,
+not exhaustion of every possible Turkish word.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1. Unit completion means its canonical sequence adequately demonstrates
+   its objective; it does not claim learner mastery.
+
+2. Introduction is not establishment. A structure may receive enough
+   controlled exposure to become intelligible and then continue toward
+   establishment through later double-duty cards.
+
+3. Once established, grammar becomes reusable unless temporary
+   simplification is pedagogically useful.
+
+4. Vocabulary introduced at any point remains reusable.
+
+5. Later cards should increasingly combine multiple previously
+   introduced structures naturally. A new case card may also reinforce
+   plurality, negation, a question, or an earlier tense where this does
+   not obscure the principal novelty.
+
+6. The scheduler, not curriculum order, supplies extra repetition for
+   difficult material.
+
+7. Subject pronouns should not be inserted into neutral Turkish
+   sentences merely because the English prompt contains an explicit
+   subject.
+
+8. Vowel harmony and consonant alternation should be learned through
+   productive morphology and accumulated examples rather than detached
+   preliminary memorization.
+
+9. Agglutinative morphology should develop as ordered, meaningful suffix
+   architecture. Do not use spectacularly long words merely to advertise
+   agglutination.
+
+10. Nominal/adjectival predication, verbal tense/aspect, evidentiality,
+    case, possession, voice, non-finite structures, and information
+    structure should develop longitudinally rather than receive one
+    isolated exposure.
+
+11. Negation with değil and verbal -ma/-me must remain distinct systems.
+
+12. Polar-question mı/mi/mu/mü should recur across predicate types,
+    tenses, persons, and later structures.
+
+13. Turkish direct-object marking must be taught according to Turkish
+    specificity/definiteness and discourse structure, not by mechanically
+    copying English article use.
+
+14. bir should not be inserted merely because English has an indefinite
+    article.
+
+15. Future amendments may split, merge, reorder, or refine units without
+    renumbering existing stable card IDs.
+
+AMENDMENT POLICY
+
+This syllabus changes only when the canonical Turkish curriculum changes.
+Generating cards or advancing through a unit does not amend it.
+
+An amendment should identify affected units, state the pedagogical
+change, say whether it affects future cards only or requires
+existing-card correction, increment the version, and preserve a concise
+amendment record.
+
+AMENDMENT HISTORY
+
+Version 0.1
+- Initial Turkish syllabus under Polyglot Curriculum Charter v0.7.
+- Uses the published 50-card Turkish prototype as an empirical stress
+  test and canonical starting point subject to reconciliation.
+- Adopts the shared house/man/woman/child + big/small/good/bad seed.
+- Establishes zero third-person nominal/adjectival predication, personal
+  predicate suffixes, gender-neutral o, and natural subject omission in
+  the opening.
+- Introduces bir, bu, değil, polar-question mı/mi/mu/mü, and noun plural
+  -lar/-ler early, while explicitly treating them as longitudinal systems
+  rather than completed blocks.
+- Develops vowel harmony, consonant alternations, and suffix order through
+  productive morphology rather than detached paradigms.
+- Gives dedicated treatment to Turkish case/object marking, possession,
+  var/yok, tense/aspect/evidentiality, non-finite clause architecture,
+  voice/valency, word order/information structure, derivation, register,
+  and phraseology.
+- Distinguishes first introduction from establishment and directs future
+  generators to use double-duty cards for longitudinal reinforcement.
+- Uses prerequisite-aware early staging and parallel mature-language
+  strands rather than giant serial blocks.
+- Ends in an expandable educated-adult long tail rather than a fixed card
+  quota.
