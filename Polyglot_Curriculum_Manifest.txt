@@ -30,7 +30,7 @@ Polish      400000-499999        400000-400050        51
 Hungarian   500000-599999        500000-500035        36
 Turkish     600000-699999        600000-600049        50
 Arabic      700000-799999        700000-700049        50
-Ojibwe      800000-899999        800000-800049        50
+Ojibwe      800000-899999        800000-800099        100
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -155,21 +155,25 @@ OJIBWE
 Syllabus: Not yet written
 Syllabus version: —
 Card file: Cards/Ojibwe.csv
-Cards: 50
-Used IDs: 800000-800049
-Checkpoint: Ojibwe has begun with a deliberately slow 50-card seed
+Cards: 100
+Used IDs: 800000-800099
+Checkpoint: Ojibwe has advanced to a deliberately exploratory 100-card
 prototype under the Charter v0.8 prototype-first workflow. Double Vowel
-orthography is the canonical writing system, with the University of
-Minnesota Ojibwe People's Dictionary serving as the principal initial
-lexical/reference anchor but not the exclusive source. The prototype
-concentrates on noun animacy, carefully staged singular/plural evidence,
-paired inanimate/animate predicate verbs, and demonstratives. It
-deliberately postpones possession, dependent nouns, broader person
-morphology, interrogatives, preverbs and the larger verb-class system for
-later syllabus development. Ojibwe is the first explicit test of the
-Charter's documentation-limited-language policy: proceed as deeply as
-reliable evidence permits and do not manufacture unsupported forms or
-usage. Review this prototype collaboratively before writing the first
+orthography is canonical, with the University of Minnesota Ojibwe
+People's Dictionary serving as the principal initial lexical/reference
+anchor but not the exclusive source. The opening establishes noun
+animacy through plural and demonstrative contrasts, paired
+inanimate/animate predicate verbs, and the animate/inanimate
+demonstrative system. The second fifty begins interrogatives and personal
+pronouns, noun-derived verbs of being, first-person VAI morphology,
+mino-ayaa and a polar question, further animate/inanimate lexical
+evidence, and a tightly controlled introduction to dependent nouns and
+possession through =niijaanis- and =iinizis-. The English demonstrative
+prompts mark animacy only; English this/these and that/those already mark
+number. Ojibwe remains the first explicit test of the Charter's
+documentation-limited-language policy: proceed as deeply as reliable
+evidence permits and do not manufacture unsupported forms or usage.
+Review this 100-card prototype collaboratively before writing the first
 Ojibwe syllabus or generating a substantially larger batch.
 
 4. MAINTENANCE RULES
