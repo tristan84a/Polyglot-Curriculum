@@ -1,0 +1,51 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+600000,Turkish,house,ev,,noun
+600001,Turkish,man,erkek,,noun
+600002,Turkish,woman,kadın,,noun
+600003,Turkish,child,çocuk,,noun
+600004,Turkish,big,büyük,,adjective
+600005,Turkish,small,küçük,,adjective
+600006,Turkish,good,iyi,,adjective
+600007,Turkish,bad,kötü,,adjective
+600008,Turkish,to be / become,olmak,,verb
+600009,Turkish,The house is big.,Ev büyük.,,sentence
+600010,Turkish,The house is small.,Ev küçük.,,sentence
+600011,Turkish,The man is good.,Erkek iyi.,,sentence
+600012,Turkish,The woman is good.,Kadın iyi.,,sentence
+600013,Turkish,The child is small.,Çocuk küçük.,,sentence
+600014,Turkish,The child is good.,Çocuk iyi.,,sentence
+600015,Turkish,one / a,bir,,grammar
+600016,Turkish,this,bu,,pronoun
+600017,Turkish,This is a house.,Bu bir ev.,,sentence
+600018,Turkish,This is a child.,Bu bir çocuk.,,sentence
+600019,Turkish,doctor,doktor,,noun
+600020,Turkish,This is a doctor.,Bu bir doktor.,,sentence
+600021,Turkish,I,ben,,pronoun
+600022,Turkish,you (singular informal),sen,,pronoun
+600023,Turkish,he / she / it,o,,pronoun
+600024,Turkish,we,biz,,pronoun
+600025,Turkish,you (plural/formal),siz,,pronoun
+600026,Turkish,they,onlar,,pronoun
+600027,Turkish,I am good.,İyiyim.,,sentence
+600028,Turkish,You are good. (singular informal),İyisin.,,sentence
+600029,Turkish,He / she / it is good.,İyi.,,sentence
+600030,Turkish,We are good.,İyiyiz.,,sentence
+600031,Turkish,You are good. (plural/formal),İyisiniz.,,sentence
+600032,Turkish,They are good.,Onlar iyi.,,sentence
+600033,Turkish,I am a doctor.,Doktorum.,,sentence
+600034,Turkish,You are a doctor. (singular informal),Doktorsun.,,sentence
+600035,Turkish,He / she is a doctor.,Doktor.,,sentence
+600036,Turkish,We are doctors.,Doktoruz.,,sentence
+600037,Turkish,not,değil,,grammar
+600038,Turkish,The house is not big.,Ev büyük değil.,,sentence
+600039,Turkish,The woman is not bad.,Kadın kötü değil.,,sentence
+600040,Turkish,I am not good.,İyi değilim.,,sentence
+600041,Turkish,You are not good. (singular informal),İyi değilsin.,,sentence
+600042,Turkish,Is the house big?,Ev büyük mü?,,sentence
+600043,Turkish,Is the woman good?,Kadın iyi mi?,,sentence
+600044,Turkish,Am I good?,İyi miyim?,,sentence
+600045,Turkish,Are you good? (singular informal),İyi misin?,,sentence
+600046,Turkish,houses,evler,,noun
+600047,Turkish,children,çocuklar,,noun
+600048,Turkish,The houses are big.,Evler büyük.,,sentence
+600049,Turkish,The children are small.,Çocuklar küçük.,,sentence
