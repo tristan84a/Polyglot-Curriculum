@@ -1,0 +1,619 @@
+POLYGLOT OJIBWE SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Ojibwe / Anishinaabemowin
+
+1. PURPOSE AND GOVERNING PRINCIPLES
+
+This syllabus defines the current canonical roadmap for the Polyglot
+Ojibwe curriculum. It is governed by Polyglot Curriculum Charter v0.8.
+
+It was written after a 100-card prototype rather than before card
+generation. The prototype is therefore empirical evidence about useful
+opening pace and structure, but it is not a transcript that future cards
+must reproduce exactly.
+
+The curriculum uses authentic contemporary Ojibwe from the beginning.
+Double Vowel orthography is canonical. The University of Minnesota
+Ojibwe People's Dictionary is the principal initial lexical/reference
+anchor, supplemented by reliable grammatical, educational and
+community-based sources.
+
+Ojibwe is currently treated as documentation-limited for Polyglot
+purposes. This is a statement about the limits of reliable accessible
+documentation and generation confidence, not about the expressive
+capacity or completeness of Ojibwe. The curriculum should proceed as
+deeply and broadly as reliable evidence supports and leave uncertain
+areas unresolved rather than manufacture forms, idiom, dialect
+uniformity or natural usage.
+
+2. VARIETY AND SOURCE POLICY
+
+Ojibwe is not represented here as a single variation-free standard.
+
+The initial prototype is anchored primarily in the Minnesota/Wisconsin
+and related material represented by the Ojibwe People's Dictionary and
+supporting grammatical resources. Documented regional forms may enter
+the curriculum when useful and well supported.
+
+Do not silently merge dialect forms into a fictitious pan-Ojibwe norm.
+When a form is meaningfully regional and the distinction matters for
+exact matching, disambiguate the EnglishPrompt or otherwise make the
+intended variety clear. Ordinary widely supported forms need not carry a
+regional label merely because variation exists elsewhere.
+
+Dialect coverage should grow longitudinally as documentation permits.
+Future card generation should prefer forms supported by the current
+reference base while remaining open to Ontario and other Ojibwe
+varieties as reliable sources are incorporated.
+
+3. ORTHOGRAPHY AND INPUT
+
+Use Double Vowel orthography from the first card.
+
+Do not create a transliteration layer. Long and short vowels, apostrophe
+/glottal-stop notation, consonant spelling and other orthographic
+distinctions are part of the Target.
+
+InputHint is normally blank. It may later be used only if a practical
+input-method problem genuinely benefits from it.
+
+Orthographic variation must not be normalized by guesswork. Where
+reliable sources disagree, determine whether the difference is dialectal,
+editorial or genuinely interchangeable before creating a canonical
+Target.
+
+4. EMPIRICAL OPENING FROM THE 100-CARD PROTOTYPE
+
+The prototype established the following useful opening:
+
+OJ-01 — Small noun seed
+
+OBJECTIVE: Introduce a very small set of concrete nouns, including
+animate and inanimate members, without beginning with grammatical labels.
+
+CURRENT EVIDENCE: waakaa'igan, inini, ikwe, abinoojiinh and a small
+number of additional useful nouns.
+
+OJ-02 — Number as first evidence of animacy
+
+OBJECTIVE: Establish singular/plural pairs slowly enough for the learner
+to see that inanimate plurals characteristically end in n while animate
+plurals characteristically end in g, without pretending that every noun
+takes one mechanically identical surface suffix.
+
+CARD STRATEGY: Use several controlled noun pairs. Include transparent
+patterns before less-transparent stem/suffix combinations. Noun animacy
+is lexical and must ultimately be learned with the noun.
+
+OJ-03 — Inanimate and animate predicate verbs
+
+OBJECTIVE: Establish that qualities English often expresses with
+adjectives may be verbs in Ojibwe and that predicate choice can depend
+on the animacy of the subject.
+
+CURRENT EVIDENCE: agaasaa / agaashiinyi and
+onizhishin / onizhishi.
+
+CARD STRATEGY: English prompts should be genuine sentences when the
+Ojibwe Target is a sentence: "It is small.", "He is small.", etc.
+Where Ojibwe does not encode English he/she gender, use "he" as the
+ordinary English example and occasional "she" where useful rather than
+"he/she" or "s/he".
+
+OJ-04 — Demonstratives and animacy
+
+OBJECTIVE: Establish proximal and distal demonstratives across animate
+and inanimate nouns and singular/plural number.
+
+CARD STRATEGY: English already distinguishes this/these and that/those.
+Parenthetical prompt labels therefore mark only information English does
+not supply, e.g. "this (animate)" and "this (inanimate)", not redundant
+"(singular)" or "(plural)" labels.
+
+OJ-05 — Initial interrogatives and pronouns
+
+OBJECTIVE: Introduce high-value interrogatives and independent personal
+pronouns after the learner has enough known material to use them
+meaningfully.
+
+CURRENT EVIDENCE: awenen, awegonen; niin, giin, wiin.
+
+OJ-06 — Initial VAI person morphology
+
+OBJECTIVE: Let first-, second- and third-person contrasts begin to emerge
+through natural animate intransitive predicates.
+
+CURRENT EVIDENCE: noun-derived -wi predicates and mino-ayaa demonstrate
+that an Ojibwe verb can constitute a complete sentence and that person
+information is carried morphologically.
+
+CARD STRATEGY: Do not preserve independent pronouns merely because the
+English prompt contains a subject. Use them when contrast, focus,
+disambiguation or the target construction calls for them.
+
+OJ-07 — Dependent nouns and first possession
+
+OBJECTIVE: Introduce possession through a small, well-documented set of
+dependent nouns before attempting the full noun-possession system.
+
+CURRENT EVIDENCE: =niijaanis- and =iinizis- families.
+
+CARD STRATEGY: Treat dependent-noun morphology as a real structural
+system, not merely vocabulary with prefixes. Expand person/number
+coverage only where each new form teaches a useful contrast.
+
+The first 100 cards introduce OJ-01 through OJ-07 unevenly. Introduction
+does not imply establishment. Future cards should reinforce these systems
+while advancing into the roadmap below.
+
+5. EARLY STRUCTURAL ROADMAP
+
+OJ-08 — Animate/inanimate system consolidation
+
+OBJECTIVE: Make noun animacy reusable through plural, demonstrative and
+predicate selection rather than through terminology cards.
+
+Include semantically unexpected animate nouns where well documented so
+the learner does not infer that animacy simply means biological life.
+
+OJ-09 — VAI independent-order person and number
+
+OBJECTIVE: Establish the major independent affirmative person/number
+contrasts of animate intransitive verbs.
+
+CARD STRATEGY: Use a small set of high-frequency verbs and let the
+paradigm teach genuine person/number morphology. Do not mechanically
+repeat complete paradigms for every new verb.
+
+OJ-10 — VII development
+
+OBJECTIVE: Expand inanimate intransitive predicates and their important
+stem/inflection patterns.
+
+NOTE: VII verbs have only third-person subjects. Do not force an
+English-style personal conjugation paradigm onto them.
+
+OJ-11 — Independent-order negation
+
+OBJECTIVE: Establish ordinary negative clauses across already-known
+intransitive patterns before adding avoidable transitive complexity.
+
+OJ-12 — Polar and content questions
+
+OBJECTIVE: Develop question formation beyond the initial ina, awenen and
+awegonen examples using established vocabulary and morphology.
+
+OJ-13 — Personal pronouns and inclusive/exclusive number
+
+OBJECTIVE: Establish the useful independent-pronoun inventory, including
+the Ojibwe inclusive/exclusive first-person plural distinction.
+
+CARD STRATEGY: Pronoun cards may teach the pronouns explicitly; ordinary
+sentences should continue to omit independent pronouns when natural.
+
+OJ-14 — Noun possession
+
+OBJECTIVE: Expand from dependent nouns into ordinary possessed animate
+and inanimate nouns, including possession markers where required.
+
+CARD STRATEGY: Develop possession through several noun types rather than
+presenting one suffix as universal.
+
+OJ-15 — Obviation: first controlled introduction
+
+OBJECTIVE: Establish the proximate/obviative distinction for animate
+third persons once ordinary animacy and possession are secure.
+
+Begin with contexts where the grammatical relationship makes the
+contrast especially recoverable, including possession where appropriate.
+
+DELIBERATELY EXCLUDED AT INTRODUCTION: Treating obviation as an English
+"fourth person" translation category. Teach its grammatical consequences
+through Ojibwe examples.
+
+OJ-16 — Obviative nouns and demonstratives
+
+OBJECTIVE: Extend obviation into noun and demonstrative morphology and
+make clear that animate obviative demonstratives do not reproduce the
+ordinary singular/plural contrast in the same way as proximate forms.
+
+OJ-17 — Locative nouns
+
+OBJECTIVE: Establish productive locative morphology with useful place
+vocabulary and natural clauses.
+
+OJ-18 — Diminutives and other high-value noun derivation
+
+OBJECTIVE: Introduce common noun-forming morphology where it is
+productive and well documented, beginning with useful diminutives rather
+than an exhaustive derivational inventory.
+
+6. VERB-CLASS SPINE
+
+Ojibwe verb classes are a central organizing fact of the language:
+
+VAI — animate intransitive;
+VII — inanimate intransitive;
+VTA — transitive animate;
+VTI — transitive inanimate.
+
+The labels are useful for syllabus/generator reasoning. Cards normally
+teach their consequences through language rather than asking learners to
+name grammatical classes.
+
+OJ-19 — VTI foundation
+
+OBJECTIVE: Introduce transitive verbs with inanimate objects using
+high-frequency, well-documented verbs and already-known inanimate nouns.
+
+OJ-20 — VTI independent-order person/number
+
+OBJECTIVE: Establish productive subject morphology without mechanically
+exhausting every lexical subtype.
+
+OJ-21 — VTA foundation
+
+OBJECTIVE: Introduce transitive verbs with animate objects only after
+animacy, VAI person morphology and initial obviation are sufficiently
+secure.
+
+OJ-22 — VTA local-person interactions
+
+OBJECTIVE: Develop first/second-person subject-object relationships in
+controlled contrasts.
+
+OJ-23 — VTA third persons and direct/inverse morphology
+
+OBJECTIVE: Establish the morphology required when animate participants
+interact, integrating proximate/obviative structure rather than teaching
+direct/inverse as an isolated terminology lesson.
+
+CARD STRATEGY: This is a major paradigm area. Fill systematic contrasts
+when each cell changes the participant relationship; do not fill tables
+merely to substitute another verb stem.
+
+OJ-24 — Transitive negation and questions
+
+OBJECTIVE: Reuse established negative and interrogative structures with
+VTA/VTI clauses.
+
+OJ-25 — Four-class synthesis
+
+OBJECTIVE: Make VAI/VII/VTA/VTI selection increasingly automatic through
+contrasting natural clauses sharing related meanings where reliable word
+families permit.
+
+7. TENSE, MODE, PREVERBS AND VERBAL COMPLEXITY
+
+OJ-26 — Past reference
+
+OBJECTIVE: Establish common past marking with already-known verb classes.
+
+OJ-27 — Future and prospective reference
+
+OBJECTIVE: Establish common future/prospective constructions and their
+interaction with the verbal complex.
+
+OJ-28 — Lexical and grammatical preverbs
+
+OBJECTIVE: Develop high-frequency preverbs in natural combinations,
+including the orthographic conventions for writing them.
+
+OJ-29 — Directional and relational preverbs
+
+OBJECTIVE: Establish common direction, source, destination and relational
+meanings as documented.
+
+OJ-30 — Modal meanings
+
+OBJECTIVE: Develop ability, necessity, intention, possibility and related
+meanings through authentic Ojibwe constructions rather than one-to-one
+English modal mapping.
+
+OJ-31 — Imperative order
+
+OBJECTIVE: Establish commands and requests after sufficient second-person
+verbal morphology is familiar.
+
+OJ-32 — Conjunct order: foundation
+
+OBJECTIVE: Introduce conjunct forms in high-frequency subordinate,
+interrogative and discourse environments where their function is clear.
+
+OJ-33 — Independent versus conjunct contrasts
+
+OBJECTIVE: Make order selection intelligible through controlled semantic
+and syntactic contrasts rather than treating conjunct forms as merely a
+second conjugation table.
+
+OJ-34 — Initial change
+
+OBJECTIVE: Establish initial-change patterns in the environments that
+license or require them.
+
+OJ-35 — Participles and clause modification
+
+OBJECTIVE: Develop participial forms and noun-modifying/identifying
+functions from established conjunct morphology.
+
+OJ-36 — Verbal-order synthesis
+
+OBJECTIVE: Integrate independent, conjunct and imperative orders across
+known verb classes without demanding exhaustive simultaneous mastery.
+
+8. FURTHER NOUN AND CLAUSE STRUCTURE
+
+OJ-37 — Expanded possession and possessors
+
+OBJECTIVE: Extend possessor person/number, possessed noun number and
+obviation interactions.
+
+OJ-38 — Numerals and quantity
+
+OBJECTIVE: Establish common counting and quantity constructions with the
+animacy and verb agreement they naturally require.
+
+OJ-39 — Comparison, degree and quality
+
+OBJECTIVE: Develop ordinary ways of expressing degree and comparison,
+including lexical/preverb strategies, without forcing an English
+adjective paradigm onto Ojibwe.
+
+OJ-40 — Coordination and clause linking
+
+OBJECTIVE: Establish high-frequency ways to join noun phrases, events
+and propositions.
+
+OJ-41 — Reason, condition and temporal relations
+
+OBJECTIVE: Develop common complex-clause relationships using the verbal
+orders and particles/preverbs already established.
+
+OJ-42 — Reported speech, thought and quotation
+
+OBJECTIVE: Establish ordinary reporting and quotation patterns from
+well-supported examples.
+
+OJ-43 — Reference tracking and discourse
+
+OBJECTIVE: Deepen proximate/obviative choice, participant continuity and
+reference across multi-clause discourse.
+
+9. WORD FORMATION AND LEXICAL ARCHITECTURE
+
+Ojibwe morphology makes word families especially important. Mature
+vocabulary acquisition should increasingly show relationships among
+initials, medials, finals, preverbs, prenouns, noun derivation and related
+verb classes where those relationships are synchronically useful and
+well documented.
+
+OJ-44 — Verb finals and related class families
+
+OBJECTIVE: Use transparent, documented word families to show how related
+meanings recur across VAI/VII/VTA/VTI forms.
+
+OJ-45 — Noun derivation
+
+OBJECTIVE: Develop productive and high-value nominalization and other
+noun-forming patterns through real vocabulary.
+
+OJ-46 — Prenouns and noun modification
+
+OBJECTIVE: Establish productive noun modification strategies without
+importing an English adjective category where Ojibwe structure differs.
+
+OJ-47 — Preverb families
+
+OBJECTIVE: Expand lexical and grammatical preverbs longitudinally,
+including semantic changes created by combination.
+
+OJ-48 — Compounding and lexical families
+
+OBJECTIVE: Use recurring morphology to accelerate vocabulary while
+avoiding the assumption that every complex word is transparently
+predictable.
+
+10. DIALECT, REGISTER AND DOCUMENTATION
+
+OJ-49 — Documented regional lexical variation
+
+OBJECTIVE: Build recognition of important regional alternatives once the
+reference form is secure.
+
+OJ-50 — Documented regional grammatical variation
+
+OBJECTIVE: Introduce regional inflectional or syntactic alternatives only
+where reliable sources make their distribution sufficiently clear.
+
+OJ-51 — Ontario and other regional strands
+
+OBJECTIVE: Expand beyond the initial Minnesota/Wisconsin-heavy reference
+base as reliable community, educational and linguistic sources permit.
+
+OJ-52 — Conversational language and discourse particles
+
+OBJECTIVE: Develop natural spoken interaction, discourse markers,
+responses, hesitation, emphasis and stance from attested usage.
+
+OJ-53 — Narrative and traditional discourse
+
+OBJECTIVE: Develop structures and vocabulary encountered in documented
+stories and narratives while respecting source, register and cultural
+context.
+
+OJ-54 — Contemporary institutional and public language
+
+OBJECTIVE: Include modern educational, governmental, technological,
+health, workplace and community vocabulary where established usage is
+reliably documented.
+
+SOURCE RULE: Never invent a regional label or assign a form to a
+community from inference alone.
+
+11. BROAD VOCABULARY DEVELOPMENT
+
+The following are longitudinal domains, not sealed thematic blocks.
+Vocabulary from every domain may appear much earlier when structurally
+useful.
+
+OJ-55 Household and everyday life.
+OJ-56 Family and relationships.
+OJ-57 Food, cooking and gathering.
+OJ-58 Clothing and personal objects.
+OJ-59 Body, health and wellbeing.
+OJ-60 Animals, birds, fish and insects.
+OJ-61 Plants, trees and land.
+OJ-62 Water, weather and seasons.
+OJ-63 Travel, movement and transportation.
+OJ-64 Buildings, communities and public places.
+OJ-65 Work, occupations and tools.
+OJ-66 Education and language learning.
+OJ-67 Time, calendar and routine.
+OJ-68 Emotions, personality and human behaviour.
+OJ-69 Arts, music, stories and culture.
+OJ-70 Technology and communications.
+OJ-71 Commerce, money and practical transactions.
+OJ-72 Government, law and public institutions.
+OJ-73 Science, mathematics and general technical vocabulary.
+OJ-74 Abstract concepts and relationships.
+
+COMMON OBJECTIVE: Expand useful modern vocabulary while continuously
+reusing mature morphology, animacy, verb classes, possession, obviation
+and clause structure.
+
+12. EDUCATED-ADULT DEVELOPMENT AND DOCUMENTATION FRONTIER
+
+OJ-75 Lower-frequency concrete vocabulary.
+OJ-76 Lower-frequency verbs and verb families.
+OJ-77 Abstract and institutional vocabulary.
+OJ-78 Idioms and fixed expressions.
+OJ-79 Collocations and conventional phrasing.
+OJ-80 Fine semantic distinctions and near-equivalents.
+OJ-81 Formal, literary and ceremonial registers where appropriate and
+reliably documented.
+OJ-82 Historical/older language still encountered in contemporary
+cultural or documentary contexts.
+OJ-83 Regional comprehension across well-documented Ojibwe varieties.
+OJ-84 Continuing lexical, grammatical and discourse expansion.
+
+Unlike a well-resourced Polyglot language, OJ-84 does not assert in
+advance that available documentation will support every educated-adult
+domain to equal depth. Continue outward wherever reliable evidence is
+strong. Where evidence becomes inadequate, record the frontier and stop
+rather than filling the gap from analogy or model intuition.
+
+13. CARD DESIGN RULES SPECIFIC TO OJIBWE
+
+1. Animacy is learned primarily through consequences: plural morphology,
+   demonstratives, predicates and verb selection. Do not clutter ordinary
+   cards with "(animate)" or "(inanimate)" unless English otherwise leaves
+   the intended Target ambiguous.
+
+2. Demonstrative vocabulary cards may use parenthetical animate/inanimate
+   labels because English this/that/these/those do not encode that
+   distinction. Do not redundantly label singular/plural.
+
+3. Where Ojibwe lacks an English he/she distinction, ordinary English
+   prompts use "he" by default and occasional "she" where useful rather
+   than "he/she" or "s/he".
+
+4. Ojibwe verbs often translate complete English sentences. Capitalize
+   and punctuate the EnglishPrompt as a sentence when that is what the
+   Target means.
+
+5. Do not invent an English-style adjective class. Quality concepts may
+   be VAI/VII verbs, preverbs or other Ojibwe structures.
+
+6. Citation forms must follow reliable Ojibwe reference practice for the
+   relevant word class. Do not impose an infinitive-like verb citation
+   strategy from European languages.
+
+7. Exact matching makes dialect and orthographic ambiguity important.
+   Disambiguate the prompt where necessary rather than accepting several
+   unrelated regional Targets under one card.
+
+8. Every generated form that is not directly attested should be licensed
+   by a well-established productive paradigm from reliable sources.
+   Exercise extra caution with VTA morphology, conjunct forms, obviation,
+   derivation and dialect-sensitive forms.
+
+9. Prefer attested example sentences when they fit the curriculum.
+   Generated sentences are acceptable when their morphology and syntax
+   are confidently supported and the combination is natural.
+
+10. Do not make grammatical terminology the learner's task merely because
+    generator reasoning uses labels such as VAI, VII, VTA, VTI,
+    proximate, obviative, independent or conjunct.
+
+14. DEVELOPMENT AND REVIEW POLICY
+
+The current 100-card deck remains developmental. Pedagogical correction,
+reordering or replacement may preserve or revise draft IDs according to
+the Charter's development-versus-live-ID rule.
+
+Before substantially enlarging the deck, audit the 100-card prototype
+against this syllabus, especially:
+- demonstrative regional forms and spelling;
+- generated predicate+noun combinations;
+- noun-derived -wi predicate forms;
+- first-person VAI forms;
+- dependent-noun possession forms;
+- whether the current source base supports each Target as canonical
+  enough for exact matching.
+
+As confidence grows, generation batches may become larger. New
+documentation or speaker/community evidence may require local correction
+or a syllabus amendment.
+
+15. COMPLETION AND REUSE RULES
+
+1. Unit completion means sufficient canonical demonstration, not learner
+   mastery.
+2. Introduced material should recur longitudinally in later cards.
+3. Vocabulary remains reusable once introduced.
+4. Animacy, possession, obviation and verb-class distinctions should
+   increasingly operate together rather than remain isolated lessons.
+5. The scheduler supplies repetition; the curriculum supplies varied
+   contexts.
+6. Exact duplicate cards are prohibited.
+7. Later cards may combine several established systems naturally.
+8. Difficulty need not rise monotonically with card ID.
+9. Regional breadth and documentation depth may grow unevenly.
+10. The syllabus is a roadmap. Prerequisite-safe local detours do not
+    require amendment.
+
+16. AMENDMENT POLICY
+
+Amend this syllabus when the preferred Ojibwe curriculum path changes,
+when the reference-variety/source policy materially changes, or when new
+evidence shows that a structural dependency or documentation frontier
+has been represented incorrectly.
+
+Routine card generation, ordinary local detours and expansion within
+existing units do not require a new version.
+
+AMENDMENT HISTORY
+
+Version 0.1
+- Initial Ojibwe syllabus, written after review of the first 100-card
+  prototype.
+- Establishes Double Vowel orthography as canonical.
+- Treats the Ojibwe People's Dictionary as the principal initial
+  reference anchor without making it the exclusive authority.
+- Explicitly designates Ojibwe documentation-limited for current
+  Polyglot purposes.
+- Makes animacy and its grammatical consequences the opening structural
+  spine.
+- Organizes early verbal development around VAI, VII, VTI and VTA rather
+  than European tense/conjugation assumptions.
+- Introduces possession and obviation before the full VTA system because
+  they supply important prerequisites for animate participant tracking.
+- Treats independent, conjunct and imperative orders as major later
+  verbal systems.
+- Establishes a source-aware dialect policy rather than manufacturing a
+  single pan-Ojibwe standard.
+- Preserves an open documentation frontier instead of claiming in
+  advance that every educated-adult domain can be generated reliably.
