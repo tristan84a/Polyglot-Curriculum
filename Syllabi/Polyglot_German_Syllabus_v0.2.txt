@@ -1,6 +1,6 @@
 POLYGLOT GERMAN SYLLABUS
 
-Version: 0.2 Status: Current Charter version: 0.5
+Version: 0.3 Status: Current Charter version: 0.7
 Encoding: UTF-8
 
 PURPOSE
@@ -13,8 +13,15 @@ amend this document.
 
 Vocabulary acquisition is continuous throughout the curriculum. Grammar
 units define structural progression but do not freeze vocabulary. Units
-have no fixed card quota; a unit is complete when its canonical sequence
-satisfies its completion standard.
+have no fixed card quota. Introduction and establishment are distinct:
+a unit may begin, become intelligible, and continue toward establishment
+through later double-duty cards while another compatible unit begins.
+
+The syllabus is a roadmap, not a requirement that card generation follow
+every numbered unit as a sealed block. A prerequisite-safe local detour,
+early appearance of a useful later form, or delayed completion of an
+earlier paradigm does not require a syllabus amendment when the sequence
+remains pedagogically clear and later converges on the roadmap.
 
 German is not treated as French with different vocabulary. Case, clause
 architecture, verbal brackets, separable verbs, adjective declension,
@@ -88,7 +95,11 @@ The early French deck may be copied closely for pacing and lexical
 interleaving wherever German structure permits. German article gender,
 V2, case, and verb behavior remain authoritative where the languages
 diverge. DE-01 and DE-02 are continuing lexical strands, not gates that
-require dozens of standalone vocabulary cards.
+require dozens of standalone vocabulary cards. DE-03 through DE-10 are
+likewise early structural strands rather than a demand for serial mastery.
+Pronouns, sein, haben, ordinary lexical verbs, V2, negation, first case
+contrasts, and basic questions may overlap once each new pattern is clear
+enough not to obscure the next.
 
 STAGE 1 — BOOTSTRAP
 
@@ -167,18 +178,22 @@ Possessions, family and everyday objects. DELIBERATELY EXCLUDED: Perfekt
 auxiliary use until DE-60. COMPLETION STANDARD: All present forms are
 demonstrated and reused. LEADS TO: DE-60, DE-68.
 
-DE-07 — Regular verbs: present tense
+DE-07 — Productive present-tense verbs
 
-PREREQUISITES: DE-04. OBJECTIVE: Establish the productive weak-verb
-present-tense pattern. CORE PATTERN: -e, -st, -t, -en, -t, -en, with
+PREREQUISITES: Enough personal reference for finite clauses. OBJECTIVE:
+Begin the productive present-tense system with transparent weak verbs
+while allowing high-value non-weak verbs to appear when they support
+useful early sentences. CORE PATTERN: -e, -st, -t, -en, -t, -en, with
 appropriate treatment of predictable phonological/orthographic variants
 after the basic model. LEXICAL ANCHORS: machen plus at least one other
 useful regular verb. CARD STRATEGY: Introduce infinitives, then
 systematic person/number forms; use additional verbs to demonstrate
 productivity. VOCABULARY DEVELOPMENT: Add useful high-frequency actions
-without obscuring morphology. DELIBERATELY EXCLUDED: Stem-changing and
-strongly irregular verbs. COMPLETION STANDARD: All person/number forms
-occur with multiple regular verbs and are reused outside paradigm order.
+without obscuring morphology. DELIBERATELY EXCLUDED: Dense undifferentiated irregular paradigms.
+COMPLETION STANDARD: The weak-verb pattern is demonstrated across
+person/number with more than one verb and later reuse; useful
+stem-changing or irregular verbs may already have been introduced
+lexically or in controlled sentences.
 LEADS TO: DE-08, DE-11.
 
 DE-08 — Basic declarative word order and V2
@@ -214,6 +229,13 @@ until cases are introduced. COMPLETION STANDARD: Basic nicht/kein
 selection is established. LEADS TO: Later case forms and DE-36.
 
 STAGE 2 — PRESENT-TENSE VERBAL SYSTEM
+
+IMPLEMENTATION NOTE: The rebuilt opening deliberately reaches visible
+masculine accusative, basic yes/no and wh-questions, nicht/kein, a
+stem-changing verb, and first locative dative examples before every
+earlier paradigm is exhaustively established. These are valid
+prerequisite-aware detours, not a competing curriculum. Later units
+systematize and broaden what the opening has already made intelligible.
 
 DE-11 — Present-tense person/number agreement
 
@@ -882,3 +904,10 @@ Version 0.2
 - Establishes the shared eight-item seed as the default German opening.
 - Clarifies that early French pacing may be reused while German grammar
   remains structurally authoritative.
+
+
+Version 0.3
+- Adopts Charter 0.7 and treats introduction, reinforcement, and establishment as longitudinal rather than sealed serial blocks.
+- Clarifies that the syllabus is a forward roadmap; prerequisite-safe card-generation detours do not require amendment merely because a later structure appears early or an earlier paradigm remains partial.
+- Reconciles the opening architecture with the rebuilt German prototype: early masculine accusative, questions, nicht/kein, stem-changing verbs, and first locative dative examples may precede exhaustive completion of surrounding units.
+- Reframes DE-03 through DE-10 as overlapping early structural strands while preserving later systematic case, question, and verb units.
