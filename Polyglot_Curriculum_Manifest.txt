@@ -30,7 +30,7 @@ Polish      400000-499999        400000-400050        51
 Hungarian   500000-599999        500000-500035        36
 Turkish     600000-699999        600000-600049        50
 Arabic      700000-799999        700000-700049        50
-Ojibwe      800000-899999        800000-800099        100
+Ojibwe      800000-899999        800000-800098        99
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -86,7 +86,7 @@ demonstratives, accompaniment with to, direction with e, kara/made,
 initial ga contexts, continuing polite nonpast and negation, and the
 first polite past and negative-past forms. Vocabulary and authentic
 orthography continue to grow just in time, with romaji InputHint retained
-broadly during this experimental stage. The superseded 100-card
+broadly during this experimental stage. The superseded 99-card
 lexical-first trial has been retired from the current Cards folder; Git
 history remains the archival record.
 
@@ -155,9 +155,9 @@ OJIBWE
 Syllabus: Syllabi/Polyglot_Ojibwe_Syllabus_v0.1.txt
 Syllabus version: 0.1
 Card file: Cards/Ojibwe.csv
-Cards: 100
-Used IDs: 800000-800099
-Checkpoint: Ojibwe has advanced to a deliberately exploratory 100-card
+Cards: 99
+Used IDs: 800000-800098
+Checkpoint: Ojibwe has advanced to a deliberately exploratory 99-card
 prototype under the Charter v0.8 prototype-first workflow. Double Vowel
 orthography is canonical, with the University of Minnesota Ojibwe
 People's Dictionary serving as the principal initial lexical/reference
@@ -173,7 +173,7 @@ prompts mark animacy only; English this/these and that/those already mark
 number. Ojibwe remains the first explicit test of the Charter's
 documentation-limited-language policy: proceed as deeply as reliable
 evidence permits and do not manufacture unsupported forms or usage.
-Review and audit this 100-card prototype against Ojibwe syllabus v0.1
+Review and audit this 99-card prototype against Ojibwe syllabus v0.1
 before generating a substantially larger batch.
 
 4. MAINTENANCE RULES
