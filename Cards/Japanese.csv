@@ -1,101 +1,61 @@
 ﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
-300000,Japanese,water,水,mizu,noun
-300001,Japanese,book,本,hon,noun
-300002,Japanese,house,家,ie,noun
-300003,Japanese,person,人,hito,noun
-300004,Japanese,dog,犬,inu,noun
-300005,Japanese,cat,猫,neko,noun
-300006,Japanese,mountain,山,yama,noun
-300007,Japanese,river,川,kawa,noun
-300008,Japanese,tree,木,ki,noun
-300009,Japanese,flower,花,hana,noun
-300010,Japanese,sun,太陽,taiyou,noun
-300011,Japanese,moon,月,tsuki,noun
-300012,Japanese,sky,空,sora,noun
-300013,Japanese,rain,雨,ame,noun
-300014,Japanese,snow,雪,yuki,noun
-300015,Japanese,fire,火,hi,noun
-300016,Japanese,car,車,kuruma,noun
-300017,Japanese,train,電車,densha,noun
-300018,Japanese,station,駅,eki,noun
-300019,Japanese,road,道,michi,noun
-300020,Japanese,school,学校,gakkou,noun
-300021,Japanese,teacher,先生,sensei,noun
-300022,Japanese,student,学生,gakusei,noun
-300023,Japanese,friend,友達,tomodachi,noun
-300024,Japanese,child,子供,kodomo,noun
-300025,Japanese,mother,母,haha,noun
-300026,Japanese,father,父,chichi,noun
-300027,Japanese,food,食べ物,tabemono,noun
-300028,Japanese,rice / meal,ご飯,gohan,noun
-300029,Japanese,bread,パン,pan,noun
-300030,Japanese,fish,魚,sakana,noun
-300031,Japanese,meat,肉,niku,noun
-300032,Japanese,apple,りんご,ringo,noun
-300033,Japanese,tea,お茶,ocha,noun
-300034,Japanese,coffee,コーヒー,koohii,noun
-300035,Japanese,morning,朝,asa,noun
-300036,Japanese,night,夜,yoru,noun
-300037,Japanese,today,今日,kyou,noun
-300038,Japanese,tomorrow,明日,ashita,noun
-300039,Japanese,yesterday,昨日,kinou,noun
-300040,Japanese,big,大きい,ookii,adjective
-300041,Japanese,small,小さい,chiisai,adjective
-300042,Japanese,new,新しい,atarashii,adjective
-300043,Japanese,old (thing),古い,furui,adjective
-300044,Japanese,good,いい,ii,adjective
-300045,Japanese,bad,悪い,warui,adjective
-300046,Japanese,hot (thing),熱い,atsui,adjective
-300047,Japanese,cold (thing),冷たい,tsumetai,adjective
-300048,Japanese,red,赤い,akai,adjective
-300049,Japanese,white,白い,shiroi,adjective
-300050,Japanese,to eat,食べる,taberu,verb
-300051,Japanese,to drink,飲む,nomu,verb
-300052,Japanese,to see / watch,見る,miru,verb
-300053,Japanese,to read,読む,yomu,verb
-300054,Japanese,to write,書く,kaku,verb
-300055,Japanese,to go,行く,iku,verb
-300056,Japanese,to come,来る,kuru,verb
-300057,Japanese,to return,帰る,kaeru,verb
-300058,Japanese,to sleep,寝る,neru,verb
-300059,Japanese,to wake up,起きる,okiru,verb
-300060,Japanese,to speak,話す,hanasu,verb
-300061,Japanese,to listen / hear,聞く,kiku,verb
-300062,Japanese,to buy,買う,kau,verb
-300063,Japanese,to do,する,suru,verb
-300064,Japanese,to work,働く,hataraku,verb
-300065,Japanese,It is water.,水です。,mizu desu,sentence
-300066,Japanese,It is a book.,本です。,hon desu,sentence
-300067,Japanese,It is a cat.,猫です。,neko desu,sentence
-300068,Japanese,It is a dog.,犬です。,inu desu,sentence
-300069,Japanese,This is water.,これは水です。,kore wa mizu desu,sentence
-300070,Japanese,This is a book.,これは本です。,kore wa hon desu,sentence
-300071,Japanese,This is a cat.,これは猫です。,kore wa neko desu,sentence
-300072,Japanese,This is a dog.,これは犬です。,kore wa inu desu,sentence
-300073,Japanese,That is a school.,それは学校です。,sore wa gakkou desu,sentence
-300074,Japanese,That over there is a mountain.,あれは山です。,are wa yama desu,sentence
-300075,Japanese,This is my book.,これは私の本です。,kore wa watashi no hon desu,sentence
-300076,Japanese,This is the teacher's book.,これは先生の本です。,kore wa sensei no hon desu,sentence
-300077,Japanese,The cat is small.,猫は小さいです。,neko wa chiisai desu,sentence
-300078,Japanese,The dog is big.,犬は大きいです。,inu wa ookii desu,sentence
-300079,Japanese,The book is new.,本は新しいです。,hon wa atarashii desu,sentence
-300080,Japanese,The car is old.,車は古いです。,kuruma wa furui desu,sentence
-300081,Japanese,The snow is white.,雪は白いです。,yuki wa shiroi desu,sentence
-300082,Japanese,The apple is red.,りんごは赤いです。,ringo wa akai desu,sentence
-300083,Japanese,Is this a book?,これは本ですか。,kore wa hon desu ka,sentence
-300084,Japanese,Is that a cat?,それは猫ですか。,sore wa neko desu ka,sentence
-300085,Japanese,I eat rice.,ご飯を食べる。,gohan o taberu,sentence
-300086,Japanese,I drink water.,水を飲む。,mizu o nomu,sentence
-300087,Japanese,I read a book.,本を読む。,hon o yomu,sentence
-300088,Japanese,I write.,書く。,kaku,sentence
-300089,Japanese,I go to school.,学校に行く。,gakkou ni iku,sentence
-300090,Japanese,I go to the station.,駅に行く。,eki ni iku,sentence
-300091,Japanese,I return home.,家に帰る。,ie ni kaeru,sentence
-300092,Japanese,I see the mountain.,山を見る。,yama o miru,sentence
-300093,Japanese,I eat fish.,魚を食べる。,sakana o taberu,sentence
-300094,Japanese,I drink coffee.,コーヒーを飲む。,koohii o nomu,sentence
-300095,Japanese,I work at school.,学校で働く。,gakkou de hataraku,sentence
-300096,Japanese,I read at home.,家で読む。,ie de yomu,sentence
-300097,Japanese,I eat at home.,家で食べる。,ie de taberu,sentence
-300098,Japanese,I go with a friend.,友達と行く。,tomodachi to iku,sentence
-300099,Japanese,I speak with a friend.,友達と話す。,tomodachi to hanasu,sentence
+300000,Japanese,house,家,ie,
+300001,Japanese,person,人,hito,
+300002,Japanese,book,本,hon,
+300003,Japanese,food; meal,ご飯,gohan,
+300004,Japanese,big,大きい,ookii,
+300005,Japanese,small,小さい,chiisai,
+300006,Japanese,good,いい,ii,
+300007,Japanese,bad,悪い,warui,
+300008,Japanese,to eat,食べる,taberu,
+300009,Japanese,to see,見る,miru,
+300010,Japanese,to read,読む,yomu,
+300011,Japanese,to go,行く,iku,
+300012,Japanese,It is a house.,家です。,ie desu,
+300013,Japanese,It is a book.,本です。,hon desu,
+300014,Japanese,The house is big.,家は大きいです。,ie wa ookii desu,
+300015,Japanese,The book is small.,本は小さいです。,hon wa chiisai desu,
+300016,Japanese,The food is good.,ご飯はおいしいです。,gohan wa oishii desu,
+300017,Japanese,delicious,おいしい,oishii,
+300018,Japanese,I eat the food.,ご飯を食べます。,gohan o tabemasu,
+300019,Japanese,I read the book.,本を読みます。,hon o yomimasu,
+300020,Japanese,I see the house.,家を見ます。,ie o mimasu,
+300021,Japanese,school,学校,gakkou,
+300022,Japanese,I go to school.,学校に行きます。,gakkou ni ikimasu,
+300023,Japanese,store,店,mise,
+300024,Japanese,I go to the store.,店に行きます。,mise ni ikimasu,
+300025,Japanese,Do you read the book?,本を読みますか。,hon o yomimasu ka,
+300026,Japanese,Do you eat the food?,ご飯を食べますか。,gohan o tabemasu ka,
+300027,Japanese,Do you go to school?,学校に行きますか。,gakkou ni ikimasu ka,
+300028,Japanese,this,これ,kore,
+300029,Japanese,that,それ,sore,
+300030,Japanese,This is a book.,これは本です。,kore wa hon desu,
+300031,Japanese,That is a book.,それは本です。,sore wa hon desu,
+300032,Japanese,what,何,nani,
+300033,Japanese,What is this?,これは何ですか。,kore wa nan desu ka,
+300034,Japanese,What is that?,それは何ですか。,sore wa nan desu ka,
+300035,Japanese,water,水,mizu,
+300036,Japanese,to drink,飲む,nomu,
+300037,Japanese,I drink water.,水を飲みます。,mizu o nomimasu,
+300038,Japanese,Do you drink water?,水を飲みますか。,mizu o nomimasu ka,
+300039,Japanese,child,子供,kodomo,
+300040,Japanese,the child's book,子供の本,kodomo no hon,
+300041,Japanese,the person's house,人の家,hito no ie,
+300042,Japanese,The child's book is small.,子供の本は小さいです。,kodomo no hon wa chiisai desu,
+300043,Japanese,The person's house is big.,人の家は大きいです。,hito no ie wa ookii desu,
+300044,Japanese,also; too,も,mo,
+300045,Japanese,I read books too.,本も読みます。,hon mo yomimasu,
+300046,Japanese,I drink water too.,水も飲みます。,mizu mo nomimasu,
+300047,Japanese,at home,家で,ie de,
+300048,Japanese,I read a book at home.,家で本を読みます。,ie de hon o yomimasu,
+300049,Japanese,at school,学校で,gakkou de,
+300050,Japanese,I read a book at school.,学校で本を読みます。,gakkou de hon o yomimasu,
+300051,Japanese,who,誰,dare,
+300052,Japanese,Who is this?,これは誰ですか。,kore wa dare desu ka,
+300053,Japanese,Where is the school?,学校はどこですか。,gakkou wa doko desu ka,
+300054,Japanese,where,どこ,doko,
+300055,Japanese,I don't eat the food.,ご飯を食べません。,gohan o tabemasen,
+300056,Japanese,I don't read the book.,本を読みません。,hon o yomimasen,
+300057,Japanese,I don't drink water.,水を飲みません。,mizu o nomimasen,
+300058,Japanese,I don't go to school.,学校に行きません。,gakkou ni ikimasen,
+300059,Japanese,Don't you read the book?,本を読みませんか。,hon o yomimasen ka,
