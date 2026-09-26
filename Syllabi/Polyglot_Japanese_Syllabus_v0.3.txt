@@ -1,6 +1,6 @@
 POLYGLOT JAPANESE SYLLABUS
 
-Version: 0.3 Status: Current Charter version: 0.5
+Version: 0.4 Status: Current Charter version: 0.7
 Encoding: UTF-8
 
 PURPOSE
@@ -13,8 +13,17 @@ amend this document.
 
 Vocabulary acquisition is continuous throughout the curriculum. Grammar
 units define structural progression but do not freeze vocabulary. Units
-have no fixed card quota; a unit is complete when its canonical sequence
-satisfies its completion standard.
+have no fixed card quota. Introduction and establishment are distinct:
+a pattern may begin in a few controlled cards and continue developing
+through later cards whose principal novelty lies elsewhere.
+
+The syllabus is a roadmap rather than a requirement that generation
+follow every numbered unit as a sealed block. Japanese card generation
+may take prerequisite-safe local detours, introduce a useful later
+particle or form early, or postpone part of an earlier unit when doing so
+produces clearer natural Japanese. No syllabus amendment is needed merely
+because the route differs locally, provided the curriculum subsequently
+converges on the roadmap.
 
 The French and German syllabi provide a default structural model, but
 consistency is not an end in itself. Equivalent organization should be
@@ -106,16 +115,19 @@ COURSE-WIDE JAPANESE PRINCIPLES
 
 OPENING PACING DIRECTIVE
 
-Japanese follows the Charter 0.5 small-seed principle without pretending
+Japanese follows the Charter 0.7 small-seed principle without pretending
 that French grammar maps directly onto Japanese. Begin with only a small
 set of highly reusable nouns and descriptions in authentic orthography,
 then move promptly into productive Japanese structure.
 
 JA-01–JA-10 are parallel early lexical/literacy strands, not ten gates
-that must be completed as standalone vocabulary blocks before JA-11.
-Copular identification, topic-comment structure, and other early
-structural cards may begin as soon as a small lexical seed supports them.
-Continue script exposure through the new words and sentences themselves.
+that must be completed as standalone vocabulary blocks before structural
+Japanese begins. The rebuilt opening demonstrates the intended scale:
+a very small noun/adjective/verb seed can move directly into です,
+は, polite verbal clauses, を, に, か, の, も, で, question words,
+and verbal negation while new vocabulary continues to arrive just in
+time. Continue script exposure through the new words and sentences
+themselves.
 
 The early French deck is a pacing model here only in the abstract sense:
 small lexical injection followed immediately by structural reuse.
@@ -205,252 +217,163 @@ a separate script prerequisite.
 
 STAGE 2 — FIRST STRUCTURAL JAPANESE
 
+The units below describe the main early strands, not a mandatory serial
+block order. The canonical seed deck may interleave them whenever the
+newest pattern remains clear.
+
 JA-11 — Copular sentences: です
-
 OBJECTIVE: Establish natural polite nominal predicates and basic
-identification/classification using established vocabulary. Do not define
-です as a mechanically exact equivalent of English “to be.”
+identification/classification using established vocabulary.
 
-JA-12 — Topic particle は
+JA-12 — Topic particle は and descriptive predicates
+OBJECTIVE: Establish は through simple topic-comment sentences, including
+natural い-adjective predicates. Do not reduce は to an English-style
+subject marker.
 
-OBJECTIVE: Establish は through simple topic-comment sentences. Its
-written form and contextual pronunciation are encountered as ordinary
-Japanese rather than as a prior kana exception lesson.
+JA-13 — Dictionary forms and first polite verbal clauses
+OBJECTIVE: Establish a small set of high-value verbs in dictionary form
+while using natural polite non-past sentence forms early. LEXICAL
+ANCHORS: 食べる, 見る, 読む, 行く, with additions such as 飲む as useful.
+CARD STRATEGY: Dictionary forms remain the lexical form; sentence cards
+may use -ます immediately. Do not require a long verb inventory or full
+conjugation table before productive verbal sentences begin.
 
-JA-13 — Questions with か
+JA-14 — を: first direct objects
+OBJECTIVE: Establish を with prototypical transitive objects using known
+verbs and nouns. Ordinary omitted subjects are normal from the beginning.
 
-OBJECTIVE: Establish basic polite yes/no questions with familiar
-vocabulary.
-
-JA-14 — これ / それ / あれ
-
-OBJECTIVE: Establish proximal/medial/distal demonstrative pronouns in
-ordinary contexts.
-
-JA-15 — この / その / あの
-
-OBJECTIVE: Establish demonstrative determiners and contrast them with
-これ/それ/あれ.
-
-JA-16 — の: possession and noun modification
-
-OBJECTIVE: Establish transparent productive noun-to-noun relationships
-with の.
-
-JA-17 — も: inclusion
-
-OBJECTIVE: Establish basic additive “also/too” functions in controlled
-contexts.
-
-JA-18 — Ordinary argument omission
-
-OBJECTIVE: Establish immediately that Japanese does not require English
-subjects or pronouns to be copied into every translation. CARD STRATEGY:
-Use explicit personal reference where Japanese naturally calls for it
-and omit recoverable arguments where natural Japanese normally does.
-
-JA-19 — を: first direct objects
-
-OBJECTIVE: Establish を with prototypical transitive objects using
-already known verbs and nouns.
-
-JA-20 — に and で: first high-value functions
-
-OBJECTIVE: Introduce destination/time に and action-location で one
-controlled pattern at a time. DELIBERATELY EXCLUDED: The full semantic
-range of either particle.
-
-JA-21 — と: accompaniment
-
-OBJECTIVE: Establish transparent accompaniment with と using familiar
-people and action vocabulary.
-
-JA-22 — Early sentence synthesis
-
-OBJECTIVE: Combine the first lexical base, authentic orthography,
-copular clauses, topic structure, demonstratives, の, も, ordinary
-argument omission, and a small controlled set of verbal particles.
-COMPLETION STANDARD: The course can proceed entirely through Japanese
-Targets without any special script-learning phase.
-
-STAGE 3 — FIRST JAPANESE SENTENCES
-
-JA-23 — Core vocabulary and literacy expansion
-
-PREREQUISITES: JA-01–JA-22. OBJECTIVE: Continue broadening ordinary
-Japanese vocabulary and literacy together. CARD STRATEGY: Teach useful
-words as words in their conventional contemporary spelling. A kanji’s
-reading is learned in the lexical item actually being taught; unrelated
-readings are not bundled into the same first encounter. VOCABULARY
-DEVELOPMENT: Continue concrete everyday nouns while adding useful
-descriptive and action vocabulary. DELIBERATELY EXCLUDED: Exhaustive
-kanji reading lists and detached radical memorization. COMPLETION
-STANDARD: Authentic mixed Japanese orthography is routine background
-knowledge for subsequent lexical and grammatical development. LEADS TO:
-Continuous literacy strand and Stage 17.
-
-JA-24 — Pronouns, names and ordinary argument omission
-
-OBJECTIVE: Establish useful personal reference while preventing
-compulsory English-style pronoun insertion. CARD STRATEGY: Contrast
-contexts where 私/あなた/etc. are useful with natural sentences where
-recoverable arguments are absent. DELIBERATELY EXCLUDED: Fine
-social/register nuances of all personal-reference terms. COMPLETION
-STANDARD: Omitted arguments are accepted as normal Japanese structure.
-
-JA-25 — Copular sentences: です
-
-OBJECTIVE: Establish polite nominal predicates and basic
-identification/classification. CARD STRATEGY: Use known nouns and
-identities; do not define です simplistically as an exact equivalent of
-English “to be.”
-
-JA-26 — Topic particle は
-
-OBJECTIVE: Establish は as a topic marker through controlled,
-interpretable contrasts. CARD STRATEGY: Begin with simple topic-comment
-sentences. Avoid prematurely collapsing topic into grammatical subject.
-COMPLETION STANDARD: は is reusable in ordinary simple sentences. LEADS
-TO: JA-44 and JA-146.
-
-JA-27 — Questions with か
-
-OBJECTIVE: Establish polite yes/no questions and basic question
-formation.
-
-JA-28 — これ / それ / あれ
-
-OBJECTIVE: Establish proximal/medial/distal demonstrative pronouns in
-ordinary contexts.
-
-JA-29 — この / その / あの
-
-OBJECTIVE: Establish demonstrative determiners and contrast them with
-これ/それ/あれ.
-
-JA-30 — の: possession and noun modification
-
-OBJECTIVE: Establish productive noun-to-noun relationships with の. CARD
-STRATEGY: Begin with possession/association and broaden only as examples
-remain transparent.
-
-JA-31 — も: inclusion
-
-OBJECTIVE: Establish additive “also/too” functions and basic replacement
-of は/が/を where appropriate.
-
-JA-32 — Basic numbers and counters: introduction
-
-OBJECTIVE: Establish basic numbers and the fact that counting commonly
-requires classifiers/counters. DELIBERATELY EXCLUDED: Large counter
-inventory and irregular readings until Stage 11.
-
-JA-33 — First-sentence synthesis
-
-OBJECTIVE: Integrate copular sentences, topic structure, demonstratives,
-の, も, basic questions and growing vocabulary. COMPLETION STANDARD: The
-curriculum can proceed with Japanese rather than translation-mediated
-fragments.
-
-STAGE 4 — VERBS AND BASIC PARTICLES
-
-JA-34 — Dictionary-form verbs
-
-OBJECTIVE: Establish the dictionary form as a fundamental lexical form
-and begin simple non-past verbal meaning. CARD STRATEGY: Lexical verb
-cards use dictionary forms; sentence cards provide context for
-tense/aspect interpretation.
-
-JA-35 — Ichidan verbs
-
-OBJECTIVE: Establish a useful set of vowel-stem verbs and their
-recognizable dictionary-form pattern without overpromising
-spelling-based predictability.
-
-JA-36 — Godan verbs
-
-OBJECTIVE: Establish consonant-stem verbs as the other major productive
-class. CARD STRATEGY: Use several endings so later conjugational
-transformations have a broad base.
-
-JA-37 — Irregular する and 来る
-
-OBJECTIVE: Establish the two central irregular verbs and する’s role in
-productive verbal vocabulary.
-
-JA-38 — を: direct objects
-
-OBJECTIVE: Establish を with prototypical transitive objects.
-IMPLEMENTATION NOTES: Pronunciation is taught in ordinary particle use;
-historical spelling need not become a separate theoretical lesson.
-
-JA-39 — に: destination and time
-
+JA-15 — に: first destination and time functions
 OBJECTIVE: Introduce high-value に functions one controlled pattern at a
-time. DELIBERATELY EXCLUDED: Attempting to teach all uses of に at once.
+time, beginning with transparent destinations where useful.
 
-JA-40 — で: location of action and means
+JA-16 — Questions with か
+OBJECTIVE: Establish basic polite yes/no questions with both copular and
+verbal predicates.
 
-OBJECTIVE: Establish core action-location and instrumental/means
-functions.
+JA-17 — これ / それ / あれ and basic question words
+OBJECTIVE: Establish proximal/medial/distal demonstrative pronouns and
+high-value interrogatives such as 何, 誰 and どこ as vocabulary permits.
 
-JA-41 — へ: direction
+JA-18 — の: possession and noun modification
+OBJECTIVE: Establish transparent productive noun-to-noun relationships.
 
-OBJECTIVE: Establish directional へ and contrast its role gradually with
-に.
+JA-19 — も: inclusion
+OBJECTIVE: Establish basic additive functions and broaden particle
+contrasts gradually.
 
-JA-42 — と: accompaniment and quotation introduction
+JA-20 — で: first action-location function
+OBJECTIVE: Establish core action-location で with familiar verbs and
+places. Instrumental/means uses may follow later.
 
-OBJECTIVE: Establish accompaniment first and introduce transparent
-quotation frames as vocabulary permits.
+JA-21 — Ordinary argument omission
+OBJECTIVE: Establish from the beginning that Japanese does not require
+English subjects or pronouns to be copied into every translation.
 
-JA-43 — から / まで
+JA-22 — Early polite verbal negation
+OBJECTIVE: Introduce -ません with familiar verbs once affirmative polite
+clauses are intelligible. A small controlled set is enough for
+introduction; negation continues longitudinally.
 
+JA-23 — Early structural synthesis and lexical growth
+OBJECTIVE: Combine authentic orthography, です, は, polite verbal clauses,
+を, に, か, の, も, で, demonstratives/question words, argument omission,
+and continuing just-in-time vocabulary.
+
+STAGE 3 — EXPANDING THE BASIC CLAUSE
+
+JA-24 — Pronouns, names and personal reference
+OBJECTIVE: Add useful personal reference without compulsory English-style
+pronoun insertion.
+
+JA-25 — この / その / あの
+OBJECTIVE: Establish demonstrative determiners and contrast them with
+これ/それ/あれ.
+
+JA-26 — と: accompaniment
+OBJECTIVE: Establish transparent accompaniment with と. Quotation uses
+may follow when later clause material supports them naturally.
+
+JA-27 — から / まで
 OBJECTIVE: Establish source/start and endpoint ranges in time and space.
 
-JA-44 — が: subject/focus introduction
+JA-28 — へ: direction
+OBJECTIVE: Establish directional へ and contrast its role gradually with
+destination に.
 
-PREREQUISITES: JA-26. OBJECTIVE: Introduce が without reducing は/が to
-a one-line “subject versus topic” rule. CARD STRATEGY: Use existential,
-identification/focus and neutral-description contexts progressively.
-DELIBERATELY EXCLUDED: Full discourse-sensitive は/が system until
-JA-146.
+JA-29 — が: subject/focus introduction
+OBJECTIVE: Introduce が without reducing は/が to a one-line subject
+versus topic rule. Full discourse-sensitive treatment remains later.
 
-JA-45 — Basic particle synthesis
+JA-30 — Basic numbers and counters: introduction
+OBJECTIVE: Establish basic numbers and the fact that counting commonly
+requires classifiers/counters.
 
+JA-31 — Particle and clause synthesis
 OBJECTIVE: Combine known particles in natural short clauses while
-preserving their distinct functions. COMPLETION STANDARD: Basic argument
-and adjunct marking can serve as reusable grammar.
+previously introduced questions, negation, demonstratives and vocabulary
+continue to recur.
 
-STAGE 5 — POLITE NON-PAST VERBAL SYSTEM
+JA-32 — Verb-class awareness
+OBJECTIVE: Make ichidan, godan, する and 来る behavior progressively
+visible as later inflection requires it. Do not front-load classification
+terminology or multiple full paradigms merely to label classes.
 
-JA-46 — ます
+JA-33 — Polite non-past reinforcement
+OBJECTIVE: Broaden -ます and -ません across known verb types and vocabulary
+until polite non-past clauses are established rather than merely
+introduced.
 
-OBJECTIVE: Establish polite affirmative non-past forms across known verb
-classes.
+STAGE 4 — POLITE VERBAL TIME AND POLARITY
 
-JA-47 — ません
+JA-34 — ました
+OBJECTIVE: Establish polite affirmative past using familiar verbs.
 
-OBJECTIVE: Establish polite non-past negation.
-
-JA-48 — ました
-
-OBJECTIVE: Establish polite affirmative past.
-
-JA-49 — ませんでした
-
+JA-35 — ませんでした
 OBJECTIVE: Establish polite negative past.
 
-JA-50 — Polite questions
+JA-36 — Polite verbal questions
+OBJECTIVE: Extend established question structure across non-past, past,
+affirmative and negative polite verbal predicates.
 
-OBJECTIVE: Combine polite verbal predicates with ordinary question
-structure.
+JA-37 — Polite verbal synthesis
+OBJECTIVE: Integrate time/polarity, particles, questions, omission and
+varied vocabulary.
 
-JA-51 — Polite verbal synthesis
+STAGE 5 — EARLY CLAUSE EXPANSION
 
-OBJECTIVE: Integrate tense/polarity with known particles and varied
-vocabulary. COMPLETION STANDARD: Polite verbal clauses are established
-without implying that -ます forms are the lexical base of verbs.
+JA-38 — Additional high-frequency particle functions
+OBJECTIVE: Broaden already introduced particles through new natural
+contexts rather than treating first appearance as completion.
+
+JA-39 — First existence preparation
+OBJECTIVE: Build the vocabulary and particle patterns needed for ある and
+いる without an artificial separate lexical block.
+
+JA-40 — Early sentence synthesis
+OBJECTIVE: Continue combining established and partly established
+structures while vocabulary and literacy expand. IMPLEMENTATION NOTE:
+The rebuilt 60-card seed is an empirical model for this longitudinal
+style; its exact card order is not itself a syllabus requirement.
+
+JA-41–JA-43 — Flexible bridge space
+OBJECTIVE: Use these numbers only if future card generation reveals a
+useful prerequisite-safe bridge before adjective/existence work. They
+need not be filled merely because they exist.
+
+JA-44 — Advanced は / が foundation
+OBJECTIVE: Revisit topic/focus contrasts when richer clause types make
+the distinction more informative.
+
+JA-45 — Basic particle synthesis checkpoint
+OBJECTIVE: Confirm that the major early argument and adjunct particles
+can serve as reusable grammar. This is a checkpoint, not an isolated
+practice requirement.
+
+JA-46–JA-51 — Polite verbal system checkpoints
+OBJECTIVE: Close any remaining gaps in -ます, -ません, -ました,
+-ませんでした and polite questions before later stages assume the system
+as reusable background grammar. These numbers are checkpoints for
+coverage, not instructions to reteach forms already established earlier.
 
 STAGE 6 — ADJECTIVES AND EXISTENCE
 
@@ -1025,3 +948,11 @@ Version 0.3
   than prerequisites requiring a long vocabulary block before JA-11.
 - Applies the early French model as a pacing principle only; Japanese
   structure remains authoritative.
+
+
+Version 0.4
+- Adopts Charter 0.7 and explicitly distinguishes introduction from longitudinal establishment.
+- Clarifies that the syllabus is a roadmap; prerequisite-safe local detours during card generation do not require amendment when the curriculum later converges on the intended path.
+- Rebuilds JA-11–JA-51 around the successful 60-card seed experiment. Desu, wa, dictionary-form verbs, early polite verbal clauses, o, ni, ka, no, mo, de, question words, omission, and polite negation now develop together instead of being repeatedly introduced in separate early stages.
+- Preserves later unit numbering from JA-52 onward so the mature Japanese roadmap remains stable.
+- Treats the current 60-card deck as an empirical pacing model rather than a card-order mandate.
