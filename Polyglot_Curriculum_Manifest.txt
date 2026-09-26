@@ -1,0 +1,132 @@
+POLYGLOT CURRICULUM MANIFEST
+
+Status: Current
+Encoding: UTF-8
+
+1. PURPOSE
+
+This manifest is the compact progress and allocation record for the
+Polyglot curriculum repository.
+
+It does not define pedagogy. The Polyglot Curriculum Charter governs
+system-wide curriculum design, and each language syllabus governs that
+language's canonical sequence. The language CSV is authoritative for
+cards that actually exist and for their row order.
+
+The manifest records stable language ID allocations, current card-file
+extent, syllabus version, and a concise curriculum-frontier checkpoint.
+Routine card generation may update this manifest without amending the
+Charter or a language syllabus.
+
+2. ID ALLOCATION
+
+Polyglot currently uses integer language blocks of 100,000 IDs.
+
+Language    Reserved ID range    Current used IDs     Current cards
+French      100000-199999        100000-100635        636
+German      200000-299999        200000-200223        224
+Japanese    300000-399999        300000-300099        100
+Polish      400000-499999        400000-400050        51
+Hungarian   500000-599999        500000-500035        36
+Turkish     600000-699999        600000-600049        50
+
+These ranges are reservations, not curriculum-size targets. Unused IDs
+within a language's block remain reserved for that language. Stable IDs
+must not be reused or renumbered merely because curriculum units are
+later split, merged, reordered, or reclassified.
+
+Before assigning an ID block to a new language, consult this manifest
+and reserve a new non-overlapping range deliberately.
+
+3. CURRENT LANGUAGE CHECKPOINTS
+
+FRENCH
+Syllabus: Syllabi/Polyglot_French_Syllabus_v0.2.txt
+Syllabus version: 0.2
+Card file: Cards/French.csv
+Cards: 636
+Used IDs: 100000-100635
+Checkpoint: FR-28 is in progress. FR-24 through FR-27 have been
+established in the latest extension, followed by substantial simple-
+sentence synthesis under FR-28. FR-29 has not yet been opened.
+
+GERMAN
+Syllabus: Syllabi/Polyglot_German_Syllabus_v0.2.txt
+Syllabus version: 0.2
+Card file: Cards/German.csv
+Cards: 224
+Used IDs: 200000-200223
+Checkpoint: The current CSV is the authority for the exact frontier.
+Before extension, reconcile its final cards against the German syllabus
+to identify the lowest-numbered incomplete unit. The existing repository
+state reaches material in the early present-tense curriculum but this
+manifest does not assert completion of DE-13 or a later unit without
+that reconciliation.
+
+JAPANESE
+Syllabus: Syllabi/Polyglot_Japanese_Syllabus_v0.3.txt
+Syllabus version: 0.3
+Card file: Cards/Japanese.csv
+Cards: 100
+Used IDs: 300000-300099
+Checkpoint: The current 100-card trial deck contains the initial lexical
+base and early structural Japanese. Before extension, reconcile the
+existing cards against JA-01 onward to identify the lowest-numbered
+incomplete unit; this manifest does not infer unit completion merely
+from the current card count.
+
+POLISH
+Syllabus: Syllabi/Polyglot_Polish_Syllabus_v0.2.txt
+Syllabus version: 0.2
+Card file: Cards/Polish.csv
+Cards: 51
+Used IDs: 400000-400050
+Checkpoint: The opening has been deliberately rebuilt as a 51-card
+small-seed prototype under the revised pacing model. Reconcile future
+extension against syllabus v0.2 and the current CSV rather than the
+superseded 200-card opening.
+
+HUNGARIAN
+Syllabus: Syllabi/Polyglot_Hungarian_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Hungarian.csv
+Cards: 36
+Used IDs: 500000-500035
+Checkpoint: The collaboratively designed 36-card opening prototype has
+been published. It establishes the shared lexical seed, a/az, nominal
+and adjectival zero-copula predication, basic personal pronouns with
+natural omission, and initial personal predicate forms. Continue only
+after reconciling the prototype against syllabus v0.1.
+
+TURKISH
+Syllabus: Syllabi/Polyglot_Turkish_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Turkish.csv
+Cards: 50
+Used IDs: 600000-600049
+Checkpoint: The 50-card seed prototype is now governed by Turkish syllabus
+v0.1. It covers the opening through first introduction of TR-09: shared
+lexical seed, zero third-person nominal/adjectival predication, bir/bu,
+personal predicate endings, natural subject omission, değil negation,
+polar-question mı/mi/mu/mü, and noun plural -lar/-ler. TR-07 through TR-09
+are introduced but remain longitudinally incomplete; future extension
+should reinforce them through double-duty cards while moving into TR-10
+and subsequent structures.
+
+4. MAINTENANCE RULES
+
+Update this manifest when:
+- a new language receives an ID allocation;
+- a language card CSV is created;
+- routine card generation materially advances a curriculum frontier;
+- a syllabus version changes in a way relevant to the checkpoint;
+- an ID allocation convention changes.
+
+Do not use this manifest to replace the language syllabus or CSV.
+For routine extension, the relevant syllabus and current language CSV
+remain the primary sources. The manifest is a checkpoint and
+cross-language allocation record.
+
+Card counts are descriptive only. They are not completion quotas and do
+not determine when a syllabus unit is established.
+
