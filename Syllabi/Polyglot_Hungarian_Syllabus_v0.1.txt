@@ -1,0 +1,801 @@
+POLYGLOT HUNGARIAN SYLLABUS
+
+Version: 0.1 Status: Current Charter version: 0.5
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for modern standard
+Hungarian in Polyglot. It follows the Polyglot Curriculum Charter v0.5:
+a small reusable lexical seed moves immediately into productive
+structure; vocabulary then expands just in time alongside grammar.
+Hungarian structure is authoritative. Cross-language sequences may be
+reused when they fit naturally, but Hungarian is not to be distorted to
+resemble French, German, Polish, or another language.
+
+The syllabus is designed toward ordinary educated-adult competence
+rather than a finite beginner endpoint. Vocabulary, morphology, syntax,
+phraseology, register, orthography, and natural usage continue into an
+expandable long tail.
+
+OPENING PROTOTYPE AND PACING DIRECTIVE
+
+The initial Hungarian prototype was designed before this syllabus as a
+deliberate stress test of the language. It establishes approximately 36
+cards and should be audited against this syllabus before publication
+rather than treated as automatically canonical.
+
+Preferred initial lexical seed:
+
+ház — house férfi — man nő — woman gyerek — child nagy — big kicsi —
+small jó — good rossz — bad
+
+The seed is followed immediately by productive Hungarian structure
+rather than by a large preliminary vocabulary inventory.
+
+The prototype establishes these principles early:
+
+1.  Present-tense third-person nominal and adjectival predicates
+    normally have no overt copula: A ház nagy. A férfi orvos.
+
+2.  The definite article has the ordinary a / az alternation and this
+    should be exposed early rather than postponed as a separate advanced
+    rule.
+
+3.  Hungarian has no grammatical gender in personal pronouns; ő covers
+    he/she.
+
+4.  Personal pronouns are introduced as lexical forms but should not be
+    mechanically retained in ordinary sentences where Hungarian normally
+    omits them. Explicit pronouns should later appear where contrast,
+    focus, disambiguation, or another genuine discourse reason makes
+    them natural.
+
+5.  First- and second-person present copular forms are established
+    through natural predicative sentences: Jó vagyok. Jó vagy. Jók
+    vagyunk. Jók vagytok.
+
+6.  Third-person zero-copula forms should not lead to the false rule
+    that van/vannak are absent from Hungarian. Existential, locative,
+    possessive, and other ordinary uses of van/vannak receive explicit
+    later treatment.
+
+7.  Plural predicative adjective agreement is allowed to emerge through
+    useful sentences rather than through a detached paradigm.
+
+The opening prototype is a pacing model, not a permanent 36-card quota.
+Future Hungarian rebuilding may alter individual cards if this syllabus
+reveals a better prerequisite order.
+
+STAGE 1 — SMALL SEED AND PRESENT PREDICATION
+
+HU-01 — Core concrete nouns and authentic Hungarian orthography
+
+OBJECTIVE: Establish a very small set of reusable nouns while exposing
+ordinary Hungarian spelling, including long vowels and accented letters
+from the beginning. ANCHORS: ház, férfi, nő, gyerek. CARD STRATEGY:
+Isolated lexical cards are appropriate for the initial seed; move into
+phrases and sentences almost immediately. COMPLETION STANDARD: Enough
+nouns exist to support early predication and article use. Broader noun
+vocabulary develops continuously.
+
+HU-02 — Core descriptive adjectives
+
+PREREQUISITES: HU-01 begun. OBJECTIVE: Establish a small useful
+adjective seed. ANCHORS: nagy, kicsi, jó, rossz. CARD STRATEGY: Teach
+citation forms, then reuse them immediately in predicative sentences.
+DELIBERATELY EXCLUDED: Broad adjective lists and full
+attributive/comparative behavior. COMPLETION STANDARD: The seed supports
+productive description.
+
+HU-03 — Definite article a / az
+
+PREREQUISITES: HU-01. OBJECTIVE: Establish the ordinary phonological
+alternation between a and az. CARD STRATEGY: Add a vowel-initial lexical
+anchor such as alma and contrast a ház with az alma in useful phrases
+and sentences. COMPLETION STANDARD: a/az is reusable without treating
+the two forms as separate articles.
+
+HU-04 — Present adjectival predication and zero copula
+
+PREREQUISITES: HU-01–HU-02. OBJECTIVE: Establish natural third-person
+present adjectival predicates without overt van. CORE PATTERN: A ház
+nagy. Az alma jó. DELIBERATELY EXCLUDED: Existential/locative van,
+past/future copular forms, and contexts requiring overt van. COMPLETION
+STANDARD: Singular third-person adjectival predication is established as
+ordinary Hungarian structure.
+
+HU-05 — Present nominal predication and zero copula
+
+PREREQUISITES: HU-01, HU-03–HU-04. OBJECTIVE: Show that ordinary
+third-person present nominal predicates likewise use zero copula.
+ANCHOR: orvos. CORE PATTERN: A férfi orvos. A nő orvos. COMPLETION
+STANDARD: Nominal and adjectival zero-copula predicates are
+distinguished from English overt-copula structure and are reusable.
+
+HU-06 — Personal pronouns and absence of grammatical gender
+
+PREREQUISITES: HU-01. OBJECTIVE: Establish én, te, ő, mi, ti, ők,
+including the gender-neutral third-person singular ő. CARD STRATEGY:
+Pronouns may be learned explicitly as lexical forms. Do not mechanically
+carry them into ordinary sentences. DELIBERATELY EXCLUDED:
+Oblique/case-marked forms and emphatic discourse uses. COMPLETION
+STANDARD: The six basic personal pronouns are recognized as reference
+forms and their ordinary omission is anticipated.
+
+HU-07 — Present forms of lenni with personal predicates
+
+PREREQUISITES: HU-02, HU-04–HU-06. OBJECTIVE: Establish first- and
+second-person present forms through natural predicates while preserving
+third-person zero copula. CORE PATTERNS: Jó vagyok. Jó vagy. Jó. Jók
+vagyunk. Jók vagytok. Jók. CARD STRATEGY: Prefer omitted subjects where
+natural. Explicit pronouns are reserved for later contexts in which
+Hungarian actually motivates them. COMPLETION STANDARD:
+First/second-person forms and third-person zero-copula contrast are
+established across singular/plural; plural predicative adjective
+agreement has been introduced.
+
+STAGE 2 — BASIC NOMINAL AND VERBAL CLAUSES
+
+HU-08 — Indefinite article and numeral egy
+
+OBJECTIVE: Establish the core uses of egy as numeral “one” and as an
+indefinite determiner, including contexts where Hungarian naturally
+omits an indefinite article. CARD STRATEGY: Avoid mapping English a/an
+mechanically to egy. COMPLETION STANDARD: Basic one/indefinite contrasts
+are usable without assuming obligatory article correspondence.
+
+HU-09 — Noun plural -k
+
+OBJECTIVE: Establish common plural formation and relevant stem/vowel
+behavior through high-frequency nouns. DELIBERATELY EXCLUDED: Exhaustive
+stem alternations. COMPLETION STANDARD: Common noun plurals can be
+introduced and reused naturally.
+
+HU-10 — Attributive adjectives
+
+PREREQUISITES: HU-02, HU-09. OBJECTIVE: Contrast attributive adjectives
+with predicative adjectives, especially the absence of plural agreement
+on ordinary attributive adjectives before plural nouns. CORE CONTRAST:
+nagy ház / nagy házak versus A házak nagyok. COMPLETION STANDARD:
+Attributive versus predicative behavior is established.
+
+HU-11 — Basic demonstratives ez / az
+
+OBJECTIVE: Establish proximal/distal reference as pronouns and begin the
+special agreement behavior of demonstratives before case-marked nouns
+only when prerequisites permit. DELIBERATELY EXCLUDED: Full
+demonstrative + case agreement until case suffixes are established.
+
+HU-12 — Basic present-tense verbal clauses
+
+OBJECTIVE: Introduce a small set of high-value verbs in finite present
+forms through natural sentences. CARD STRATEGY: Add verbs just in time;
+do not create a preliminary infinitive inventory. Subject pronouns
+remain omitted unless discourse requires them. COMPLETION STANDARD:
+Basic intransitive and simple transitive clauses are established
+sufficiently to support object marking.
+
+HU-13 — Accusative -t
+
+PREREQUISITES: HU-12. OBJECTIVE: Establish direct-object marking and
+common morphophonological/stem behavior progressively. CARD STRATEGY:
+Begin with transparent anchors, then broaden. COMPLETION STANDARD:
+Accusative objects are reusable in ordinary clauses.
+
+HU-14 — Indefinite conjugation: present
+
+PREREQUISITES: HU-12–HU-13. OBJECTIVE: Establish the present indefinite
+conjugation as a productive verbal system. CARD STRATEGY: Use subjects
+that are naturally omitted and vary person/number through context and
+English prompts. COMPLETION STANDARD: Core present indefinite endings
+are established across persons with representative verb types.
+
+HU-15 — Definite conjugation: present
+
+PREREQUISITES: HU-13–HU-14. OBJECTIVE: Introduce the definite
+conjugation through clear definite-object contexts. CORE PRINCIPLE:
+Conjugation choice reflects Hungarian object definiteness/reference
+structure and must not be reduced to an English tense/person mapping.
+DELIBERATELY EXCLUDED: Every special object class at first exposure.
+COMPLETION STANDARD: The central definite/indefinite contrast is
+inferable and productive.
+
+HU-16 — Definite versus indefinite conjugation synthesis
+
+OBJECTIVE: Contrast matched clauses differing principally in object
+definiteness and consolidate the conjugation choice. COMPLETION
+STANDARD: The learner can treat the two present conjugations as a
+coherent Hungarian system rather than two unrelated paradigms.
+
+STAGE 3 — NEGATION, QUESTIONS, EXISTENCE, AND LOCATION
+
+HU-17 — Basic verbal and predicative negation
+
+OBJECTIVE: Establish nem in ordinary nominal, adjectival, and verbal
+clauses. CARD STRATEGY: Recycle established structures before adding
+lexical complexity. COMPLETION STANDARD: Basic negation is reusable
+across established clause types.
+
+HU-18 — Yes/no questions and intonation
+
+OBJECTIVE: Establish ordinary Hungarian yes/no questions without
+inventing an obligatory question particle. CARD STRATEGY: English
+punctuation identifies question force; target sentences use natural
+Hungarian orthography. COMPLETION STANDARD: Basic polar questions are
+established across familiar clause types.
+
+HU-19 — Core interrogatives
+
+OBJECTIVE: Introduce ki, mi, hol, hová, honnan, mikor, hogyan, miért and
+other high-value question words progressively. CARD STRATEGY: Add only
+as their grammatical prerequisites become available.
+
+HU-20 — Existential and locative van / vannak
+
+PREREQUISITES: HU-04–HU-07. OBJECTIVE: Correctly delimit the earlier
+zero-copula rule by establishing contexts in which van/vannak are overt
+and necessary. CORE CONTRAST: A ház nagy. / A könyv az asztalon van.
+COMPLETION STANDARD: Zero copula versus overt van/vannak is structurally
+motivated rather than memorized as an exception list.
+
+HU-21 — Basic location: superessive -n/-on/-en/-ön
+
+OBJECTIVE: Introduce one high-value local case family through concrete
+location. CARD STRATEGY: Teach suffix selection through examples; do not
+begin with a complete case table.
+
+HU-22 — Inessive -ban/-ben
+
+OBJECTIVE: Establish “in/inside” location and make front/back vowel
+alternation visible in a meaningful suffix family.
+
+HU-23 — Illative -ba/-be and elative -ból/-ből
+
+OBJECTIVE: Develop the location → destination → source relationship for
+the interior local-case family.
+
+HU-24 — Sublative -ra/-re and delative -ról/-ről
+
+OBJECTIVE: Complete the corresponding surface-oriented directional
+family after the superessive is established.
+
+HU-25 — Adessive -nál/-nél, allative -hoz/-hez/-höz, ablative -tól/-től
+
+OBJECTIVE: Establish the proximity/at-to-from local family and reinforce
+vowel harmony through productive morphology.
+
+HU-26 — Local-case synthesis
+
+OBJECTIVE: Integrate hol / hová / honnan with the major three-way local
+case families. COMPLETION STANDARD: Location, destination, and source
+are understood as an organized Hungarian morphological system.
+
+STAGE 4 — VOWEL HARMONY AND SUFFIX ARCHITECTURE
+
+HU-27 — Front/back vowel harmony as a productive system
+
+OBJECTIVE: Make explicit through accumulated examples that suffix
+allomorphy tracks vowel harmony. CARD STRATEGY: Grammar remains learned
+through real words and sentences; do not replace usage with abstract
+vowel-class quizzes. COMPLETION STANDARD: Common two-way suffix choices
+are predictable for ordinary stems.
+
+HU-28 — Rounded front-vowel three-way harmony
+
+OBJECTIVE: Establish suffix sets such as -hoz/-hez/-höz where rounding
+creates a third form.
+
+HU-29 — Linking vowels and stem alternations
+
+OBJECTIVE: Introduce common morphophonological changes required by
+suffixation without implying that every stem is mechanically
+transparent.
+
+HU-30 — Suffix stacking
+
+OBJECTIVE: Establish Hungarian words as ordered sequences of stem +
+derivational/possessive/plural/case and related morphology as
+prerequisites permit. CARD STRATEGY: Build from already understood
+suffixes rather than presenting long artificial forms.
+
+STAGE 5 — POSSESSION
+
+HU-31 — Possessive suffixes: singular possessed noun
+
+OBJECTIVE: Establish core possessed-noun morphology for common
+possessors. CARD STRATEGY: Prefer natural possessed forms over
+English-style possessive pronoun substitution.
+
+HU-32 — Possessor constructions
+
+OBJECTIVE: Establish ordinary possessor + possessed relationships,
+including article behavior and nominative/dative possessor patterns
+progressively.
+
+HU-33 — Plural possession and multiple possessors
+
+OBJECTIVE: Extend possessive morphology across number while keeping
+morpheme order visible.
+
+HU-34 — Possessive pronouns and emphatic ownership
+
+OBJECTIVE: Introduce independent possessive forms when natural discourse
+requires them rather than using them as the default translation of
+English “mine/yours.”
+
+HU-35 — Possession with van
+
+OBJECTIVE: Establish Hungarian existential possession constructions and
+contrast them with English “have.” COMPLETION STANDARD: Ordinary
+possession is understood through Hungarian structure rather than forced
+into an English have-verb template.
+
+STAGE 6 — REMAINING CORE CASES AND POSTPOSITIONS
+
+HU-36 — Dative -nak/-nek
+
+OBJECTIVE: Establish recipient/benefactive and high-value
+possessor-related uses.
+
+HU-37 — Instrumental-comitative -val/-vel
+
+OBJECTIVE: Establish “with/by means of” functions, including consonant
+assimilation.
+
+HU-38 — Causal-final -ért
+
+OBJECTIVE: Establish common “for/because of” functions through natural
+contexts.
+
+HU-39 — Translative-factive -vá/-vé
+
+OBJECTIVE: Establish change-into/resultative uses after sufficient
+predicate and case foundations exist.
+
+HU-40 — Terminative -ig
+
+OBJECTIVE: Establish spatial/temporal endpoint uses.
+
+HU-41 — Essive-formal -ként
+
+OBJECTIVE: Establish “as/in the capacity of” uses.
+
+HU-42 — Other productive case suffixes
+
+OBJECTIVE: Add remaining ordinary case functions according to frequency
+and prerequisite value, avoiding a single giant “18 cases” memorization
+block.
+
+HU-43 — Core postpositions
+
+OBJECTIVE: Establish frequent postpositions and their relationship to
+case-like spatial/relational expression.
+
+HU-44 — Case/postposition synthesis
+
+OBJECTIVE: Integrate case suffixes, postpositions, directionality, and
+natural lexical government.
+
+STAGE 7 — VERBAL SYSTEM EXPANSION
+
+HU-45 — Infinitive -ni and infinitival constructions
+
+OBJECTIVE: Expand from lexical infinitives such as lenni into productive
+infinitival complementation.
+
+HU-46 — Modal/ability constructions
+
+OBJECTIVE: Establish common ways to express ability, possibility,
+necessity, and obligation according to Hungarian structure.
+
+HU-47 — Verbal prefixes: basic spatial/resultative meanings
+
+OBJECTIVE: Introduce high-frequency prefixes such as meg-, el-, be-,
+ki-, fel-, le-, át-, vissza- through transparent verbs. CARD STRATEGY:
+Treat prefixes as lexical-grammatical elements whose meanings and
+aspectual effects develop longitudinally.
+
+HU-48 — Prefix position and neutral clauses
+
+OBJECTIVE: Establish ordinary preverbal prefix placement where
+appropriate.
+
+HU-49 — Prefix separation under focus/negation/imperative and related
+structures
+
+OBJECTIVE: Show that prefix position interacts with Hungarian clause
+structure rather than being an arbitrary spelling phenomenon.
+
+HU-50 — Past tense
+
+OBJECTIVE: Establish productive past morphology across indefinite and
+definite conjugations with representative verb types.
+
+HU-51 — Future reference
+
+OBJECTIVE: Establish ordinary present-for-future uses and fog +
+infinitive without implying that Hungarian requires a dedicated future
+form whenever English uses “will.”
+
+HU-52 — Conditional mood
+
+OBJECTIVE: Establish present conditional morphology and ordinary
+hypothetical/polite uses.
+
+HU-53 — Imperative/subjunctive mood
+
+OBJECTIVE: Establish j-marked morphology and its major command, request,
+purpose, and subordinate uses progressively.
+
+HU-54 — Verbal paradigm synthesis
+
+OBJECTIVE: Integrate person, number, definiteness, tense, mood, and
+prefix behavior while keeping new lexical burden controlled.
+
+STAGE 8 — WORD ORDER, FOCUS, AND INFORMATION STRUCTURE
+
+HU-55 — Topic-comment organization
+
+OBJECTIVE: Establish Hungarian word order as information-structural
+rather than as free permutation or an English-like fixed template.
+
+HU-56 — Preverbal focus
+
+OBJECTIVE: Establish the special preverbal focus position through
+controlled contrasts.
+
+HU-57 — Neutral versus focused clauses
+
+OBJECTIVE: Contrast sentences with the same participants but different
+information structure and word order.
+
+HU-58 — Negation and focus interaction
+
+OBJECTIVE: Integrate nem, focus, verb position, and verbal-prefix
+behavior.
+
+HU-59 — Question-word focus
+
+OBJECTIVE: Establish the ordinary preverbal behavior of interrogative
+constituents.
+
+HU-60 — Quantifiers and scope
+
+OBJECTIVE: Develop common quantifier positions and meaning differences
+progressively.
+
+HU-61 — Postverbal field and flexible ordering
+
+OBJECTIVE: Broaden natural constituent order without presenting all
+permutations as stylistically equivalent.
+
+HU-62 — Explicit personal pronouns as discourse forms
+
+PREREQUISITES: HU-06 and mature basic clause structure. OBJECTIVE:
+Introduce explicit én, te, ő, mi, ti, ők in sentences specifically where
+contrast, focus, correction, coordination, disambiguation, or another
+natural discourse function motivates them. CARD STRATEGY: Do not create
+ordinary neutral sentences with redundant pronouns merely to exercise a
+paradigm. COMPLETION STANDARD: Pronoun presence versus omission carries
+natural Hungarian discourse meaning.
+
+HU-63 — Word-order and information-structure synthesis
+
+OBJECTIVE: Make topic, focus, negation, questions, prefixes, and
+postverbal ordering function as one coherent clause system.
+
+STAGE 9 — OBJECT REFERENCE AND PRONOMINAL SYSTEMS
+
+HU-64 — Personal pronouns with case suffixes
+
+OBJECTIVE: Establish the Hungarian pattern in which many oblique
+personal-pronoun forms are morphologically special rather than simple
+noun-like suffixation.
+
+HU-65 — Accusative personal pronouns
+
+OBJECTIVE: Establish engem, téged and other high-frequency object forms
+with natural omission where verb morphology makes reference recoverable.
+
+HU-66 — Demonstratives with case agreement
+
+OBJECTIVE: Establish constructions such as ebben a házban / ahhoz az
+emberhez in which demonstrative and noun phrase carry corresponding case
+marking.
+
+HU-67 — Reflexive pronouns
+
+OBJECTIVE: Establish magam, magad, maga, etc. and distinguish ordinary
+reflexive uses from emphatic/self-related meanings.
+
+HU-68 — Reciprocal and other pronominal forms
+
+OBJECTIVE: Establish egymás and related high-value reference structures.
+
+HU-69 — Indefinite, negative, and universal pronouns
+
+OBJECTIVE: Develop valaki, senki, mindenki, valami, semmi and related
+systems with appropriate polarity and agreement behavior.
+
+STAGE 10 — NUMBER, QUANTITY, COMPARISON, AND TIME
+
+HU-70 — Cardinal numbers
+
+OBJECTIVE: Establish ordinary cardinal forms and their noun-phrase
+behavior.
+
+HU-71 — Singular nouns after numerals and quantifiers
+
+OBJECTIVE: Make the Hungarian singular-after-number pattern explicit
+through natural contrasts with English.
+
+HU-72 — Ordinal numbers
+
+HU-73 — Quantity expressions
+
+OBJECTIVE: Establish common measures, amounts, containers, and
+quantifiers.
+
+HU-74 — Comparative adjectives
+
+OBJECTIVE: Establish -bb and ordinary comparative constructions.
+
+HU-75 — Superlatives and elative/intensive forms
+
+OBJECTIVE: Establish leg- and relevant related forms without conflating
+grammatical superlative with all emphatic meanings.
+
+HU-76 — Clock time and dates
+
+HU-77 — Days, months, seasons, and calendrical expressions
+
+HU-78 — Duration, frequency, and temporal case expressions
+
+OBJECTIVE: Develop time using the same suffix-based logic already
+established spatially where appropriate.
+
+STAGE 11 — DERIVATION AND VERB CLASSES
+
+HU-79 — Productive noun derivation
+
+HU-80 — Productive adjective derivation
+
+HU-81 — Productive verb derivation
+
+HU-82 — Causative verbs
+
+OBJECTIVE: Establish causative morphology and argument-structure
+consequences.
+
+HU-83 — Potential/ability derivation
+
+OBJECTIVE: Establish -hat/-het and distinguish morphological
+possibility/ability from other modal constructions.
+
+HU-84 — Frequent verbal-prefix lexicalization
+
+OBJECTIVE: Develop meanings that cannot be predicted merely by
+translating prefix + base verb.
+
+HU-85 — Word families and derivational synthesis
+
+OBJECTIVE: Turn Hungarian morphology into a systematic source of lexical
+expansion while preserving lexicalized meanings and irregularities.
+
+STAGE 12 — COMPLEX CLAUSES
+
+HU-86 — Coordination
+
+HU-87 — Complement clauses with hogy
+
+HU-88 — Causal clauses
+
+HU-89 — Conditional clauses
+
+HU-90 — Temporal clauses
+
+HU-91 — Purpose and result clauses
+
+HU-92 — Relative clauses
+
+OBJECTIVE: Establish relative constructions and appropriate relative
+forms progressively.
+
+HU-93 — Correlative constructions
+
+OBJECTIVE: Develop the demonstrative/interrogative-correlative patterns
+characteristic of Hungarian.
+
+HU-94 — Reported speech and reported questions
+
+HU-95 — Complex-clause synthesis
+
+STAGE 13 — PARTICIPLES, NON-FINITE STRUCTURES, AND ADVANCED VERBAL USAGE
+
+HU-96 — Present participial/adjectival forms
+
+HU-97 — Past participial forms
+
+HU-98 — Adverbial participles
+
+HU-99 — Inflected infinitives
+
+OBJECTIVE: Establish person-marked infinitival constructions where
+modern usage requires them.
+
+HU-100 — Complex infinitival and modal constructions
+
+HU-101 — Advanced prefix/aspectual interactions
+
+HU-102 — Non-finite synthesis
+
+LATE CURRICULUM — PARALLEL DEVELOPMENT
+
+From approximately this point onward, unit numbering records an editorial introduction order, not a requirement that one late domain be exhausted before the next begins. Once prerequisites are available, register, phraseology, broad lexical domains, educated-adult vocabulary, and long-tail material should develop in parallel and reinforce one another.
+
+Later units should therefore be introduced in roughly the numbered order, relatively quickly, and then revisited longitudinally. The learner need not master register switching before beginning phraseology, nor exhaust scientific vocabulary before cultural or other lexical domains begin. Numbering remains useful for first introduction and controlled-document organization; it is not a mandate for serial mastery of mature-language domains.
+
+STAGE 14 — NATURAL USAGE, POLITENESS, AND REGISTER
+
+HU-103 — te versus ön/maga systems
+
+OBJECTIVE: Establish informal and formal address as real pragmatic
+systems rather than one-to-one replacements for English “you.”
+
+HU-104 — Formal verb agreement and address conventions
+
+HU-105 — Greetings, requests, thanks, apologies, and service encounters
+
+HU-106 — Discourse particles and conversational organization
+
+HU-107 — Colloquial contractions and ordinary spoken forms
+
+HU-108 — Neutral versus formal written Hungarian
+
+HU-109 — Familiar language and slang
+
+HU-110 — Pragmatics, emphasis, and indirectness
+
+HU-111 — Register switching
+
+COMMON OBJECTIVE: Move from structurally correct Hungarian toward
+natural production and interpretation across social contexts.
+
+STAGE 15 — PHRASEOLOGY AND LEXICAL USAGE
+
+HU-112 — High-frequency verb constructions
+
+HU-113 — Case-governed lexical constructions
+
+HU-114 — Verbal-prefix collocations
+
+HU-115 — Common fixed expressions
+
+HU-116 — Idioms and figurative language
+
+HU-117 — Collocations
+
+HU-118 — Polysemy of high-frequency verbs and nouns
+
+HU-119 — Semantic boundaries versus English translation equivalents
+
+HU-120 — Phraseological synthesis
+
+COMMON OBJECTIVE: Develop lexical knowledge longitudinally beyond
+dictionary headword equivalence.
+
+STAGE 16 — BROAD VOCABULARY EXPANSION
+
+These are major lexical domains, not sealed thematic blocks. Vocabulary
+from every domain may appear much earlier when useful for grammar or
+ordinary communication.
+
+HU-121 — Household and everyday life HU-122 — Food and cooking HU-123 —
+Clothing and personal objects HU-124 — Family and relationships HU-125 —
+Body and health HU-126 — Work and occupations HU-127 — Education HU-128
+— Travel and transportation HU-129 — Buildings, towns, and public places
+HU-130 — Nature, plants, and animals HU-131 — Weather and environment
+HU-132 — Tools, materials, and physical objects HU-133 — Technology and
+communications HU-134 — Commerce, money, and finance HU-135 —
+Government, law, and public institutions HU-136 — Science and
+mathematics HU-137 — Arts, literature, and culture HU-138 — Religion and
+philosophy HU-139 — Emotions, personality, and human behaviour HU-140 —
+Abstract concepts and relationships
+
+COMMON OBJECTIVE: Build broad educated-adult lexical competence while
+continuously recycling mature Hungarian grammar.
+
+CARD STRATEGY: Prefer vocabulary in natural collocations and sentences
+that reveal suffix selection, verb conjugation, argument structure, word
+order, register, or semantic distinctions. Avoid long runs of minimally
+contextualized words.
+
+STAGE 17 — EDUCATED-ADULT LEXICON
+
+HU-141 — Lower-frequency verbs HU-142 — Lower-frequency adjectives
+HU-143 — Lower-frequency concrete nouns HU-144 — Abstract nouns HU-145 —
+Academic vocabulary HU-146 — Professional and institutional vocabulary
+HU-147 — Scientific and technical general vocabulary HU-148 — Political,
+legal, and economic vocabulary HU-149 — Cultural and literary vocabulary
+HU-150 — Less-common idioms and collocations HU-151 — Fine semantic
+distinctions and near-synonyms HU-152 — Advanced word families and
+derivation
+
+COMMON OBJECTIVE: Move toward the lexical breadth and precision expected
+of a typical educated adult.
+
+STAGE 18 — MATURE LANGUAGE COMPETENCE / LONG TAIL
+
+HU-153 — Major regional variation HU-154 — Standard Hungarian and common
+regional usage HU-155 — Contemporary and generational usage HU-156 —
+Formal and literary vocabulary HU-157 — Historical vocabulary
+encountered in modern texts HU-158 — Specialized vocabulary of broad
+cultural relevance HU-159 — Rare but reasonably educated-adult
+vocabulary HU-160 — Idiomatic and figurative long tail HU-161 —
+Continuing lexical expansion
+
+COMMON OBJECTIVE: Approach the practical asymptote of the Polyglot
+definition of a complete modern language curriculum: vocabulary,
+constructions, idioms, registers, and cultural-linguistic distinctions a
+typical educated adult might reasonably know and encounter.
+
+COMPLETION STANDARD: There is intentionally no absolute terminal card
+count. HU-161 is expandable. “Complete” describes direction and scope,
+not exhaustion of every possible Hungarian word.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1.  Unit completion means its canonical sequence adequately demonstrates
+    its objective; it does not claim learner mastery.
+2.  Once established, grammar becomes reusable unless temporary
+    simplification is pedagogically useful.
+3.  Vocabulary introduced at any point remains reusable.
+4.  Later cards increasingly combine multiple established structures
+    naturally.
+5.  New grammar should normally be the principal structural novelty in
+    its earliest cards.
+6.  The scheduler, not curriculum order, supplies extra repetition for
+    difficult material.
+7.  Personal pronouns should not be inserted into neutral Hungarian
+    sentences merely because the English prompt contains an explicit
+    subject.
+8.  Vowel harmony should be learned through productive morphology and
+    accumulated examples rather than treated as a detached preliminary
+    memorization exercise.
+9.  Hungarian “case” should develop by communicative and morphological
+    function rather than through an early exhaustive case table.
+10. Definite/indefinite conjugation, verbal prefixes, and information
+    structure are central organizing systems and must receive
+    longitudinal treatment rather than isolated one-unit exposure.
+11. Future amendments may split, merge, reorder, or refine units without
+    renumbering existing stable card IDs.
+
+AMENDMENT POLICY
+
+This syllabus changes only when the canonical Hungarian curriculum
+changes. Generating cards or advancing through a unit does not amend it.
+
+An amendment should identify affected units, state the pedagogical
+change, say whether it affects future cards only or requires
+existing-card correction, increment the version, and preserve a concise
+amendment record.
+
+AMENDMENT HISTORY
+
+Version 0.1 - Initial Hungarian syllabus under Polyglot Curriculum
+Charter v0.5. - Uses the collaboratively designed 36-card Hungarian
+prototype as an empirical stress test rather than deriving the opening
+solely from another language. - Adopts the shared
+house/man/woman/child + big/small/good/bad seed. - Establishes a/az,
+nominal and adjectival zero-copula predication, gender-neutral ő,
+natural subject omission, and plural predicative adjective agreement in
+the opening. - Deliberately postpones overt van/vannak until
+existential/locative functions can distinguish them from zero-copula
+predicates. - Develops Hungarian case morphology by functional families
+rather than by an early exhaustive case inventory. - Treats vowel
+harmony, definite/indefinite conjugation, verbal prefixes, possession,
+and information structure as major longitudinal systems. - Reserves
+explicit personal-pronoun sentence use for contexts where discourse
+actually motivates it. - Uses completion standards and an expandable
+educated-adult long tail rather than fixed card quotas.
