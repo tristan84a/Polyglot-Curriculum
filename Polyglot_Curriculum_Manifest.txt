@@ -41,8 +41,8 @@ and reserve a new non-overlapping range deliberately.
 3. CURRENT LANGUAGE CHECKPOINTS
 
 FRENCH
-Syllabus: Syllabi/Polyglot_French_Syllabus_v0.2.txt
-Syllabus version: 0.2
+Syllabus: Syllabi/Polyglot_French_Syllabus_v0.3.txt
+Syllabus version: 0.3
 Card file: Cards/French.csv
 Cards: 600
 Used IDs: 100000-100599
@@ -53,12 +53,12 @@ then develops articles, agreement, present-tense verbs, negation,
 questions, objects, partitives, location, determiners, common adverbs,
 existence, everyday predicate expressions, and an initial passé composé
 system with avoir and être. Continue from the current CSV and reconcile
-future extension against syllabus v0.2 rather than the superseded
+future extension against syllabus v0.3 rather than the superseded
 636-card sequence.
 
 GERMAN
-Syllabus: Syllabi/Polyglot_German_Syllabus_v0.2.txt
-Syllabus version: 0.2
+Syllabus: Syllabi/Polyglot_German_Syllabus_v0.3.txt
+Syllabus version: 0.3
 Card file: Cards/German.csv
 Cards: 140
 Used IDs: 200000-200139
@@ -69,12 +69,12 @@ indefinite articles, three noun genders, sein and haben, singular and
 plural, nominative/accusative contrasts, sehen and kaufen, nicht and
 kein, yes/no and basic wh-questions, essen and trinken, and the first
 locative in + dative examples. Continue from the current CSV and
-reconcile future extension against syllabus v0.2 rather than the
+reconcile future extension against syllabus v0.3 rather than the
 superseded 224-card sequence.
 
 JAPANESE
-Syllabus: Syllabi/Polyglot_Japanese_Syllabus_v0.3.txt
-Syllabus version: 0.3
+Syllabus: Syllabi/Polyglot_Japanese_Syllabus_v0.4.txt
+Syllabus version: 0.4
 Card file: Cards/Japanese.csv
 Cards: 60
 Used IDs: 300000-300059
