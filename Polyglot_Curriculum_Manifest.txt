@@ -129,8 +129,8 @@ and subsequent structures.
 
 
 ARABIC
-Syllabus: Not yet written
-Syllabus version: —
+Syllabus: Syllabi/Polyglot_Arabic_Syllabus_v0.1.txt
+Syllabus version: 0.1
 Card file: Cards/Arabic.csv
 Cards: 50
 Used IDs: 700000-700049
@@ -144,8 +144,10 @@ orthography and blank InputHint, and explores nominal predication without
 a present copula, grammatical gender and adjective agreement, definiteness
 and attributive adjectives, masculine/feminine demonstratives, initial
 personal pronouns and nominal predicates, and a first polar question with
-هل. Reconcile this prototype collaboratively before writing the first
-Arabic syllabus or generating a substantially larger batch.
+هل. Arabic syllabus v0.1 now reconciles the prototype into the initial roadmap.
+Future extension should continue from the current CSV, test the Arabic-
+appropriate verb citation strategy before a large verbal batch, and use
+the syllabus as a path rather than a sealed unit sequence.
 
 4. MAINTENANCE RULES
 
