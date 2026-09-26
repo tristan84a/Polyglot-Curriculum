@@ -30,6 +30,7 @@ Polish      400000-499999        400000-400050        51
 Hungarian   500000-599999        500000-500035        36
 Turkish     600000-699999        600000-600049        50
 Arabic      700000-799999        700000-700049        50
+Ojibwe      800000-899999        800000-800049        50
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -148,6 +149,28 @@ personal pronouns and nominal predicates, and a first polar question with
 Future extension should continue from the current CSV, test the Arabic-
 appropriate verb citation strategy before a large verbal batch, and use
 the syllabus as a path rather than a sealed unit sequence.
+
+
+OJIBWE
+Syllabus: Not yet written
+Syllabus version: —
+Card file: Cards/Ojibwe.csv
+Cards: 50
+Used IDs: 800000-800049
+Checkpoint: Ojibwe has begun with a deliberately slow 50-card seed
+prototype under the Charter v0.8 prototype-first workflow. Double Vowel
+orthography is the canonical writing system, with the University of
+Minnesota Ojibwe People's Dictionary serving as the principal initial
+lexical/reference anchor but not the exclusive source. The prototype
+concentrates on noun animacy, carefully staged singular/plural evidence,
+paired inanimate/animate predicate verbs, and demonstratives. It
+deliberately postpones possession, dependent nouns, broader person
+morphology, interrogatives, preverbs and the larger verb-class system for
+later syllabus development. Ojibwe is the first explicit test of the
+Charter's documentation-limited-language policy: proceed as deeply as
+reliable evidence permits and do not manufacture unsupported forms or
+usage. Review this prototype collaboratively before writing the first
+Ojibwe syllabus or generating a substantially larger batch.
 
 4. MAINTENANCE RULES
 
