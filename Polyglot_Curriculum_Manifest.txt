@@ -31,6 +31,7 @@ Hungarian   500000-599999        500000-500035        36
 Turkish     600000-699999        600000-600049        50
 Arabic      700000-799999        700000-700049        50
 Ojibwe      800000-899999        800000-800098        99
+Spanish      900000-999999        900000-900049        50
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -175,6 +176,24 @@ documentation-limited-language policy: proceed as deeply as reliable
 evidence permits and do not manufacture unsupported forms or usage.
 Review and audit this 99-card prototype against Ojibwe syllabus v0.1
 before generating a substantially larger batch.
+
+SPANISH
+Syllabus: Not yet written
+Syllabus version: —
+Card file: Cards/Spanish.csv
+Cards: 50
+Used IDs: 900000-900049
+Checkpoint: Spanish has begun with a 50-card prototype using French as
+the principal Romance comparison without treating French as a template.
+The opening uses the shared eight-word seed, definite and indefinite
+articles, noun/adjective gender and number agreement, predominantly
+postnominal adjective examples, subject pronouns followed immediately by
+natural pro-drop finite clauses, and the present of ser through identity
+and description. The first prototype deliberately includes vosotros so
+that European Spanish person/number morphology is visible; regional
+second-person systems and the ser/estar distinction remain future design
+questions. Review the prototype before writing the first Spanish syllabus
+or generating a substantially larger batch.
 
 4. MAINTENANCE RULES
 
