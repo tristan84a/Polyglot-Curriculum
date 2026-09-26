@@ -152,8 +152,8 @@ the syllabus as a path rather than a sealed unit sequence.
 
 
 OJIBWE
-Syllabus: Not yet written
-Syllabus version: —
+Syllabus: Syllabi/Polyglot_Ojibwe_Syllabus_v0.1.txt
+Syllabus version: 0.1
 Card file: Cards/Ojibwe.csv
 Cards: 100
 Used IDs: 800000-800099
@@ -173,8 +173,8 @@ prompts mark animacy only; English this/these and that/those already mark
 number. Ojibwe remains the first explicit test of the Charter's
 documentation-limited-language policy: proceed as deeply as reliable
 evidence permits and do not manufacture unsupported forms or usage.
-Review this 100-card prototype collaboratively before writing the first
-Ojibwe syllabus or generating a substantially larger batch.
+Review and audit this 100-card prototype against Ojibwe syllabus v0.1
+before generating a substantially larger batch.
 
 4. MAINTENANCE RULES
 
