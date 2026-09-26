@@ -1,0 +1,863 @@
+POLYGLOT GERMAN SYLLABUS
+
+Version: 0.1 Status: Draft for curriculum review Charter version:
+Pre-Charter Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for German in
+Polyglot. It specifies what is taught, its dependency order, and how
+major concepts should be represented in cards. It does not record
+learner or deck progress. Routine card generation therefore does not
+amend this document.
+
+Vocabulary acquisition is continuous throughout the curriculum. Grammar
+units define structural progression but do not freeze vocabulary. Units
+have no fixed card quota; a unit is complete when its canonical sequence
+satisfies its completion standard.
+
+German is not treated as French with different vocabulary. Case, clause
+architecture, verbal brackets, separable verbs, adjective declension,
+word formation, modal particles, and register are introduced according
+to their importance within German itself.
+
+TERMINOLOGY
+
+INTRODUCED — A form, word, construction, or distinction has begun to be
+demonstrated.
+
+ESTABLISHED — The canonical curriculum has demonstrated the item
+sufficiently for its basic operation to be assumed later. This describes
+the curriculum, not learner performance.
+
+REUSABLE — An established item or structure may appear naturally in
+later cards without being the principal teaching objective.
+
+LEXICAL ANCHOR — A word deliberately selected to make a grammatical or
+semantic pattern visible. Anchors do not limit additional vocabulary.
+
+CANONICAL SEQUENCE — The static pedagogical ordering of cards and
+concepts. Scheduling frequency may adapt to performance; curriculum
+order does not.
+
+COMPLETION STANDARD — The coverage required before a unit’s principal
+concept may be treated as established.
+
+DELIBERATELY EXCLUDED — Material postponed because it would obscure the
+current pattern, depends on later knowledge, or deserves separate
+treatment.
+
+COURSE-WIDE GERMAN PRINCIPLES
+
+1.  Vocabulary grows throughout all stages; grammar is not demonstrated
+    indefinitely with a tiny closed vocabulary.
+2.  When grammar is new, lexical novelty is initially restrained enough
+    that the pattern remains visible. Lexical freedom increases as the
+    pattern becomes established.
+3.  Productive rules precede exceptions and competing paradigms.
+4.  Grammar is normally learned through controlled examples rather than
+    terminology questions.
+5.  German nouns are capitalized from the beginning and grammatical
+    gender is treated as a persistent lexical property.
+6.  German word order is taught as a clause system. Verb-second order is
+    foundational rather than an SVO rule with later “inversions.”
+7.  Case is developed through meaningful grammatical functions and
+    governing structures rather than presented initially as one large
+    declension table.
+8.  Separable verbs, modal constructions and the verbal bracket are
+    introduced early enough that ordinary German vocabulary need not be
+    artificially avoided.
+9.  Established grammar may be combined freely in later units.
+10. Common contemporary German precedes literary, archaic and unusually
+    formal structures.
+11. Register differences, including spoken/written tense preferences and
+    modal particles, are taught explicitly.
+12. Germany-oriented neutral Standard German provides the initial
+    reference point; major Austrian, Swiss and regional standard usage
+    is introduced later without being treated as defective German.
+
+STAGE 1 — BOOTSTRAP
+
+DE-01 — Core concrete nouns
+
+PREREQUISITES: None. OBJECTIVE: Establish a useful stock of highly
+concrete nouns while making capitalization and grammatical gender
+visible from the beginning. CORE PATTERN: German nouns are capitalized
+and belong lexically to masculine, feminine or neuter gender. LEXICAL
+ANCHORS: Haus, Mann, Frau, Kind, Buch, Auto, Katze, Hund. CARD STRATEGY:
+Begin with high-frequency imageable nouns. Reuse them quickly in later
+descriptive and verbal sentences. Gender should accompany the developing
+noun system rather than be repaired later. VOCABULARY DEVELOPMENT: Add
+concrete everyday nouns useful across many later constructions.
+DELIBERATELY EXCLUDED: Large thematic lists, rare synonyms, specialist
+vocabulary and exhaustive plural morphology. COMPLETION STANDARD: Enough
+varied nouns exist to support early sentences without constant lexical
+repetition, and noun capitalization/gender are established expectations.
+LEADS TO: DE-03, DE-05 and later case/noun-phrase work.
+
+DE-02 — Core adjectives
+
+PREREQUISITES: DE-01 beginning noun stock. OBJECTIVE: Introduce common
+descriptive meanings before the full adjective-declension system.
+LEXICAL ANCHORS: groß, klein, gut, schlecht, neu, alt. CARD STRATEGY:
+Use predicative adjectives first where possible so lexical meaning can
+be established without prematurely requiring adjective endings.
+VOCABULARY DEVELOPMENT: Add high-frequency physical and evaluative
+adjectives. DELIBERATELY EXCLUDED: Full attributive adjective declension
+and comparison. COMPLETION STANDARD: Enough adjective vocabulary exists
+to support varied description. LEADS TO: DE-05, DE-52 onward.
+
+DE-03 — Definite and indefinite articles: nominative
+
+PREREQUISITES: DE-01. OBJECTIVE: Establish nominative der/die/das/die
+and ein/eine/ein as ordinary noun-phrase components. CORE PATTERN:
+Gender and number determine nominative article form. CARD STRATEGY:
+Contrast genders across known nouns in simple subject noun phrases. Do
+not yet present the entire four-case article table. VOCABULARY
+DEVELOPMENT: New nouns continue reinforcing gender. DELIBERATELY
+EXCLUDED: Accusative, dative and genitive paradigms. COMPLETION
+STANDARD: Masculine, feminine, neuter and plural definite forms and
+singular indefinite forms are established in nominative contexts. LEADS
+TO: DE-21 onward.
+
+DE-04 — Personal pronouns
+
+PREREQUISITES: Minimal vocabulary. OBJECTIVE: Establish ich, du, er,
+sie, es, wir, ihr, Sie, sie as subject forms. CARD STRATEGY: Make
+person, number and informal/formal distinctions explicit through use.
+Preserve capitalization of formal Sie. DELIBERATELY EXCLUDED:
+Oblique-case pronouns until the relevant cases are introduced.
+COMPLETION STANDARD: Subject pronouns can support systematic verb
+paradigms. LEADS TO: DE-05 onward.
+
+DE-05 — Sein: identity and description
+
+PREREQUISITES: DE-02–04. OBJECTIVE: Establish present sein through
+identity, classification and predicative description. CORE PATTERN: bin,
+bist, ist, sind, seid, sind. CARD STRATEGY: Build forms through
+meaningful sentences rather than an isolated table; mix persons after
+systematic introduction. VOCABULARY DEVELOPMENT: Identities,
+occupations, nationalities and descriptive adjectives may grow
+cautiously. DELIBERATELY EXCLUDED: Compound tense auxiliary use and
+passive-related structures. COMPLETION STANDARD: All present forms occur
+in ordinary sentences and later mixed contexts. LEADS TO: DE-11 and
+numerous later structures.
+
+DE-06 — Haben: possession
+
+PREREQUISITES: DE-04 and basic noun phrases. OBJECTIVE: Establish
+present haben and ordinary possession. CORE PATTERN: habe, hast, hat,
+haben, habt, haben. CARD STRATEGY: Build the paradigm with familiar
+concrete possessions before broader uses. VOCABULARY DEVELOPMENT:
+Possessions, family and everyday objects. DELIBERATELY EXCLUDED: Perfekt
+auxiliary use until DE-60. COMPLETION STANDARD: All present forms are
+demonstrated and reused. LEADS TO: DE-60, DE-68.
+
+DE-07 — Regular verbs: present tense
+
+PREREQUISITES: DE-04. OBJECTIVE: Establish the productive weak-verb
+present-tense pattern. CORE PATTERN: -e, -st, -t, -en, -t, -en, with
+appropriate treatment of predictable phonological/orthographic variants
+after the basic model. LEXICAL ANCHORS: machen plus at least one other
+useful regular verb. CARD STRATEGY: Introduce infinitives, then
+systematic person/number forms; use additional verbs to demonstrate
+productivity. VOCABULARY DEVELOPMENT: Add useful high-frequency actions
+without obscuring morphology. DELIBERATELY EXCLUDED: Stem-changing and
+strongly irregular verbs. COMPLETION STANDARD: All person/number forms
+occur with multiple regular verbs and are reused outside paradigm order.
+LEADS TO: DE-08, DE-11.
+
+DE-08 — Basic declarative word order and V2
+
+PREREQUISITES: Usable finite verbs. OBJECTIVE: Establish the finite verb
+as the second constituent of an ordinary independent declarative clause.
+CORE PATTERN: One constituent occupies the first position; the finite
+verb follows it. CARD STRATEGY: Begin with subject-first clauses, but
+explicitly connect them to the broader V2 system rather than teaching
+SVO as the fundamental rule. VOCABULARY DEVELOPMENT: Normal.
+DELIBERATELY EXCLUDED: Complex subordinate-clause verb-final
+architecture. COMPLETION STANDARD: Subject-first declaratives are
+understood as instances of V2 and the curriculum is prepared to front
+other constituents later. LEADS TO: DE-29 and advanced clause
+architecture.
+
+DE-09 — Basic negation with nicht
+
+PREREQUISITES: Basic declarative clauses. OBJECTIVE: Establish common
+sentence/predicate negation with nicht. CARD STRATEGY: Begin with
+transparent predicates and avoid pretending that nicht has one universal
+mechanical position. DELIBERATELY EXCLUDED: Full scope-sensitive
+placement until DE-36. COMPLETION STANDARD: Basic verbal/adjectival
+negation is reusable. LEADS TO: DE-36.
+
+DE-10 — Kein and noun negation
+
+PREREQUISITES: DE-03, DE-09. OBJECTIVE: Establish kein as the ordinary
+negative determiner in appropriate noun phrases and contrast it with
+nicht. CARD STRATEGY: Use paired contexts that make the noun-negation
+distinction visible. DELIBERATELY EXCLUDED: Full case declension of kein
+until cases are introduced. COMPLETION STANDARD: Basic nicht/kein
+selection is established. LEADS TO: Later case forms and DE-36.
+
+STAGE 2 — PRESENT-TENSE VERBAL SYSTEM
+
+DE-11 — Present-tense person/number agreement
+
+PREREQUISITES: DE-04–07. OBJECTIVE: Generalize finite-verb agreement
+beyond memorized paradigms. CARD STRATEGY: Vary pronoun and lexical-noun
+subjects; mix sein, haben and regular verbs. COMPLETION STANDARD:
+Agreement is demonstrated with pronouns and noun subjects across
+person/number. LEADS TO: All later finite verb systems.
+
+DE-12 — Common stem-changing verbs
+
+PREREQUISITES: DE-11. OBJECTIVE: Establish frequent present-tense vowel
+changes without obscuring the otherwise regular ending system. CARD
+STRATEGY: Introduce one change pattern at a time and emphasize where the
+change occurs. VOCABULARY DEVELOPMENT: High-frequency everyday verbs.
+DELIBERATELY EXCLUDED: An undifferentiated list of all strong verbs.
+COMPLETION STANDARD: Major high-frequency stem-change patterns have
+multiple usable representatives. LEADS TO: DE-13 and later strong-verb
+morphology.
+
+DE-13 — High-frequency irregular verbs
+
+PREREQUISITES: DE-11–12. OBJECTIVE: Add indispensable verbs whose
+present forms require individual or family-specific treatment. CARD
+STRATEGY: Establish one high-value verb/family at a time before mixing.
+VOCABULARY DEVELOPMENT: Continuous. COMPLETION STANDARD: A practical
+irregular core supports ordinary present-tense communication. LEADS TO:
+DE-20.
+
+DE-14 — Separable-prefix verbs
+
+PREREQUISITES: DE-08. OBJECTIVE: Establish separation of common verbal
+prefixes in finite independent clauses and the resulting verbal bracket.
+CORE PATTERN: finite verb stem in V2 position; separable prefix at
+clause end. CARD STRATEGY: Begin with semantically transparent, frequent
+verbs and simple clauses; vary the first constituent after the basic
+bracket is visible. VOCABULARY DEVELOPMENT: Daily routine, movement and
+practical actions. DELIBERATELY EXCLUDED: Participles until DE-63 and
+complex subordinate placement until Stage 9. COMPLETION STANDARD:
+Several prefixes/verbs demonstrate the productive clause pattern. LEADS
+TO: DE-63, DE-83 and advanced word order.
+
+DE-15 — Inseparable-prefix verbs
+
+PREREQUISITES: DE-14. OBJECTIVE: Contrast common inseparable prefixes
+with the separable system. CARD STRATEGY: Establish representative verbs
+and prevent overgeneralization of prefix separation. DELIBERATELY
+EXCLUDED: Full derivational semantics until DE-147–148. COMPLETION
+STANDARD: Common inseparable prefixes are recognized through multiple
+lexical verbs. LEADS TO: DE-64 and word formation.
+
+DE-16 — Modal verbs I: können, müssen
+
+PREREQUISITES: DE-11. OBJECTIVE: Establish two central modal paradigms
+and the finite-modal + clause-final infinitive bracket. CARD STRATEGY:
+Introduce each modal separately, then combine with familiar infinitives.
+COMPLETION STANDARD: Both paradigms and their infinitive construction
+are usable across persons. LEADS TO: DE-17–18.
+
+DE-17 — Modal verbs II
+
+PREREQUISITES: DE-16. OBJECTIVE: Add wollen, sollen, dürfen and mögen in
+their major contemporary uses. CARD STRATEGY: Keep semantic distinctions
+visible; avoid presenting all modals as interchangeable translations of
+English auxiliaries. VOCABULARY DEVELOPMENT: Intentions, rules,
+preferences and permissions. COMPLETION STANDARD: Major modal meanings
+are established in ordinary contexts. LEADS TO: DE-18, DE-69, DE-97.
+
+DE-18 — Infinitive placement with modal verbs
+
+PREREQUISITES: DE-16–17. OBJECTIVE: Generalize the German verbal bracket
+created by a finite modal and clause-final infinitive. CARD STRATEGY:
+Vary subjects, first constituents, objects and adverbials while
+preserving the bracket. COMPLETION STANDARD: Modal infinitive placement
+remains stable as sentence complexity increases. LEADS TO: DE-83 and
+advanced clause-field work.
+
+DE-19 — Imperative
+
+PREREQUISITES: Established present verbs. OBJECTIVE: Establish common
+du, ihr and Sie commands, including important irregular forms. CARD
+STRATEGY: Use practical high-frequency directives. COMPLETION STANDARD:
+Major imperative patterns are established across regular and common
+irregular verbs. LEADS TO: Natural conversation and reported commands.
+
+DE-20 — Present-tense synthesis
+
+PREREQUISITES: DE-11–19. OBJECTIVE: Integrate regular, irregular,
+separable, inseparable and modal verbs under the established V2 system.
+CARD STRATEGY: Mix verb classes and increase lexical/structural variety
+without labeling the required paradigm. VOCABULARY DEVELOPMENT:
+Accelerate ordinary vocabulary. COMPLETION STANDARD: Present-tense
+clause construction functions as reusable background grammar. LEADS TO:
+Stage 3 onward.
+
+STAGE 3 — ACCUSATIVE AND THE EXPANDING SIMPLE SENTENCE
+
+DE-21 — Direct objects and the accusative
+
+PREREQUISITES: DE-20 and nominative noun phrases. OBJECTIVE: Establish
+accusative as a grammatical case prominently used for direct objects
+without defining the case solely by that function. CARD STRATEGY: Begin
+with semantically clear transitive verbs and contrast subject/object
+roles. COMPLETION STANDARD: Direct-object case is meaningful before full
+article paradigms expand.
+
+DE-22 — Definite articles: nominative versus accusative
+
+OBJECTIVE: Establish der→den in masculine accusative while reinforcing
+unchanged forms elsewhere. CARD STRATEGY: Use controlled contrasts
+across genders. COMPLETION STANDARD: Nominative/accusative definite
+forms are routinely selected.
+
+DE-23 — Indefinite articles: nominative versus accusative
+
+OBJECTIVE: Establish ein→einen and corresponding feminine/neuter forms.
+COMPLETION STANDARD: Indefinite noun phrases work across
+subject/direct-object roles.
+
+DE-24 — Personal pronouns in the accusative
+
+OBJECTIVE: Establish mich, dich, ihn, sie, es, uns, euch, Sie, sie. CARD
+STRATEGY: Replace familiar object noun phrases after meanings are clear.
+COMPLETION STANDARD: Accusative pronouns are usable across persons.
+
+DE-25 — Possessive determiners: basic forms
+
+OBJECTIVE: Establish mein/dein/sein/ihr/unser/euer/Ihr and basic
+nominative/accusative inflection. VOCABULARY DEVELOPMENT: Family,
+possessions and relationships. DELIBERATELY EXCLUDED: Full four-case
+paradigm until the case system expands. COMPLETION STANDARD: Major
+possessors and nominative/accusative noun combinations are established.
+
+DE-26 — Demonstratives and dieser-type forms: introduction
+
+OBJECTIVE: Establish common demonstrative reference and basic dieser
+inflection within known cases. DELIBERATELY EXCLUDED: Full paradigm
+until later case synthesis.
+
+DE-27 — Basic adverbs
+
+OBJECTIVE: Add common time, frequency, manner and degree adverbs.
+VOCABULARY DEVELOPMENT: Time, routine, manner and frequency.
+
+DE-28 — Time, manner and place
+
+OBJECTIVE: Develop natural ordering tendencies among common adverbials
+without teaching them as an exceptionless formula. CARD STRATEGY:
+Controlled comparisons followed by increasingly natural sentences. LEADS
+TO: DE-139.
+
+DE-29 — V2 with a non-subject first constituent
+
+PREREQUISITES: DE-08. OBJECTIVE: Demonstrate fully that the first
+constituent need not be the subject. CORE PATTERN: Heute fahre ich … /
+In Berlin wohnt er … and analogous structures. CARD STRATEGY: Contrast
+subject-first and adverbial/object-first clauses while preserving finite
+verb in second position. COMPLETION STANDARD: Non-subject-first clauses
+are understood as ordinary V2, not exceptional inversion. LEADS TO: All
+later main-clause word order.
+
+DE-30 — Accusative/simple-sentence synthesis
+
+OBJECTIVE: Integrate objects, possessives, demonstratives, adverbs and
+flexible V2 openings. VOCABULARY DEVELOPMENT: Broad everyday vocabulary.
+COMPLETION STANDARD: Expanded main clauses support substantial lexical
+variety.
+
+STAGE 4 — QUESTIONS AND INFORMATION STRUCTURE
+
+DE-31 — Yes/no questions
+
+OBJECTIVE: Establish finite-verb-first yes/no questions across known
+verb classes.
+
+DE-32 — W-questions
+
+OBJECTIVE: Establish ordinary information questions with interrogative
+first constituent and finite verb second.
+
+DE-33 — Wer / wen / was
+
+OBJECTIVE: Make case/function contrasts visible within interrogative
+pronouns.
+
+DE-34 — Question words with prepositions
+
+OBJECTIVE: Establish common preposition + interrogative structures,
+initially with people/things that are already transparent.
+
+DE-35 — Basic topicalization
+
+OBJECTIVE: Broaden first-position constituents while preserving V2 and
+natural information structure.
+
+DE-36 — Position of nicht
+
+OBJECTIVE: Refine negation placement according to scope and clause
+structure rather than a single positional rule. PREREQUISITES: DE-09 and
+expanded clauses. COMPLETION STANDARD: Major everyday scope contrasts
+are established.
+
+DE-37 — Question/negation/word-order synthesis
+
+OBJECTIVE: Integrate questions, topicalization and negation in
+increasingly natural main clauses.
+
+STAGE 5 — DATIVE
+
+DE-38 — Dative articles
+
+OBJECTIVE: Establish definite/indefinite dative forms across
+gender/number.
+
+DE-39 — Dative personal pronouns
+
+OBJECTIVE: Establish mir, dir, ihm, ihr, ihm, uns, euch, Ihnen, ihnen.
+
+DE-40 — Dative-governing verbs
+
+OBJECTIVE: Demonstrate that case selection is a property of German
+lexical/grammatical structure, not merely an English semantic label.
+CARD STRATEGY: Introduce frequent verbs individually or in useful
+groups.
+
+DE-41 — Direct and indirect objects together
+
+OBJECTIVE: Combine dative and accusative complements and begin
+establishing natural object ordering.
+
+DE-42 — Accusative-governing prepositions
+
+OBJECTIVE: Establish a practical core of prepositions requiring
+accusative.
+
+DE-43 — Dative-governing prepositions
+
+OBJECTIVE: Establish a practical core of prepositions requiring dative.
+
+DE-44 — Two-way prepositions I: location
+
+OBJECTIVE: Establish dative in static/location readings with two-way
+prepositions.
+
+DE-45 — Two-way prepositions II: direction
+
+OBJECTIVE: Establish accusative in destination/change-of-location
+readings while avoiding an oversimplified “motion = accusative” rule.
+
+DE-46 — Wo versus wohin
+
+OBJECTIVE: Reinforce location/destination distinctions through
+interrogative contrasts.
+
+DE-47 — Dative/accusative synthesis
+
+OBJECTIVE: Integrate verb government, prepositions, two-object clauses
+and two-way prepositions until both cases are reusable.
+
+STAGE 6 — NOUN PHRASES AND ADJECTIVE DECLENSION
+
+DE-48 — Plural formation: productive patterns
+
+OBJECTIVE: Develop common plural patterns and the expectation that
+plural information belongs with noun knowledge.
+
+DE-49 — Irregular/common plural patterns
+
+OBJECTIVE: Expand frequent nontransparent plurals without implying a
+single universal rule.
+
+DE-50 — Genitive introduction
+
+OBJECTIVE: Establish basic possession/association and genitive article
+forms while acknowledging alternatives common in speech.
+
+DE-51 — Four-case article system
+
+OBJECTIVE: Consolidate nominative, accusative, dative and genitive
+determiner paradigms after the cases themselves have acquired meaning.
+CARD STRATEGY: Use contrasts and familiar noun phrases rather than
+memorization of one giant table. COMPLETION STANDARD: The article system
+is reusable across all four cases.
+
+DE-52 — Adjective endings after definite articles
+
+OBJECTIVE: Establish weak adjective declension in meaningful noun
+phrases.
+
+DE-53 — Adjective endings after indefinite/possessive determiners
+
+OBJECTIVE: Establish mixed declension after ein-type determiners.
+
+DE-54 — Adjective endings without articles
+
+OBJECTIVE: Establish strong adjective endings where the adjective
+carries more case/gender/number information.
+
+DE-55 — Comparative adjectives
+
+OBJECTIVE: Establish productive comparison.
+
+DE-56 — Superlatives
+
+OBJECTIVE: Establish predicative/adverbial and attributive superlative
+patterns.
+
+DE-57 — Irregular comparison
+
+OBJECTIVE: Add common irregular forms such as besser and mehr in
+appropriate functions.
+
+DE-58 — Expanded noun-phrase synthesis
+
+OBJECTIVE: Integrate case, determiners, adjective declension, plurals
+and comparison. COMPLETION STANDARD: Mature noun phrases can become
+reusable background grammar.
+
+STAGE 7 — PAST TIME I: PERFEKT
+
+DE-59 — Past participles of regular verbs
+
+OBJECTIVE: Establish productive ge-…-t formation using familiar verbs.
+
+DE-60 — Perfekt with haben
+
+OBJECTIVE: Establish haben + participle as a central conversational past
+construction.
+
+DE-61 — Irregular past participles
+
+OBJECTIVE: Add high-frequency strong/mixed participles in manageable
+families.
+
+DE-62 — Perfekt with sein
+
+OBJECTIVE: Establish common sein-selecting verbs through meaningful
+lexical classes and examples.
+
+DE-63 — Participles of separable verbs
+
+OBJECTIVE: Establish placement of ge within separable-prefix
+participles.
+
+DE-64 — Participles of inseparable verbs
+
+OBJECTIVE: Establish the absence of ge with common inseparable prefixes.
+
+DE-65 — Mixed and irregular participle patterns
+
+OBJECTIVE: Complete the high-frequency participial inventory needed for
+ordinary narration.
+
+DE-66 — Negation and questions in the Perfekt
+
+OBJECTIVE: Apply established main-clause architecture to compound verb
+forms.
+
+DE-67 — Perfekt synthesis
+
+OBJECTIVE: Make completed past events reusable, especially in ordinary
+conversational narration. VOCABULARY DEVELOPMENT: Event and experience
+vocabulary expands strongly.
+
+STAGE 8 — PAST TIME II: PRÄTERITUM AND PLUSQUAMPERFEKT
+
+DE-68 — Präteritum of sein and haben
+
+OBJECTIVE: Establish war and hatte paradigms early because of their
+frequency across registers.
+
+DE-69 — Präteritum of modal verbs
+
+OBJECTIVE: Establish common modal preterites such as konnte and musste
+as ordinary useful forms.
+
+DE-70 — Regular weak-verb Präteritum
+
+OBJECTIVE: Establish productive weak past morphology.
+
+DE-71 — Strong-verb Präteritum
+
+OBJECTIVE: Develop high-frequency strong preterites with attention to
+written narrative usage.
+
+DE-72 — Spoken versus written past-tense preferences
+
+OBJECTIVE: Explicitly distinguish regional/register tendencies between
+Perfekt and Präteritum without imposing an absolute
+conversational/written split.
+
+DE-73 — Plusquamperfekt
+
+OBJECTIVE: Establish anteriority to another past reference point.
+
+DE-74 — Past narrative synthesis
+
+OBJECTIVE: Integrate Perfekt, Präteritum and Plusquamperfekt according
+to context and register.
+
+STAGE 9 — SUBORDINATE CLAUSES AND VERB-FINAL ORDER
+
+DE-75 — Coordinating conjunctions
+
+OBJECTIVE: Establish coordination that preserves independent-clause word
+order.
+
+DE-76 — Dass clauses
+
+OBJECTIVE: Introduce subordinate verb-final architecture in a highly
+productive complement-clause frame.
+
+DE-77 — Weil and causal clauses
+
+OBJECTIVE: Establish causal subordination and reinforce verb-final
+order.
+
+DE-78 — Wenn
+
+OBJECTIVE: Develop conditional/repeated temporal uses through controlled
+contexts.
+
+DE-79 — Als
+
+OBJECTIVE: Contrast one-time past temporal als with established wenn
+uses.
+
+DE-80 — Obwohl and concession
+
+OBJECTIVE: Extend subordinate architecture to concessive relations.
+
+DE-81 — Other common subordinating conjunctions
+
+OBJECTIVE: Broaden the conjunction inventory only after the structural
+pattern is secure.
+
+DE-82 — Verb-final order with simple verbs
+
+OBJECTIVE: Generalize the subordinate-clause finite-verb-final pattern.
+
+DE-83 — Verb-final order with modal/infinitive structures
+
+OBJECTIVE: Extend subordinate architecture to multi-verb constructions.
+
+DE-84 — Verb-final order with compound tenses
+
+OBJECTIVE: Establish compound verbal complexes in subordinate clauses.
+
+DE-85 — Main/subordinate-clause synthesis
+
+OBJECTIVE: Make German clause architecture coherent across independent
+and subordinate clauses rather than treating word-order changes as
+isolated exceptions.
+
+STAGE 10 — RELATIVE CLAUSES
+
+DE-86 Relative pronouns: nominative — establish subject relatives. DE-87
+Relative pronouns: accusative — establish direct-object relatives. DE-88
+Relative pronouns: dative. DE-89 Relative pronouns: genitive. DE-90
+Relative pronouns after prepositions. DE-91 Relative-clause word order —
+reinforce subordinate verb-final architecture. DE-92 Relative-clause
+synthesis — emphasize that relative-pronoun case comes from its function
+inside the relative clause, while gender/number relate to the
+antecedent.
+
+STAGE 11 — FUTURE, CONDITIONAL AND KONJUNKTIV II
+
+DE-93 Werden: present and basic uses. DE-94 Futur I. DE-95 Present tense
+for future reference — prevent Futur I from being taught as obligatory
+whenever English uses “will.” DE-96 Würde + infinitive. DE-97 Core
+synthetic Konjunktiv II: wäre, hätte, könnte, müsste and other
+high-value forms. DE-98 Polite requests. DE-99 Wishes. DE-100
+Hypothetical conditions. DE-101 Unreal past / Konjunktiv II past. DE-102
+Future/conditional synthesis — preserve the distinction between würde
+constructions, synthetic forms and ordinary future reference.
+
+STAGE 12 — INFINITIVAL AND VERBAL CONSTRUCTIONS
+
+DE-103 Zu + infinitive. DE-104 Infinitives without zu. DE-105 Um…zu.
+DE-106 Ohne…zu and anstatt…zu. DE-107 Verbs with infinitive complements.
+DE-108 Lassen + infinitive. DE-109 Brauchen + zu. DE-110 Extended
+infinitive structures. DE-111 Verbal-structure synthesis.
+
+STAGE 13 — REFLEXIVE, PRONOMINAL AND PREPOSITIONAL STRUCTURES
+
+DE-112 Reflexive pronouns. DE-113 Accusative versus dative reflexives.
+DE-114 Lexically reflexive verbs. DE-115 Verbs with fixed prepositions.
+DE-116 Da-compounds: damit, davon, darüber, etc. DE-117 Wo-compounds:
+womit, wovon, worüber, etc. DE-118 Prepositional reference to people.
+DE-119 Pronominal/prepositional synthesis.
+
+STAGE 14 — PASSIVE AND ALTERNATIVE VOICE STRUCTURES
+
+DE-120 Werden passive: present. DE-121 Werden passive across tenses.
+DE-122 Agent expressions with von/durch. DE-123 Zustandspassiv with
+sein. DE-124 Active alternatives to passive. DE-125 Man constructions.
+DE-126 Passive synthesis.
+
+STAGE 15 — REPORTED SPEECH AND KONJUNKTIV I
+
+DE-127 Direct versus indirect speech. DE-128 Konjunktiv I formation.
+DE-129 Reported statements. DE-130 Reported questions. DE-131
+Substitution with Konjunktiv II where Konjunktiv I and indicative forms
+coincide. DE-132 Journalistic/formal reported speech. DE-133
+Reported-speech synthesis.
+
+STAGE 16 — ADVANCED WORD ORDER AND INFORMATION STRUCTURE
+
+DE-134 The German clause field: Vorfeld. DE-135 Mittelfeld ordering.
+DE-136 Satzklammer / verbal bracket. DE-137 Nachfeld. DE-138 Pronoun and
+noun-object ordering. DE-139 Adverbial ordering and tendencies. DE-140
+Focus and emphasis. DE-141 Complex clause nesting. DE-142 Advanced
+word-order synthesis.
+
+IMPLEMENTATION NOTE The syllabus may use terms such as Vorfeld,
+Mittelfeld and Nachfeld to organize curriculum design. Cards need not
+test the learner on those grammatical labels; the concepts should
+normally be acquired through controlled examples.
+
+STAGE 17 — WORD FORMATION
+
+DE-143 Compound nouns. DE-144 Compound interpretation and linking
+elements. DE-145 Productive noun suffixes. DE-146 Productive adjective
+suffixes. DE-147 Productive verb prefixes. DE-148 Prefix meaning and
+aspectual nuance. DE-149 Nominalized infinitives. DE-150 Nominalized
+adjectives. DE-151 Diminutives. DE-152 Word families and derivational
+morphology.
+
+COMMON OBJECTIVE Make German’s productive word-building system an
+explicit source of lexical growth while preserving the fact that derived
+and compound meanings are not always fully predictable.
+
+STAGE 18 — IDIOM, REGISTER AND NATURAL USAGE
+
+DE-153 Common fixed expressions. DE-154 Idiomatic verb constructions.
+DE-155 Collocations. DE-156 Modal particles I: doch, mal, ja. DE-157
+Modal particles II: eben, halt, wohl, denn, schon. DE-158 Everyday
+conversational German. DE-159 Informal spoken structures. DE-160 Neutral
+versus formal vocabulary. DE-161 Formal written German. DE-162 Familiar
+vocabulary and slang. DE-163 Pragmatics and politeness. DE-164 Register
+switching.
+
+COMMON OBJECTIVE Move from grammatically correct German toward natural
+interpretation and production across social and stylistic contexts.
+Modal particles receive explicit treatment because their discourse
+functions are central to ordinary German and are poorly captured by
+one-word English glosses.
+
+STAGE 19 — BROAD VOCABULARY EXPANSION
+
+These are major lexical domains, not sealed thematic blocks. Vocabulary
+from every domain may appear much earlier. Here lexical breadth becomes
+the principal organizing purpose because the grammatical scaffold is
+mature.
+
+DE-165 Household and everyday life. DE-166 Food and cooking. DE-167
+Clothing and personal objects. DE-168 Family and relationships. DE-169
+Body and health. DE-170 Work and occupations. DE-171 Education. DE-172
+Travel and transportation. DE-173 Buildings, towns and public places.
+DE-174 Nature, plants and animals. DE-175 Weather and environment.
+DE-176 Tools, materials and physical objects. DE-177 Technology and
+communications. DE-178 Commerce, money and finance. DE-179 Government,
+law and public institutions. DE-180 Science and mathematics. DE-181
+Arts, literature and culture. DE-182 Religion and philosophy. DE-183
+Emotions, personality and human behaviour. DE-184 Abstract concepts and
+relationships.
+
+COMMON OBJECTIVE Build broad educated-adult lexical competence while
+continuously recycling mature German grammar.
+
+CARD STRATEGY Prefer useful lexical distinctions, natural collocations
+and sentences that reveal case government, argument structure, register
+or idiomatic usage. Avoid long runs of minimally contextualized
+near-synonyms.
+
+STAGE 20 — EDUCATED-ADULT LEXICON
+
+DE-185 Lower-frequency verbs. DE-186 Lower-frequency adjectives. DE-187
+Lower-frequency concrete nouns. DE-188 Abstract nouns. DE-189 Academic
+vocabulary. DE-190 Professional and institutional vocabulary. DE-191
+Scientific and technical general vocabulary. DE-192 Political, legal and
+economic vocabulary. DE-193 Cultural and literary vocabulary. DE-194
+Less-common idioms and collocations. DE-195 Fine semantic distinctions
+and near-synonyms. DE-196 Advanced word families and derivation.
+
+COMMON OBJECTIVE Move toward the lexical breadth and precision expected
+of a typical educated adult.
+
+CARD STRATEGY Use mature grammar freely. Attend to register,
+collocation, case/preposition government, argument structure, false
+synonymy and derivational relationships.
+
+DELIBERATELY EXCLUDED Narrow specialist vocabulary unless commonly
+encountered by educated nonspecialists.
+
+STAGE 21 — MATURE LANGUAGE COMPETENCE / LONG TAIL
+
+DE-197 Major regional variation. DE-198 Germany, Austrian and Swiss
+standard usage. DE-199 Common regional vocabulary. DE-200 Generational
+and contemporary usage. DE-201 Formal and literary vocabulary. DE-202
+Historical vocabulary encountered in modern texts. DE-203 Specialized
+vocabulary of broad cultural relevance. DE-204 Rare but reasonably
+educated-adult vocabulary. DE-205 Idiomatic and figurative long tail.
+DE-206 Continuing lexical expansion.
+
+COMMON OBJECTIVE Approach the practical asymptote of the Polyglot
+definition of a complete modern language curriculum: vocabulary,
+constructions, idioms, registers and cultural-linguistic distinctions a
+typical educated adult might reasonably know and encounter.
+
+CARD STRATEGY Selection becomes increasingly frequency-, usefulness-,
+register- and exposure-sensitive. Mature grammar is assumed. Regional
+and national-standard differences are described rather than ranked.
+
+COMPLETION STANDARD There is intentionally no absolute terminal word
+count. DE-206 is expandable. “Complete” describes direction and scope,
+not exhaustion of every possible German word.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1.  Unit completion means its canonical sequence adequately demonstrates
+    its objective; it does not claim learner mastery.
+2.  Once established, grammar becomes reusable unless temporary
+    simplification is pedagogically useful.
+3.  Vocabulary introduced at any point remains reusable.
+4.  Later cards increasingly combine multiple established structures
+    naturally.
+5.  New grammar should normally be the principal structural novelty in
+    its earliest cards.
+6.  The scheduler, not curriculum order, supplies extra repetition for
+    difficult material.
+7.  Existing valid German cards remain valid even where they predate
+    this syllabus. Future generation should fill meaningful prerequisite
+    gaps and converge on the canonical sequence rather than restart the
+    language.
+8.  Future amendments may split, merge, reorder or refine units without
+    renumbering existing card IDs.
+
+AMENDMENT POLICY
+
+This syllabus changes only when the canonical German curriculum changes.
+Generating cards or advancing through a unit does not amend it.
+
+An amendment should identify affected units, state the pedagogical
+change, say whether it affects future cards only or requires
+existing-card correction, increment the version, and preserve a concise
+amendment record.
+
+AMENDMENT HISTORY
+
+Version 0.1 - Initial draft. - Establishes DE-01 through DE-206. -
+Adopts the French syllabus architecture while deriving the grammatical
+sequence independently from German structure. - Makes V2 foundational
+rather than treating non-subject-first clauses as exceptional
+inversion. - Develops case progressively rather than beginning with a
+four-case table. - Gives early explicit roles to separable verbs, modal
+constructions and the verbal bracket. - Gives subordinate verb-final
+architecture, word formation and modal particles dedicated curriculum
+space. - Separates curriculum specification from progress. - Uses
+completion standards rather than fixed card quotas. - Gives near-term
+units more implementation detail than distant long-tail units.
