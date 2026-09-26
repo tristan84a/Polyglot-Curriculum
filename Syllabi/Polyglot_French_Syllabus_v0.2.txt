@@ -13,8 +13,17 @@ document.
 
 Vocabulary acquisition is continuous. Grammar units define structural
 progression but do not freeze vocabulary. Units have no fixed card
-quota; a unit is complete when its canonical sequence satisfies its
-completion standard.
+quota; a unit is established when its canonical coverage satisfies its
+completion standard. First introduction does not require immediate
+establishment: a structure may continue developing through later
+double-duty cards while the curriculum moves forward.
+
+The syllabus is a roadmap, not a transcript of every card-generation
+decision. A sound card sequence may take a local detour, introduce a
+useful later structure early, or postpone part of a unit when the
+result remains prerequisite-aware and converges on the same curricular
+path. Such ordinary implementation deviations do not by themselves
+require a syllabus amendment.
 
 TERMINOLOGY
 
@@ -67,7 +76,7 @@ COURSE-WIDE PRINCIPLES
 
 OPENING PACING DIRECTIVE
 
-The historical early French card sequence is an approved Polyglot pacing
+The current rebuilt French opening is an approved Polyglot pacing
 model. Begin with the compact seed maison, homme, femme, enfant, grand,
 petit, bon, mauvais, then move almost immediately into article-bearing
 phrases, adjective agreement, être, and short sentences. Additional nouns,
@@ -76,10 +85,10 @@ adjectives, pronouns, and verbs should arrive in small reusable increments.
 FR-01 and FR-02 therefore do not require large standalone inventories
 before FR-03 onward begins. Their completion standards are satisfied
 initially by a small productive seed; lexical breadth continues
-longitudinally. The historical first roughly 50–60 cards may be reused
-closely where still consistent with the current syllabus. Later historical
-choices such as very early negation or inversion questions are not made
-canonical merely by this pacing endorsement.
+longitudinally. The canonical opening may be reused closely as a pacing model where it
+remains consistent with the current syllabus. Individual card-level
+choices do not become mandatory syllabus law merely because they occur
+early in the canonical deck.
 
 STAGE 1 — BOOTSTRAP
 
@@ -663,3 +672,10 @@ Version 0.2
   without canonizing every historical grammar choice.
 - Clarifies that FR-01/FR-02 do not require large lexical inventories
   before productive structure begins.
+
+
+Version 0.3
+- Adopts Charter 0.7 and explicitly distinguishes introduction from establishment.
+- Clarifies that the syllabus is a forward roadmap rather than a card-by-card route; prerequisite-safe local detours do not require amendment when the curriculum converges on the same path.
+- Recognizes the rebuilt French opening as the current canonical pacing model.
+- Preserves the French unit architecture and completion standards; those standards may be satisfied longitudinally through later integrated cards.
