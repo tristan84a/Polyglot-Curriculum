@@ -1,0 +1,524 @@
+POLYGLOT ARABIC SYLLABUS
+
+Version: 0.1
+Status: Current
+Governing Charter: Polyglot Curriculum Charter v0.8
+Encoding: UTF-8
+
+1. PURPOSE AND VARIETY POLICY
+
+This syllabus defines the canonical path for Arabic in Polyglot.
+
+Modern Standard Arabic (MSA) is the unmarked backbone. Unless a prompt is
+explicitly labelled otherwise, an Arabic card expects MSA.
+
+Arabic differs from most Polyglot languages in the scale and functional
+importance of regional spoken varieties. The curriculum therefore does not
+postpone regional Arabic to a small late-stage variation unit. Major spoken
+varieties will enter after a useful common/MSA foundation and then develop
+as substantial longitudinal strands alongside MSA. Levantine is expected
+to be the first such strand; Egyptian, Gulf and other major varieties may
+follow when their treatment can be defined responsibly.
+
+Regional cards must be explicitly disambiguated in EnglishPrompt. MSA
+cards need no [MSA] label. The exact regional inventory and the point at
+which each strand opens remain curriculum decisions to be refined from
+card-development evidence.
+
+2. EMPIRICAL OPENING
+
+Cards 700000–700049 form the approved 50-card seed prototype.
+
+The seed demonstrates that Arabic can move directly from a small lexical
+base into substantial structure without verbs. It establishes an empirical
+opening around:
+
+- ordinary unvocalized Arabic orthography;
+- a small noun/adjective seed;
+- present nominal/adjectival predication without an overt copula;
+- grammatical gender and adjective agreement;
+- definiteness with ال;
+- the contrast between predicative and attributive adjectives;
+- masculine/feminine demonstratives هذا and هذه;
+- demonstrative noun phrases and demonstrative predication;
+- initial personal pronouns and nominal predicates;
+- a first polar question with هل.
+
+This seed is a pacing model, not a requirement that every later Arabic
+sequence reproduce its exact card order.
+
+3. ORTHOGRAPHY AND INPUT
+
+Use conventional contemporary Arabic orthography from the first card.
+
+Ordinary MSA Targets are normally unvocalized, matching normal adult
+writing. Do not require short-vowel diacritics merely to make beginner
+pronunciation explicit. Diacritics remain legitimate Arabic orthography
+and should be introduced where they are conventionally required, where
+they disambiguate something pedagogically important, or where the
+curriculum specifically teaches them.
+
+InputHint is normally blank because Arabic is entered directly in Arabic
+script. Do not use InputHint as a general transliteration or pronunciation
+field.
+
+Right-to-left display of neutral punctuation is an interface/rendering
+concern and does not change the logical Unicode order stored in the CSV.
+
+4. ROADMAP PRINCIPLE
+
+This syllabus supplies a path forward rather than a turn-by-turn transcript.
+
+Prerequisite-safe detours are permitted. A structure may appear somewhat
+earlier than its numbered unit when the card remains natural and
+comprehensible. Conversely, part of an earlier unit may continue toward
+establishment through later double-duty cards.
+
+Unit numbering indicates useful introduction order and dependencies. It
+does not require exhaustive serial mastery.
+
+5. EARLY STRUCTURAL DEVELOPMENT
+
+AR-01 — Small lexical seed and authentic script
+
+OBJECTIVE: Establish a compact reusable set of high-value nouns and
+adjectives directly in Arabic script.
+
+EMPIRICAL MODEL: بيت، رجل، امرأة، طفل، كبير، صغير، جيد، سيئ.
+
+AR-02 — Present nominal and adjectival predication
+
+OBJECTIVE: Establish ordinary present-tense equational/descriptive clauses
+without importing an English-style present copula.
+
+EXAMPLES: البيت كبير. الرجل كبير. المرأة صغيرة.
+
+AR-03 — Gender and adjective agreement
+
+OBJECTIVE: Make masculine/feminine agreement visible through controlled
+contrasts, then reinforce it longitudinally.
+
+CARD STRATEGY: Do not turn every new adjective into a full paradigm once
+the contrast is established.
+
+AR-04 — Definiteness and attributive adjectives
+
+OBJECTIVE: Establish ال and the contrast between an indefinite/predicative
+adjective and a definite attributive adjective.
+
+CORE CONTRAST:
+البيت كبير. — The house is big.
+البيت الكبير — the big house
+
+AR-05 — Demonstratives
+
+OBJECTIVE: Establish هذا and هذه in independent and noun-phrase use,
+including the relationship between demonstratives and definite nouns.
+
+AR-06 — Personal pronouns and nominal predicates
+
+OBJECTIVE: Introduce high-value independent pronouns and use them in
+natural verbless present predicates.
+
+CARD STRATEGY: Expand the pronoun inventory as genuine person/number/gender
+contrasts become useful; do not retain pronouns merely to mirror English
+once omission or other discourse patterns become relevant.
+
+AR-07 — Polar questions
+
+OBJECTIVE: Establish هل questions in already-known nominal structures,
+then reuse question formation with later verbal material.
+
+AR-08 — Question words
+
+OBJECTIVE: Introduce high-frequency interrogatives through controlled
+nominal contexts before and alongside verbal expansion.
+
+AR-09 — Negation of nominal predicates
+
+OBJECTIVE: Establish natural MSA negation of present nominal/adjectival
+predicates, including the behavior of ليس and its agreement forms.
+
+AR-10 — Number: dual and plural foundations
+
+OBJECTIVE: Introduce singular/dual/plural distinctions early enough that
+later agreement and verbal systems do not silently assume an English-like
+two-way number system.
+
+CARD STRATEGY: Separate productive sound patterns from broken plurals.
+Learn important broken plurals lexically while progressively exposing
+recurring patterns.
+
+AR-11 — Possession and construct state (الإضافة)
+
+OBJECTIVE: Establish basic noun–noun possession and the definiteness
+behavior of the construct state.
+
+AR-12 — Prepositions and pronominal attachment
+
+OBJECTIVE: Establish high-frequency prepositions first with nouns and then
+with attached pronouns as the morphology becomes useful.
+
+AR-13 — Existence and location
+
+OBJECTIVE: Establish common MSA existential and locative constructions
+without forcing them into English copular structure.
+
+6. VERBAL FOUNDATION
+
+Arabic has no infinitive that should simply inherit the role played by
+French or German infinitive cards. Verbal vocabulary and morphology should
+therefore be introduced according to Arabic conventions rather than by
+translating the European card architecture.
+
+AR-14 — Verb citation and lexical representation
+
+OBJECTIVE: Establish a consistent Polyglot convention for introducing
+Arabic verbs.
+
+CARD STRATEGY: Before a large verbal batch is generated, test the practical
+relationship among the conventional third-person masculine singular
+perfect citation form, imperfect form, verbal noun where useful, and root.
+Do not make bare roots into ordinary English-to-Arabic vocabulary answers
+when the lexical item is a verb.
+
+AR-15 — Perfect foundation
+
+OBJECTIVE: Establish the perfect through a small number of high-frequency,
+structurally useful verbs and genuine person/number/gender contrasts.
+
+AR-16 — Imperfect foundation
+
+OBJECTIVE: Establish the imperfect system and its agreement morphology,
+using known verbs before multiplying lexical stems.
+
+AR-17 — Subject expression and verbal agreement
+
+OBJECTIVE: Develop natural MSA subject expression, including when an
+independent pronoun is unnecessary, and introduce the important interaction
+between word order and agreement progressively.
+
+AR-18 — Direct objects
+
+OBJECTIVE: Establish ordinary transitive clauses and object expression
+with controlled vocabulary.
+
+AR-19 — Verbal negation
+
+OBJECTIVE: Introduce major negation patterns in prerequisite-aware stages
+rather than treating English "not" as one Arabic lexical item.
+
+AR-20 — Verbal questions
+
+OBJECTIVE: Reuse هل and introduce relevant question-word structures in
+verbal clauses.
+
+AR-21 — Future reference
+
+OBJECTIVE: Establish common future marking after the imperfect is secure.
+
+AR-22 — Imperative and prohibition
+
+OBJECTIVE: Establish high-frequency command/prohibition morphology after
+the relevant imperfect patterns are available.
+
+7. ROOTS, PATTERNS, AND DERIVATION
+
+AR-23 — Root awareness
+
+OBJECTIVE: Make consonantal roots useful for recognizing lexical
+relationships without treating a root as though it were itself the normal
+word meaning.
+
+AR-24 — Form I pattern development
+
+OBJECTIVE: Develop common Form I stem/vowel behavior through actual lexical
+families rather than abstract tables detached from words.
+
+AR-25 — Derived verb forms
+
+OBJECTIVE: Introduce Forms II–X and other productive derivational
+relationships according to frequency, transparency and lexical usefulness.
+
+CARD STRATEGY: A form number is metalinguistic organization, not normally
+an EnglishPrompt. Teach actual verbs and contrasts.
+
+AR-26 — Verbal nouns and participles
+
+OBJECTIVE: Develop masdars and active/passive participles as lexical and
+grammatical resources in the contexts where they are used.
+
+AR-27 — Weak, hollow, defective and doubled verbs
+
+OBJECTIVE: Introduce major non-strong verb classes progressively after the
+regular system provides a useful reference point. High-frequency members
+may appear earlier when ordinary language requires them.
+
+8. NOMINAL AND ADJECTIVAL EXPANSION
+
+AR-28 — Broader plural systems
+
+OBJECTIVE: Expand sound masculine, sound feminine and high-frequency broken
+plural patterns longitudinally.
+
+AR-29 — Dual expansion
+
+OBJECTIVE: Develop dual morphology and agreement across useful nominal and
+adjectival contexts.
+
+AR-30 — Pronoun suffixes
+
+OBJECTIVE: Establish attached possessive and object pronouns in their
+natural environments.
+
+AR-31 — Relative clauses
+
+OBJECTIVE: Establish الذي/التي and the broader relative system with
+attention to definiteness and resumptive/reference patterns where needed.
+
+AR-32 — Comparison
+
+OBJECTIVE: Establish comparative/superlative morphology and constructions
+without assuming European adjective behavior.
+
+AR-33 — Numbers and counted nouns
+
+OBJECTIVE: Develop cardinal numbers, gender interactions, counted-noun
+forms and agreement in manageable stages.
+
+CARD STRATEGY: Arabic numeral grammar warrants systematic treatment because
+its cells teach genuine contrasts; do not compress it into a few lexical
+number cards.
+
+AR-34 — Quantification
+
+OBJECTIVE: Establish high-frequency quantity expressions and their nominal
+syntax.
+
+9. CASE, MOOD, AND FORMAL MSA
+
+Because ordinary unvocalized writing often leaves inflectional endings
+invisible, case and mood must not be mistaken for nonexistent grammar.
+They should be taught when the learner has enough structure for the
+distinctions to be meaningful.
+
+AR-35 — Case system foundation
+
+OBJECTIVE: Establish nominative, accusative and genitive functions and the
+contexts that license them.
+
+AR-36 — Case endings and nunation
+
+OBJECTIVE: Make written/spoken formal inflection intelligible without
+requiring routine fully vocalized Targets.
+
+AR-37 — Imperfect mood
+
+OBJECTIVE: Establish indicative, subjunctive and jussive contrasts through
+the particles and constructions that trigger them.
+
+AR-38 — Formal agreement and word order
+
+OBJECTIVE: Develop the interaction of VSO/SVO order, subject definiteness,
+number and verbal agreement beyond beginner simplifications.
+
+AR-39 — Passive
+
+OBJECTIVE: Establish morphological passive patterns and their ordinary
+formal uses.
+
+AR-40 — Complex nominal syntax
+
+OBJECTIVE: Expand construct chains, apposition, adjective stacking and
+other mature noun-phrase structures.
+
+10. COMPLEX CLAUSES AND DISCOURSE
+
+AR-41 — Complement clauses
+AR-42 — Relative-clause expansion
+AR-43 — Coordination
+AR-44 — Causal and purpose clauses
+AR-45 — Conditionals
+AR-46 — Temporal clauses
+AR-47 — Concession and contrast
+AR-48 — Reported speech
+AR-49 — Focus and emphasis
+AR-50 — Connectives and discourse organization
+
+COMMON OBJECTIVE: Move from controlled clauses to natural connected MSA
+while continuously reusing mature morphology and vocabulary.
+
+11. REGIONAL SPOKEN ARABIC
+
+Regional Arabic is a core longitudinal component of the Arabic curriculum,
+not a token late appendix.
+
+AR-51 — MSA-to-spoken transition
+
+OBJECTIVE: Establish that ordinary spoken varieties are systematic
+language varieties with substantial phonological, lexical, morphological
+and syntactic differences from MSA.
+
+CARD STRATEGY: Contrast only where useful. Do not imply that a regional
+form is merely "incorrect MSA."
+
+AR-52 — Levantine Arabic foundation
+
+OBJECTIVE: Open the first substantial regional strand with ordinary
+high-frequency spoken structures and vocabulary.
+
+PROMPT POLICY: Regional prompts are explicitly labelled, for example
+"I want to go home. [Levantine]". Equivalent unlabelled prompts remain
+MSA by default.
+
+AR-53 — Levantine longitudinal development
+
+OBJECTIVE: Develop Levantine grammar, vocabulary, idiom and everyday
+conversation deeply enough to represent a coherent spoken system rather
+than a list of regionalisms.
+
+AR-54 — Egyptian Arabic foundation
+AR-55 — Egyptian longitudinal development
+AR-56 — Gulf Arabic foundation
+AR-57 — Gulf longitudinal development
+AR-58 — Iraqi and other major eastern varieties
+AR-59 — Maghrebi varieties
+AR-60 — Cross-regional comprehension and register choice
+
+IMPLEMENTATION NOTE: The exact subdivision, sequencing and depth of
+regional strands should be revisited before each is opened. The labels
+above are a roadmap, not a claim that every named regional category is
+internally uniform or deserves identical treatment.
+
+Regional material may begin before all advanced MSA units are complete
+once the common foundation makes the contrasts intelligible. Thereafter
+MSA and opened regional strands should grow in parallel.
+
+12. REGISTER, MEDIA, AND NATURAL USAGE
+
+AR-61 — Contemporary formal written MSA
+AR-62 — Broadcast and formal spoken MSA
+AR-63 — News and public affairs
+AR-64 — Institutional and professional Arabic
+AR-65 — Academic prose
+AR-66 — Conversational code-switching and register movement
+AR-67 — Common phraseology and collocations
+AR-68 — Idioms and figurative language
+AR-69 — Contemporary usage and generational change
+AR-70 — Pan-Arab media and cross-regional vocabulary
+
+COMMON OBJECTIVE: Develop the repertoire expected of an educated Arabic
+user across formal writing, media, institutions and spoken interaction.
+
+13. BROAD VOCABULARY EXPANSION
+
+The following are longitudinal lexical domains, not sealed blocks:
+
+AR-71 Household and everyday life
+AR-72 Food and cooking
+AR-73 Family and relationships
+AR-74 Body and health
+AR-75 Work and occupations
+AR-76 Education
+AR-77 Travel and transportation
+AR-78 Buildings and public places
+AR-79 Nature, weather and environment
+AR-80 Tools, materials and physical objects
+AR-81 Technology and communications
+AR-82 Commerce, money and finance
+AR-83 Government, law and public institutions
+AR-84 Science and mathematics
+AR-85 Arts, literature and culture
+AR-86 Religion and philosophy
+AR-87 Emotions, personality and human behaviour
+AR-88 Abstract concepts and relationships
+
+Vocabulary from every domain may appear much earlier when structurally
+useful.
+
+14. EDUCATED-ADULT LEXICON
+
+AR-89 Lower-frequency verbs
+AR-90 Lower-frequency adjectives
+AR-91 Lower-frequency concrete nouns
+AR-92 Abstract nouns
+AR-93 Root families and derivational networks
+AR-94 Academic vocabulary
+AR-95 Professional and institutional vocabulary
+AR-96 Scientific and technical general vocabulary
+AR-97 Political, legal and economic vocabulary
+AR-98 Cultural and literary vocabulary
+AR-99 Fine semantic distinctions and near-synonyms
+AR-100 Less-common idiom and collocation
+
+COMMON OBJECTIVE: Continue toward educated-adult breadth without turning
+high IDs into a search for deliberate obscurity.
+
+15. MATURE COMPETENCE / LONG TAIL
+
+AR-101 Literary and elevated modern usage
+AR-102 Classical/religious language commonly encountered by educated
+modern readers
+AR-103 Historical forms and quotations encountered in modern culture
+AR-104 Regional lexical and grammatical expansion
+AR-105 Cross-variety comprehension
+AR-106 Specialized vocabulary of broad cultural relevance
+AR-107 Rare but reasonably educated-adult vocabulary
+AR-108 Continuing phraseological and semantic expansion
+AR-109 Continuing MSA literacy expansion
+AR-110 Continuing regional expansion
+
+There is intentionally no absolute terminal card count. Mature Arabic
+continues to broaden across MSA and the regional strands that have been
+opened.
+
+16. GLOBAL COMPLETION AND REUSE RULES
+
+1. MSA is assumed unless a card explicitly identifies a regional variety.
+2. The 50-card seed is the empirical model for the opening, not an exact
+   future-generation script.
+3. Introduction does not imply establishment. Reinforce structures
+   longitudinally through double-duty cards.
+4. Authentic Arabic orthography is used from first exposure.
+5. Unvocalized ordinary writing is the default; diacritics are introduced
+   for genuine orthographic, grammatical or disambiguating purposes.
+6. Vocabulary grows just in time alongside structure.
+7. Paradigms receive systematic coverage when their cells teach genuine
+   contrasts; otherwise sample and reuse.
+8. Arabic verbal vocabulary must follow an Arabic-appropriate citation
+   strategy rather than an imported infinitive model.
+9. Regional varieties are substantial curriculum strands and may open
+   earlier than regional variation in most Polyglot languages.
+10. Mature MSA and opened regional strands develop longitudinally in
+    parallel.
+11. The scheduler supplies repetition; the curriculum supplies varied
+    examples. Exact duplicate cards do not belong in the CSV.
+12. Local prerequisite-safe detours do not require syllabus amendment.
+
+17. AMENDMENT POLICY
+
+Amend this syllabus when the preferred Arabic curriculum path changes,
+not merely when card generation advances or takes a local detour.
+
+Particularly likely early review points are:
+
+- the practical Polyglot citation convention for Arabic verbs;
+- how much explicit case/mood vocalization is useful;
+- the first point at which Levantine should enter;
+- regional prompt labelling and subdivision;
+- whether later card experience reveals a better ordering among the early
+  nominal, verbal, number and possession systems.
+
+AMENDMENT HISTORY
+
+Version 0.1
+- Created from the 50-card MSA seed prototype under Charter v0.8.
+- Makes MSA the unmarked backbone while establishing regional spoken
+  Arabic as an early-opening, substantial longitudinal component.
+- Uses ordinary unvocalized orthography and blank InputHint by default.
+- Builds the early path from the seed's demonstrated nominal structures
+  before opening the verbal system.
+- Leaves Arabic verb citation as an explicit early empirical question
+  rather than importing an infinitive-based model.
+- Treats the syllabus as a roadmap and preserves room for prototype-led
+  refinement.
