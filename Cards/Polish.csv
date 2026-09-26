@@ -1,0 +1,201 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+400000,Polish,house,dom,,noun
+400001,Polish,book,książka,,noun
+400002,Polish,table,stół,,noun
+400003,Polish,water,woda,,noun
+400004,Polish,city,miasto,,noun
+400005,Polish,person,człowiek,,noun
+400006,Polish,woman,kobieta,,noun
+400007,Polish,man,mężczyzna,,noun
+400008,Polish,child,dziecko,,noun
+400009,Polish,friend (male),przyjaciel,,noun
+400010,Polish,friend (female),przyjaciółka,,noun
+400011,Polish,mother,matka,,noun
+400012,Polish,father,ojciec,,noun
+400013,Polish,brother,brat,,noun
+400014,Polish,sister,siostra,,noun
+400015,Polish,dog,pies,,noun
+400016,Polish,cat,kot,,noun
+400017,Polish,bird,ptak,,noun
+400018,Polish,fish,ryba,,noun
+400019,Polish,food,jedzenie,,noun
+400020,Polish,bread,chleb,,noun
+400021,Polish,milk,mleko,,noun
+400022,Polish,coffee,kawa,,noun
+400023,Polish,tea,herbata,,noun
+400024,Polish,apple,jabłko,,noun
+400025,Polish,car,samochód,,noun
+400026,Polish,train,pociąg,,noun
+400027,Polish,school,szkoła,,noun
+400028,Polish,work,praca,,noun
+400029,Polish,room,pokój,,noun
+400030,Polish,door,drzwi,,noun
+400031,Polish,window,okno,,noun
+400032,Polish,street,ulica,,noun
+400033,Polish,shop,sklep,,noun
+400034,Polish,park,park,,noun
+400035,Polish,day,dzień,,noun
+400036,Polish,night,noc,,noun
+400037,Polish,morning,rano,,noun
+400038,Polish,time,czas,,noun
+400039,Polish,money,pieniądze,,noun
+400040,Polish,phone,telefon,,noun
+400041,Polish,computer,komputer,,noun
+400042,Polish,chair,krzesło,,noun
+400043,Polish,tree,drzewo,,noun
+400044,Polish,flower,kwiat,,noun
+400045,Polish,good,dobry,,adjective
+400046,Polish,bad,zły,,adjective
+400047,Polish,big,duży,,adjective
+400048,Polish,small,mały,,adjective
+400049,Polish,new,nowy,,adjective
+400050,Polish,old (thing),stary,,adjective
+400051,Polish,young,młody,,adjective
+400052,Polish,beautiful,piękny,,adjective
+400053,Polish,important,ważny,,adjective
+400054,Polish,easy,łatwy,,adjective
+400055,Polish,difficult,trudny,,adjective
+400056,Polish,fast,szybki,,adjective
+400057,Polish,slow,wolny,,adjective
+400058,Polish,warm,ciepły,,adjective
+400059,Polish,cold,zimny,,adjective
+400060,Polish,red,czerwony,,adjective
+400061,Polish,white,biały,,adjective
+400062,Polish,black,czarny,,adjective
+400063,Polish,good / well,dobrze,,adverb
+400064,Polish,badly / wrong,źle,,adverb
+400065,Polish,a lot,dużo,,adverb
+400066,Polish,a little,mało,,adverb
+400067,Polish,here,tutaj,,adverb
+400068,Polish,there,tam,,adverb
+400069,Polish,today,dzisiaj,,adverb
+400070,Polish,now,teraz,,adverb
+400071,Polish,to read,czytać,,verb
+400072,Polish,to know,wiedzieć,,verb
+400073,Polish,to work,pracować,,verb
+400074,Polish,to live / reside,mieszkać,,verb
+400075,Polish,to speak,mówić,,verb
+400076,Polish,to write,pisać,,verb
+400077,Polish,to eat,jeść,,verb
+400078,Polish,to drink,pić,,verb
+400079,Polish,to sleep,spać,,verb
+400080,Polish,to see,widzieć,,verb
+400081,Polish,to like,lubić,,verb
+400082,Polish,to do / make,robić,,verb
+400083,Polish,to go (on foot),iść,,verb
+400084,Polish,to have,mieć,,verb
+400085,Polish,I,ja,,pronoun
+400086,Polish,you (singular informal),ty,,pronoun
+400087,Polish,he,on,,pronoun
+400088,Polish,she,ona,,pronoun
+400089,Polish,it (neuter),ono,,pronoun
+400090,Polish,we,my,,pronoun
+400091,Polish,you (plural informal),wy,,pronoun
+400092,Polish,they (masculine-personal),oni,,pronoun
+400093,Polish,they (non-masculine-personal),one,,pronoun
+400094,Polish,this / that / it,to,,pronoun
+400095,Polish,to be,być,,verb
+400096,Polish,I am.,Jestem.,,grammar
+400097,Polish,You are. (singular informal),Jesteś.,,grammar
+400098,Polish,He is.,Jest.,,grammar
+400099,Polish,She is.,Jest.,,grammar
+400100,Polish,It is. (neuter),Jest.,,grammar
+400101,Polish,We are.,Jesteśmy.,,grammar
+400102,Polish,You are. (plural informal),Jesteście.,,grammar
+400103,Polish,They are.,Są.,,grammar
+400104,Polish,This is a house.,To jest dom.,,sentence
+400105,Polish,This is a book.,To jest książka.,,sentence
+400106,Polish,This is a city.,To jest miasto.,,sentence
+400107,Polish,This is water.,To jest woda.,,sentence
+400108,Polish,This is coffee.,To jest kawa.,,sentence
+400109,Polish,This is a woman.,To jest kobieta.,,sentence
+400110,Polish,This is a man.,To jest mężczyzna.,,sentence
+400111,Polish,He is a doctor.,On jest lekarzem.,,sentence
+400112,Polish,She is a doctor.,Ona jest lekarką.,,sentence
+400113,Polish,He is a teacher.,On jest nauczycielem.,,sentence
+400114,Polish,She is a teacher.,Ona jest nauczycielką.,,sentence
+400115,Polish,I am a student. (male),Jestem studentem.,,sentence
+400116,Polish,I am a student. (female),Jestem studentką.,,sentence
+400117,Polish,You are a student. (male; singular informal),Jesteś studentem.,,sentence
+400118,Polish,You are a student. (female; singular informal),Jesteś studentką.,,sentence
+400119,Polish,We are students. (masculine/mixed),Jesteśmy studentami.,,sentence
+400120,Polish,They are doctors. (masculine/mixed),Oni są lekarzami.,,sentence
+400121,Polish,The house is big.,Dom jest duży.,,sentence
+400122,Polish,The book is new.,Książka jest nowa.,,sentence
+400123,Polish,The city is beautiful.,Miasto jest piękne.,,sentence
+400124,Polish,The water is cold.,Woda jest zimna.,,sentence
+400125,Polish,The coffee is warm.,Kawa jest ciepła.,,sentence
+400126,Polish,a new house,nowy dom,,phrase
+400127,Polish,a new book,nowa książka,,phrase
+400128,Polish,a new city,nowe miasto,,phrase
+400129,Polish,a big house,duży dom,,phrase
+400130,Polish,a big book,duża książka,,phrase
+400131,Polish,a big window,duże okno,,phrase
+400132,Polish,a small dog,mały pies,,phrase
+400133,Polish,a small cat,mały kot,,phrase
+400134,Polish,a small school,mała szkoła,,phrase
+400135,Polish,a small child,małe dziecko,,phrase
+400136,Polish,a good man,dobry mężczyzna,,phrase
+400137,Polish,a good woman,dobra kobieta,,phrase
+400138,Polish,a good child,dobre dziecko,,phrase
+400139,Polish,an old house,stary dom,,phrase
+400140,Polish,an old book,stara książka,,phrase
+400141,Polish,an old car,stary samochód,,phrase
+400142,Polish,a beautiful flower,piękny kwiat,,phrase
+400143,Polish,a beautiful woman,piękna kobieta,,phrase
+400144,Polish,a beautiful city,piękne miasto,,phrase
+400145,Polish,The car is new.,Samochód jest nowy.,,sentence
+400146,Polish,The school is new.,Szkoła jest nowa.,,sentence
+400147,Polish,The window is new.,Okno jest nowe.,,sentence
+400148,Polish,The man is young.,Mężczyzna jest młody.,,sentence
+400149,Polish,The woman is young.,Kobieta jest młoda.,,sentence
+400150,Polish,The child is young.,Dziecko jest młode.,,sentence
+400151,Polish,not / no,nie,,grammar
+400152,Polish,The house is not big.,Dom nie jest duży.,,sentence
+400153,Polish,The book is not new.,Książka nie jest nowa.,,sentence
+400154,Polish,The city is not small.,Miasto nie jest małe.,,sentence
+400155,Polish,He is not a doctor.,On nie jest lekarzem.,,sentence
+400156,Polish,She is not a teacher.,Ona nie jest nauczycielką.,,sentence
+400157,Polish,I am not a student. (male),Nie jestem studentem.,,sentence
+400158,Polish,I am not a student. (female),Nie jestem studentką.,,sentence
+400159,Polish,We are not students. (masculine/mixed),Nie jesteśmy studentami.,,sentence
+400160,Polish,They are not here.,Nie są tutaj.,,sentence
+400161,Polish,Is this a house?,Czy to jest dom?,,sentence
+400162,Polish,Is this a book?,Czy to jest książka?,,sentence
+400163,Polish,Is the house big?,Czy dom jest duży?,,sentence
+400164,Polish,Is the book new?,Czy książka jest nowa?,,sentence
+400165,Polish,Are you a student? (male; singular informal),Czy jesteś studentem?,,sentence
+400166,Polish,Are you a student? (female; singular informal),Czy jesteś studentką?,,sentence
+400167,Polish,Is he a doctor?,Czy on jest lekarzem?,,sentence
+400168,Polish,Is she a teacher?,Czy ona jest nauczycielką?,,sentence
+400169,Polish,Are they here?,Czy oni są tutaj?,,sentence
+400170,Polish,I have a book.,Mam książkę.,,sentence
+400171,Polish,You have a book. (singular informal),Masz książkę.,,sentence
+400172,Polish,He has a car.,On ma samochód.,,sentence
+400173,Polish,She has a car.,Ona ma samochód.,,sentence
+400174,Polish,We have a house.,Mamy dom.,,sentence
+400175,Polish,You have a house. (plural informal),Macie dom.,,sentence
+400176,Polish,They have a house.,Mają dom.,,sentence
+400177,Polish,I have a phone.,Mam telefon.,,sentence
+400178,Polish,She has coffee.,Ona ma kawę.,,sentence
+400179,Polish,He has a book.,On ma książkę.,,sentence
+400180,Polish,I do not have a car.,Nie mam samochodu.,,sentence
+400181,Polish,She does not have a book.,Ona nie ma książki.,,sentence
+400182,Polish,He does not have a dog.,On nie ma psa.,,sentence
+400183,Polish,We do not have a house.,Nie mamy domu.,,sentence
+400184,Polish,They do not have a car.,Nie mają samochodu.,,sentence
+400185,Polish,There is a book here.,Tutaj jest książka.,,sentence
+400186,Polish,There is a dog here.,Tutaj jest pies.,,sentence
+400187,Polish,There is a school there.,Tam jest szkoła.,,sentence
+400188,Polish,There is water here.,Tutaj jest woda.,,sentence
+400189,Polish,There are books here.,Tutaj są książki.,,sentence
+400190,Polish,There are children there.,Tam są dzieci.,,sentence
+400191,Polish,There is no book here.,Nie ma tutaj książki.,,sentence
+400192,Polish,There is no water here.,Nie ma tutaj wody.,,sentence
+400193,Polish,There is no school there.,Nie ma tam szkoły.,,sentence
+400194,Polish,There are no children here.,Nie ma tutaj dzieci.,,sentence
+400195,Polish,Do you have a book? (singular informal),Czy masz książkę?,,sentence
+400196,Polish,Does he have a car?,Czy on ma samochód?,,sentence
+400197,Polish,Does she have a cat?,Czy ona ma kota?,,sentence
+400198,Polish,Do we have water?,Czy mamy wodę?,,sentence
+400199,Polish,Do they have a house?,Czy mają dom?,,sentence
