@@ -1,0 +1,37 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+500000,Hungarian,house,ház,,noun
+500001,Hungarian,man,férfi,,noun
+500002,Hungarian,woman,nő,,noun
+500003,Hungarian,child,gyerek,,noun
+500004,Hungarian,big,nagy,,adjective
+500005,Hungarian,small,kicsi,,adjective
+500006,Hungarian,good,jó,,adjective
+500007,Hungarian,bad,rossz,,adjective
+500008,Hungarian,to be,lenni,,verb
+500009,Hungarian,The house is big.,A ház nagy.,,sentence
+500010,Hungarian,The man is big.,A férfi nagy.,,sentence
+500011,Hungarian,The woman is good.,A nő jó.,,sentence
+500012,Hungarian,The child is small.,A gyerek kicsi.,,sentence
+500013,Hungarian,The house is good.,A ház jó.,,sentence
+500014,Hungarian,The man is bad.,A férfi rossz.,,sentence
+500015,Hungarian,apple,alma,,noun
+500016,Hungarian,the apple,az alma,,phrase
+500017,Hungarian,The apple is good.,Az alma jó.,,sentence
+500018,Hungarian,The apple is big.,Az alma nagy.,,sentence
+500019,Hungarian,The apple is bad.,Az alma rossz.,,sentence
+500020,Hungarian,doctor,orvos,,noun
+500021,Hungarian,The man is a doctor.,A férfi orvos.,,sentence
+500022,Hungarian,The woman is a doctor.,A nő orvos.,,sentence
+500023,Hungarian,The doctor is good.,Az orvos jó.,,sentence
+500024,Hungarian,I,én,,pronoun
+500025,Hungarian,you (singular informal),te,,pronoun
+500026,Hungarian,he / she,ő,,pronoun
+500027,Hungarian,we,mi,,pronoun
+500028,Hungarian,you (plural informal),ti,,pronoun
+500029,Hungarian,they,ők,,pronoun
+500030,Hungarian,I am good.,Jó vagyok.,,sentence
+500031,Hungarian,You are good. (singular informal),Jó vagy.,,sentence
+500032,Hungarian,He / she is good.,Jó.,,sentence
+500033,Hungarian,We are good.,Jók vagyunk.,,sentence
+500034,Hungarian,You are good. (plural informal),Jók vagytok.,,sentence
+500035,Hungarian,They are good.,Jók.,,sentence
