@@ -1,0 +1,626 @@
+POLYGLOT SPANISH SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for Spanish in
+Polyglot. It was written after the first 100-card prototype and uses that
+prototype as empirical evidence rather than treating another Romance
+language as a template.
+
+French is an especially useful comparison and successful French sequencing
+may be reused closely where Spanish genuinely behaves similarly. Spanish
+structure remains authoritative whenever the languages diverge.
+
+The syllabus is a roadmap, not a transcript. A useful construction may
+appear before its numbered unit is fully developed, and an introduced
+construction may be reinforced much later. Do not delay useful natural
+Spanish merely because every earlier pattern has not been exhaustively
+drilled. Introduction is not establishment; later double-duty cards may
+supply establishment and reinforcement.
+
+REFERENCE VARIETY
+
+Contemporary Spanish from Spain is the unmarked reference variety for this
+curriculum. Peninsular forms such as vosotros and ordinary Spain vocabulary
+may therefore appear without regional labels.
+
+The curriculum is not intended to imply that Peninsular Spanish is more
+correct or more general than American varieties. Major American usage,
+including ustedes as the normal plural second person, seseo, important
+lexical differences, and voseo where broadly relevant, is later taught
+explicitly as part of educated-adult Spanish competence.
+
+Orthography follows contemporary standard Spanish. InputHint is normally
+blank. Written accents, ñ, inverted question/exclamation marks and normal
+punctuation are part of the target.
+
+OPENING EVIDENCE AND PACING
+
+The 100-card prototype establishes the approved opening evidence for
+Spanish. It begins with casa, hombre, mujer, niño, grande, pequeño, bueno
+and malo, then moves quickly into articles, gender/number agreement, ser,
+natural subject omission, plural noun phrases, estar for location, tener,
+regular -ar verbs, no-negation, questions, dónde + estar and existential
+hay.
+
+This opening demonstrates several durable principles:
+
+1. Spanish can borrow much of the efficient Romance pacing seen in French
+   without copying French syntax card for card.
+2. Subject pronouns should be taught, but ordinary finite clauses should
+   normally omit them when Spanish naturally does so.
+3. Ser, estar and hay should be made distinct through use and then refined
+   longitudinally; they need not be exhaustively mastered before other
+   structures proceed.
+4. Person/number morphology is worth systematic early exposure because
+   verb endings themselves carry subject information.
+5. New structures may appear relatively early when examples are
+   comprehensible. The curriculum can drill and refine them later rather
+   than withholding useful language until every earlier topic is complete.
+
+STAGE 1 — BOOTSTRAP AND THE BASIC CLAUSE
+
+ES-01 — Core nouns and adjectives
+OBJECTIVE: Establish a small reusable concrete seed and common descriptive
+adjectives. INITIAL ANCHORS: casa, hombre, mujer, niño; grande, pequeño,
+bueno, malo. CARD STRATEGY: Move rapidly from citation forms into phrases
+and sentences; continue vocabulary growth longitudinally.
+
+ES-02 — Gender and articles
+OBJECTIVE: Establish grammatical gender as a persistent noun property and
+introduce el/la/los/las and un/una/unos/unas. CARD STRATEGY: Use ordinary
+noun phrases across gender and number. DELIBERATELY EXCLUDED: Fine article
+omission and specialized uses.
+
+ES-03 — Adjective agreement and basic placement
+OBJECTIVE: Establish gender/number agreement and ordinary adjective
+placement. CORE PATTERN: regular -o/-a and plural agreement first, while
+showing invariant forms such as grande naturally. CARD STRATEGY:
+Predominantly use natural postnominal examples initially; later teach
+meaning, discourse and lexical effects of position rather than presenting
+postnominal placement as an absolute rule.
+
+ES-04 — Subject pronouns and pro-drop
+OBJECTIVE: Establish yo, tú, él, ella, nosotros/nosotras,
+vosotros/vosotras, ellos/ellas and the fact that finite subjects are
+normally omitted when recoverable. CARD STRATEGY: Pronoun vocabulary cards
+may teach the forms; ordinary sentences should model natural omission.
+LEADS TO: all finite verb work and later contrastive/emphatic pronouns.
+
+ES-05 — Ser: identity, classification and basic description
+OBJECTIVE: Establish present ser: soy, eres, es, somos, sois, son.
+CARD STRATEGY: Use identity, classification and relatively characteristic
+description while reinforcing agreement and pro-drop. Do not pretend that
+a single permanent/temporary rule adequately explains ser/estar.
+
+ES-06 — Number and agreement synthesis
+OBJECTIVE: Make noun/adjective/article number agreement reusable in
+ordinary clauses. CARD STRATEGY: Mix singular/plural noun phrases and
+lexical subjects rather than mechanically repeating every adjective.
+
+ES-07 — Estar: location and initial state
+OBJECTIVE: Establish present estar first through transparent location,
+then begin common state uses. CORE PATTERN: estoy, estás, está, estamos,
+estáis, están. LEADS TO: ES-08, progressive constructions and later
+ser/estar refinement.
+
+ES-08 — Ser, estar and hay: initial functional contrast
+OBJECTIVE: Distinguish identity/classification/description with ser,
+location/state with estar, and existence/presence with hay in clear
+contexts. CARD STRATEGY: Controlled contrasts followed by longitudinal
+reuse. This is an early functional map, not the final theory of the three
+constructions.
+
+ES-09 — Tener
+OBJECTIVE: Establish present tener for possession and begin high-frequency
+tener expressions where natural. CORE PATTERN: tengo, tienes, tiene,
+tenemos, tenéis, tienen. LEADS TO: age, physical states and later
+periphrastic expressions.
+
+ES-10 — Basic negation
+OBJECTIVE: Establish no before the finite verb and reuse it across ser,
+estar, tener and lexical verbs. DELIBERATELY EXCLUDED: nadie, nada, nunca
+and the full negative-concord system until later.
+
+STAGE 2 — PRESENT-TENSE FOUNDATION
+
+ES-11 — Regular -ar verbs
+OBJECTIVE: Establish the productive present -ar paradigm.
+CORE PATTERN: -o, -as, -a, -amos, -áis, -an.
+LEXICAL ANCHORS: hablar, trabajar and other useful regular verbs.
+CARD STRATEGY: Systematic person/number exposure is useful, but later
+verbs need not repeat a full paradigm once the pattern is established.
+
+ES-12 — Regular -er verbs
+OBJECTIVE: Establish the productive present -er paradigm using useful
+high-frequency verbs. Demonstrate its relationship to the already-known
+person/number system.
+
+ES-13 — Regular -ir verbs
+OBJECTIVE: Establish the productive present -ir paradigm and make the
+-er/-ir overlap and differences visible.
+
+ES-14 — Present agreement and pro-drop synthesis
+OBJECTIVE: Generalize finite morphology across regular classes while
+keeping natural omission of recoverable subjects routine. Include lexical
+noun subjects and explicit pronouns where contrast, emphasis or
+disambiguation warrants them.
+
+ES-15 — High-frequency irregular present verbs I
+OBJECTIVE: Introduce indispensable verbs such as ir and hacer as distinct
+high-value paradigms. CARD STRATEGY: Establish useful forms in natural
+sentences rather than building an undifferentiated irregular list.
+
+ES-16 — Stem-changing verbs
+OBJECTIVE: Establish common e→ie, o→ue and e→i patterns and their
+person/number distribution. Use several frequent lexical representatives
+once each pattern is intelligible.
+
+ES-17 — First-person and other common irregularities
+OBJECTIVE: Develop common present irregular families such as -go forms and
+other high-frequency departures from productive paradigms. Organize genuine
+families where useful without forcing unrelated verbs together.
+
+ES-18 — Present-tense synthesis
+OBJECTIVE: Make regular, stem-changing and common irregular present forms
+reusable background grammar while vocabulary expands.
+
+STAGE 3 — NOUN PHRASES, OBJECTS AND EVERYDAY RELATIONS
+
+ES-19 — Direct objects
+OBJECTIVE: Establish ordinary transitive clauses with lexical noun
+objects. Use clear semantic roles before object pronouns.
+
+ES-20 — Personal a
+OBJECTIVE: Establish a with appropriate specific animate direct objects,
+especially people. Contrast with non-personal direct objects through
+natural examples rather than an oversimplified universal rule.
+
+ES-21 — Indirect objects with a
+OBJECTIVE: Establish basic recipient/beneficiary phrases before clitic
+doubling is developed systematically.
+
+ES-22 — Possessive determiners
+OBJECTIVE: Establish mi, tu, su, nuestro and vuestro families, agreement
+where applicable, and the ambiguity of su. Later discourse may refine
+possessive alternatives.
+
+ES-23 — Demonstratives
+OBJECTIVE: Establish este/ese/aquel families with gender and number and
+their principal spatial/discourse contrasts in Peninsular reference usage.
+
+ES-24 — Basic prepositions
+OBJECTIVE: Develop a, de, en, con, sin, por and para first in transparent
+high-frequency relations. Do not attempt the full por/para distinction in
+one early block.
+
+ES-25 — Contractions al and del
+OBJECTIVE: Make a + el → al and de + el → del automatic while contrasting
+forms that do not contract.
+
+ES-26 — Location, destination and origin
+OBJECTIVE: Integrate estar, ir, en, a and de with places and movement.
+
+ES-27 — Numbers, age, dates and time
+OBJECTIVE: Develop practical numbers and calendar/time language, including
+tener + age.
+
+ES-28 — Everyday noun-phrase synthesis
+OBJECTIVE: Mix articles, agreement, possession, demonstration,
+prepositions, objects and expanding concrete vocabulary.
+
+STAGE 4 — QUESTIONS, NEGATION AND COMMANDS
+
+ES-29 — Yes/no questions
+OBJECTIVE: Establish ordinary interrogative intonation and written ¿...?,
+without inventing an English-style auxiliary. Vary subject expression
+naturally.
+
+ES-30 — Basic interrogatives
+OBJECTIVE: Establish quién, qué, cuál, dónde, cuándo, cómo, por qué and
+cuánto in their principal early uses. Preserve written accents.
+
+ES-31 — Expanded negation and negative concord
+OBJECTIVE: Introduce nada, nadie, nunca, tampoco, ningún and related
+patterns, including Spanish negative concord through controlled examples.
+
+ES-32 — Indefinites and polarity
+OBJECTIVE: Develop algo/alguien, alguno/ninguno and related positive and
+negative contrasts.
+
+ES-33 — Tú and vosotros imperatives
+OBJECTIVE: Establish common informal Peninsular commands, including
+important irregular forms.
+
+ES-34 — Usted and ustedes
+OBJECTIVE: Establish formal second-person reference and third-person verbal
+agreement. In the Spain-reference curriculum, ustedes is formal plural;
+later regional units explicitly teach its ordinary plural-second-person
+role across most of the Spanish-speaking world.
+
+ES-35 — Negative commands and initial present subjunctive forms
+OBJECTIVE: Introduce the forms required for ordinary negative commands.
+This is legitimate early exposure to subjunctive morphology; full
+subjunctive function is developed later.
+
+ES-36 — Question/negation/command synthesis
+OBJECTIVE: Integrate interrogatives, polarity and directives with the
+established present system.
+
+STAGE 5 — OBJECT PRONOUNS, REFLEXIVES AND GUSTAR-TYPE STRUCTURES
+
+ES-37 — Direct-object clitics
+OBJECTIVE: Establish me, te, lo/la, nos, os, los/las as direct objects,
+including gender/number distinctions in third person.
+
+ES-38 — Indirect-object clitics
+OBJECTIVE: Establish me, te, le, nos, os, les in recipient and other
+high-frequency functions.
+
+ES-39 — Clitic position with finite verbs
+OBJECTIVE: Make preverbal placement routine in ordinary finite clauses,
+including negation.
+
+ES-40 — Double-object clitics and se
+OBJECTIVE: Establish combinations and le/les → se before third-person
+direct-object clitics.
+
+ES-41 — Clitic doubling
+OBJECTIVE: Develop common Spanish doubling patterns and distinguish them
+from English object expression.
+
+ES-42 — Reflexive pronouns
+OBJECTIVE: Establish me/te/se/nos/os/se with transparent reflexive actions
+before broader pronominal uses.
+
+ES-43 — Pronominal verbs
+OBJECTIVE: Develop high-frequency verbs whose se-constructions are lexical,
+aspectual or otherwise not reducible to literal reflexivity.
+
+ES-44 — Gustar-type constructions
+OBJECTIVE: Establish experiencer clitics with gustar and selected related
+verbs. CARD STRATEGY: Use natural Spanish prompts/targets without forcing
+the construction into an English subject-object analysis.
+
+ES-45 — Object/pronominal synthesis
+OBJECTIVE: Reuse clitics, lexical objects, personal a and pronominal verbs
+in varied present-tense contexts.
+
+STAGE 6 — PAST TIME
+
+ES-46 — Preterite: regular -ar
+OBJECTIVE: Establish completed-event preterite morphology for regular -ar
+verbs.
+
+ES-47 — Preterite: regular -er/-ir
+OBJECTIVE: Establish the regular non--ar preterite pattern.
+
+ES-48 — High-frequency irregular preterites
+OBJECTIVE: Develop ser/ir, tener, estar, hacer, poder, poner, venir, decir
+and other high-value irregular families in controlled groups.
+
+ES-49 — Imperfect: regular formation
+OBJECTIVE: Establish -aba and -ía paradigms and their person/number forms.
+
+ES-50 — Imperfect irregulars
+OBJECTIVE: Establish ser, ir and ver.
+
+ES-51 — Preterite versus imperfect
+OBJECTIVE: Develop aspectual choice through controlled contrasts:
+bounded/completed events, background, habituality, ongoing states and
+narrative framing. Avoid reducing the contrast to English tense labels.
+
+ES-52 — Present perfect
+OBJECTIVE: Establish haber + past participle and its major contemporary
+Peninsular uses. Explicitly recognize that distribution differs across
+Spanish-speaking regions.
+
+ES-53 — Past perfect
+OBJECTIVE: Establish había + participle for anterior past events.
+
+ES-54 — Past-time expressions and narration
+OBJECTIVE: Expand temporal adverbs, sequencing and ordinary narrative
+vocabulary.
+
+ES-55 — Past synthesis
+OBJECTIVE: Integrate preterite, imperfect, present perfect and pluperfect
+in progressively natural narration, with Peninsular usage as the unmarked
+production reference and major regional differences later made explicit.
+
+STAGE 7 — NONFINITE FORMS AND VERBAL PERIPHRASES
+
+ES-56 — Infinitives and verb + infinitive
+OBJECTIVE: Develop high-frequency complement patterns such as querer,
+poder, deber and necesitar + infinitive.
+
+ES-57 — Gerund formation
+OBJECTIVE: Establish regular and common irregular gerunds.
+
+ES-58 — Estar + gerund
+OBJECTIVE: Establish the progressive as an aspectual construction without
+mapping it mechanically onto every English progressive.
+
+ES-59 — Past participles
+OBJECTIVE: Consolidate regular and high-frequency irregular participles
+beyond their earlier perfect-tense use.
+
+ES-60 — Acabar de + infinitive
+OBJECTIVE: Establish recent-past expression.
+
+ES-61 — Ir a + infinitive
+OBJECTIVE: Establish planned/imminent future alongside later simple future.
+
+ES-62 — Tener que / hay que / deber
+OBJECTIVE: Develop common obligation and necessity constructions and their
+semantic differences.
+
+ES-63 — Other common verbal periphrases
+OBJECTIVE: Expand into useful aspectual and modal constructions such as
+seguir + gerund, volver a + infinitive and dejar de + infinitive.
+
+STAGE 8 — FUTURE AND CONDITIONAL
+
+ES-64 — Simple future: regular formation
+ES-65 — Irregular future stems
+ES-66 — Future uses and probability
+ES-67 — Conditional: regular formation
+ES-68 — Conditional irregular stems
+ES-69 — Politeness and softened statements
+ES-70 — Hypothetical situations
+ES-71 — Future/conditional synthesis
+
+STAGE 9 — COMPARISON, QUANTITY AND REFERENCE
+
+ES-72 — Comparative adjectives and adverbs
+ES-73 — Superlatives
+ES-74 — Irregular comparison: mejor, peor, mayor, menor and context
+ES-75 — Quantity expressions
+ES-76 — Indefinite determiners and pronouns
+ES-77 — Demonstrative pronoun uses and reference
+ES-78 — Possessive pronouns
+ES-79 — Reference/comparison synthesis
+
+STAGE 10 — RELATIVE AND COMPLEX CLAUSES
+
+ES-80 — Relative que
+ES-81 — Quien and quienes
+ES-82 — El que / la que / los que / las que
+ES-83 — Cuyo
+ES-84 — Donde and relative adverbs
+ES-85 — Coordination and basic conjunctions
+ES-86 — Cause and consequence
+ES-87 — Purpose
+ES-88 — Concession and opposition
+ES-89 — Complex-clause synthesis
+
+STAGE 11 — PRESENT SUBJUNCTIVE
+
+ES-90 — Present subjunctive: regular formation
+ES-91 — Stem changes and common irregular forms
+ES-92 — Desire and influence
+ES-93 — Necessity and evaluation
+ES-94 — Emotion and reaction
+ES-95 — Doubt, denial and uncertainty
+ES-96 — Purpose and conjunctions
+ES-97 — Relative clauses with non-specific or uncertain antecedents
+ES-98 — Indicative versus subjunctive contrasts
+ES-99 — Present-subjunctive synthesis
+
+The forms encountered earlier in negative commands are now generalized.
+Teach mood through meaning and discourse conditions rather than a
+memorized trigger list alone.
+
+STAGE 12 — PAST SUBJUNCTIVE AND HYPOTHETICAL CLAUSES
+
+ES-100 — Imperfect subjunctive: -ra forms
+ES-101 — Recognition and use of -se alternatives
+ES-102 — Si clauses: real conditions
+ES-103 — Si + imperfect subjunctive + conditional
+ES-104 — Pluperfect subjunctive
+ES-105 — Unreal past conditions
+ES-106 — Past subjunctive in reported/dependent contexts
+ES-107 — Advanced mood synthesis
+
+STAGE 13 — POR, PARA, SE AND OTHER HIGH-VALUE CONTRASTS
+
+ES-108 — Por: core relations
+ES-109 — Para: core relations
+ES-110 — Por versus para synthesis
+ES-111 — Passive se
+ES-112 — Impersonal se
+ES-113 — Accidental/unintentional se constructions
+ES-114 — Ser passive
+ES-115 — Passive/impersonal alternatives and natural usage
+ES-116 — Ser/estar refinement with adjectives and participles
+ES-117 — Hay, estar and haber refinement
+ES-118 — High-value contrast synthesis
+
+STAGE 14 — ADVANCED TENSE, ASPECT AND REPORTED SPEECH
+
+ES-119 — Future perfect
+ES-120 — Conditional perfect
+ES-121 — Perfect subjunctive forms
+ES-122 — Sequence of tense
+ES-123 — Direct and indirect speech
+ES-124 — Reported statements
+ES-125 — Reported questions and commands
+ES-126 — Tense and mood in past reporting
+ES-127 — Advanced tense/aspect synthesis
+
+STAGE 15 — ADVANCED NOMINAL AND SYNTACTIC STRUCTURES
+
+ES-128 — Advanced article use and omission
+ES-129 — Advanced adjective position and meaning
+ES-130 — Advanced clitic placement with infinitives, gerunds and commands
+ES-131 — Advanced pronoun reference
+ES-132 — Prepositional pronouns and conmigo/contigo
+ES-133 — Relative and interrogative refinements
+ES-134 — Nominalization
+ES-135 — Focus, topicalization and dislocation
+ES-136 — Cleft and emphatic structures
+ES-137 — Written syntactic compression
+ES-138 — Advanced syntax synthesis
+
+STAGE 16 — WORD FORMATION
+
+ES-139 — Common derivational suffixes
+ES-140 — Diminutives
+ES-141 — Augmentatives and evaluative morphology
+ES-142 — Productive prefixes
+ES-143 — Adverb formation in -mente
+ES-144 — Noun/adjective/verb word families
+ES-145 — Learned and Latinate morphology
+ES-146 — Word-formation synthesis
+
+STAGE 17 — IDIOM, REGISTER AND NATURAL USAGE
+
+ES-147 — Common fixed expressions
+ES-148 — High-frequency verbal idioms
+ES-149 — Collocations
+ES-150 — Everyday conversational Spanish from Spain
+ES-151 — Neutral versus formal vocabulary
+ES-152 — Familiar and colloquial usage
+ES-153 — Pragmatics, politeness and social distance
+ES-154 — Discourse markers
+ES-155 — Extended explanation, narration and argument
+ES-156 — Register switching
+
+STAGE 18 — REGIONAL AND PAN-HISPANIC COMPETENCE
+
+Spain is the unmarked production reference, but educated-adult competence
+must support broad comprehension across the Spanish-speaking world.
+
+ES-157 — Ustedes as ordinary plural second person in the Americas
+ES-158 — Voseo: major forms and regions
+ES-159 — Seseo and pronunciation variation
+ES-160 — Yeísmo and major pronunciation variation
+ES-161 — High-frequency Spain/Americas lexical contrasts
+ES-162 — Major Mexican and Central American usage
+ES-163 — Caribbean usage
+ES-164 — Río de la Plata usage
+ES-165 — Andean usage
+ES-166 — Other broadly encountered American variation
+ES-167 — Regional register and pragmatic differences
+ES-168 — Pan-Hispanic comprehension synthesis
+
+Regional material should be documented and useful. Do not manufacture a
+single artificial pan-Hispanic production variety or treat every localism
+as equally important.
+
+STAGE 19 — BROAD VOCABULARY EXPANSION
+
+These are longitudinal domains, not sealed thematic blocks. Vocabulary
+from every domain may appear much earlier.
+
+ES-169 — Household and everyday life
+ES-170 — Food and cooking
+ES-171 — Clothing and personal objects
+ES-172 — Family and relationships
+ES-173 — Body and health
+ES-174 — Work and occupations
+ES-175 — Education
+ES-176 — Travel and transportation
+ES-177 — Buildings, towns and public places
+ES-178 — Nature, plants and animals
+ES-179 — Weather and environment
+ES-180 — Tools, materials and physical objects
+ES-181 — Technology and communications
+ES-182 — Commerce, money and finance
+ES-183 — Government, law and public institutions
+ES-184 — Science and mathematics
+ES-185 — Arts, literature and culture
+ES-186 — Religion and philosophy
+ES-187 — Emotions, personality and human behaviour
+ES-188 — Abstract concepts and relationships
+
+STAGE 20 — EDUCATED-ADULT LEXICON AND LONG TAIL
+
+ES-189 — Lower-frequency verbs
+ES-190 — Lower-frequency adjectives
+ES-191 — Lower-frequency concrete nouns
+ES-192 — Abstract nouns
+ES-193 — Academic vocabulary
+ES-194 — Professional and institutional vocabulary
+ES-195 — Scientific and technical general vocabulary
+ES-196 — Political, legal and economic vocabulary
+ES-197 — Cultural and literary vocabulary
+ES-198 — Less-common idioms and collocations
+ES-199 — Fine semantic distinctions and near-synonyms
+ES-200 — Word families and derivational depth
+ES-201 — Formal and literary vocabulary
+ES-202 — Historical vocabulary encountered in modern texts
+ES-203 — Specialized vocabulary of broad cultural relevance
+ES-204 — Rare but reasonable educated-adult vocabulary
+ES-205 — Idiomatic and figurative long tail
+ES-206 — Continuing lexical expansion
+
+COMMON OBJECTIVE: Move toward the breadth, precision, phraseology,
+register awareness and regional comprehension expected of an educated
+adult speaker/reader without turning the curriculum into an inventory of
+every attested Spanish word.
+
+GLOBAL CARD RULES
+
+1. Spanish from Spain is the unmarked reference variety.
+2. Natural pro-drop is the default. Explicit subject pronouns are used
+   where contrast, emphasis, disambiguation or teaching purpose warrants.
+3. Do not teach ser/estar as merely permanent versus temporary. Build the
+   distinction through constructions and meanings, then refine it.
+4. Do not map English progressive forms mechanically to estar + gerund.
+5. Written accents and inverted punctuation are required target
+   orthography.
+6. Tú/vosotros belong to the unmarked Peninsular backbone; usted/ustedes
+   are also taught early enough for ordinary interaction. American
+   second-person systems are explicitly developed later.
+7. High-frequency material may appear before its formal syllabus unit.
+   Later cards may drill and refine it. Do not postpone useful language
+   merely to preserve a pristine unit boundary.
+8. Exact matching requires prompts to distinguish meanings where English
+   underdetermines a Spanish contrast.
+9. Grammar is normally embodied in useful target-language examples rather
+   than terminology questions.
+10. Vocabulary grows continuously and increasingly carries established
+    grammar as the curriculum matures.
+11. Later cards should increasingly combine several established structures
+    naturally.
+12. The scheduler supplies repetition; the curriculum supplies varied
+    examples rather than duplicate cards.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+Unit numbering indicates a useful path, not a prohibition on early
+exposure. A concept is established when the canonical deck has made its
+basic operation sufficiently clear for later reuse; establishment may
+occur longitudinally across later units.
+
+Once established, grammar and vocabulary remain reusable. Future
+generation may take prerequisite-safe local detours without amending this
+syllabus. Repeated evidence that the preferred route itself has changed is
+a reason to revise the syllabus.
+
+AMENDMENT POLICY
+
+Amend this syllabus when the preferred Spanish curricular path or durable
+language-specific policy changes, not when routine card generation merely
+advances the frontier.
+
+AMENDMENT HISTORY
+
+Version 0.1
+- Initial Spanish syllabus, written after the 100-card prototype.
+- Uses contemporary Spanish from Spain as the unmarked reference variety.
+- Treats French as a useful Romance comparison but not a template.
+- Formalizes natural pro-drop and the early ser/estar/hay functional map.
+- Allows useful structures to appear early and be established
+  longitudinally rather than requiring exhaustive drilling before
+  progression.
+- Provides an explicit later pan-Hispanic/regional strand while retaining
+  a coherent Peninsular production backbone.
+- Defines a path from the prototype through present morphology, objects and
+  clitics, past aspect, periphrases, mood, complex syntax, register,
+  regional comprehension and educated-adult lexical breadth.
