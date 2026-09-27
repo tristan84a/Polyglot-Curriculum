@@ -1,0 +1,101 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+1800000,Swedish,house,hus,,noun
+1800001,Swedish,man,man,,noun
+1800002,Swedish,woman,kvinna,,noun
+1800003,Swedish,child,barn,,noun
+1800004,Swedish,big,stor,,adjective
+1800005,Swedish,small,liten,,adjective
+1800006,Swedish,good,bra,,adjective
+1800007,Swedish,bad,dålig,,adjective
+1800008,Swedish,the house,huset,,phrase
+1800009,Swedish,the man,mannen,,phrase
+1800010,Swedish,the woman,kvinnan,,phrase
+1800011,Swedish,the child,barnet,,phrase
+1800012,Swedish,The house is big.,Huset är stort.,,sentence
+1800013,Swedish,The man is good.,Mannen är bra.,,sentence
+1800014,Swedish,The woman is good.,Kvinnan är bra.,,sentence
+1800015,Swedish,The child is small.,Barnet är litet.,,sentence
+1800016,Swedish,a house,ett hus,,phrase
+1800017,Swedish,a man,en man,,phrase
+1800018,Swedish,a woman,en kvinna,,phrase
+1800019,Swedish,a child,ett barn,,phrase
+1800020,Swedish,a big house,ett stort hus,,phrase
+1800021,Swedish,a good man,en bra man,,phrase
+1800022,Swedish,a good woman,en bra kvinna,,phrase
+1800023,Swedish,a small child,ett litet barn,,phrase
+1800024,Swedish,I,jag,,pronoun
+1800025,Swedish,you (singular),du,,pronoun
+1800026,Swedish,he,han,,pronoun
+1800027,Swedish,she,hon,,pronoun
+1800028,Swedish,we,vi,,pronoun
+1800029,Swedish,you (plural),ni,,pronoun
+1800030,Swedish,they,de,,pronoun
+1800031,Swedish,I am here.,Jag är här.,,sentence
+1800032,Swedish,You are here. (singular),Du är här.,,sentence
+1800033,Swedish,He is here.,Han är här.,,sentence
+1800034,Swedish,She is here.,Hon är här.,,sentence
+1800035,Swedish,We are here.,Vi är här.,,sentence
+1800036,Swedish,You are here. (plural),Ni är här.,,sentence
+1800037,Swedish,They are here.,De är här.,,sentence
+1800038,Swedish,book,bok,,noun
+1800039,Swedish,car,bil,,noun
+1800040,Swedish,new,ny,,adjective
+1800041,Swedish,old,gammal,,adjective
+1800042,Swedish,a new book,en ny bok,,phrase
+1800043,Swedish,a new car,en ny bil,,phrase
+1800044,Swedish,The book is new.,Boken är ny.,,sentence
+1800045,Swedish,The car is old.,Bilen är gammal.,,sentence
+1800046,Swedish,to have,ha,,verb
+1800047,Swedish,I have a book.,Jag har en bok.,,sentence
+1800048,Swedish,You have a car. (singular),Du har en bil.,,sentence
+1800049,Swedish,She has a book.,Hon har en bok.,,sentence
+1800050,Swedish,We have a car.,Vi har en bil.,,sentence
+1800051,Swedish,to work,arbeta,,verb
+1800052,Swedish,to speak,tala,,verb
+1800053,Swedish,Swedish,svenska,,noun
+1800054,Swedish,I work.,Jag arbetar.,,sentence
+1800055,Swedish,You work. (singular),Du arbetar.,,sentence
+1800056,Swedish,He works.,Han arbetar.,,sentence
+1800057,Swedish,We work.,Vi arbetar.,,sentence
+1800058,Swedish,They work.,De arbetar.,,sentence
+1800059,Swedish,I speak Swedish.,Jag talar svenska.,,sentence
+1800060,Swedish,You speak Swedish. (singular),Du talar svenska.,,sentence
+1800061,Swedish,She speaks Swedish.,Hon talar svenska.,,sentence
+1800062,Swedish,We speak Swedish.,Vi talar svenska.,,sentence
+1800063,Swedish,not,inte,,grammar
+1800064,Swedish,I do not work.,Jag arbetar inte.,,sentence
+1800065,Swedish,He does not work.,Han arbetar inte.,,sentence
+1800066,Swedish,The house is not big.,Huset är inte stort.,,sentence
+1800067,Swedish,The book is not old.,Boken är inte gammal.,,sentence
+1800068,Swedish,Do you work? (singular),Arbetar du?,,sentence
+1800069,Swedish,Does she speak Swedish?,Talar hon svenska?,,sentence
+1800070,Swedish,Is the house big?,Är huset stort?,,sentence
+1800071,Swedish,what,vad,,grammar
+1800072,Swedish,who,vem,,grammar
+1800073,Swedish,where,var,,grammar
+1800074,Swedish,What is this?,Vad är det här?,,sentence
+1800075,Swedish,Who is here?,Vem är här?,,sentence
+1800076,Swedish,Where is the book?,Var är boken?,,sentence
+1800077,Swedish,to see,se,,verb
+1800078,Swedish,I see the man.,Jag ser mannen.,,sentence
+1800079,Swedish,She sees the woman.,Hon ser kvinnan.,,sentence
+1800080,Swedish,We see the child.,Vi ser barnet.,,sentence
+1800081,Swedish,He sees the car.,Han ser bilen.,,sentence
+1800082,Swedish,water,vatten,,noun
+1800083,Swedish,bread,bröd,,noun
+1800084,Swedish,to eat,äta,,verb
+1800085,Swedish,to drink,dricka,,verb
+1800086,Swedish,I eat bread.,Jag äter bröd.,,sentence
+1800087,Swedish,I drink water.,Jag dricker vatten.,,sentence
+1800088,Swedish,to want,vilja,,verb
+1800089,Swedish,I want to work.,Jag vill arbeta.,,sentence
+1800090,Swedish,You want to speak Swedish. (singular),Du vill tala svenska.,,sentence
+1800091,Swedish,She wants to see the house.,Hon vill se huset.,,sentence
+1800092,Swedish,We want to have a car.,Vi vill ha en bil.,,sentence
+1800093,Swedish,here,här,,adverb
+1800094,Swedish,there,där,,adverb
+1800095,Swedish,The car is here.,Bilen är här.,,sentence
+1800096,Swedish,yes,ja,,expression
+1800097,Swedish,no,nej,,expression
+1800098,Swedish,Do you speak Swedish? (singular),Talar du svenska?,,sentence
+1800099,Swedish,Where is the car?,Var är bilen?,,sentence
