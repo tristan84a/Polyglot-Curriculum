@@ -25,7 +25,7 @@ Polyglot currently uses integer language blocks of 100,000 IDs.
 Language    Reserved ID range    Current used IDs     Current cards
 French      100000-199999        100000-100599        600
 German      200000-299999        200000-200553        554
-Japanese    300000-399999        300000-300119        120
+Japanese    300000-399999        300000-300499        500
 Polish      400000-499999        400000-400050        51
 Hungarian   500000-599999        500000-500499        500
 Turkish     600000-699999        600000-600049        50
@@ -93,18 +93,25 @@ JAPANESE
 Syllabus: Syllabi/Polyglot_Japanese_Syllabus_v0.4.txt
 Syllabus version: 0.4
 Card file: Cards/Japanese.csv
-Cards: 120
-Used IDs: 300000-300119
-Checkpoint: The Japanese deck has advanced to 120 cards from the rebuilt
-structural seed. It now develops desu, wa, o, ni, ka, no, mo, de, early
-demonstratives, accompaniment with to, direction with e, kara/made,
-initial ga contexts, continuing polite nonpast and negation, and the
-first polite past and negative-past forms. Vocabulary and authentic
-orthography continue to grow just in time, with romaji InputHint retained
-broadly during this experimental stage. The superseded 99-card
-lexical-first trial has been retired from the current Cards folder; Git
-history remains the archival record.
-
+Cards: 500
+Used IDs: 300000-300499
+Checkpoint: Japanese has advanced from 120 to 500 live cards under syllabus
+v0.4. The expansion first broadens everyday vocabulary and develops
+い-adjectives and な-adjectives through attributive, predicative, negative
+and past forms; ある/いる existence and location; 好き; and additional
+ordinary kanji/kana/katakana literacy. It then establishes a substantial
+plain-form system across non-past, negative, past and past-negative verbs,
+nominal predicates and adjectives; expands て-form morphology across major
+verb classes; and develops sequential actions, ～ている, ～てください,
+～てもいい, ～てはいけない, ～てみる and negative requests. Later cards
+open prenominal relative clauses, 思う/言う complements, reason and contrast,
+nominalization, 時/前/後 time relations, ～たい, potential forms, できる,
+つもり, 予定, obligation, lack of necessity, advice, 欲しい, 分かる and
+purpose-of-motion constructions. Cards 300480-300499 begin the numbers and
+counter frontier through 一-五, 人, 冊 and つ forms. Continue from counters
+and quantity while reinforcing plain forms, て-form constructions, clause
+modification and modal meanings longitudinally; comparison and later syllabus
+systems remain ahead rather than requiring a restart.
 POLISH
 Syllabus: Syllabi/Polyglot_Polish_Syllabus_v0.2.txt
 Syllabus version: 0.2
