@@ -365,8 +365,8 @@ Card counts are descriptive only. They are not completion quotas and do
 not determine when a syllabus unit is established.
 
 SERBIAN
-Syllabus: Syllabi/Polyglot_Serbian_Syllabus_v0.1.txt
-Syllabus version: 0.1
+Syllabus: Syllabi/Polyglot_Serbian_Syllabus_v0.2.txt
+Syllabus version: 0.2
 Card file: Cards/Serbian.csv
 Cards: 100
 Used IDs: 1700000-1700099
@@ -380,6 +380,11 @@ clitic forms of бити; negative бити; да ли questions; present чит
 имати possession; хтети with да + present; and the у + locative versus
 у + accusative location/destination contrast. Future development should
 broaden cases and verb classes while opening clitic placement, aspect and
-past-time language. Standard Ijekavian Serbian and Serbian Latin script are
-reserved for explicit later strands rather than mixed into the opening.
+past-time language. Standard Ijekavian Serbian and Serbian Latin script are reserved for explicit
+later strands rather than mixed into the opening. The mature syllabus treats
+the nominally Serbian deck as a broader Serbo-Croatian/BCMS curriculum:
+unqualified cards default to Serbian + Ekavian + Cyrillic; explicit Latin
+cards teach Serbian's second script; and Croatian Bosnian and Montenegrin
+enter as labelled active strands where their standard targets differ
+meaningfully from the Serbian default.
 
