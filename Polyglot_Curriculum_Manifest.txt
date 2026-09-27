@@ -35,6 +35,7 @@ Spanish      900000-999999        900000-900099        100
 Russian     1000000-1099999       1000000-1000452       453
 Greek       1100000-1199999       1100000-1100099       100
 Hindi       1200000-1299999       1200000-1200099       100
+Hebrew      1300000-1399999       1300000-1300099       100
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -267,6 +268,26 @@ Future expansion should reinforce these longitudinally while opening
 plural agreement, core postpositions and oblique forms, का/के/की
 possessives, pronoun obliques and progressive रहा; perfective morphology
 and ने need not wait for exhaustive noun paradigms.
+
+HEBREW
+Syllabus: Syllabi/Polyglot_Hebrew_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Hebrew.csv
+Cards: 100
+Used IDs: 1300000-1300099
+Checkpoint: Hebrew has begun with a 100-card seed and is now governed by
+Hebrew syllabus v0.1. The opening uses normal unpointed contemporary Hebrew
+and the shared lexical seed, then develops masculine/feminine adjective
+agreement, present nominal/adjectival predication without an overt copula,
+definite ה־ and attributive adjective definiteness, זה/זאת demonstratives,
+gendered personal pronouns, gender/number-sensitive present forms through
+לדבר and לעבוד, לא negation, ordinary polar questions, איפה/מה/מי,
+existential יש/אין, possession with יש + ל־, definite-object את contrasted
+with an indefinite object, infinitives and רוצה + infinitive. Future
+expansion should broaden plural agreement and present verbs while developing
+inflected possession/prepositions, של and construct-state possession, and
+a first controlled past-tense system; root/binyan awareness should support
+rather than delay useful language.
 
 4. MAINTENANCE RULES
 
