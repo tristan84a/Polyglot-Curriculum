@@ -37,6 +37,7 @@ Greek       1100000-1199999       1100000-1100099       100
 Hindi       1200000-1299999       1200000-1200099       100
 Hebrew      1300000-1399999       1300000-1300099       100
 Mandarin    1400000-1499999       1400000-1400099       100
+Icelandic   1500000-1599999       1500000-1500099       100
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -312,6 +313,26 @@ Future expansion should develop 的 possession/modification, classifiers,
 time/place word order and broader verbal vocabulary while allowing clear
 aspect and resultative structures to enter early rather than waiting for
 exhaustive classifier or character coverage.
+
+ICELANDIC
+Syllabus: Syllabi/Polyglot_Icelandic_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Icelandic.csv
+Cards: 100
+Used IDs: 1500000-1500099
+Checkpoint: Icelandic has begun with a 100-card seed and is now governed by
+Icelandic syllabus v0.1. The opening uses authentic Icelandic orthography
+and the shared lexical seed, then immediately exposes the suffixed definite
+article across masculine, feminine and neuter nouns; predicative adjective
+gender agreement; indefinite noun phrases without an article; the personal
+pronoun system including þeir/þær/þau; present vera; present verbal
+morphology through vinna and tala; ekki negation; verb-first polar questions;
+hvað/hver/hvar; possession with eiga; direct objects through sjá; first
+visible nominative/accusative contrasts such as maður/mann and
+maðurinn/manninn; and vilja + infinitive. Future expansion should broaden
+plural and adjective agreement while developing the four-case system through
+meaningful government, V2 fronting, additional present verbs and early past
+forms rather than exhausting declension tables first.
 
 4. MAINTENANCE RULES
 
