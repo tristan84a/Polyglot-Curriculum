@@ -40,6 +40,7 @@ Mandarin    1400000-1499999       1400000-1400099       100
 Icelandic   1500000-1599999       1500000-1500099       100
 Italian     1600000-1699999       1600000-1600099       100
 Serbian     1700000-1799999       1700000-1700099       100
+Swedish     1800000-1899999       1800000-1800099       100
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -387,4 +388,23 @@ unqualified cards default to Serbian + Ekavian + Cyrillic; explicit Latin
 cards teach Serbian's second script; and Croatian Bosnian and Montenegrin
 enter as labelled active strands where their standard targets differ
 meaningfully from the Serbian default.
+
+SWEDISH
+Syllabus: Syllabi/Polyglot_Swedish_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Swedish.csv
+Cards: 100
+Used IDs: 1800000-1800099
+Checkpoint: Swedish begins with a 100-card seed under syllabus v0.1 using
+contemporary neutral Standard Swedish as used in Sweden. The opening develops
+the shared lexical seed; en/ett gender; suffixed definite nouns; predicative
+and first attributive adjective agreement; personal pronouns; vara and ha;
+present verbs without person/number agreement; inte; verb-first polar
+questions; basic question words; direct objects; common irregular verbs;
+vilja + bare infinitive; and basic place language. Future development should
+broaden noun plural and definite morphology, adjective agreement, V2 and
+main/subordinate word order while opening pronoun objects, possession,
+infinitival constructions, past tense, supine/perfect, particle verbs and
+pronunciation. Finland Swedish and de/dem/dom variation are reserved for
+explicit later strands.
 
