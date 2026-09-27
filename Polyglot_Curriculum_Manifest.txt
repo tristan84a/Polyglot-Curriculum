@@ -27,7 +27,7 @@ French      100000-199999        100000-100599        600
 German      200000-299999        200000-200553        554
 Japanese    300000-399999        300000-300119        120
 Polish      400000-499999        400000-400050        51
-Hungarian   500000-599999        500000-500035        36
+Hungarian   500000-599999        500000-500499        500
 Turkish     600000-699999        600000-600049        50
 Arabic      700000-799999        700000-700499        500
 Ojibwe      800000-899999        800000-800098        99
@@ -116,14 +116,25 @@ HUNGARIAN
 Syllabus: Syllabi/Polyglot_Hungarian_Syllabus_v0.1.txt
 Syllabus version: 0.1
 Card file: Cards/Hungarian.csv
-Cards: 36
-Used IDs: 500000-500035
-Checkpoint: The collaboratively designed 36-card opening prototype has
-been published. It establishes the shared lexical seed, a/az, nominal
-and adjectival zero-copula predication, basic personal pronouns with
-natural omission, and initial personal predicate forms. Continue only
-after reconciling the prototype against syllabus v0.1.
-
+Cards: 500
+Used IDs: 500000-500499
+Checkpoint: Hungarian has advanced from its 36-card predication prototype to
+a 500-card foundation under syllabus v0.1. The expansion develops noun
+plurals and attributive versus predicative adjective behavior; present
+indefinite and definite conjugation; accusative objects; negation and
+questions; overt van/vannak in existential and locative clauses; the major
+local-case families; vowel-harmonic suffixing through concrete examples;
+possessive suffixes and existential possession; dative instrumental and
+other common case/postposition patterns; infinitives and modal constructions;
+verbal prefixes; past future conditional and imperative/subjunctive forms;
+case-marked and reflexive pronouns; demonstrative case agreement; numbers
+and singular nouns after numerals; comparison and time expressions; broader
+everyday vocabulary; first complex clauses; formal address; -hat/-het
+potential forms; causative morphology; and initial focus contrasts. Future
+development should consolidate these systems while deepening verbal-prefix
+placement and lexicalization, definite/indefinite conjugation, case and
+possessive stacking, information structure, complex clauses and natural
+register before moving farther into the syllabus's mature lexical strands.
 TURKISH
 Syllabus: Syllabi/Polyglot_Turkish_Syllabus_v0.1.txt
 Syllabus version: 0.1
