@@ -1,0 +1,101 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+1900000,Punjabi,house,ਘਰ,,noun
+1900001,Punjabi,man,ਆਦਮੀ,,noun
+1900002,Punjabi,woman,ਔਰਤ,,noun
+1900003,Punjabi,child,ਬੱਚਾ,,noun
+1900004,Punjabi,big,ਵੱਡਾ,,adjective
+1900005,Punjabi,small,ਛੋਟਾ,,adjective
+1900006,Punjabi,good,ਚੰਗਾ,,adjective
+1900007,Punjabi,bad,ਮਾੜਾ,,adjective
+1900008,Punjabi,a big house,ਵੱਡਾ ਘਰ,,phrase
+1900009,Punjabi,a good man,ਚੰਗਾ ਆਦਮੀ,,phrase
+1900010,Punjabi,a good woman,ਚੰਗੀ ਔਰਤ,,phrase
+1900011,Punjabi,a small child,ਛੋਟਾ ਬੱਚਾ,,phrase
+1900012,Punjabi,girl / female child,ਬੱਚੀ,,noun
+1900013,Punjabi,a good girl,ਚੰਗੀ ਬੱਚੀ,,phrase
+1900014,Punjabi,I,ਮੈਂ,,pronoun
+1900015,Punjabi,you (singular intimate),ਤੂੰ,,pronoun
+1900016,Punjabi,you (respectful or plural),ਤੁਸੀਂ,,pronoun
+1900017,Punjabi,he,ਉਹ,,pronoun
+1900018,Punjabi,this person / he / she,ਇਹ,,pronoun
+1900019,Punjabi,we,ਅਸੀਂ,,pronoun
+1900020,Punjabi,they,ਉਹ,,pronoun
+1900021,Punjabi,I am a man. (male speaker),ਮੈਂ ਆਦਮੀ ਹਾਂ।,,sentence
+1900022,Punjabi,I am a woman. (female speaker),ਮੈਂ ਔਰਤ ਹਾਂ।,,sentence
+1900023,Punjabi,You are a man. (respectful),ਤੁਸੀਂ ਆਦਮੀ ਹੋ।,,sentence
+1900024,Punjabi,He is a man.,ਉਹ ਆਦਮੀ ਹੈ।,,sentence
+1900025,Punjabi,She is a woman.,ਉਹ ਔਰਤ ਹੈ।,,sentence
+1900026,Punjabi,We are here.,ਅਸੀਂ ਇੱਥੇ ਹਾਂ।,,sentence
+1900027,Punjabi,They are there.,ਉਹ ਉੱਥੇ ਹਨ।,,sentence
+1900028,Punjabi,here,ਇੱਥੇ,,adverb
+1900029,Punjabi,there,ਉੱਥੇ,,adverb
+1900030,Punjabi,The house is big.,ਘਰ ਵੱਡਾ ਹੈ।,,sentence
+1900031,Punjabi,The woman is good.,ਔਰਤ ਚੰਗੀ ਹੈ।,,sentence
+1900032,Punjabi,The child is small.,ਬੱਚਾ ਛੋਟਾ ਹੈ।,,sentence
+1900033,Punjabi,The girl is good.,ਬੱਚੀ ਚੰਗੀ ਹੈ।,,sentence
+1900034,Punjabi,new,ਨਵਾਂ,,adjective
+1900035,Punjabi,old,ਪੁਰਾਣਾ,,adjective
+1900036,Punjabi,a new house,ਨਵਾਂ ਘਰ,,phrase
+1900037,Punjabi,an old house,ਪੁਰਾਣਾ ਘਰ,,phrase
+1900038,Punjabi,a new girl,ਨਵੀਂ ਬੱਚੀ,,phrase
+1900039,Punjabi,to speak,ਬੋਲਣਾ,,verb
+1900040,Punjabi,Punjabi (language),ਪੰਜਾਬੀ,,noun
+1900041,Punjabi,I speak Punjabi. (male speaker),ਮੈਂ ਪੰਜਾਬੀ ਬੋਲਦਾ ਹਾਂ।,,sentence
+1900042,Punjabi,I speak Punjabi. (female speaker),ਮੈਂ ਪੰਜਾਬੀ ਬੋਲਦੀ ਹਾਂ।,,sentence
+1900043,Punjabi,You speak Punjabi. (respectful; male),ਤੁਸੀਂ ਪੰਜਾਬੀ ਬੋਲਦੇ ਹੋ।,,sentence
+1900044,Punjabi,You speak Punjabi. (respectful; female),ਤੁਸੀਂ ਪੰਜਾਬੀ ਬੋਲਦੇ ਹੋ।,,sentence
+1900045,Punjabi,He speaks Punjabi.,ਉਹ ਪੰਜਾਬੀ ਬੋਲਦਾ ਹੈ।,,sentence
+1900046,Punjabi,She speaks Punjabi.,ਉਹ ਪੰਜਾਬੀ ਬੋਲਦੀ ਹੈ।,,sentence
+1900047,Punjabi,They speak Punjabi. (masculine or mixed),ਉਹ ਪੰਜਾਬੀ ਬੋਲਦੇ ਹਨ।,,sentence
+1900048,Punjabi,to work,ਕੰਮ ਕਰਨਾ,,verb
+1900049,Punjabi,I work. (male speaker),ਮੈਂ ਕੰਮ ਕਰਦਾ ਹਾਂ।,,sentence
+1900050,Punjabi,I work. (female speaker),ਮੈਂ ਕੰਮ ਕਰਦੀ ਹਾਂ।,,sentence
+1900051,Punjabi,He works.,ਉਹ ਕੰਮ ਕਰਦਾ ਹੈ।,,sentence
+1900052,Punjabi,She works.,ਉਹ ਕੰਮ ਕਰਦੀ ਹੈ।,,sentence
+1900053,Punjabi,We work. (masculine or mixed),ਅਸੀਂ ਕੰਮ ਕਰਦੇ ਹਾਂ।,,sentence
+1900054,Punjabi,I do not work. (male speaker),ਮੈਂ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਹਾਂ।,,sentence
+1900055,Punjabi,She does not speak Punjabi.,ਉਹ ਪੰਜਾਬੀ ਨਹੀਂ ਬੋਲਦੀ ਹੈ।,,sentence
+1900056,Punjabi,Do you speak Punjabi? (respectful),ਕੀ ਤੁਸੀਂ ਪੰਜਾਬੀ ਬੋਲਦੇ ਹੋ?,,sentence
+1900057,Punjabi,Does she work?,ਕੀ ਉਹ ਕੰਮ ਕਰਦੀ ਹੈ?,,sentence
+1900058,Punjabi,where,ਕਿੱਥੇ,,grammar
+1900059,Punjabi,Where is the house?,ਘਰ ਕਿੱਥੇ ਹੈ?,,sentence
+1900060,Punjabi,Where is the woman?,ਔਰਤ ਕਿੱਥੇ ਹੈ?,,sentence
+1900061,Punjabi,what,ਕੀ,,grammar
+1900062,Punjabi,What is this?,ਇਹ ਕੀ ਹੈ?,,sentence
+1900063,Punjabi,who,ਕੌਣ,,grammar
+1900064,Punjabi,Who is that?,ਉਹ ਕੌਣ ਹੈ?,,sentence
+1900065,Punjabi,book,ਕਿਤਾਬ,,noun
+1900066,Punjabi,water,ਪਾਣੀ,,noun
+1900067,Punjabi,car,ਗੱਡੀ,,noun
+1900068,Punjabi,to have / be near,ਕੋਲ ਹੋਣਾ,,verb
+1900069,Punjabi,I have a book.,ਮੇਰੇ ਕੋਲ ਕਿਤਾਬ ਹੈ।,,sentence
+1900070,Punjabi,You have a car. (respectful),ਤੁਹਾਡੇ ਕੋਲ ਗੱਡੀ ਹੈ।,,sentence
+1900071,Punjabi,She has a book.,ਉਸਦੇ ਕੋਲ ਕਿਤਾਬ ਹੈ।,,sentence
+1900072,Punjabi,We have water.,ਸਾਡੇ ਕੋਲ ਪਾਣੀ ਹੈ।,,sentence
+1900073,Punjabi,They have a car.,ਉਹਨਾਂ ਕੋਲ ਗੱਡੀ ਹੈ।,,sentence
+1900074,Punjabi,to see,ਵੇਖਣਾ,,verb
+1900075,Punjabi,I see the house. (male speaker),ਮੈਂ ਘਰ ਵੇਖਦਾ ਹਾਂ।,,sentence
+1900076,Punjabi,I see the woman. (male speaker),ਮੈਂ ਔਰਤ ਨੂੰ ਵੇਖਦਾ ਹਾਂ।,,sentence
+1900077,Punjabi,She sees the man.,ਉਹ ਆਦਮੀ ਨੂੰ ਵੇਖਦੀ ਹੈ।,,sentence
+1900078,Punjabi,We see the child. (masculine or mixed speakers),ਅਸੀਂ ਬੱਚੇ ਨੂੰ ਵੇਖਦੇ ਹਾਂ।,,sentence
+1900079,Punjabi,to the child / the child (object),ਬੱਚੇ ਨੂੰ,,phrase
+1900080,Punjabi,to want,ਚਾਹੁਣਾ,,verb
+1900081,Punjabi,I want water.,ਮੈਨੂੰ ਪਾਣੀ ਚਾਹੀਦਾ ਹੈ।,,sentence
+1900082,Punjabi,I want to work. (male speaker),ਮੈਂ ਕੰਮ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹਾਂ।,,sentence
+1900083,Punjabi,I want to work. (female speaker),ਮੈਂ ਕੰਮ ਕਰਨਾ ਚਾਹੁੰਦੀ ਹਾਂ।,,sentence
+1900084,Punjabi,She wants to speak Punjabi.,ਉਹ ਪੰਜਾਬੀ ਬੋਲਣਾ ਚਾਹੁੰਦੀ ਹੈ।,,sentence
+1900085,Punjabi,We want to see the house. (masculine or mixed),ਅਸੀਂ ਘਰ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹਾਂ।,,sentence
+1900086,Punjabi,yes,ਹਾਂ,,expression
+1900087,Punjabi,no,ਨਹੀਂ,,expression
+1900088,Punjabi,I speak Punjabi well. (male speaker),ਮੈਂ ਪੰਜਾਬੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਬੋਲਦਾ ਹਾਂ।,,sentence
+1900089,Punjabi,I do not speak Punjabi. (female speaker),ਮੈਂ ਪੰਜਾਬੀ ਨਹੀਂ ਬੋਲਦੀ ਹਾਂ।,,sentence
+1900090,Punjabi,Do you work? (respectful),ਕੀ ਤੁਸੀਂ ਕੰਮ ਕਰਦੇ ਹੋ?,,sentence
+1900091,Punjabi,This is a book.,ਇਹ ਕਿਤਾਬ ਹੈ।,,sentence
+1900092,Punjabi,That is a car.,ਉਹ ਗੱਡੀ ਹੈ।,,sentence
+1900093,Punjabi,The book is good.,ਕਿਤਾਬ ਚੰਗੀ ਹੈ।,,sentence
+1900094,Punjabi,The car is new.,ਗੱਡੀ ਨਵੀਂ ਹੈ।,,sentence
+1900095,Punjabi,Where is the book?,ਕਿਤਾਬ ਕਿੱਥੇ ਹੈ?,,sentence
+1900096,Punjabi,Do you speak Punjabi? (singular intimate),ਕੀ ਤੂੰ ਪੰਜਾਬੀ ਬੋਲਦਾ ਹੈਂ?,,sentence
+1900097,Punjabi,You are here. (singular intimate),ਤੂੰ ਇੱਥੇ ਹੈਂ।,,sentence
+1900098,Punjabi,I see the book. (female speaker),ਮੈਂ ਕਿਤਾਬ ਵੇਖਦੀ ਹਾਂ।,,sentence
+1900099,Punjabi,The car is here.,ਗੱਡੀ ਇੱਥੇ ਹੈ।,,sentence
