@@ -1,0 +1,318 @@
+POLYGLOT SERBIAN SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for contemporary
+Standard Serbian in Polyglot. It was written after an initial 100-card
+Cyrillic seed. Russian and Polish are useful Slavic reference
+implementations but Serbian structure and usage remain authoritative.
+
+The syllabus is a roadmap rather than a transcript. Vocabulary and
+previously introduced grammar continue to develop longitudinally.
+
+REFERENCE VARIETY SCRIPT AND PRONUNCIATION
+
+The initial production baseline is contemporary Standard Serbian as used in
+Serbia with Ekavian forms as the unmarked early target. Standard Ijekavian
+Serbian is a legitimate standard variant and receives an explicit later
+strand rather than being treated as an error.
+
+Cyrillic is the canonical script for the initial deck and syllabus. Serbian
+Latin script is introduced later as parallel literacy because both scripts
+are in ordinary contemporary use. Targets should not mix scripts
+accidentally.
+
+Ordinary Serbian spelling does not mark lexical pitch accent. Canonical
+Targets therefore use normal unaccented orthography. Pronunciation and the
+four-accent system may be developed separately without adding accent marks
+to ordinary Target forms.
+
+COURSE-WIDE SERBIAN PRINCIPLES
+
+1. Begin with a small reusable seed and move quickly into productive
+   sentences in authentic Cyrillic.
+2. Serbian has masculine feminine and neuter gender. Adjectives and other
+   agreeing words develop across gender number and case.
+3. Case is longitudinal. Establish useful functions in controlled examples
+   before widening paradigms.
+4. Animacy matters especially in masculine accusative forms and should
+   emerge through visible contrasts.
+5. Serbian normally permits subject omission. Pronouns are taught explicitly
+   but neutral finite clauses should omit them when person is recoverable.
+6. Present forms of бити are overt clitics in ordinary copular clauses.
+   Their placement belongs to the broader clitic system.
+7. Enclitics are structurally central. Auxiliary forms pronoun clitics and
+   related elements require progressive work on second-position clustering
+   and natural ordering.
+8. Negation with ordinary verbs uses не. The negative present of бити uses
+   fused forms such as нисам and није.
+9. Да ли is a productive neutral question strategy. Other question patterns
+   and clitic-sensitive alternatives can be added after the opening.
+10. Present-tense conjugation should be learned through productive classes
+    plus high-frequency irregular verbs rather than one giant table.
+11. Aspect is lexical and grammatical. Imperfective/perfective partners
+    develop longitudinally across past future infinitival and imperative
+    contexts.
+12. Serbian has seven cases in the standard descriptive system:
+    nominative genitive dative accusative vocative instrumental and
+    locative. Case names organize the syllabus but cards should primarily
+    teach meaningful forms and constructions.
+13. Prepositions and case government are learned together through concrete
+    contrasts such as у + locative for location and у + accusative for
+    destination.
+14. The vocative remains productive in direct address and deserves ordinary
+    usage examples rather than treatment as a historical curiosity.
+15. Possessives agree adjectivally with the possessed noun. Genitive
+    possession and dative possessive constructions are developed where
+    natural.
+16. Serbian distinguishes short and long adjective forms in parts of the
+    paradigm and usage. Introduce the distinction through actual contexts
+    rather than forcing an English article analogy.
+17. Past tense is built with the l-participle and present clitic forms of
+    бити. Gender and number agreement are therefore integral to early past
+    usage.
+18. Future I uses forms of хтети with an infinitive and has important
+    orthographic/clitic behavior. Teach natural written forms and sentence
+    structure.
+19. Future II and the conditional are later finite systems with their own
+    subordinate and modal functions.
+20. The infinitive and да + present overlap in important domains. Contemporary
+    Serbian usage should be taught directly; do not impose Croatian or
+    Bulgarian preferences onto Serbian.
+21. Motion verbs and prefixes develop in stages with aspect direction and
+    lexical meaning.
+22. Reflexive се is both a clitic and part of numerous lexical grammatical
+    constructions. Reflexive reciprocal impersonal and passive-like uses
+    should be distinguished by examples.
+23. Word order is flexible but not arbitrary. Information structure clitic
+    placement focus rhythm and discourse all constrain natural ordering.
+24. Comparative and superlative morphology should include productive forms
+    and frequent irregulars.
+25. Numbers interact with noun form and case in ways that require dedicated
+    development rather than English-style plural substitution.
+26. Serbian derivation and verbal prefixes are major sources of vocabulary
+    growth and aspectual contrast.
+27. Ekavian and Ijekavian differences should be labelled when exact matching
+    would otherwise allow more than one standard answer.
+28. Bosnian Croatian and Montenegrin are extremely close reference varieties
+    but are not silently substituted for Serbian targets. Shared material
+    may be reused where genuinely identical.
+29. Contemporary broadly neutral Serbian precedes literary historical and
+    strongly regional material.
+30. Vocabulary grows just in time. Similarity to Russian Polish or other
+    Slavic languages is useful evidence but never overrides Serbian usage.
+
+EMPIRICAL OPENING: CARDS 1-100
+
+The seed establishes:
+- the shared house/man/woman/child and big/small/good/bad anchors;
+- Serbian Cyrillic from the first card;
+- demonstrative identification with ово је;
+- masculine feminine and neuter adjective agreement;
+- personal pronouns followed by natural subject omission;
+- present clitic forms of бити in location and description;
+- negative бити through није;
+- да ли polar questions;
+- present-tense читати and радити;
+- где шта and ко;
+- ordinary verbal negation;
+- first direct-object accusatives;
+- имати for possession;
+- хтети with да + present;
+- у + locative for location versus у + accusative for destination;
+- да and не as yes/no responses.
+
+The opening deliberately uses Ekavian forms and Cyrillic only.
+
+INITIAL ROADMAP
+
+SR-01 Core Cyrillic nouns and authentic spelling
+SR-02 Core adjectives and three genders
+SR-03 Demonstratives and identification
+SR-04 Personal pronouns and subject omission
+SR-05 Present бити and copular clitics
+SR-06 Basic negation
+SR-07 Да ли and basic questions
+SR-08 First present conjugation patterns
+SR-09 Additional present classes and irregular verbs
+SR-10 Early sentence synthesis
+SR-11 Nominative plural
+SR-12 Plural adjective agreement
+SR-13 Accusative feminine singular
+SR-14 Accusative masculine inanimate
+SR-15 Accusative masculine animate
+SR-16 Accusative neuter and plural
+SR-17 Direct-object synthesis
+SR-18 Location with у/на + locative
+SR-19 Destination with у/на + accusative
+SR-20 Genitive singular and basic possession
+SR-21 Genitive after common prepositions
+SR-22 Dative recipients and goals
+SR-23 Instrumental accompaniment and means
+SR-24 Locative expansion
+SR-25 Vocative and direct address
+SR-26 Case synthesis
+SR-27 Има and нема existence
+SR-28 Possessive adjectives and pronouns
+SR-29 Demonstrative declension
+SR-30 Adjective declension
+SR-31 Short/long adjective distinctions
+SR-32 Question words across cases
+SR-33 Personal pronouns in oblique cases
+SR-34 Direct-object clitics
+SR-35 Indirect-object clitics
+SR-36 Reflexive себе/се
+SR-37 Clitic clusters
+SR-38 Second-position clitic placement
+SR-39 Clitic placement with questions and subordination
+SR-40 Infinitive
+SR-41 Да + present complements
+SR-42 Infinitive versus да + present
+SR-43 Modal verbs and predicates
+SR-44 Imperfective/perfective aspect introduction
+SR-45 Transparent aspect pairs
+SR-46 Prefixes and aspect
+SR-47 Lexicalized prefixed verbs
+SR-48 Present tense and perfective future reference
+SR-49 L-participle formation
+SR-50 Perfect/past with бити clitics
+SR-51 Past gender and number agreement
+SR-52 Past negation and questions
+SR-53 Aspect in the past
+SR-54 Future I
+SR-55 Future I orthography and clitic behavior
+SR-56 Future II
+SR-57 Conditional
+SR-58 Imperative
+SR-59 Aspect in commands and prohibitions
+SR-60 Reflexive verbs with се
+SR-61 Reciprocal constructions
+SR-62 Impersonal се
+SR-63 Passive-like се
+SR-64 Passive participles
+SR-65 Motion verbs: идти-type directional contrasts
+SR-66 Motion verbs and habitual/multidirectional meanings
+SR-67 Prefixed motion verbs
+SR-68 Comparative adjectives
+SR-69 Superlatives
+SR-70 Cardinal numbers
+SR-71 Numerals two through four
+SR-72 Numerals five and above
+SR-73 Collective and gender-sensitive numeral patterns
+SR-74 Ordinals
+SR-75 Time dates and age
+SR-76 Quantity and measurement
+SR-77 Coordination
+SR-78 Да complement clauses
+SR-79 Relative clauses
+SR-80 Кад temporal clauses
+SR-81 Јер/зато што causal clauses
+SR-82 Ако conditional clauses
+SR-83 Purpose clauses
+SR-84 Concessive clauses
+SR-85 Reported speech and questions
+SR-86 Word order and information structure
+SR-87 Topic and focus
+SR-88 Negation and scope
+SR-89 Indefinite negative and universal pronouns
+SR-90 Double negation
+SR-91 Productive noun derivation
+SR-92 Productive adjective derivation
+SR-93 Productive verb derivation
+SR-94 Verbal nouns and participles
+SR-95 Ekavian/Ijekavian correspondences
+SR-96 Standard Ijekavian Serbian reading and production
+SR-97 Serbian Latin script
+SR-98 Cyrillic/Latin parallel literacy
+SR-99 Formal and informal address
+SR-100 Greetings requests thanks and service encounters
+SR-101 Conversational particles
+SR-102 Neutral versus formal written Serbian
+SR-103 Colloquial Serbian
+SR-104 Regional variation within Serbian
+SR-105 Bosnian Croatian Montenegrin comparison for comprehension
+SR-106 Phraseology and high-frequency collocations
+SR-107 Idioms and figurative language
+SR-108 Polysemy and semantic boundaries
+SR-109 Household and everyday life
+SR-110 Food and cooking
+SR-111 Family and relationships
+SR-112 Body health and medicine
+SR-113 Work and occupations
+SR-114 Education
+SR-115 Travel and transportation
+SR-116 Buildings towns and public places
+SR-117 Nature weather and environment
+SR-118 Technology and communications
+SR-119 Commerce money and finance
+SR-120 Government law and institutions
+SR-121 Science and mathematics
+SR-122 Arts literature and culture
+SR-123 History society and public discourse
+SR-124 Religion and philosophy
+SR-125 Emotions personality and behaviour
+SR-126 Abstract concepts and relationships
+SR-127 Academic and professional vocabulary
+SR-128 Fine semantic distinctions and near-synonyms
+SR-129 Literary and historical vocabulary
+SR-130 Educated-adult long tail
+
+The later lexical and register domains develop in parallel. Their numbering
+records an editorial introduction order rather than serial mastery.
+
+CARD-SPECIFIC RULES
+
+1. EnglishPrompt must be unique and select one intended Serbian Target.
+2. Use Serbian Cyrillic for the canonical early Target.
+3. InputHint is normally blank.
+4. Avoid commas in card fields where a natural alternative exists.
+5. Use Ekavian as the unmarked early production target. Label Ijekavian when
+   it is specifically being tested.
+6. Do not add Latin-script alternatives to Cyrillic Targets. Latin literacy
+   receives its own later cards.
+7. Use explicit subject pronouns when teaching pronouns or when discourse
+   motivates them. Otherwise model natural subject omission.
+8. Mark second-person number/register in English prompts when required.
+9. Case-sensitive prompts must provide enough meaning to select one form.
+10. Do not turn case names into the main learning task. Morphological prompts
+    such as “house (accusative)” may be used sparingly when they clarify an
+    otherwise invisible contrast before sentence reuse.
+11. Aspect prompts must provide enough temporal/result context to select one
+    intended verb.
+12. Clitic cards must stand independently and not rely on adjacency.
+13. Do not treat да + present as a mechanical replacement for every
+    infinitive or vice versa.
+14. Ordinary Targets do not carry pitch-accent marks.
+15. Preserve Serbian letters exactly including ј љ њ ћ ђ џ.
+16. Regional related-language or historical forms must be labelled when
+    exact matching would otherwise imply they are the neutral Serbian target.
+
+DEVELOPMENT POLICY
+
+The first 100 cards are the empirical opening. Correct genuine errors but do
+not rebuild it merely to match later unit numbering.
+
+The next expansion should broaden plural and accusative morphology while
+developing present conjugation across additional verb classes; genitive
+dative instrumental and locative functions; possession and existence;
+pronoun clitics; and the first aspect pairs. Past-time language may begin
+once the l-participle and бити clitics are sufficiently clear. It need not
+wait for exhaustive case paradigms.
+
+Russian and Polish are useful Slavic comparison points. Serbian clitic
+placement aspect case usage Ekavian/Ijekavian variation and infinitive versus
+да + present remain authoritative.
+
+AMENDMENT NOTE
+
+Version 0.1 is the first Serbian syllabus. It was written after a 100-card
+Cyrillic seed. The prototype confirms that the shared Polyglot opening
+transfers well while immediately exposing specifically Serbian features:
+overt present copular clitics; pro-drop; three-gender agreement; да ли
+questions; accusative marking; and the location/destination contrast with
+у + locative versus у + accusative.
