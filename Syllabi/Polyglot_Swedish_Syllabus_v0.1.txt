@@ -1,0 +1,330 @@
+POLYGLOT SWEDISH SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for contemporary
+Swedish in Polyglot. It was written after an initial 100-card seed. German
+and Icelandic provide useful Germanic comparison points, but Swedish
+structure, vocabulary, pronunciation and usage remain authoritative.
+
+The syllabus is a roadmap rather than a transcript. Vocabulary and
+previously introduced grammar continue to develop longitudinally.
+
+REFERENCE VARIETY ORTHOGRAPHY AND PRONUNCIATION
+
+The initial production baseline is contemporary neutral Standard Swedish
+(rikssvenska) as used in Sweden. Targets use ordinary Swedish spelling from
+the first card including å, ä and ö. InputHint is normally blank.
+
+Finland Swedish is a legitimate standard variety and receives an explicit
+later strand. Regional Swedish, colloquial variation and dialects are
+introduced later where useful rather than mixed silently into early exact-
+match Targets.
+
+Swedish pronunciation cannot be recovered completely from spelling. Vowel
+quantity, consonant length, the sj and tj sounds, retroflexion and word
+accent deserve explicit longitudinal attention. Ordinary written Targets
+do not receive artificial pronunciation notation.
+
+COURSE-WIDE SWEDISH PRINCIPLES
+
+1. Begin with a small reusable seed and move rapidly into productive
+   sentences.
+2. Nouns belong primarily to common gender (en) or neuter gender (ett).
+   Gender is lexical and should be reinforced whenever nouns recur.
+3. The ordinary definite article is normally suffixed to the noun. Teach
+   forms such as huset, mannen and kvinnan from the opening.
+4. Attributive definite noun phrases generally involve double definiteness:
+   a preposed determiner plus definite adjective plus suffixed noun. Develop
+   this after basic indefinite and simple definite noun phrases are clear.
+5. Plural formation has several productive classes plus irregular forms.
+   Teach representative patterns through useful nouns rather than pretending
+   that plural is predictable from meaning.
+6. Adjectives distinguish common-gender singular, neuter singular and plural/
+   definite forms. Predicative agreement provides an early entry point.
+7. Some high-frequency adjectives such as bra are invariant. Use them
+   naturally without obscuring productive agreement patterns such as
+   stor/stort/stora and liten/litet/små.
+8. Personal pronouns distinguish subject and object forms. Modern gender-
+   neutral hen belongs to contemporary Swedish and should be introduced after
+   the core pronoun system rather than treated as exotic.
+9. Finite verbs do not agree with person or number. Do not waste cards
+   repeating identical verb forms merely to imitate languages with personal
+   conjugation; vary subjects when the sentence teaches something else.
+10. Swedish main declarative clauses are verb-second. Teach V2 as a clause
+    principle rather than an exception to English-like SVO.
+11. Yes/no questions normally place the finite verb before the subject.
+12. Inte placement depends on clause type. Establish ordinary main-clause
+    placement and later contrast subordinate-clause word order.
+13. Infinitives commonly use att, while modal verbs and several other
+    constructions take a bare infinitive. Teach the contrast through actual
+    constructions.
+14. Present tense has productive patterns and important irregular forms.
+    Principal parts become useful lexical information as past and supine
+    morphology develops.
+15. Past tense includes weak and strong verb classes. Common irregular verbs
+    enter when their frequency warrants them.
+16. The perfect and pluperfect use ha plus the supine. Keep the supine
+    distinct from participial adjective forms.
+17. Swedish has a productive passive in -s as well as periphrastic passive
+    constructions. Develop their functions and register separately.
+18. Deponent -s verbs are lexical verbs rather than ordinary passives and
+    require their own treatment.
+19. Possession uses possessive determiners/pronouns with agreement patterns
+    such as min/mitt/mina and the reflexive sin/sitt/sina. Reflexive
+    possession depends on the subject antecedent and deserves controlled
+    contrast.
+20. Swedish has no productive noun case system comparable to German or
+    Icelandic. The genitive -s is developed as a possessive construction
+    without inventing a broader declension paradigm.
+21. Prepositions are learned with their idiomatic spatial temporal and
+    abstract uses. English prepositions do not map one-to-one.
+22. Particle verbs are central to ordinary vocabulary. Treat particles as
+    part of lexical constructions and develop stress and word-order behavior
+    longitudinally.
+23. Separable-looking particle constructions should not be mechanically
+    equated with German separable-prefix verbs.
+24. Adverb placement and sentence adverbs interact with V2 and subordinate
+    clause order. The main/subordinate contrast is a structural spine.
+25. Relative clauses use som and related constructions without requiring an
+    English-style relative-pronoun case paradigm.
+26. Comparison includes productive -are/-ast patterns and common irregulars.
+27. Numerals, dates, clock time and measurement receive ordinary usage
+    development including conventions that differ from English.
+28. Formal/informal address in contemporary Swedish is not modelled on
+    German du/Sie. Modern du is broadly ordinary; historical or special
+    polite usage is treated in its proper register.
+29. Spoken Swedish includes common reductions and forms whose relationship to
+    standard spelling should be taught for comprehension without replacing
+    standard written Targets.
+30. De is the initial standard written target for third-person plural subject
+    "they". Spoken dom and evolving written usage receive explicit later
+    treatment rather than being silently mixed into exact-match cards.
+31. Contemporary neutral Sweden Swedish precedes strongly regional,
+    historical or literary material.
+32. Finland Swedish is developed later as a standard-variety strand where
+    pronunciation vocabulary or usage differs meaningfully.
+33. Vocabulary grows just in time. Similarity to German Icelandic Danish or
+    Norwegian may assist explanation and lexical selection but never
+    overrides Swedish usage.
+
+EMPIRICAL OPENING: CARDS 1-100
+
+The seed establishes:
+- the shared house/man/woman/child and big/small/good/bad anchors;
+- authentic Swedish orthography;
+- suffixed definite nouns;
+- common versus neuter indefinite articles;
+- predicative adjective agreement;
+- first attributive adjective agreement;
+- personal subject pronouns;
+- present vara in ordinary clauses;
+- ha possession;
+- present verbs without person/number agreement;
+- svenska as a language name;
+- inte negation;
+- verb-first polar questions;
+- vad, vem and var;
+- direct objects without case inflection;
+- first common irregular presents through se, äta, dricka and vilja;
+- vilja + bare infinitive;
+- basic place adverbs.
+
+The opening deliberately gives several subjects to invariant present verb
+forms so the absence of person agreement becomes visible, but future
+generation should not fill redundant paradigms once that fact is
+established.
+
+INITIAL STRUCTURAL ROADMAP
+
+SV-01 Core nouns and en/ett gender
+SV-02 Suffixed definite singular
+SV-03 Indefinite en/ett noun phrases
+SV-04 Core adjectives and predicative agreement
+SV-05 Attributive adjective agreement
+SV-06 Personal subject pronouns
+SV-07 Vara
+SV-08 Ha
+SV-09 Productive present tense
+SV-10 Common irregular present verbs
+SV-11 Inte in main clauses
+SV-12 Polar questions
+SV-13 Content questions
+SV-14 Main-clause V2
+SV-15 Fronted time and place constituents
+SV-16 Early sentence synthesis
+SV-17 Noun plurals: productive classes
+SV-18 Irregular and zero plurals
+SV-19 Definite plural nouns
+SV-20 Plural adjective agreement
+SV-21 Definite adjective forms
+SV-22 Double definiteness
+SV-23 Demonstratives
+SV-24 Object pronouns
+SV-25 Possessive min/mitt/mina and related paradigms
+SV-26 Reflexive possessive sin/sitt/sina
+SV-27 Reflexive pronouns
+SV-28 Genitive -s
+SV-29 Quantifiers and determiners
+SV-30 Hen and contemporary gender-neutral reference
+SV-31 Infinitive and att
+SV-32 Bare infinitive after modals
+SV-33 Vilja, kunna, måste, få and bör
+SV-34 Verb principal parts
+SV-35 Weak past classes
+SV-36 Strong and irregular past
+SV-37 Supine
+SV-38 Perfect
+SV-39 Pluperfect
+SV-40 Future expressions with ska
+SV-41 Kommer att and other future expressions
+SV-42 Modal and temporal contrasts
+SV-43 Imperative
+SV-44 Present participles
+SV-45 Past participles and agreement
+SV-46 -s passive
+SV-47 Bli-passive
+SV-48 Vara + participle resultative/state
+SV-49 Deponent -s verbs
+SV-50 Particle verbs introduction
+SV-51 Particle placement and stress
+SV-52 Productive particle families
+SV-53 Lexicalized particle verbs
+SV-54 Prepositions of location
+SV-55 Prepositions of motion and direction
+SV-56 Temporal prepositions
+SV-57 Abstract and governed prepositions
+SV-58 Place adverbs and directional forms
+SV-59 Main-clause sentence adverbs
+SV-60 Subordinate-clause word order
+SV-61 Att complement clauses
+SV-62 Som relative clauses
+SV-63 Relative adverbs and broader relatives
+SV-64 Indirect questions
+SV-65 Temporal clauses
+SV-66 Causal clauses
+SV-67 Conditional clauses
+SV-68 Purpose clauses
+SV-69 Concessive clauses
+SV-70 Coordination
+SV-71 Negation and scope
+SV-72 Indefinite negative and universal pronouns
+SV-73 Comparison
+SV-74 Superlatives
+SV-75 Adjective/adverb relationships
+SV-76 Cardinal numbers
+SV-77 Ordinal numbers
+SV-78 Dates and calendar expressions
+SV-79 Clock time
+SV-80 Quantity measurement and prices
+SV-81 Count/mass distinctions
+SV-82 Word order and information structure
+SV-83 Topic and focus
+SV-84 Existential det constructions
+SV-85 Extraposition and formal det subjects
+SV-86 Weather and impersonal expressions
+SV-87 Questions with prepositions
+SV-88 Spoken reductions and connected speech
+SV-89 De/dem/dom in standard and spoken usage
+SV-90 Pronunciation: vowel quantity
+SV-91 Pronunciation: consonant length
+SV-92 Pronunciation: sj and tj sounds
+SV-93 Pronunciation: retroflexion
+SV-94 Pronunciation: word accents
+SV-95 Standard spelling/pronunciation correspondences
+SV-96 Formal and informal register
+SV-97 Greetings requests thanks and service encounters
+SV-98 Conversational particles and response words
+SV-99 Neutral versus formal written Swedish
+SV-100 Colloquial Sweden Swedish
+SV-101 Regional variation within Sweden
+SV-102 Finland Swedish
+SV-103 Danish and Norwegian comparison for comprehension
+SV-104 Phraseology and high-frequency collocations
+SV-105 Idioms and figurative language
+SV-106 Polysemy and semantic boundaries
+SV-107 Productive noun derivation
+SV-108 Productive adjective derivation
+SV-109 Productive verb derivation
+SV-110 Compounding
+SV-111 Household and everyday life
+SV-112 Food and cooking
+SV-113 Family and relationships
+SV-114 Body health and medicine
+SV-115 Work and occupations
+SV-116 Education
+SV-117 Travel and transportation
+SV-118 Buildings towns and public places
+SV-119 Nature weather and environment
+SV-120 Technology and communications
+SV-121 Commerce money and finance
+SV-122 Government law and institutions
+SV-123 Science and mathematics
+SV-124 Arts literature and culture
+SV-125 History society and public discourse
+SV-126 Religion and philosophy
+SV-127 Emotions personality and behaviour
+SV-128 Abstract concepts and relationships
+SV-129 Academic and professional vocabulary
+SV-130 Fine semantic distinctions and near-synonyms
+SV-131 Literary and historical vocabulary
+SV-132 Educated-adult long tail
+
+The mature lexical and register domains develop in parallel. Their numbering
+records an editorial introduction order rather than serial mastery.
+
+CARD-SPECIFIC RULES
+
+1. EnglishPrompt must be unique and select one intended Swedish Target.
+2. Use ordinary Swedish orthography including å, ä and ö.
+3. InputHint is normally blank.
+4. Avoid commas in card fields where a natural alternative exists.
+5. Treat en/ett gender as lexical information and reinforce it through noun
+   phrases rather than adding English grammatical labels to every noun card.
+6. Once lack of person/number verb agreement is established, do not create
+   complete subject paradigms whose Swedish Targets differ only in pronoun.
+7. Distinguish common and neuter adjective forms where the morphology changes.
+8. Do not force inflected alternatives for invariant adjectives such as bra.
+9. Use de as the initial standard written Target for "they". Label spoken dom
+   or other usage explicitly when it is being tested.
+10. Distinguish infinitive with att from bare infinitive by construction.
+11. Particle-verb prompts must provide enough context to select the intended
+    lexical meaning.
+12. Word-order cards must stand independently and contain enough context to
+    select natural V2 or subordinate-clause order.
+13. Do not treat Swedish genitive -s as evidence for a German-style noun case
+    paradigm.
+14. Pronunciation cards may use an appropriate explanatory prompt or
+    InputHint where useful, but ordinary lexical Targets retain standard
+    spelling.
+15. Finland Swedish, regional, historical or strongly colloquial forms must
+    be labelled when exact matching would otherwise imply neutral Sweden
+    Swedish.
+
+DEVELOPMENT POLICY
+
+The first 100 cards are the empirical opening. Because the deck is now being
+used in the Polyglot app, their IDs are live and must remain stable. Correct
+genuine errors in place rather than renumbering existing cards.
+
+The next expansion should deepen en/ett and plural noun morphology, adjective
+agreement, V2, negation and questions while widening present verbs and opening
+object pronouns, possessives, infinitive constructions and first past forms.
+Do not postpone useful past-time language until every noun plural class is
+exhausted.
+
+German and Icelandic remain useful structural comparisons. Swedish's reduced
+nominal morphology, suffixed definiteness, double definiteness, invariant
+finite verb agreement, V2, particle verbs and main/subordinate word-order
+contrast remain authoritative.
+
+AMENDMENT NOTE
+
+Version 0.1 is the first Swedish syllabus. It was written after a 100-card
+seed and adopts contemporary neutral Standard Swedish in Sweden as the
+initial production baseline.
