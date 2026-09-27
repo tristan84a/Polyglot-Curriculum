@@ -36,6 +36,7 @@ Russian     1000000-1099999       1000000-1000452       453
 Greek       1100000-1199999       1100000-1100099       100
 Hindi       1200000-1299999       1200000-1200099       100
 Hebrew      1300000-1399999       1300000-1300099       100
+Mandarin    1400000-1499999       1400000-1400099       100
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -288,6 +289,27 @@ expansion should broaden plural agreement and present verbs while developing
 inflected possession/prepositions, של and construct-state possession, and
 a first controlled past-tense system; root/binyan awareness should support
 rather than delay useful language.
+
+MANDARIN
+Syllabus: Syllabi/Polyglot_Mandarin_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Mandarin.csv
+Cards: 100
+Used IDs: 1400000-1400099
+Checkpoint: Mandarin has begun with a 100-card seed and is now governed by
+Mandarin syllabus v0.1. The course is explicitly named Mandarin rather than
+Chinese so Cantonese, Hokkien and other Sinitic languages can remain
+independent future curricula. The opening uses Simplified Chinese Targets
+with tone-marked Hanyu Pinyin in InputHint, the shared eight-word seed,
+early 个 numeral-classifier phrases, personal pronouns and -们, 是 identity
+predication, 在 location, neutral adjectival predicates with 很, 这/那 plus
+classifier, invariant verbs, 不 negation, 吗 questions, 哪里/什么/谁,
+有/没有 possession, first lexical classifiers 本 and 辆, 看 versus
+resultative 看见, 想 + verb, and initial everyday 吃/喝 vocabulary.
+Future expansion should develop 的 possession/modification, classifiers,
+time/place word order and broader verbal vocabulary while allowing clear
+aspect and resultative structures to enter early rather than waiting for
+exhaustive classifier or character coverage.
 
 4. MAINTENANCE RULES
 
