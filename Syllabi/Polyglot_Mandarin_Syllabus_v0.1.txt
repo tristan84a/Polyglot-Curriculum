@@ -1,0 +1,516 @@
+POLYGLOT MANDARIN SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for Standard Mandarin
+in Polyglot. It was written after an initial 100-card seed and treats that
+seed, together with successful Polyglot curricula, as design evidence.
+
+"Mandarin" is the language/deck name. "Chinese" is an umbrella label and
+does not imply that Cantonese, Hokkien, Hakka, Wu or other Sinitic varieties
+are regional subcourses of Mandarin. Those may receive independent Polyglot
+curricula.
+
+The syllabus is a roadmap rather than a transcript. Useful structures may
+appear before their formal units when comprehensible, and introduced systems
+may be reinforced longitudinally while new material opens.
+
+REFERENCE VARIETY, SCRIPT, AND INPUT
+
+The initial production target is Standard Mandarin (Putonghua) with
+Simplified Chinese characters as the default orthography. Pinyin is not an
+alternative answer, but it is useful input/pronunciation metadata and may be
+used broadly in InputHint, especially while the Mandarin input workflow is
+being established.
+
+Traditional characters are a later longitudinal literacy strand within
+Mandarin rather than a separate Mandarin language deck. Regional Mandarin
+variation, Taiwan usage and other standards/registers may likewise be added
+with explicit labeling when exact matching requires it.
+
+COURSE-WIDE MANDARIN PRINCIPLES
+
+1. Use ordinary Chinese characters from the first card. Do not require a
+   preliminary pinyin-only vocabulary stage.
+2. InputHint may give Hanyu Pinyin with tone marks. It is metadata for
+   pronunciation/input support, not an accepted Target.
+3. Tones are lexical. Pinyin hints should preserve lexical tone and normal
+   tone-sandhi notation conventions consistently enough to support learning.
+4. Characters are learned through real words and sentences. Do not make a
+   complete character inventory or radical course a prerequisite to language.
+5. Simplified characters are the initial production standard. Traditional
+   equivalents enter later as literacy mappings and should not compete as
+   multiple exact-match answers on the same card.
+6. Mandarin nouns lack grammatical gender and verbs do not conjugate for
+   person. Do not manufacture European-style agreement paradigms.
+7. Spoken tā does not distinguish he/she/it; the written standard does
+   distinguish 他/她/它. Teach the written distinction while noting the
+   shared pronunciation through InputHint and later listening work.
+8. Classifiers are central noun-phrase grammar. 个 is an early default but
+   should not displace frequent lexical classifiers such as 本 and 辆.
+9. 一 changes pronunciation by context while remaining written 一. InputHint
+   may reflect ordinary spoken tone sandhi in phrases.
+10. Mandarin has no ordinary article system equivalent to English a/the.
+    English prompts with articles should map to natural Mandarin noun phrases,
+    using numeral-classifier phrases only when indefiniteness/quantity is
+    genuinely expressed.
+11. Adjectival predicates commonly occur without 是. 很 frequently appears
+    in neutral adjective predicates and must not be taught as a mechanical
+    translation of English "very."
+12. 是 is primarily copular/equative, not a universal translation of English
+    be. Location/existence use 在/有 and adjectival predication follows its
+    own patterns.
+13. Negation distinguishes 不 and 没(有), among other constructions. Develop
+    them by function rather than as interchangeable words for "not."
+14. Polar questions with 吗 are an early productive pattern; A-not-A
+    questions and other question strategies should follow.
+15. Question words normally remain in the syntactic position of the answer.
+    Do not import English wh-fronting into Mandarin.
+16. Aspect particles such as 了, 过 and 着 are not simple tense endings.
+    Teach them through event structure, completion/change, experience and
+    state rather than English past/present labels.
+17. Mandarin word order carries substantial grammatical work. Time, location,
+    manner, objects, complements and information structure require controlled
+    sequencing and longitudinal reinforcement.
+18. Resultative, directional and potential complements are central to the
+    verbal system and should become major curriculum spines rather than
+    late idiom lists.
+19. Serial-verb, coverb and disposal/passive constructions should be learned
+    as Mandarin structures, not forced into European preposition/voice labels.
+20. Vocabulary grows just in time. Character novelty alone is not a reason
+    to postpone a useful word.
+21. Written Standard Chinese and ordinary spoken Mandarin overlap strongly
+    but are not identical. Mature stages should develop spoken discourse and
+    formal written syntax/register separately where useful.
+22. Cantonese, Hokkien and other Sinitic languages are outside the Mandarin
+    syllabus except for comparative/cultural awareness.
+
+EMPIRICAL OPENING: CARDS 1–100
+
+The seed establishes:
+- the shared house/man/woman/child and big/small/good/bad anchors;
+- Simplified characters as the Target and tone-marked pinyin as InputHint;
+- early numeral-classifier phrases with 个;
+- personal pronouns and plural -们;
+- 是 for identity/classification;
+- 在 for location;
+- neutral adjective predicates with 很;
+- 这/那 plus classifier;
+- invariant verbal predicates through 说 and 工作;
+- 不 negation and 吗 polar questions;
+- 哪里, 什么 and 谁;
+- 有/没有 possession;
+- first lexical classifiers 本 and 辆;
+- 看 versus resultative 看见;
+- 想 + verb;
+- 吃/喝 and a few high-frequency everyday nouns.
+
+The opening deliberately exposes several systems without exhausting them:
+classifiers, adjective predicates, location versus copula, negation,
+resultative morphology and modal/serial verb structure.
+
+INITIAL STRUCTURAL ROADMAP
+
+MN-01 — Core nouns and character literacy
+Continue useful concrete nouns in normal Simplified orthography. Character
+recognition develops through vocabulary, not isolated character quotas.
+
+MN-02 — Core adjectives and neutral predication
+Develop common gradable adjectives in noun phrases and predicates. Contrast
+neutral 很 predicates with genuinely intensified 很 and contexts where the
+adjective can stand without it.
+
+MN-03 — Pronouns and reference
+Develop 我/你/您/他/她/它/我们/你们/他们 etc. Distinguish written gender/
+animacy where standard orthography does while remembering spoken homophony.
+
+MN-04 — 是 and nominal predication
+Identity, classification, names, occupations and emphatic/contrastive
+patterns with 是. Explicitly contrast with adjectival and locative
+predicates.
+
+MN-05 — 在 and location
+Develop 在 as a location verb and later as a coverb/preposition-like element.
+Introduce common place words and localizers longitudinally.
+
+MN-06 — Numeral + classifier + noun
+Establish 一/两 and 个, then high-frequency lexical classifiers. Do not
+replace a classifier with 个 where normal educated usage strongly prefers
+another.
+
+MN-07 — Demonstratives
+这/那 + classifier + noun, 这里/那里 and common colloquial variants
+这儿/那儿 where appropriate.
+
+MN-08 — Basic verbal predicates
+Develop high-frequency transitive/intransitive verbs with invariant person
+forms and ordinary SVO clauses.
+
+MN-09 — 不 negation
+Establish 不 with habitual, volitional, stative and future-oriented contexts.
+Tone-sandhi pronunciation may be reflected in InputHint while orthography
+remains 不.
+
+MN-10 — 吗 questions
+Develop polar questions and natural short answers. Mandarin often answers
+by repeating/negating the relevant predicate rather than relying on one
+universal yes/no pair.
+
+MN-11 — Content questions in situ
+Develop 谁, 什么, 哪, 哪里/哪儿, 什么时候, 怎么, 为什么, 几 and 多少 in the
+position occupied by their answers.
+
+MN-12 — 有 and 没有
+Possession, existence and absence. Establish 没有 before broadening 没 as
+verbal negator.
+
+NOUN PHRASES AND MODIFICATION
+
+MN-13 — 的 possession
+Develop pronoun/noun + 的 possession, then natural omission of 的 in close
+relationships where appropriate.
+
+MN-14 — Attributive modification with 的
+Adjectives, nouns and phrases before nouns; contrast simple lexical
+adjectives that may occur without 的 with structures that require/prefer it.
+
+MN-15 — Plurality and 们
+Clarify the restricted distribution of 们 with human pronouns/nouns and
+contrast grammatical plurality with unmarked noun number.
+
+MN-16 — Numbers
+Develop cardinal numbers, 两 versus 二, larger numbers and the Chinese
+grouping system. Numbers should grow longitudinally rather than in one
+detached block.
+
+MN-17 — Measure words and quantities
+Broaden classifiers and measure words through useful lexical pairings,
+quantities, containers, currency and units.
+
+MN-18 — Localizers
+里, 上, 下, 前面, 后面, 旁边, 中间 and related spatial expressions with
+在 and noun phrases.
+
+TIME, WORD ORDER, AND BASIC COMPLEMENTS
+
+MN-19 — Time expressions
+Today, tomorrow, yesterday, clock time, weekdays, dates and durations.
+Develop Mandarin ordering of larger-to-smaller time units through examples.
+
+MN-20 — Time and place in clause order
+Establish common subject–time–place–verb sequencing and variants licensed by
+topic/information structure.
+
+MN-21 — Modal verbs
+想, 要, 会, 能, 可以, 应该 and related forms, with controlled contrasts in
+volition, futurity, learned ability, circumstantial ability and permission.
+
+MN-22 — Serial verb sequences
+Purpose, motion and linked actions in ordinary multi-verb clauses. Do not
+force every sequence into an English infinitive analysis.
+
+MN-23 — Manner with 地
+Develop adjective/adverbial modification where 地 is natural, alongside
+common lexical adverbs that do not require it.
+
+MN-24 — Degree complements
+很, 太, 真, 非常, 比较 and 得-based degree descriptions in contexts that
+make scope clear.
+
+ASPECT AND EVENT STRUCTURE
+
+MN-25 — Perfective 了
+Introduce bounded/completed events with verbal 了 in contexts where the
+aspectual contribution is clear. Avoid equating 了 with English past tense.
+
+MN-26 — Sentence-final 了 and change of state
+Develop clause-final 了 for new situations/change and contrast it with
+perfective verbal 了, including sentences where both analyses interact.
+
+MN-27 — 没(有) verbal negation
+Develop 没/没有 with completed/experiential contexts and contrast with 不.
+
+MN-28 — Experiential 过
+Life experience and prior occurrence, including 没...过 and time-span
+constraints.
+
+MN-29 — Durative/state 着
+Ongoing resultant states and simultaneous manner where 着 is natural.
+
+MN-30 — Aspect synthesis
+Interleave unmarked, 了, 过, 着 and progressive constructions in contexts
+that select a clear event interpretation.
+
+RESULTS, DIRECTIONS, AND MOTION
+
+MN-31 — Resultative complements
+Build transparent compounds such as 看见, 听懂, 做完, 写好 and 找到.
+Treat each lexicalized combination naturally while exposing the productive
+result pattern.
+
+MN-32 — Directional complements
+来/去 and simple compounds such as 进来, 出去, 回来, 上去, followed by
+compound directional complements.
+
+MN-33 — Potential complements
+得/不 between verb and result/direction to express possibility, contrasted
+with modal 能/可以.
+
+MN-34 — Motion and destination
+来, 去, 到 and location phrases; develop goal/source ordering and common
+motion sequences.
+
+MN-35 — 得 complements
+Develop degree/result descriptions after verbs and distinguish complement 得
+from possessive/attributive 的 and structural 地 through usage rather than
+mnemonic terminology alone.
+
+OBJECTS AND INFORMATION STRUCTURE
+
+MN-36 — Object specificity and quantity
+Bare objects, quantified objects, definite/topic objects and the discourse
+conditions that influence natural ordering.
+
+MN-37 — 把 construction
+Introduce 把 only after ordinary transitive clauses, definiteness and
+resultative complements are familiar. Use affected/specific objects and
+clear disposal results.
+
+MN-38 — 被 passive
+Develop 被 passives and agentless/adversity-neutral modern uses, contrasting
+them with active/topic structures.
+
+MN-39 — Topic-comment
+Develop sentence-initial topics, zero arguments and discourse-linked
+interpretation as ordinary Mandarin organization rather than deviations from
+SVO.
+
+MN-40 — Double-object and 给
+Recipients, 给 as verb/coverb and common double-object patterns.
+
+COMPARISON, QUESTIONS, AND NEGATION
+
+MN-41 — 比 comparison
+Develop A 比 B + adjective and degree differences, then negative comparison
+patterns.
+
+MN-42 — 最 and superlative-like meanings
+最, 更, 比较 and contextual standards of comparison.
+
+MN-43 — A-not-A questions
+是不是, 有没有, 去不去 and productive A-not-A patterns, with constraints on
+aspect/modal combinations introduced through examples.
+
+MN-44 — Alternative and tag questions
+还是 versus 或者, 对不对, 是吗 and other common conversational patterns.
+
+MN-45 — Negative words and scope
+不, 没, 别, 不要, 从来不/没, 什么也不 and related scope/negative-polarity
+patterns.
+
+CLAUSE LINKING
+
+MN-46 — Coordination
+和, 跟, 也, 又, 但是, 可是, 或者 and common conjunction/adverb patterns.
+
+MN-47 — Because/therefore
+因为...所以... and natural omission of one correlate where discourse allows.
+
+MN-48 — If/then
+如果...就..., 要是...就... and ordinary conditional relationships.
+
+MN-49 — Although/but
+虽然...但是... and related concessive patterns.
+
+MN-50 — Before/after/when
+以前, 以后, 的时候, 一...就... and temporal sequencing.
+
+MN-51 — Relative clauses with 的
+Verb phrases and clauses before nouns with 的. Start with semantically
+transparent examples and expand toward longer modifiers.
+
+MN-52 — Complement clauses and reported content
+说, 觉得, 知道, 希望 and other verbs taking clause-like complements without
+assuming an English-style complementizer is required.
+
+MN-53 — Purpose and causation
+为了, 让, 叫, 使 and common causative/permissive constructions with register
+distinctions.
+
+VERB-OBJECT LEXICON AND DERIVATIONAL PATTERNS
+
+MN-54 — Separable verb-object compounds
+Introduce high-frequency 离合词 such as 睡觉, 见面 and 帮忙 with the word-order
+behavior they require.
+
+MN-55 — Reduplication
+Verb reduplication for delimitative/light actions, adjective reduplication
+and classifier/noun distributive patterns.
+
+MN-56 — Verb complements and lexical families
+Develop common verbs through their natural result, direction, degree and
+object collocations rather than one-word translation equivalence.
+
+MN-57 — 成, 到, 住, 开 and other productive results
+Broaden resultative semantics through common productive complement families.
+
+MN-58 — Aspect with complements
+Combine 了/过/着/没 with resultative and directional structures after each
+component is independently intelligible.
+
+PRONUNCIATION, CHARACTERS, AND LITERACY
+
+MN-59 — Pinyin and tone awareness
+InputHint continues to expose standard pronunciation, tone changes and
+syllable segmentation. Dedicated pronunciation cards may be added when a
+contrast cannot be learned adequately from lexical examples.
+
+MN-60 — Tone sandhi
+Develop third-tone behavior, 一 and 不 sandhi and neutral tone through real
+words/phrases. Standard character spelling remains unchanged.
+
+MN-61 — Neutral tone and erhua
+Teach frequent neutral-tone words and, later, erhua where relevant to
+Standard Mandarin and regional comprehension. Do not force Beijing-specific
+erhua into every production target.
+
+MN-62 — Character components
+Use recurring semantic/phonetic components to support literacy once enough
+characters make the patterns meaningful. Components are aids, not a parallel
+character taxonomy course.
+
+MN-63 — Traditional characters
+Map high-frequency Simplified forms to Traditional forms progressively.
+Reading competence may expand faster than active Traditional production.
+
+MN-64 — Simplified/Traditional lexical conventions
+Develop cases where character choice, vocabulary or written convention
+differs across Mainland, Taiwan, Hong Kong or other communities, with clear
+labels rather than treating script conversion as always one-to-one.
+
+REGISTER AND VARIATION
+
+MN-65 — Spoken discourse
+啊, 呢, 吧, 嘛 and other sentence-final particles; fillers, repair,
+turn-taking and common conversational ellipsis.
+
+MN-66 — Politeness and social language
+您, 请, 麻烦, 客气 expressions, titles, kin terms and context-sensitive
+requests without importing a European T/V model wholesale.
+
+MN-67 — Mainland Standard Mandarin
+Develop ordinary Putonghua vocabulary and institutional conventions as the
+unmarked initial production standard.
+
+MN-68 — Taiwan Mandarin
+Introduce important vocabulary, pronunciation and usage differences with
+explicit labels, together with Traditional-character literacy.
+
+MN-69 — Regional Mandarin variation
+High-value lexical/phonological/syntactic variants may enter for
+comprehension after the standard backbone is secure.
+
+MN-70 — Written Standard Chinese
+Develop formal written vocabulary, compact noun phrases, conjunctions and
+structures that are common in educated prose but less characteristic of
+ordinary conversation.
+
+MN-71 — Classical inheritances
+Introduce common chengyu, literary morphemes and Classical-derived syntax
+that an educated modern reader encounters. Classical Chinese itself is a
+distinct historical curriculum, not the default Mandarin target.
+
+MATURE EDUCATED-ADULT DEVELOPMENT
+
+MN-72 — Idiom and chengyu
+Develop frequent idioms and four-character expressions with real register,
+collocation and pragmatic constraints rather than treating every dictionary
+chengyu as equally useful.
+
+MN-73 — Institutions and public life
+Education, health, law, economics, government, work, media and civic
+vocabulary in neutral and formal registers.
+
+MN-74 — Science and technology
+Broad educated scientific/technical-general vocabulary, productive compounds
+and explanatory language.
+
+MN-75 — Arts, literature and culture
+Film, music, visual arts, literature, criticism and culturally important
+references.
+
+MN-76 — Semantic precision
+Near-synonyms, complement selection, collocation, register, polysemy and
+character-based lexical families.
+
+MN-77 — Extended discourse
+Narrative sequencing, reference tracking, argumentation, topic continuity,
+formal exposition and multi-clause cohesion.
+
+MN-78 — Educated-adult long tail
+Continue vocabulary, phraseology, literacy, register and semantic breadth
+without manufacturing obscure grammatical difficulty merely because the
+deck is mature.
+
+CARD-SPECIFIC RULES
+
+1. EnglishPrompt must be unique and select one intended Mandarin Target.
+2. Language field is "Mandarin", not "Chinese".
+3. Targets use Simplified Chinese unless a card is explicitly labeled for
+   Traditional or another written convention.
+4. InputHint may contain tone-marked Hanyu Pinyin broadly. It is not an
+   alternative answer.
+5. Pinyin InputHint should correspond to the whole Target closely enough to
+   help the learner type/read it; punctuation need not be transliterated.
+6. Do not use 是 in ordinary adjective predicates merely because English has
+   "is/are".
+7. Do not translate English articles mechanically. Use classifiers/numerals
+   only when Mandarin meaning calls for them.
+8. Classifier prompts must provide enough lexical context to select one
+   intended classifier.
+9. Question words remain in normal Mandarin position.
+10. Aspect-sensitive prompts must contain enough context to select the
+    intended particle/construction; avoid English past tense alone as a
+    supposed definition of 了.
+11. Distinguish 看 from 看见 and similar verb/result pairs in English prompts.
+12. Mandarin has no universal yes/no lexical pair matching English. Short
+    answers should use the relevant predicate, 对/不对, 有/没有 or another
+    natural response according to the question.
+13. Written 他/她/它 distinctions may be taught despite identical spoken tā.
+14. Do not create cards whose only purpose is memorizing radicals, stroke
+    names or grammatical terminology unless those items acquire independent
+    learner value.
+15. Cantonese, Hokkien and other Sinitic-language forms do not enter Mandarin
+    cards as regional variants.
+
+DEVELOPMENT POLICY
+
+The first 100 cards are the empirical opening. Correct genuine errors, but
+do not rebuild it merely to make later syllabus numbering perfectly serial.
+
+The next expansion should broaden classifiers, adjective predicates and
+ordinary verbs while developing 的 possession/modification, plural/reference
+patterns, 在 location, time expressions and word order. Aspect may begin
+early through clear 了/没 contrasts; it need not wait for an exhaustive
+classifier inventory. Resultative compounds such as 看见 should continue
+to appear naturally and later become an explicit productive system.
+
+Pinyin InputHint is deliberately broad in the seed because Mandarin is the
+first Polyglot deck where the typing hint also supplies essential
+pronunciation information not recoverable reliably from unfamiliar
+characters. This policy may be refined after practical app use.
+
+AMENDMENT NOTE
+
+Version 0.1 is the first Mandarin syllabus. It was written after a 100-card
+prototype. The prototype showed that the shared Polyglot seed works if
+Mandarin is allowed to assert classifiers, copular versus adjectival versus
+locative predication, invariant verbs, in-situ questions, 有/没有 and
+resultative structure immediately. The course is named Mandarin so that
+Cantonese, Hokkien and other Sinitic languages remain available as
+independent future curricula.
