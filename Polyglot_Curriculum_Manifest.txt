@@ -29,7 +29,7 @@ Japanese    300000-399999        300000-300119        120
 Polish      400000-499999        400000-400050        51
 Hungarian   500000-599999        500000-500035        36
 Turkish     600000-699999        600000-600049        50
-Arabic      700000-799999        700000-700049        50
+Arabic      700000-799999        700000-700499        500
 Ojibwe      800000-899999        800000-800098        99
 Spanish      900000-999999        900000-900099        100
 Russian     1000000-1099999       1000000-1000452       453
@@ -143,23 +143,25 @@ ARABIC
 Syllabus: Syllabi/Polyglot_Arabic_Syllabus_v0.1.txt
 Syllabus version: 0.1
 Card file: Cards/Arabic.csv
-Cards: 50
-Used IDs: 700000-700049
-Checkpoint: Arabic has begun with a 50-card Modern Standard Arabic seed
-prototype under the Charter v0.8 prototype-first workflow. MSA is the
-unmarked backbone of the Arabic curriculum; substantial spoken regional
-content is intended to begin earlier and develop more extensively than
-regional variation in most other Polyglot languages, with regional cards
-explicitly marked when needed. The seed uses ordinary unvocalized Arabic
-orthography and blank InputHint, and explores nominal predication without
-a present copula, grammatical gender and adjective agreement, definiteness
-and attributive adjectives, masculine/feminine demonstratives, initial
-personal pronouns and nominal predicates, and a first polar question with
-هل. Arabic syllabus v0.1 now reconciles the prototype into the initial roadmap.
-Future extension should continue from the current CSV, test the Arabic-
-appropriate verb citation strategy before a large verbal batch, and use
-the syllabus as a path rather than a sealed unit sequence.
-
+Cards: 500
+Used IDs: 700000-700499
+Checkpoint: Arabic has advanced from its 50-card nominal seed to a 500-card
+MSA foundation under syllabus v0.1. The expansion develops question words
+and ليس negation; common singular dual and plural noun forms; construct-state
+possession; possessive suffixes; core prepositions and location/existence;
+a conventional third-person masculine singular perfect citation form for
+verbs; controlled perfect and imperfect paradigms; natural subject omission;
+direct objects and object suffixes; لا and لم and لن negation; verbal
+questions; future سـ; time expressions; family and everyday vocabulary;
+initial numeral grammar; adjective and plural agreement; commands and
+prohibitions; coordination; basic relative clauses; أن complements and
+ability/necessity constructions; and additional high-frequency verbs.
+The deck remains ordinary unvocalized MSA with blank InputHint. Future
+development should consolidate these systems while moving into broader
+broken plurals and dual agreement, more idafa and attached-pronoun patterns,
+root/Form I awareness, derived forms, verbal nouns and participles, weak
+verb classes, relative clauses, numbers and eventually the first explicitly
+labelled spoken-variety strand.
 
 OJIBWE
 Syllabus: Syllabi/Polyglot_Ojibwe_Syllabus_v0.1.txt
