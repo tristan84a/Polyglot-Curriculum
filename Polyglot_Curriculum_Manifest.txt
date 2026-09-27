@@ -38,6 +38,8 @@ Hindi       1200000-1299999       1200000-1200099       100
 Hebrew      1300000-1399999       1300000-1300099       100
 Mandarin    1400000-1499999       1400000-1400099       100
 Icelandic   1500000-1599999       1500000-1500099       100
+Italian     1600000-1699999       1600000-1600099       100
+Serbian     1700000-1799999       1700000-1700099       100
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -361,4 +363,23 @@ cross-language allocation record.
 
 Card counts are descriptive only. They are not completion quotas and do
 not determine when a syllabus unit is established.
+
+SERBIAN
+Syllabus: Syllabi/Polyglot_Serbian_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Serbian.csv
+Cards: 100
+Used IDs: 1700000-1700099
+Checkpoint: Serbian begins with a 100-card Cyrillic seed under syllabus
+v0.1. The opening uses contemporary Standard Serbian with Ekavian forms as
+the unmarked initial production target. It establishes the shared lexical
+seed; Cyrillic; demonstrative identification; three-gender adjective
+agreement; personal pronouns followed by natural subject omission; present
+clitic forms of бити; negative бити; да ли questions; present читати and
+радити; question words; verbal negation; first accusative direct objects;
+имати possession; хтети with да + present; and the у + locative versus
+у + accusative location/destination contrast. Future development should
+broaden cases and verb classes while opening clitic placement, aspect and
+past-time language. Standard Ijekavian Serbian and Serbian Latin script are
+reserved for explicit later strands rather than mixed into the opening.
 
