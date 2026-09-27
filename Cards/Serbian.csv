@@ -1,0 +1,101 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+1700000,Serbian,house,кућа,,noun
+1700001,Serbian,man,мушкарац,,noun
+1700002,Serbian,woman,жена,,noun
+1700003,Serbian,child,дете,,noun
+1700004,Serbian,big,велики,,adjective
+1700005,Serbian,small,мали,,adjective
+1700006,Serbian,good,добар,,adjective
+1700007,Serbian,bad,лош,,adjective
+1700008,Serbian,This is a house.,Ово је кућа.,,sentence
+1700009,Serbian,This is a man.,Ово је мушкарац.,,sentence
+1700010,Serbian,This is a woman.,Ово је жена.,,sentence
+1700011,Serbian,This is a child.,Ово је дете.,,sentence
+1700012,Serbian,The house is big.,Кућа је велика.,,sentence
+1700013,Serbian,The man is good.,Мушкарац је добар.,,sentence
+1700014,Serbian,The woman is good.,Жена је добра.,,sentence
+1700015,Serbian,The child is small.,Дете је мало.,,sentence
+1700016,Serbian,book,књига,,noun
+1700017,Serbian,window,прозор,,noun
+1700018,Serbian,new,нови,,adjective
+1700019,Serbian,old,стар,,adjective
+1700020,Serbian,a new house,нова кућа,,phrase
+1700021,Serbian,a new book,нова књига,,phrase
+1700022,Serbian,a new window,нови прозор,,phrase
+1700023,Serbian,an old house,стара кућа,,phrase
+1700024,Serbian,an old book,стара књига,,phrase
+1700025,Serbian,an old window,стар прозор,,phrase
+1700026,Serbian,I,ја,,pronoun
+1700027,Serbian,you (singular informal),ти,,pronoun
+1700028,Serbian,he,он,,pronoun
+1700029,Serbian,she,она,,pronoun
+1700030,Serbian,we,ми,,pronoun
+1700031,Serbian,you (plural or formal),ви,,pronoun
+1700032,Serbian,they,они,,pronoun
+1700033,Serbian,I am here.,Овде сам.,,sentence
+1700034,Serbian,You are here. (singular informal),Овде си.,,sentence
+1700035,Serbian,He is here.,Он је овде.,,sentence
+1700036,Serbian,She is here.,Она је овде.,,sentence
+1700037,Serbian,We are here.,Овде смо.,,sentence
+1700038,Serbian,You are here. (plural or formal),Овде сте.,,sentence
+1700039,Serbian,They are here.,Они су овде.,,sentence
+1700040,Serbian,not,не,,grammar
+1700041,Serbian,The house is not big.,Кућа није велика.,,sentence
+1700042,Serbian,The book is not old.,Књига није стара.,,sentence
+1700043,Serbian,Is the house big?,Да ли је кућа велика?,,sentence
+1700044,Serbian,Is the book new?,Да ли је књига нова?,,sentence
+1700045,Serbian,to read,читати,,verb
+1700046,Serbian,to work,радити,,verb
+1700047,Serbian,I read.,Читам.,,sentence
+1700048,Serbian,You read. (singular informal),Читаш.,,sentence
+1700049,Serbian,He reads.,Чита.,,sentence
+1700050,Serbian,We read.,Читамо.,,sentence
+1700051,Serbian,You read. (plural or formal),Читате.,,sentence
+1700052,Serbian,They read.,Читају.,,sentence
+1700053,Serbian,I work.,Радим.,,sentence
+1700054,Serbian,You work. (singular informal),Радиш.,,sentence
+1700055,Serbian,The man works.,Мушкарац ради.,,sentence
+1700056,Serbian,We work.,Радимо.,,sentence
+1700057,Serbian,They work.,Раде.,,sentence
+1700058,Serbian,where,где,,grammar
+1700059,Serbian,Where is the house?,Где је кућа?,,sentence
+1700060,Serbian,Where is the woman?,Где је жена?,,sentence
+1700061,Serbian,what,шта,,grammar
+1700062,Serbian,What is this?,Шта је ово?,,sentence
+1700063,Serbian,who,ко,,grammar
+1700064,Serbian,Who is this?,Ко је ово?,,sentence
+1700065,Serbian,I do not work.,Не радим.,,sentence
+1700066,Serbian,He does not read.,Не чита.,,sentence
+1700067,Serbian,Do you work? (singular informal),Да ли радиш?,,sentence
+1700068,Serbian,Does she read?,Да ли чита?,,sentence
+1700069,Serbian,water,вода,,noun
+1700070,Serbian,city,град,,noun
+1700071,Serbian,school,школа,,noun
+1700072,Serbian,car,ауто,,noun
+1700073,Serbian,here,овде,,adverb
+1700074,Serbian,I see the house.,Видим кућу.,,sentence
+1700075,Serbian,to see,видети,,verb
+1700076,Serbian,house (accusative),кућу,,noun
+1700077,Serbian,woman (accusative),жену,,noun
+1700078,Serbian,book (accusative),књигу,,noun
+1700079,Serbian,I see the woman.,Видим жену.,,sentence
+1700080,Serbian,She sees the book.,Види књигу.,,sentence
+1700081,Serbian,to have,имати,,verb
+1700082,Serbian,I have a book.,Имам књигу.,,sentence
+1700083,Serbian,You have a car. (singular informal),Имаш ауто.,,sentence
+1700084,Serbian,She has a book.,Има књигу.,,sentence
+1700085,Serbian,We have a house.,Имамо кућу.,,sentence
+1700086,Serbian,to want,хтети,,verb
+1700087,Serbian,I want to work.,Хоћу да радим.,,sentence
+1700088,Serbian,She wants to read.,Хоће да чита.,,sentence
+1700089,Serbian,We want to see the city.,Хоћемо да видимо град.,,sentence
+1700090,Serbian,in the house,у кући,,phrase
+1700091,Serbian,The woman is in the house.,Жена је у кући.,,sentence
+1700092,Serbian,in the city,у граду,,phrase
+1700093,Serbian,The school is in the city.,Школа је у граду.,,sentence
+1700094,Serbian,into the house,у кућу,,phrase
+1700095,Serbian,I am going into the house.,Идем у кућу.,,sentence
+1700096,Serbian,to the city,у град,,phrase
+1700097,Serbian,We are going to the city.,Идемо у град.,,sentence
+1700098,Serbian,yes,да,,expression
+1700099,Serbian,no,не,,expression
