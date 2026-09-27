@@ -34,6 +34,7 @@ Ojibwe      800000-899999        800000-800098        99
 Spanish      900000-999999        900000-900099        100
 Russian     1000000-1099999       1000000-1000452       453
 Greek       1100000-1199999       1100000-1100099       100
+Hindi       1200000-1299999       1200000-1200099       100
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -247,6 +248,25 @@ contrasts through βλέπω, and an intentional early preview of the central
 reinforce these longitudinally while opening plural noun phrases, broader
 accusative use, basic prepositions, genitive possession and explicit aspect
 development; past and future need not wait for exhaustive declension work.
+
+HINDI
+Syllabus: Syllabi/Polyglot_Hindi_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Hindi.csv
+Cards: 100
+Used IDs: 1200000-1200099
+Checkpoint: Hindi has begun with a 100-card seed and is now governed by
+Hindi syllabus v0.1. The opening uses ordinary Devanagari and the shared
+eight-word seed, then develops masculine/feminine adjective agreement,
+बच्चा/बच्ची, the pronoun and second-person register system, present forms
+of होना, gender-sensitive habitual predicates through बोलना and काम करना,
+नहीं negation, क्या polar questions, कहाँ/क्या/कौन, possession with के पास,
+first direct-object contrasts with and without को, an early oblique बच्चे,
+and distinct high-frequency want constructions with चाहिए and चाहना.
+Future expansion should reinforce these longitudinally while opening
+plural agreement, core postpositions and oblique forms, का/के/की
+possessives, pronoun obliques and progressive रहा; perfective morphology
+and ने need not wait for exhaustive noun paradigms.
 
 4. MAINTENANCE RULES
 
