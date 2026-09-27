@@ -1,0 +1,418 @@
+POLYGLOT GREEK SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for Modern Greek in
+Polyglot. It is informed by the initial 100-card Greek seed and by successful
+patterns in the established Polyglot decks. It is a roadmap rather than a
+turn-by-turn transcript. Useful structures may appear before their formal
+unit when they are comprehensible, and earlier structures may continue to be
+established longitudinally through later cards.
+
+The initial reference variety is ordinary contemporary Standard Modern Greek.
+Ancient, Katharevousa, Cypriot and other regional or historical varieties are
+not treated as interchangeable with the modern standard, but important
+variation may be introduced later when useful.
+
+COURSE-WIDE GREEK PRINCIPLES
+
+1. Use ordinary monotonic Greek orthography from the first card. Greek script
+   is the Target; transliteration is not a parallel curriculum.
+2. Stress marks are part of exact spelling and should be preserved.
+3. Greek question punctuation uses the semicolon-shaped question mark (;).
+   Cards must use conventional Greek punctuation rather than English ?.
+4. Noun gender and article form are persistent lexical/grammatical properties.
+   Teach masculine, feminine and neuter through useful noun phrases and
+   agreement rather than as detached labels.
+5. Greek normally allows subject pronouns to be omitted. Pronoun cards teach
+   the pronouns; ordinary finite clauses should omit them when natural.
+6. Articles are central to Greek noun phrases. Definite articles, indefinite
+   forms, case and agreement should develop through controlled examples.
+7. Case is taught through function and visible article/noun contrasts. Modern
+   Greek nominative, accusative, genitive and vocative develop longitudinally;
+   do not begin with a complete declension table.
+8. Verbal person/number morphology is productive and should become visible
+   early. Paradigms are worth systematic coverage when the endings themselves
+   teach a contrast.
+9. Greek aspect is foundational. Present/imperfective and aorist/perfective
+   stems, the particle να, future θα, past tense and imperatives must be
+   developed as interacting systems rather than translated mechanically from
+   English tense labels.
+10. The 100-card seed deliberately previews να + dependent verb forms through
+    θέλω. This is not premature material to remove; later cards should unpack
+    and reinforce the aspectual and subordinate-verb system.
+11. Negation distinguishes δεν in ordinary indicative clauses from μη(ν) in
+    relevant non-indicative and prohibitive environments. Introduce the
+    contrast through natural constructions.
+12. Weak object pronouns/clitics are a major Greek system. Introduce them
+    after basic direct objects are intelligible, then revisit their position
+    with finite verbs, να, θα, imperatives and combinations.
+13. Vocabulary grows just in time. Do not postpone useful ordinary language
+    merely to exhaust an inflectional table.
+14. Spoken-standard alternatives such as μιλάω/μιλώ or μιλάνε/μιλούν should
+    not be multiplied into competing exact-match answers on one card. Choose
+    a natural form consistently for a card and introduce important variants
+    explicitly later where useful.
+
+THE EMPIRICAL OPENING: CARDS 1–100
+
+The seed establishes:
+- the shared house/man/woman/child and big/small/good/bad anchors;
+- nominative definite and indefinite noun phrases;
+- masculine/feminine/neuter adjective agreement;
+- personal pronouns followed by natural pro-drop finite clauses;
+- present είμαι;
+- early present morphology with μιλάω and δουλεύω;
+- δεν negation and punctuation-only polar questions;
+- πού, τι and ποιος;
+- έχω possession;
+- first visible accusative article contrasts through βλέπω;
+- θέλω + να with dependent verb forms, deliberately previewing the Greek
+  aspect/subordination system;
+- ναι/όχι and short conversational responses.
+
+The opening should be preserved as evidence rather than rewritten to make
+every later system appear in textbook order.
+
+INITIAL STRUCTURAL ROADMAP
+
+GR-01 — Core nouns, articles and gender
+Continue high-frequency concrete nouns with ο/η/το and useful ένας/μια/ένα
+phrases. Reinforce gender lexically and through agreement.
+
+GR-02 — Adjective agreement
+Develop masculine, feminine, neuter and plural agreement with common
+adjectives. Introduce productive patterns before less predictable classes.
+
+GR-03 — Personal reference and pro-drop
+Establish εγώ, εσύ, αυτός/αυτή/αυτό, εμείς, εσείς, αυτοί/αυτές/αυτά, while
+modeling omission of recoverable subjects in ordinary clauses. Develop
+formal/plural εσείς naturally.
+
+GR-04 — Present είμαι
+Identity, classification, description and location with the full useful
+person/number system. Avoid importing English article usage mechanically
+into predicate nouns.
+
+GR-05 — Productive present morphology
+Develop common active present patterns across useful verbs. Contrast
+person/number endings systematically where they carry new information,
+then sample additional verbs rather than repeating whole paradigms
+mechanically.
+
+GR-06 — Negation and polar questions
+Establish δεν with indicative clauses and conventional Greek question
+punctuation. Expand short answers and natural conversational responses.
+
+GR-07 — Content questions
+Develop ποιος, τι, πού, πότε, πώς, γιατί, πόσο and inflected interrogative
+forms where case/gender requires them.
+
+GR-08 — έχω and possession
+Develop έχω in ordinary possession and related high-frequency expressions.
+Later contrast possessive clitics and genitive noun phrases.
+
+GR-09 — Accusative direct objects
+Use definite articles and nouns to establish τον/τη(ν)/το and plural
+accusative forms. Develop article-final ν according to contemporary
+orthographic/phonological conventions rather than treating it as a separate
+case ending.
+
+GR-10 — Nominative and accusative synthesis
+Mix subjects, direct objects, questions, negation, adjective agreement and
+fresh vocabulary so case marking becomes ordinary background structure.
+
+GR-11 — Plural noun phrases
+Develop common noun plural patterns and plural article/adjective agreement.
+Irregular high-frequency plurals may enter as lexical families.
+
+GR-12 — Genitive: possession and relation
+Introduce μου, σου, του, της, μας, σας, τους and simple genitive noun phrases
+through possession and relationship. Keep clitic possessives distinct from
+English possessive-adjective assumptions.
+
+GR-13 — Basic prepositions and location
+Develop σε, από, με, για and common contractions such as στο/στη/στον/στην
+through location, direction, source, accompaniment and purpose. Lexical
+choice and case behavior should be learned in natural phrases.
+
+GR-14 — Demonstratives and determiners
+Develop αυτός/αυτή/αυτό as demonstratives with the article where required,
+along with εκείνος and other high-frequency determiners. Keep demonstrative
+pronoun uses distinct from attributive noun-phrase uses.
+
+VERBAL AND ASPECTUAL SPINE
+
+GR-15 — να as a core clause particle
+Return explicitly to the seed's θέλω να... constructions. Establish να +
+dependent verb forms for wants, ability/necessity and other common
+complements without forcing an English infinitive analysis onto Greek.
+
+GR-16 — Imperfective versus perfective stem
+Introduce transparent verb families where present/imperfective and
+aorist/perfective stems make the contrast visible. Use contexts that
+distinguish ongoing/repeated activity from bounded completion.
+
+GR-17 — Simple future with θα
+Develop θα with imperfective and perfective dependent forms: ongoing or
+repeated future versus single/bounded future. Reuse the same aspect families
+from GR-16.
+
+GR-18 — Aorist active
+Introduce completed past events with common regular patterns, then frequent
+irregular aorists. Person/number morphology should be sufficiently
+systematic to expose the paradigm without multiplying lexical stems
+unnecessarily.
+
+GR-19 — Imperfect
+Develop ongoing, habitual and background past. Contrast with aorist in
+controlled narratives and repeated everyday contexts.
+
+GR-20 — Past/future/aspect synthesis
+Interleave present, imperfect, aorist and both future aspect choices with
+clear contextual prompts. Do not reduce the system to English
+present/past/future equivalence.
+
+GR-21 — Present perfect and pluperfect
+Introduce έχω + invariant perfective form in ordinary contemporary uses,
+then pluperfect and future perfect where frequency justifies them. Compare
+with aorist pragmatically rather than claiming a one-to-one English mapping.
+
+GR-22 — Imperatives
+Develop positive imperatives with appropriate aspect and number. Negative
+commands use μη(ν) plus the relevant non-indicative construction rather
+than a mechanically negated positive imperative.
+
+GR-23 — Modal and impersonal predicates
+Develop μπορώ, πρέπει, χρειάζεται, είναι δυνατόν and other common modal or
+impersonal frames with να clauses.
+
+OBJECTS, CLITICS, AND VOICE
+
+GR-24 — Weak direct-object pronouns
+Introduce με, σε, τον, τη(ν), το, μας, σας, τους, τις, τα as clitics in
+controlled finite clauses. Keep them distinct from strong pronouns.
+
+GR-25 — Weak indirect/genitive pronouns
+Develop μου, σου, του, της, μας, σας, τους as indirect/genitive clitics in
+natural recipient, possession and experiencer constructions.
+
+GR-26 — Clitic position
+Contrast preverbal clitics with their behavior around να and θα, and later
+with positive imperatives. Introduce combinations only after single clitics
+are stable enough to remain intelligible.
+
+GR-27 — Strong pronouns and emphasis
+Develop εμένα, εσένα and other strong forms after the clitic system has a
+clear functional base. Use contrastive/emphatic contexts rather than
+treating them as interchangeable duplicates.
+
+GR-28 — Mediopassive morphology
+Introduce common present mediopassive forms and verbs whose ordinary lexical
+form is mediopassive. Separate productive voice contrasts from lexically
+deponent behavior.
+
+GR-29 — Passive and reflexive/reciprocal meanings
+Develop passive event structure, reflexive interpretations and reciprocal
+expressions through natural high-frequency examples.
+
+NOUN PHRASE DEVELOPMENT
+
+GR-30 — Accusative across noun classes
+Widen singular/plural accusative endings and article/adjective agreement
+across masculine, feminine and neuter classes.
+
+GR-31 — Genitive across noun classes
+Develop productive singular and plural genitive patterns, common stress
+shifts and high-frequency irregular forms through possession, source,
+quantity and governed expressions.
+
+GR-32 — Vocative
+Introduce common masculine/feminine vocative patterns in direct address.
+Treat productive endings and frequent irregulars according to actual usage.
+
+GR-33 — Adjective declension
+Broaden adjective classes through nominative, accusative and genitive
+agreement. Avoid giant detached tables; use noun phrases and sentences.
+
+GR-34 — Comparison
+Develop πιο + adjective/adverb, από and superlative uses with the definite
+article, then lexical comparatives where ordinary.
+
+GR-35 — Numbers and quantity
+Cardinals, ordinals, time, dates, age, prices and quantity expressions.
+Develop noun behavior after numerals through actual modern usage rather than
+importing Ancient Greek expectations.
+
+GR-36 — Possessives and reflexive possession
+Develop possessive clitics, δικός μου and related emphatic/contrastive
+possessive constructions.
+
+CLAUSE STRUCTURE
+
+GR-37 — Coordination
+και, αλλά, ή, ούτε and common discourse coordinators in increasingly varied
+sentences.
+
+GR-38 — ότι/πως content clauses
+Develop finite complement clauses after verbs of saying, knowing, thinking
+and perception, contrasting them with να complements where meaning differs.
+
+GR-39 — Relative clauses
+Introduce που as the central relative marker, then contexts requiring
+additional resumptive or prepositional material.
+
+GR-40 — Temporal clauses
+όταν, πριν, αφού, ενώ, μόλις and aspect/tense choices in ordinary temporal
+relations.
+
+GR-41 — Cause, purpose and result
+γιατί, επειδή, για να, ώστε and related constructions with indicative or
+να clauses as appropriate.
+
+GR-42 — Conditionals
+Develop αν clauses from open present/future conditions through unreal and
+counterfactual patterns. Introduce θα and past morphology in the combinations
+actually used by Modern Greek.
+
+GR-43 — Indefinites and negatives
+κάποιος, κάτι, κανείς/κανένας, τίποτα, ποτέ and Greek negative-concord
+patterns. Contrast polarity-sensitive meanings through complete clauses.
+
+GR-44 — Word order and information structure
+Greek word order is flexible but not free. Develop neutral orders, topical
+subjects/objects, focus, clitic doubling and marked orders through contexts
+where information structure makes the choice meaningful.
+
+GR-45 — Questions beyond the basics
+Develop alternative questions, embedded questions, question-word case forms,
+particles and pragmatic question patterns.
+
+LEXICAL AND DERIVATIONAL DEVELOPMENT
+
+GR-46 — Everyday high-frequency verb families
+Build broad lexical coverage while preserving aspectual partners/stems as
+families rather than isolated translations.
+
+GR-47 — Prefixes and lexical aspect
+Develop productive and semi-productive prefixal relationships cautiously.
+Do not imply that every prefixed verb has a compositionally predictable
+English equivalent.
+
+GR-48 — Noun and adjective derivation
+Develop common suffixes, agent nouns, abstract nouns, diminutives,
+augmentatives and adjective formation through useful lexical families.
+
+GR-49 — Adverbs and discourse markers
+Expand manner, time, degree, stance and connective adverbs from conversational
+through educated written use.
+
+GR-50 — Collocation and argument structure
+Revisit common verbs and adjectives with their natural prepositions, cases,
+clitics and complement types. Translation-equivalent words should acquire
+their Greek-specific combinatorial behavior.
+
+MATURE MODERN GREEK
+
+GR-51 — Conversation and pragmatics
+Greetings, requests, politeness, agreement/disagreement, hesitation,
+repair, turn-taking and ordinary spoken routines. Teach pronoun use and
+omission as pragmatic choices where relevant.
+
+GR-52 — Register
+Develop neutral spoken/written Greek, colloquial reductions and more formal
+educated usage. Do not resurrect Katharevousa as the productive norm, but
+teach common formal or fossilized forms an educated adult encounters.
+
+GR-53 — Standard variation
+Introduce important alternative standard forms and high-frequency regional
+or Cyprus-related variation where it materially improves comprehension.
+Label variants when exact matching would otherwise create ambiguity.
+
+GR-54 — Learned vocabulary and the ancient inheritance
+Modern Greek contains extensive inherited and learned morphology and
+vocabulary. Develop common learned formations, doublets and formal lexical
+patterns as modern vocabulary, with historical explanation only where it
+clarifies present-day use.
+
+GR-55 — Media, institutions and public life
+Government, education, health, law, economics, work, technology, news and
+ordinary institutional language.
+
+GR-56 — Arts, science and educated discourse
+Develop broad educated-adult vocabulary, abstract nouns, technical-general
+terms, argumentation, description and interpretation.
+
+GR-57 — Idiom and phraseology
+Common idioms, fixed expressions, light-verb constructions, collocations
+and conventional figurative language.
+
+GR-58 — Extended syntax and discourse
+Participial/fossilized structures that remain productive or common,
+nominalization, complex embedding, cohesion, reference tracking and
+multi-clause written prose.
+
+GR-59 — Literary and historical comprehension
+Only after the contemporary system is mature, introduce high-value literary,
+older or conservative forms that an educated modern reader is likely to
+encounter. Keep Ancient Greek and historical stages outside the ordinary
+production target unless explicitly identified.
+
+GR-60 — Educated-adult long tail
+Continue vocabulary, collocation, semantic distinctions, register and
+specialized-general knowledge without manufacturing artificial grammatical
+difficulty merely because card IDs are high.
+
+CARD-SPECIFIC RULES
+
+1. EnglishPrompt must remain unique and have one intended Greek Target.
+2. Use Greek punctuation, including ; for questions.
+3. Use monotonic accents consistently; preserve diaeresis where required.
+4. InputHint is normally blank. The learner should use a Greek keyboard
+   rather than depend on romanization.
+5. Subject pronouns should not be retained merely to mirror English.
+6. When a Greek form has common competing variants, choose one natural
+   production target and introduce the other later with a disambiguated
+   prompt if it deserves active production.
+7. Do not create cards whose only purpose is naming grammatical cases,
+   tenses or aspects. Teach the systems through language.
+8. Article + noun and adjective + noun examples should expose gender/case
+   naturally. Avoid redundant gender-label cards when the phrase itself
+   supplies the evidence.
+9. να and θα constructions should be prompted semantically. Do not call
+   dependent perfective forms an English-style infinitive.
+10. Aspect-sensitive English prompts should contain enough context to select
+    one intended Greek form.
+11. Clitic cards must make person, number, gender and grammatical role clear
+    enough for exact matching.
+12. Greek spelling conventions and natural contemporary usage outrank
+    etymological symmetry or analogy with Ancient Greek.
+
+DEVELOPMENT POLICY
+
+The first 100 cards are the empirical opening and are now governed by this
+syllabus. Audit them for genuine errors, but do not rewrite them simply to
+make the roadmap look more linear.
+
+The next expansion should reinforce article/adjective agreement and present
+morphology while opening plural noun phrases, broader accusative contrasts,
+σε and other basic prepositions, genitive possessives, and a more explicit
+return to να and aspect. Past and future language need not wait for every
+noun paradigm to be complete.
+
+As confidence grows, batch sizes may increase. Exact duplicates remain
+prohibited; longitudinal reinforcement should use varied contexts.
+
+AMENDMENT NOTE
+
+Version 0.1 is the first Greek syllabus. It was written after a 100-card
+prototype rather than before it. The prototype demonstrated that Modern
+Greek can follow the common Polyglot small-seed pacing while asserting its
+own structure very early through article/gender agreement, pro-drop,
+Greek question punctuation, accusative articles, and especially θέλω + να
+with dependent aspectual forms.
