@@ -41,6 +41,7 @@ Icelandic   1500000-1599999       1500000-1500099       100
 Italian     1600000-1699999       1600000-1600099       100
 Serbian     1700000-1799999       1700000-1700099       100
 Swedish     1800000-1899999       1800000-1800099       100
+Punjabi     1900000-1999999       1900000-1900099       100
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -407,4 +408,22 @@ main/subordinate word order while opening pronoun objects, possession,
 infinitival constructions, past tense, supine/perfect, particle verbs and
 pronunciation. Finland Swedish and de/dem/dom variation are reserved for
 explicit later strands.
+
+PUNJABI
+Syllabus: Syllabi/Polyglot_Punjabi_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Punjabi.csv
+Cards: 100
+Used IDs: 1900000-1900099
+Checkpoint: Punjabi begins with a 100-card live Gurmukhi seed under syllabus
+v0.1. The unqualified production baseline is contemporary Indian/Eastern
+Punjabi in Gurmukhi. The opening develops the shared lexical seed; early
+masculine/feminine agreement; personal and respectful pronouns; present
+copular and habitual structures; ਨਹੀਂ negation; ਕੀ polar questions; basic
+question words; possession with ਕੋਲ; first ਨੂੰ-marked objects and oblique
+forms; and ਚਾਹੀਦਾ versus ਚਾਹੁਣਾ. Shahmukhi is reserved for a later explicit
+literacy strand using familiar Punjabi material rather than wholesale deck
+duplication. Pakistani/Western Punjabi is an active later strand; a
+"(Pakistani)" prompt normally implies Shahmukhi while a "(Shahmukhi)" prompt
+by itself tests script rather than regional difference.
 
