@@ -1,0 +1,352 @@
+POLYGLOT PUNJABI SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for Punjabi in
+Polyglot. The deck uses contemporary Indian/Eastern Punjabi written in
+Gurmukhi as its unmarked production baseline, while its mature scope also
+includes Shahmukhi literacy and Pakistani/Western Punjabi as an active
+longitudinal strand.
+
+The syllabus was written after an initial 100-card Gurmukhi seed. Hindi is
+a useful Indo-Aryan reference implementation, but Punjabi grammar,
+vocabulary, phonology, scripts and usage remain authoritative.
+
+The syllabus is a roadmap rather than a transcript. Vocabulary and
+previously introduced grammar continue to develop longitudinally.
+
+REFERENCE VARIETY SCRIPTS AND PRONUNCIATION
+
+An unqualified English prompt asks for contemporary Standard Punjabi in the
+Indian/Eastern baseline and in Gurmukhi. Gurmukhi is therefore the canonical
+initial Target script.
+
+Shahmukhi is introduced later as a second Punjabi literacy system. Explicit
+prompts such as "house (Shahmukhi)" may test the same Punjabi lexical item
+in Shahmukhi. The curriculum should not duplicate every semantic card merely
+to produce a second script version.
+
+The script distinction overlaps with regional and national standardization
+but is not identical to it. Pakistani/Western Punjabi receives an active
+later strand for vocabulary, grammar, register and usage that meaningfully
+differs from the Indian/Eastern default. A prompt labelled "(Pakistani)"
+normally implies Shahmukhi unless another script is explicitly requested.
+A prompt labelled only "(Shahmukhi)" tests script rather than asserting a
+different regional form.
+
+Indian Punjabi material that differs from a broader or Pakistani form may be
+labelled "(Indian)" where contrast makes the qualifier necessary. Identical
+material need not be duplicated merely to attach regional labels.
+
+Ordinary Targets use normal contemporary spelling. Transliteration is not an
+alternative Target. Punjabi's tonal contrasts are structurally important,
+including tones historically associated with voiced aspirates and h-related
+developments. Pronunciation receives explicit longitudinal treatment without
+inventing tone marks in ordinary Gurmukhi or Shahmukhi Targets.
+
+COURSE-WIDE PUNJABI PRINCIPLES
+
+1. Begin with a small reusable seed and move quickly into productive
+   Gurmukhi sentences.
+2. Preserve normal Gurmukhi spelling including vowel signs, addak, tippi,
+   bindi and pairin letters where conventional.
+3. Punjabi is broadly head-final. Postpositions, SOV tendencies and verb
+   complexes should be learned as Punjabi structures rather than rearranged
+   to resemble English.
+4. Nouns have masculine and feminine grammatical gender. Agreement is
+   central across adjectives, participles and verbal constructions.
+5. Inflecting adjectives such as ਵੱਡਾ and ਚੰਗਾ expose gender and number
+   contrasts early. Invariant adjectives should be learned as they occur.
+6. Personal reference includes ਮੈਂ, ਤੂੰ, ਤੁਸੀਂ, ਇਹ, ਉਹ and ਅਸੀਂ. English
+   he/she distinctions are not mechanically encoded by ਇਹ/ਉਹ; agreement and
+   context often supply gender.
+7. ਤੂੰ and ਤੁਸੀਂ encode important intimacy/respect/number distinctions.
+   Prompts must identify the intended social/number value when exact matching
+   requires it.
+8. Present habitual clauses expose gender and number agreement through
+   participial forms together with the copular/auxiliary system. Speaker or
+   subject gender must be stated in English when it changes the Target.
+9. Punjabi permits natural argument omission where discourse licenses it,
+   but do not force systematic pro-drop merely because agreement may reveal
+   person or gender.
+10. Negation with ਨਹੀਂ is introduced in ordinary clauses and later developed
+    for scope, imperative/prohibitive patterns and complex predicates.
+11. Polar questions can use clause-initial ਕੀ in clear neutral examples.
+    Intonation and other natural interrogative patterns are developed later.
+12. Content interrogatives such as ਕੀ, ਕੌਣ, ਕਿੱਥੇ, ਕਦੋਂ, ਕਿਉਂ and ਕਿਵੇਂ
+    develop through ordinary clauses rather than isolated terminology.
+13. Punjabi does not have an English-style article system. Do not insert a
+    numeral merely to translate a/an unless the numeral or indefiniteness is
+    actually intended.
+14. Case relations develop through direct/oblique noun forms plus
+    postpositions. Teach meaningful constructions before exhaustive
+    paradigms.
+15. ਨੂੰ has recipient, goal, experiencer and differential-object functions.
+    Develop these through controlled contrasts rather than treating it as a
+    simple translation of English "to".
+16. Possession is not a single lexical have verb. ਕੋਲ constructions,
+    genitives and existential patterns should be taught according to meaning.
+17. Genitive forms agree with the possessed noun in important constructions.
+    Possessive pronouns and genitive postpositions therefore belong to the
+    agreement spine.
+18. The infinitive in -ਣਾ is the normal lexical citation form for verbs and
+    also participates in nominal and modal constructions.
+19. Habitual, progressive, perfective and future systems must be developed as
+    Punjabi aspect/tense constructions rather than English tense labels.
+20. Perfective transitive clauses interact with ergative marking and
+    agreement. Develop ਨੇ and its consequences explicitly when the opening is
+    ready for past/perfective structure.
+21. Light verbs and compound predicates are central to ordinary Punjabi.
+    Introduce lexical meanings first where useful, then productive
+    combinations longitudinally.
+22. Motion, aspect and vector/light-verb combinations should be learned
+    through frequent constructions rather than abstract inventories.
+23. Imperatives and requests vary with social relationship and politeness.
+    Develop ਤੂੰ and ਤੁਸੀਂ forms in appropriate contexts.
+24. Postpositions and spatial expressions should be learned with the forms
+    they govern and their idiomatic meanings.
+25. Word order is flexible enough for information structure but not arbitrary.
+    Neutral order, focus, topicalization and scrambling develop from ordinary
+    examples.
+26. Punjabi has important phonological contrasts not transparently represented
+    for an English speaker. Aspirated/unaspirated series, retroflexion, vowel
+    length, gemination and tone deserve explicit attention.
+27. Gurmukhi literacy includes the independent vowel letters, matras, nasal
+    signs, addak and conjunct/subjoined conventions actually used in modern
+    Punjabi. Do not turn the curriculum into an alphabet recital before
+    useful language begins.
+28. Shahmukhi literacy is taught after a useful Punjabi base exists. Begin
+    with familiar words and systematic letter/position behavior so that the
+    learner is principally acquiring a second script rather than new grammar.
+29. Shahmukhi cards should teach Punjabi orthography rather than generic Urdu
+    spelling assumptions. Shared Perso-Arabic literacy is useful but Punjabi
+    usage remains authoritative.
+30. Pakistani/Western Punjabi is an active production and comprehension
+    strand. Label meaningful departures from the Indian/Eastern default and
+    avoid duplicating identical material solely for regional symmetry.
+31. The absence of a qualifier is informative: Indian/Eastern Punjabi +
+    Gurmukhi. Qualifiers appear when they change the intended answer.
+32. Contemporary broadly neutral Punjabi precedes strongly regional,
+    historical or literary material.
+33. Vocabulary grows just in time. Similarity to Hindi, Urdu or another
+    Indo-Aryan language may help explanation but never overrides Punjabi
+    usage.
+
+EMPIRICAL OPENING: CARDS 1-100
+
+The seed establishes:
+- the shared house/man/woman/child and big/small/good/bad anchors;
+- Gurmukhi as the sole initial Target script;
+- early masculine/feminine adjective agreement;
+- ਬੱਚਾ/ਬੱਚੀ as a visible gender contrast;
+- ਮੈਂ, ਤੂੰ, ਤੁਸੀਂ, ਉਹ, ਇਹ and ਅਸੀਂ;
+- present copular forms in identity and location;
+- habitual present agreement through ਬੋਲਣਾ and ਕੰਮ ਕਰਨਾ;
+- ਨਹੀਂ negation and ਕੀ polar questions;
+- ਕਿੱਥੇ, ਕੀ and ਕੌਣ;
+- possession with ਕੋਲ;
+- first direct-object contrasts with and without ਨੂੰ;
+- an early visible oblique form in ਬੱਚੇ ਨੂੰ;
+- ਚਾਹੀਦਾ and ਚਾਹੁਣਾ as distinct high-frequency ways of expressing wants;
+- respectful ਤੁਸੀਂ and gender-sensitive English prompting.
+
+The opening is deliberately entirely Gurmukhi. Shahmukhi and Pakistani
+variation begin only after the learner has a useful Punjabi base.
+
+INITIAL STRUCTURAL ROADMAP
+
+PA-01 Core nouns and grammatical gender
+PA-02 Core adjectives and gender agreement
+PA-03 Personal pronouns and social reference
+PA-04 Present copula and location
+PA-05 Habitual present
+PA-06 Negation
+PA-07 Polar questions
+PA-08 Content questions
+PA-09 Possession with ਕੋਲ
+PA-10 Direct objects and ਨੂੰ
+PA-11 Direct and oblique noun forms
+PA-12 Noun plurals
+PA-13 Adjective plural agreement
+PA-14 ਵਿੱਚ and ਉੱਤੇ location
+PA-15 ਤੋਂ source comparison and instrument functions
+PA-16 ਨੂੰ recipients goals experiencers and objects
+PA-17 ਦਾ/ਦੀ/ਦੇ genitive agreement
+PA-18 Possessive pronouns
+PA-19 Demonstratives and determiners
+PA-20 Quantifiers
+PA-21 Infinitive in -ਣਾ
+PA-22 Imperatives with ਤੂੰ
+PA-23 Requests and imperatives with ਤੁਸੀਂ
+PA-24 Progressive aspect
+PA-25 Habitual past
+PA-26 Perfective introduction
+PA-27 ਨੇ and ergative perfective clauses
+PA-28 Perfective agreement
+PA-29 Future
+PA-30 Aspect and tense synthesis
+PA-31 ਚਾਹੁਣਾ and ਚਾਹੀਦਾ
+PA-32 ਸਕਣਾ ability
+PA-33 Obligation and necessity
+PA-34 Experiencer constructions
+PA-35 ਕਰਨਾ compounds
+PA-36 ਦੇਣਾ and ਲੈਣਾ as lexical and light verbs
+PA-37 ਜਾਣਾ and ਆਉਣਾ
+PA-38 Motion and directional expressions
+PA-39 Vector/light-verb combinations
+PA-40 Reflexive ਆਪਣਾ
+PA-41 Reflexive and reciprocal constructions
+PA-42 Object and oblique pronouns
+PA-43 Postposition-pronoun combinations
+PA-44 Comparison
+PA-45 Superlative and degree
+PA-46 Cardinal numbers
+PA-47 Ordinal numbers
+PA-48 Dates and calendar expressions
+PA-49 Clock time
+PA-50 Quantity measurement and prices
+PA-51 Coordination
+PA-52 ਕਿ complement clauses
+PA-53 Relative-correlative constructions
+PA-54 Temporal clauses
+PA-55 Causal clauses
+PA-56 Conditional clauses
+PA-57 Purpose clauses
+PA-58 Concessive clauses
+PA-59 Reported speech and questions
+PA-60 Word order and information structure
+PA-61 Topic and focus
+PA-62 Negation and scope
+PA-63 Indefinite negative and universal expressions
+PA-64 Productive noun derivation
+PA-65 Productive adjective derivation
+PA-66 Productive verb derivation
+PA-67 Reduplication and echo formations
+PA-68 Compound predicates
+PA-69 Gurmukhi vowel system and matras
+PA-70 Gurmukhi nasalization signs
+PA-71 Gurmukhi addak and gemination
+PA-72 Gurmukhi pairin letters and borrowed sounds
+PA-73 Pronunciation: retroflex and dental contrasts
+PA-74 Pronunciation: aspiration
+PA-75 Pronunciation: vowel length
+PA-76 Pronunciation: gemination
+PA-77 Punjabi tone
+PA-78 Tone and historical voiced aspirates
+PA-79 Standard spelling/pronunciation correspondences
+PA-80 Shahmukhi script orientation
+PA-81 Shahmukhi joining and positional forms
+PA-82 Shahmukhi consonant inventory for Punjabi
+PA-83 Shahmukhi vowel representation
+PA-84 Shahmukhi familiar-word literacy
+PA-85 Gurmukhi/Shahmukhi parallel literacy
+PA-86 Script conversion with established vocabulary
+PA-87 Pakistani Punjabi core lexical differences
+PA-88 Pakistani Punjabi grammatical and usage differences
+PA-89 Pakistani Punjabi register and idiom
+PA-90 Cross-border Punjabi comprehension
+PA-91 Regional variation within Indian Punjabi
+PA-92 Regional variation within Pakistani Punjabi
+PA-93 Formal and informal register
+PA-94 Greetings requests thanks and service encounters
+PA-95 Conversational particles and response words
+PA-96 Colloquial Punjabi
+PA-97 Formal written Punjabi
+PA-98 Media and public-language Punjabi
+PA-99 Phraseology and high-frequency collocations
+PA-100 Idioms and figurative language
+PA-101 Polysemy and semantic boundaries
+PA-102 Household and everyday life
+PA-103 Food and cooking
+PA-104 Family and relationships
+PA-105 Body health and medicine
+PA-106 Work and occupations
+PA-107 Education
+PA-108 Travel and transportation
+PA-109 Buildings towns and public places
+PA-110 Nature weather and environment
+PA-111 Technology and communications
+PA-112 Commerce money and finance
+PA-113 Government law and institutions
+PA-114 Science and mathematics
+PA-115 Arts literature and culture
+PA-116 History society and public discourse
+PA-117 Religion and philosophy
+PA-118 Emotions personality and behaviour
+PA-119 Abstract concepts and relationships
+PA-120 Academic and professional vocabulary
+PA-121 Fine semantic distinctions and near-synonyms
+PA-122 Literary and historical vocabulary
+PA-123 Educated-adult long tail
+
+The later script, regional, lexical and register domains develop in parallel.
+Their numbering records an editorial introduction order rather than serial
+mastery.
+
+CARD-SPECIFIC RULES
+
+1. EnglishPrompt must be unique and select one intended Punjabi Target.
+2. An unqualified prompt uses the deck default: Indian/Eastern Punjabi +
+   Gurmukhi.
+3. InputHint is normally blank during the Gurmukhi opening.
+4. Avoid commas in card fields where a natural alternative exists.
+5. Preserve Gurmukhi orthography exactly. Do not replace normal spelling with
+   transliteration.
+6. State speaker/subject gender in English whenever Punjabi agreement makes
+   the answer otherwise ambiguous.
+7. State intimacy/respect/number when ਤੂੰ versus ਤੁਸੀਂ or related agreement
+   makes the answer otherwise ambiguous.
+8. Do not force English he/she distinctions into ਇਹ/ਉਹ lexical cards.
+9. Postposition-sensitive prompts must provide enough meaning to select one
+   intended construction.
+10. Do not turn grammatical labels into the main learning task. Morphological
+    prompts may be used sparingly where they clarify an otherwise invisible
+    contrast before sentence reuse.
+11. Aspect prompts must provide enough context to select the intended Punjabi
+    form.
+12. Explicit prompts such as "house (Shahmukhi)" may test second-script
+    literacy. Do not duplicate the whole semantic curriculum by script.
+13. A "(Pakistani)" label normally implies Shahmukhi and Pakistani/Western
+    standard usage unless another script is explicitly requested.
+14. A "(Shahmukhi)" label by itself tests script and does not imply that the
+    lexical or grammatical form differs regionally.
+15. Do not create a second regional card merely because Indian and Pakistani
+    Punjabi have an identical form. Add regional cards when they teach a
+    meaningful lexical grammatical orthographic or register distinction.
+16. Strongly regional historical or literary forms must be labelled when
+    exact matching would otherwise imply they are the neutral deck default.
+17. Ordinary Targets do not carry invented tone marks. Tone belongs in
+    pronunciation-focused instruction while normal spelling is preserved.
+
+DEVELOPMENT POLICY
+
+The first 100 cards are the empirical opening. Because repository decks are
+now being used in the Polyglot app, their IDs are live and must remain stable.
+Correct genuine errors in place rather than renumbering existing cards.
+
+The next expansion should deepen noun/plural and adjective agreement,
+postpositions, oblique forms, possession, pronouns and habitual structure
+while opening progressive and first perfective/past contrasts. ਨੇ and
+ergative perfective clauses should enter once enough ordinary transitive
+language exists to make their agreement consequences visible.
+
+Shahmukhi should not be rushed into the opening. Introduce it after a useful
+Gurmukhi Punjabi base so familiar Punjabi words can carry the new script.
+Pakistani Punjabi can then provide continuing Shahmukhi practice while
+teaching genuine regional-standard differences.
+
+Hindi and Urdu are useful Indo-Aryan comparison points. Punjabi tone,
+agreement, postpositions, aspect, light verbs, Gurmukhi/Shahmukhi literacy
+and Indian/Pakistani variation remain authoritative.
+
+AMENDMENT NOTE
+
+Version 0.1 is the first Punjabi syllabus. It establishes Indian/Eastern
+Punjabi in Gurmukhi as the unqualified production default while defining
+Shahmukhi literacy and Pakistani/Western Punjabi as active later strands.
+The initial 100-card seed is entirely Gurmukhi.
