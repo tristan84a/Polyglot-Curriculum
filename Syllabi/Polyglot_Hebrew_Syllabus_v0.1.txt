@@ -1,0 +1,444 @@
+POLYGLOT HEBREW SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for contemporary
+Israeli Hebrew in Polyglot. It was written after an initial 100-card seed
+and uses that seed, together with successful Polyglot decks, as design
+evidence.
+
+The syllabus is a roadmap rather than a transcript. A useful structure may
+appear before its formal unit when the card remains comprehensible, and
+introduced systems may continue toward establishment longitudinally.
+
+REFERENCE VARIETY AND ORTHOGRAPHY
+
+The initial production target is ordinary contemporary Israeli Hebrew.
+Targets use normal unpointed Hebrew spelling. Niqqud is not a preliminary
+script layer and is not normally supplied merely to make pronunciation
+explicit. It may enter later where conventional, pedagogically useful, or
+needed to discuss a genuine ambiguity.
+
+Biblical, Mishnaic and earlier Hebrew are historically central but are not
+the unmarked production target. They enter later as literary, religious,
+historical and register-sensitive comprehension strands.
+
+COURSE-WIDE HEBREW PRINCIPLES
+
+1. Use ordinary Hebrew script from the first card. Transliteration is not
+   an alternative Target and InputHint is normally blank.
+2. Modern unpointed spelling is the normal adult orthography. Do not create
+   a niqqud-dependent beginner dialect of the written language.
+3. Hebrew has masculine/feminine grammatical gender and extensive
+   gender/number agreement. English prompts must identify speaker,
+   addressee or referent gender when needed for exact matching.
+4. Present-tense verb forms behave morphologically like participles and
+   distinguish gender and number but not person. Pronouns therefore remain
+   important in many present clauses.
+5. Present nominal/adjectival predicates normally have no overt copula.
+   Do not insert a Hebrew equivalent merely because English uses am/is/are.
+6. Definite ה־ interacts with attributive adjective definiteness. Contrast
+   הבית גדול with הבית הגדול early and reinforce the distinction.
+7. Hebrew has no ordinary indefinite article. Do not mechanically translate
+   English a/an with אחד.
+8. את marks definite direct objects in the central modern system. It is not
+   an ordinary translation of English 'the' or an all-purpose accusative
+   marker; teach it through contrasts such as רואה בית / רואה את הבית.
+9. יש and אין are foundational existential constructions and participate
+   in possession with ל־ clitics: יש לי, אין לי, etc.
+10. Prepositions frequently combine with pronominal suffixes. Treat common
+    inflected prepositions as central morphology, not peripheral idiom.
+11. Lexical verbs are introduced with the infinitive where a natural modern
+    infinitive is available, while verbal morphology is organized around
+    roots and binyanim only as those concepts become useful.
+12. Roots are lexical relationships, not standalone words. Do not make bare
+    consonantal roots ordinary English-to-Hebrew answers.
+13. Binyan patterns are important organizing knowledge but actual verbs,
+    meanings and inflected forms remain the curriculum. Do not imply that
+    a root+binyan combination has a fully predictable lexical meaning.
+14. Hebrew tense/aspect morphology is not built by adding an English-style
+    auxiliary to an invariant verb. Past and future person/gender/number
+    paradigms deserve systematic coverage when their cells teach genuine
+    contrasts.
+15. Future morphology also underlies important modal, imperative and
+    prohibitive constructions; develop these relationships longitudinally.
+16. Possessive suffixes and של constructions both belong to modern Hebrew.
+    Their distribution and register should be learned from natural phrases,
+    not treated as mechanically interchangeable.
+17. Construct state (סמיכות) is a productive noun-phrase system and should
+    be introduced through frequent lexical and compositional examples.
+18. Vocabulary grows just in time. Do not complete root tables, binyan
+    inventories or noun-pattern catalogues before useful language proceeds.
+19. Spoken-standard forms and formal written norms may differ. Begin with
+    broadly neutral contemporary usage and label significant colloquial or
+    formal alternatives when exact matching requires it.
+20. Hebrew's historical layers strongly affect modern vocabulary and
+    phraseology. Historical explanation may clarify a modern pattern but
+    should not displace contemporary usage as the production target.
+
+EMPIRICAL OPENING: CARDS 1–100
+
+The seed establishes:
+- the shared house/man/woman/child and big/small/good/bad anchors;
+- normal unpointed Hebrew script;
+- masculine/feminine adjective agreement;
+- present nominal/adjectival predication without a copula;
+- definite ה־ and predicative versus attributive adjective definiteness;
+- זה/זאת and demonstrative noun phrases;
+- gendered singular and plural personal pronouns;
+- gender/number-sensitive present forms through לדבר and לעבוד;
+- לא negation and intonation/punctuation polar questions;
+- איפה, מה and מי;
+- existential יש/אין;
+- possession through יש + ל־;
+- definite-object את contrasted with an unmarked indefinite object;
+- infinitives and רוצה + infinitive.
+
+The seed deliberately includes the metalinguistically glossed את card only
+after several concrete object examples. Future development should make the
+construction ordinary through usage rather than multiplying terminology
+cards.
+
+INITIAL STRUCTURAL ROADMAP
+
+HE-01 — Core nouns and gender
+Continue high-frequency masculine and feminine nouns, including useful
+pairs and nouns whose ending does not transparently predict gender.
+
+HE-02 — Adjective agreement
+Develop masculine/feminine singular/plural adjective agreement through
+noun phrases and predicates. Productive endings precede less predictable
+lexical patterns where practical.
+
+HE-03 — Definiteness and adjective position
+Reinforce ה־ and the agreement in definiteness required by attributive
+adjectives. Contrast predicative and attributive structures longitudinally.
+
+HE-04 — Demonstratives
+Develop זה, זאת/זו, אלה and demonstrative noun phrases, including ordinary
+agreement and definiteness behavior.
+
+HE-05 — Personal pronouns
+Establish the full useful pronoun inventory and its gender/number contrasts.
+Treat masculine plural as the ordinary mixed-gender form where contemporary
+usage calls for it while later addressing inclusive-language innovations
+and variation.
+
+HE-06 — Present nominal clauses
+Identity, classification, description and location without an overt present
+copula. Introduce הוא/היא/הם as copular-like pronouns only where natural
+modern syntax actually uses them.
+
+HE-07 — Present verbal predicates
+Develop masculine/feminine singular/plural present forms across a small
+number of useful verbs before multiplying lexical stems.
+
+HE-08 — Negation and polar questions
+Establish לא with verbal and nominal/adjectival predicates and ordinary
+yes/no question formation. Introduce האם later as a more formal/written
+question marker rather than requiring it in ordinary conversation.
+
+HE-09 — Content questions
+Develop מי, מה, איפה/היכן, מתי, למה/מדוע, איך/כיצד, כמה and relevant
+register contrasts.
+
+HE-10 — Plural nouns
+Develop common masculine -ים and feminine -ות patterns while learning
+frequent irregular and gender-crossing plurals lexically.
+
+EXISTENCE, POSSESSION, OBJECTS, AND PREPOSITIONS
+
+HE-11 — יש and אין
+Develop existence and absence across locations, quantities and noun types.
+
+HE-12 — Possession with יש/אין + ל־
+Expand יש לי, יש לך, יש לו/לה, יש לנו, יש לכם/לכן, יש להם/להן and negative
+אין forms. Treat the inflected preposition as a genuine paradigm because
+the cells encode useful person/gender/number contrasts.
+
+HE-13 — Definite direct objects and את
+Establish את with definite noun phrases, names and pronouns as appropriate,
+contrasted with indefinite objects that lack את.
+
+HE-14 — את + pronominal suffixes
+Develop אותי, אותך, אותו, אותה, אותנו, אתכם/אתכן, אותם/אותן through natural
+direct-object clauses.
+
+HE-15 — Core prepositions
+Introduce ב־, ל־, מ־, על, עם, אצל, לפני, אחרי, בשביל and other frequent
+prepositions through concrete spatial, directional and relational meanings.
+
+HE-16 — Inflected prepositions
+Develop high-frequency pronominal paradigms such as לי, בי, ממני, עליי,
+איתי and אצלִי families according to actual frequency. Do not assume every
+preposition inflects by one identical template.
+
+HE-17 — של possession
+Develop של + noun/pronoun possession, including שלי, שלך, שלו, שלה and
+plural forms, before and alongside construct-state possession.
+
+HE-18 — Construct state (סמיכות)
+Introduce high-frequency construct pairs and productive noun+noun
+relationships. Develop definiteness and plural construct forms through
+actual phrases.
+
+VERBAL SPINE
+
+HE-19 — Infinitives and lexical verbs
+Continue high-frequency infinitives as practical lexical anchors. Relate
+them to present forms without pretending the infinitive transparently
+generates every paradigm.
+
+HE-20 — Root awareness
+Introduce roots as recurring consonantal lexical relationships. Use real
+families; do not make root extraction an end in itself.
+
+HE-21 — Pa'al/Qal foundation
+Develop common regular and high-frequency Pa'al verbs across present, past,
+future and infinitive relationships.
+
+HE-22 — Past tense
+Introduce suffixal past morphology with verbs whose forms expose person,
+number and gender contrasts clearly. Cover enough of a paradigm to reveal
+the system, then reuse it longitudinally.
+
+HE-23 — Future tense
+Develop prefixal future morphology and its person/gender/number contrasts,
+including high-frequency irregular forms.
+
+HE-24 — Imperatives and requests
+Introduce ordinary commands and requests, including the relationship
+between formal morphological imperatives, future-based colloquial commands,
+נא and politeness strategies.
+
+HE-25 — Prohibition
+Develop אל + relevant future/jussive-like forms and contrast with לא
+negation.
+
+HE-26 — Pi'el
+Introduce frequent Pi'el verbs and their characteristic present/past/future/
+infinitive relationships through useful lexical families.
+
+HE-27 — Hif'il
+Develop frequent causative and lexical Hif'il verbs without claiming every
+meaning is compositionally causative.
+
+HE-28 — Hitpa'el
+Develop common reflexive/reciprocal and lexical Hitpa'el verbs.
+
+HE-29 — Nif'al
+Develop common passive, middle and lexical Nif'al verbs.
+
+HE-30 — Pu'al and Huf'al
+Introduce these primarily passive binyanim according to actual frequency,
+after their active counterparts provide useful anchors.
+
+HE-31 — Weak and irregular roots
+Develop hollow, final-he, initial-yod/nun, guttural and other morphophonemic
+classes longitudinally. High-frequency irregular verbs may precede the
+formal unit when needed.
+
+HE-32 — Tense and binyan synthesis
+Interleave tense, person, gender, number and binyan across natural contexts
+rather than maintaining isolated paradigm blocks.
+
+NOUNS, NUMBERS, AND MODIFIERS
+
+HE-33 — Gender beyond transparent endings
+Develop common nouns whose grammatical gender must simply be learned,
+including important exceptional plural behavior.
+
+HE-34 — Number and agreement
+Reinforce plural noun/adjective/pronoun agreement and introduce dual forms
+where they remain productive or lexically important.
+
+HE-35 — Cardinal numbers
+Develop the characteristically Hebrew gender behavior of numbers and counted
+nouns in manageable stages. High-frequency numbers should appear early;
+the full system develops longitudinally.
+
+HE-36 — Ordinals, dates, time and age
+Use real date/time/age expressions and the gender forms they require.
+
+HE-37 — Comparison
+Develop יותר, פחות, הכי and מן/מ־ comparative structures, including formal
+and colloquial distribution.
+
+HE-38 — Quantifiers and indefinites
+כל, הרבה, מעט, כמה, משהו, מישהו, אף אחד and related polarity/quantity
+expressions.
+
+HE-39 — Possessive suffixes
+Develop common suffixed possession where productive/current, while
+distinguishing formal/literary preference from ordinary של constructions.
+
+CLAUSE STRUCTURE
+
+HE-40 — Coordination
+ו־, אבל, או, גם, אלא and common discourse coordinators.
+
+HE-41 — כי and complement clauses
+Develop content/reason clauses with כי and other complementizers according
+to meaning and register.
+
+HE-42 — ש־ clauses
+Develop relative and complement uses of ש־, including preposition+pronoun
+strategies where English uses a relative pronoun object.
+
+HE-43 — אם and conditionals
+Develop אם from open conditions through unreal/counterfactual structures
+with the tense/modal combinations actually used in modern Hebrew.
+
+HE-44 — Purpose and result
+כדי, כדי ש־, בשביל, לכן and related purpose/result constructions.
+
+HE-45 — Temporal clauses
+כש־, כאשר, לפני ש־, אחרי ש־, בזמן ש־ and related sequencing structures.
+
+HE-46 — Object and argument structure
+Revisit verbs with את, prepositional complements and bare objects so lexical
+government becomes part of vocabulary knowledge.
+
+HE-47 — Word order and information structure
+Develop neutral SVO tendencies alongside topicalization, subject omission,
+postverbal subjects and marked orders in contexts that make their discourse
+function meaningful.
+
+HE-48 — Existential and impersonal extensions
+Develop צריך, אפשר, אסור, כדאי and other common modal/impersonal predicates,
+including gender/person behavior and infinitival complements.
+
+DERIVATION, LEXICON, AND REGISTER
+
+HE-49 — Noun and adjective patterns
+Develop common mishkal patterns as aids to lexical recognition and
+derivation without pretending pattern meaning is mechanically predictable.
+
+HE-50 — Root families and semantic networks
+Revisit productive roots across verbs, nouns and adjectives, distinguishing
+transparent families from historical or semantically divergent relatives.
+
+HE-51 — Prefixes, suffixes and compounds
+Develop productive modern derivation, borrowed morphology and compounds
+through actual vocabulary.
+
+HE-52 — Everyday lexical domains
+Family, food, home, transport, work, school, health, shopping, technology,
+weather, emotions and ordinary social life develop in parallel.
+
+HE-53 — Idiom and collocation
+Common fixed expressions, light-verb-like constructions, greetings,
+politeness routines and lexical collocations.
+
+HE-54 — Spoken Israeli Hebrew
+Develop common reductions, discourse particles, slang and colloquial syntax
+after a broadly neutral backbone exists. Label variants when exact matching
+requires it.
+
+HE-55 — Formal written Hebrew
+Develop formal vocabulary, syntactic preferences, passive constructions,
+nominalizations and institutional prose used in educated writing.
+
+HE-56 — Historical layers in modern vocabulary
+Show how Biblical, Mishnaic, Medieval and revived/modern formations feed
+contemporary Hebrew where that knowledge improves present-day comprehension.
+Historical provenance is explanatory, not a separate production target.
+
+HE-57 — Biblical Hebrew comprehension
+After modern Hebrew is mature enough, introduce high-value differences in
+vocabulary, morphology, syntax and orthography needed for culturally
+important Biblical texts. Keep these cards explicitly distinguishable from
+ordinary modern production when forms conflict.
+
+HE-58 — Rabbinic and liturgical language
+Develop important prayers, formulae, Mishnaic/Rabbinic expressions and
+traditional vocabulary according to cultural frequency and learner value,
+with register/source labels where necessary.
+
+HE-59 — Contemporary variation
+Develop gender-inclusive innovations, regional/social variation, loanwords
+and competing pronunciations/spellings where they materially affect modern
+comprehension or production.
+
+MATURE EDUCATED-ADULT DEVELOPMENT
+
+HE-60 — Narrative and discourse
+Longer event sequences, reported speech, viewpoint, tense choice, reference
+tracking and discourse cohesion.
+
+HE-61 — Institutions and public life
+Government, law, education, health, economics, military/security vocabulary,
+media and civic language, handled as ordinary lexical domains rather than
+ideological content.
+
+HE-62 — Science, technology and abstract discourse
+Broad educated vocabulary, technical-general terms, explanation,
+argumentation and interpretation.
+
+HE-63 — Arts, literature and cultural discourse
+Modern literary vocabulary, criticism, music, film, visual arts and
+culturally important references.
+
+HE-64 — Semantic precision and register
+Near-synonyms, polysemy, collocation, root-family false friends, formal/
+colloquial contrasts and pragmatic nuance.
+
+HE-65 — Educated-adult long tail
+Continue vocabulary, phraseology, derivation, register and discourse breadth
+without manufacturing obscure grammar merely because the deck is mature.
+
+CARD-SPECIFIC RULES
+
+1. EnglishPrompt must be unique and select one intended Hebrew Target.
+2. Use normal unpointed Hebrew Targets; InputHint is normally blank.
+3. Mark speaker gender in first-person present prompts whenever Hebrew
+   agreement would otherwise be underdetermined.
+4. Mark addressee gender/number when second-person forms differ.
+5. Mark third-person gender/number where English does not already determine
+   the intended form.
+6. Do not add אחד merely to translate English a/an.
+7. Do not insert an overt present copula into ordinary nominal/adjectival
+   clauses.
+8. Definite attributive adjectives normally repeat definiteness with ה־.
+9. Use את only where the Hebrew object construction licenses/requires it;
+   do not infer it from English transitivity alone.
+10. Infinitive lexical cards should use ordinary contemporary forms.
+11. Root and binyan terminology is generator-facing organization unless a
+    terminology card has independent learner value.
+12. When unpointed spelling creates a genuine exact-match ambiguity, resolve
+    it in the EnglishPrompt/context rather than defaulting the entire deck
+    to niqqud.
+13. Colloquial/formal/historical alternatives receive separate,
+    disambiguated prompts when both deserve active production.
+14. Punctuation follows normal contemporary Hebrew usage; right-to-left
+    rendering quirks are interface issues, not reasons to alter logical text.
+
+DEVELOPMENT POLICY
+
+The first 100 cards are the empirical opening. Correct genuine errors, but
+do not rebuild the seed merely to make later syllabus numbering perfectly
+serial.
+
+The next expansion should broaden plural agreement and present verbs while
+developing יש/אין possession paradigms, את objects, core prepositions,
+של possession, construct-state examples and a first controlled past-tense
+system. Root/binyan awareness can begin as soon as repeated lexical families
+make it useful; it should not delay ordinary sentences.
+
+Past and future need not wait until every noun, plural or preposition has
+been exhausted. Hebrew morphology should become an interleaved background
+system in the same way case/aspect systems do in other mature Polyglot
+decks.
+
+AMENDMENT NOTE
+
+Version 0.1 is the first Hebrew syllabus. It was written after a 100-card
+prototype. The prototype showed that the common Polyglot seed works well
+for Hebrew when the language is allowed to reveal present zero-copula
+predication, adjective definiteness, gendered present participles,
+existential possession and definite-object את immediately.
