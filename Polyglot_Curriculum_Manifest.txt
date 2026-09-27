@@ -33,6 +33,7 @@ Arabic      700000-799999        700000-700049        50
 Ojibwe      800000-899999        800000-800098        99
 Spanish      900000-999999        900000-900099        100
 Russian     1000000-1099999       1000000-1000452       453
+Greek       1100000-1199999       1100000-1100099       100
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -227,6 +228,25 @@ This reaches well beyond the old syllabus's opening stages by deliberate
 longitudinal interleaving; future expansion should reinforce aspect and
 case while broadening motion, past/future narration and noun-phrase
 agreement rather than treating each syllabus unit as a sealed block.
+
+GREEK
+Syllabus: Syllabi/Polyglot_Greek_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Greek.csv
+Cards: 100
+Used IDs: 1100000-1100099
+Checkpoint: Greek has begun with a 100-card prototype and is now governed
+by Greek syllabus v0.1. The opening uses ordinary monotonic Greek script
+and the shared eight-word seed, then develops nominative definite and
+indefinite noun phrases, masculine/feminine/neuter adjective agreement,
+personal pronouns followed by natural pro-drop clauses, present είμαι,
+present morphology with μιλάω and δουλεύω, δεν negation, Greek question
+punctuation, πού/τι/ποιος, έχω possession, first visible accusative article
+contrasts through βλέπω, and an intentional early preview of the central
+να + dependent-verb/aspect system through θέλω. Future expansion should
+reinforce these longitudinally while opening plural noun phrases, broader
+accusative use, basic prepositions, genitive possession and explicit aspect
+development; past and future need not wait for exhaustive declension work.
 
 4. MAINTENANCE RULES
 
