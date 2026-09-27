@@ -1,0 +1,456 @@
+POLYGLOT HINDI SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for contemporary
+Standard Hindi in Polyglot. It was written after an initial 100-card seed
+and therefore treats that seed as design evidence rather than forcing Hindi
+into the sequence of an older syllabus.
+
+The syllabus is a roadmap, not a transcript. Early comprehensible forms may
+preview later systems, and introduced material may be established
+longitudinally while new structures begin.
+
+REFERENCE VARIETY AND REGISTER
+
+The initial production backbone is contemporary educated Standard Hindi as
+used in India, written in Devanagari. Ordinary colloquial vocabulary and
+natural Hindi are preferred to unnecessary Sanskritization. Common
+Hindi-Urdu shared vocabulary belongs naturally in the curriculum. Later
+stages explicitly develop formal/Sanskrit-derived vocabulary, Persian-
+Arabic-derived vocabulary, register contrasts, and comprehension of the
+Hindi-Urdu continuum where useful.
+
+Urdu script is not part of the initial Hindi production target. It may be
+developed later as a related literacy/comprehension strand if the broader
+Polyglot curriculum calls for it.
+
+COURSE-WIDE HINDI PRINCIPLES
+
+1. Use normal Devanagari from the first card. Transliteration is not an
+   alternative Target.
+2. Preserve ordinary Hindi orthography, including vowel signs, anusvara/
+   chandrabindu and nukta where conventional.
+3. Hindi is head-final. Postpositions, SOV tendencies, subordinate
+   structures and verb complexes should be learned as Hindi patterns, not
+   rearranged to resemble English.
+4. Hindi has masculine/feminine grammatical gender. Agreement is central
+   across adjectives, participles and many verbal constructions.
+5. The three-way second-person system तू / तुम / आप is structurally and
+   socially important. तुम provides a useful early familiar default; आप
+   enters early as the respectful form; तू is taught but should not be
+   overproduced without an appropriate intimate context.
+6. वह and यह do not encode English he/she. English prompts may use he or
+   she as ordinary examples while the same Hindi pronoun remains available
+   across genders; gender is often revealed elsewhere by agreement.
+7. Present habitual clauses combine a participial form with forms of होना.
+   Speaker/subject gender is therefore visible very early. Do not hide this
+   by choosing only invariant constructions.
+8. Hindi has no ordinary indefinite article equivalent to English a/an.
+   Do not mechanically insert एक unless the numeral/indefinite meaning is
+   actually intended.
+9. Case relations are developed through direct versus oblique noun forms
+   plus postpositions. Teach visible consequences in phrases and sentences
+   rather than a detached case-label course.
+10. को is not merely an English to marker. Develop its recipient, animate/
+    specific object and experiencer functions through controlled contrasts.
+11. Possession is not a single have verb. के पास, genitive constructions,
+    होना and experiencer patterns should be taught according to meaning.
+12. Compound/light-verb constructions are central to ordinary Hindi and
+    should enter early enough that vocabulary is not artificially restricted
+    to simplex verbs.
+13. Aspect and agreement interact strongly with tense, transitivity and
+    ergativity. Past/perfective development must explicitly include ने and
+    its effects rather than treating it as an exception to an English-style
+    subject agreement rule.
+14. Progressive रहा and habitual ता are distinct aspectual systems. Perfective
+    morphology and common irregular perfectives receive their own controlled
+    development.
+15. The infinitive in -ना is both a useful citation form and participates
+    in nominal/oblique constructions. Lexical verb cards normally use the
+    -ना form.
+16. Natural null arguments may occur where discourse licenses them, but Hindi
+    subject pronouns need not be systematically suppressed in the manner of
+    Spanish. Model ordinary discourse rather than an imported pro-drop rule.
+17. Vocabulary grows just in time. Do not finish declension or conjugation
+    inventories before permitting useful everyday language.
+18. Exact-match prompts must identify speaker/subject gender whenever English
+    alone would leave a Hindi agreement form underdetermined.
+19. Politeness, gender, number and animacy/specificity distinctions should be
+    made explicit in English prompts when they select materially different
+    Targets.
+20. Schwa deletion is part of pronunciation, not something represented by
+    deleting letters from standard Devanagari spelling. Literacy uses normal
+    orthography.
+
+EMPIRICAL OPENING: CARDS 1–100
+
+The seed establishes:
+- the shared house/man/woman/child and big/small/good/bad anchors;
+- Devanagari as the sole ordinary Target script;
+- early masculine/feminine adjective agreement;
+- बच्चा/बच्ची as an immediately useful gender contrast;
+- मैं, तू, तुम, आप, वह, यह, हम, वे;
+- present copular forms हूँ/हो/है/हैं;
+- habitual present agreement through बोलना and काम करना;
+- नहीं negation and क्या polar questions;
+- कहाँ, क्या and कौन;
+- possession with के पास;
+- first direct-object contrasts with and without को;
+- an early visible oblique form बच्चे;
+- चाहिए and चाहना as distinct high-frequency ways of expressing wants;
+- respectful आप and gender-sensitive English prompting.
+
+The opening intentionally exposes postpositions, agreement and an oblique
+noun form before any exhaustive declension treatment.
+
+INITIAL STRUCTURAL ROADMAP
+
+HI-01 — Core nouns and gender
+Continue concrete high-frequency masculine and feminine nouns. Gender is a
+lexical property reinforced through adjectives and verb agreement.
+
+HI-02 — Adjective agreement
+Develop inflecting -ा adjectives across masculine/feminine singular/plural,
+then invariant adjectives and common irregular lexical behavior.
+
+HI-03 — Personal pronouns and social deixis
+Establish मैं, हम, तू, तुम, आप, यह, वह, ये, वे in natural social contexts.
+Develop proximal/distal demonstrative and third-person uses without forcing
+an English he/she distinction into the pronouns themselves.
+
+HI-04 — Present होना
+Establish हूँ, हो, है, हैं in identification, description and location.
+Reinforce respectful plural agreement with आप.
+
+HI-05 — Habitual present
+Develop -ता/-ती/-ते + होना across useful verbs, with enough person, number
+and gender coverage to make the agreement system visible.
+
+HI-06 — Negation and polar questions
+Develop नहीं placement and clause-initial/interrogative क्या in ordinary
+questions. Later distinguish interrogative क्या from lexical 'what' by
+context rather than inventing separate Hindi forms.
+
+HI-07 — Content questions
+Develop कौन, क्या, कहाँ, कब, कैसे, क्यों, कितना and their oblique/agreement
+forms where required.
+
+HI-08 — Possession and availability
+Develop के पास for alienable possession, genitive possession for relations
+and inherent associations, and होना/मिलना constructions where Hindi
+lexicalizes English have differently.
+
+HI-09 — Direct objects and को
+Contrast unmarked inanimate/nonspecific objects with animate, specific and
+differentially marked objects using को. Avoid presenting object marking as
+a rigid animacy rule.
+
+HI-10 — Direct and oblique noun forms
+Introduce common masculine -ा oblique changes and forms from other noun
+classes through postpositional phrases. Plural oblique develops alongside
+useful postpositions rather than as a table prerequisite.
+
+HI-11 — Plural noun phrases
+Develop productive masculine/feminine plural patterns, adjective agreement,
+and direct/oblique plural contrasts.
+
+POSTPOSITIONS AND NOUN-PHRASE STRUCTURE
+
+HI-12 — में and पर
+Location and basic spatial relations with में and पर, reusing known nouns
+and introducing oblique forms naturally.
+
+HI-13 — से
+Develop source, instrument, comparison and agent-related uses in separate
+clear contexts. Do not force them into one English gloss.
+
+HI-14 — को
+Expand recipients, goals, experiencers and object marking. Contrast functions
+through whole clauses.
+
+HI-15 — का/के/की
+Develop the agreeing genitive postposition across possessor and possessed
+noun phrases. Include pronoun-derived possessives मेरा, तुम्हारा, आपका,
+उसका, हमारा and related forms.
+
+HI-16 — other core postpositions
+के लिए, के साथ, के बिना, के बाद, के पहले, तक, बारे में and other frequent
+complex postpositions, introduced as useful phrases rather than an inventory.
+
+HI-17 — Demonstratives and determiners
+Develop यह/वह/ये/वे attributively and pronominally, साथ with quantifiers,
+कुछ, कोई, हर, सब and related high-frequency determiners.
+
+VERBAL SPINE
+
+HI-18 — Imperatives
+Develop imperative/request forms across तू, तुम and आप, including common
+irregulars and politeness differences.
+
+HI-19 — Progressive
+Introduce रहा/रही/रहे + होना in present contexts, then combine with past
+and future auxiliaries. Contrast ongoing progressive with habitual aspect.
+
+HI-20 — Perfective morphology
+Develop regular perfective forms and high-frequency irregular stems. Begin
+with intransitive or otherwise transparent environments before making
+ergative agreement the main novelty.
+
+HI-21 — ने and ergative perfective clauses
+Introduce ने with perfective transitive clauses and explicitly expose the
+shift in agreement behavior. Use controlled noun/pronoun subjects and
+objects before complex combinations.
+
+HI-22 — Perfective object agreement
+Develop agreement with unmarked objects and default masculine singular where
+the relevant argument is postposition-marked. Teach through contrasts, not
+a detached ergativity formula.
+
+HI-23 — Imperfective past
+Develop habitual past using था/थी/थे and distinguish repeated/background
+events from perfective completed events.
+
+HI-24 — Future
+Develop synthetic future forms and gender/number agreement across common
+verbs. Include होना and frequent irregularities early enough for ordinary
+use.
+
+HI-25 — Aspect/tense synthesis
+Interleave habitual, progressive, perfective and future forms in contextual
+prompts. English tense labels alone are not sufficient when Hindi aspect
+requires a more specific choice.
+
+HI-26 — Infinitive and oblique infinitive
+Develop -ना as citation/nominal form and -ने in postpositional and modal
+constructions such as के लिए, से पहले and देना/लगना environments as they
+become useful.
+
+MODALS, EXPERIENCERS, AND COMPLEX PREDICATES
+
+HI-27 — चाहना and चाहिए
+Distinguish wanting to act from wanting/needing an entity and the broader
+modal uses of चाहिए. Develop experiencer marking where natural.
+
+HI-28 — सकना
+Ability with verb stem + सकना, including agreement and tense/aspect
+combinations.
+
+HI-29 — पड़ना and necessity
+Develop पड़ना-based obligation and contrast it with चाहिए and other modal
+frames.
+
+HI-30 — लगना and experiencer predicates
+Develop liking, seeming/feeling, beginning and other common लगना
+constructions in separately controlled senses.
+
+HI-31 — देना, लेना and light verbs
+Introduce ordinary lexical uses first, then productive vector/light-verb
+combinations such as कर देना and ले लेना where aspectual/pragmatic meaning
+is clear.
+
+HI-32 — करना compounds
+Develop high-frequency noun/adjective + करना predicates as a major lexical
+expansion mechanism, while treating each established collocation as real
+Hindi vocabulary rather than assuming unrestricted productivity.
+
+HI-33 — होना compounds and stative predicates
+Develop common noun/adjective + होना expressions and contrasts with करना.
+
+HI-34 — जाना as motion and vector
+Establish ordinary जाना before developing its use in compound verbs and
+passive constructions.
+
+PRONOUNS, ARGUMENTS, AND CLAUSE STRUCTURE
+
+HI-35 — Oblique pronouns
+Develop मुझे/मुझको, तुम्हें/तुमको, उसे/उसको, हमें, उन्हें and postpositional
+pronoun forms in natural recipient, experiencer and object contexts.
+
+HI-36 — Reflexive अपना
+Introduce अपना/अपनी/अपने as subject-oriented possession and contrast with
+ordinary possessives in contexts where English is ambiguous.
+
+HI-37 — Relative-correlative structure
+Develop जो...वह, जहाँ...वहाँ, जब...तब, जैसा...वैसा and related structures
+as a characteristic Hindi clause-organizing system.
+
+HI-38 — कि complement clauses
+Develop कि after speech, thought, knowledge and related predicates.
+
+HI-39 — Coordination
+और, लेकिन, या, भी, न...न and common coordinating/discourse structures.
+
+HI-40 — कारण, purpose and result
+क्योंकि, इसलिए, ताकि and infinitival purpose constructions in natural
+multi-clause sentences.
+
+HI-41 — Conditionals
+अगर/यदि...तो and participial/conditional patterns from ordinary open
+conditions toward counterfactual meanings.
+
+HI-42 — Word order and information structure
+Develop neutral SOV tendencies, scrambling, topicalization, focus particles
+and postverbal material where natural. Avoid claiming that Hindi word order
+is either rigid SOV or freely interchangeable.
+
+HI-43 — Emphasis and particles
+ही, भी, तो, तक, मात्र/सिर्फ and other focus/scalar particles through
+contrasts whose English prompts make scope recoverable.
+
+VOICE AND NONFINITE STRUCTURE
+
+HI-44 — Passive
+Develop जाना-based passive constructions, including tense/aspect agreement
+and the pragmatic distribution of passive versus active Hindi.
+
+HI-45 — Conjunctive participle
+Develop -कर/-के for sequential and linked actions, including lexicalized
+high-frequency combinations.
+
+HI-46 — Relative participial/adjectival structures
+Develop हुआ and other participial modifiers in natural noun phrases.
+
+HI-47 — Causatives
+Introduce productive causative morphology and common lexicalized causative
+pairs with attention to argument marking.
+
+HI-48 — Reduplication
+Develop distributive, iterative, approximative and expressive reduplication
+patterns characteristic of ordinary Hindi.
+
+HI-49 — Comparison
+Develop से comparative constructions, ज्यादा/कम, सबसे superlatives and
+lexical comparison patterns.
+
+HI-50 — Numbers, classifiers and measure expressions
+Cardinals, ordinals, dates, age, prices, time and measure phrases. Hindi
+number words require substantial lexical acquisition and should develop
+longitudinally rather than being postponed until a single giant number unit.
+
+LEXICON, REGISTER, AND LITERACY
+
+HI-51 — Everyday lexical domains
+Family, food, home, travel, work, education, health, shopping, technology,
+weather, emotions and ordinary social life develop in parallel.
+
+HI-52 — Verb argument structure and postposition choice
+Revisit common verbs with their natural object marking, experiencers,
+postpositions and complement structures.
+
+HI-53 — Compound verbs and lexical aspect
+Expand vector verbs देना, लेना, जाना, पड़ना, उठना, बैठना and others through
+attested common combinations, emphasizing meaning and register rather than
+mechanical compositional rules.
+
+HI-54 — Idiom and phraseology
+Common idioms, formulae, collocations, greetings, politeness routines and
+conversational chunks.
+
+HI-55 — Formal and Sanskrit-derived vocabulary
+Develop educated written/public Hindi, tatsama vocabulary and formal
+derivational patterns after the ordinary spoken backbone is strong.
+
+HI-56 — Persian-Arabic-derived and shared Hindustani vocabulary
+Develop common shared vocabulary and register contrasts without marking
+ordinary Hindustani words as somehow non-Hindi.
+
+HI-57 — English loans and code-mixing
+Teach established loans, ordinary bilingual lexical practices and register
+effects where relevant to contemporary educated usage.
+
+HI-58 — Orthographic depth
+Develop spelling contrasts, conjunct consonants, nukta letters, anusvara
+versus chandrabindu conventions, punctuation and formal written norms
+through actual vocabulary and text.
+
+HI-59 — Hindi-Urdu continuum
+Build comprehension of important lexical/register correspondences and,
+if later desired, an Urdu-script literacy strand. Do not make Urdu script a
+prerequisite for Hindi progress.
+
+HI-60 — Regional and social variation
+Introduce important colloquial, regional, generational and social variants
+with explicit labels where exact matching requires them. Standard Hindi
+remains the initial production backbone.
+
+MATURE EDUCATED-ADULT DEVELOPMENT
+
+HI-61 — Narrative and discourse
+Longer event sequences, reference tracking, reported speech, viewpoint,
+aspect choice and discourse connectors.
+
+HI-62 — Institutions and public life
+Government, law, education, health, economics, work, media and civic
+vocabulary across neutral and formal registers.
+
+HI-63 — Science, arts and abstract discourse
+Broad educated vocabulary, argumentation, interpretation and technical-
+general concepts.
+
+HI-64 — Literature and cultural language
+Common literary vocabulary, poetic/formal constructions and culturally
+important expressions likely to be encountered by educated readers.
+
+HI-65 — Semantic precision
+Near-synonyms, register contrasts, polysemy, collocation and argument-
+structure distinctions across high-frequency vocabulary.
+
+HI-66 — Educated-adult long tail
+Continue ordinary and educated vocabulary, phraseology, derivation,
+register and discourse breadth without manufacturing obscure grammar merely
+because the curriculum is mature.
+
+CARD-SPECIFIC RULES
+
+1. EnglishPrompt must be unique and identify one intended Target.
+2. Use Devanagari Targets from the first card. InputHint is normally blank.
+3. Lexical verbs normally use the -ना citation form.
+4. Mark speaker gender in English prompts whenever first-person Hindi
+   agreement would otherwise be ambiguous.
+5. Mark addressee register (intimate/familiar/respectful) whenever तू/तुम/आप
+   or associated agreement is not recoverable from English.
+6. Mark subject gender where English he/she already supplies it; do not
+   pretend वह itself encodes that distinction.
+7. Avoid unnecessary एक for English indefinite articles.
+8. Postpositions should be learned with the oblique forms they license.
+9. Do not describe को as a simple accusative marker in learner-facing cards;
+   expose its distribution through examples.
+10. Ergative ने and perfective agreement require prompts whose event
+    interpretation and arguments select a clear Target.
+11. Hindi punctuation should be conventional and internally consistent.
+    The seed uses danda (।) for declaratives and ? for questions.
+12. Do not create transliteration cards merely to teach Devanagari.
+13. Common spelling/pronunciation phenomena such as schwa deletion should
+    not be represented by nonstandard spellings.
+14. When colloquial and formal alternatives are both useful, give them
+    separate disambiguated prompts rather than multiple exact-match Targets.
+
+DEVELOPMENT POLICY
+
+The first 100 cards are the empirical opening. Audit genuine linguistic or
+prompt errors, but do not rebuild the seed merely to force every later unit
+into serial order.
+
+The next expansion should broaden plural/gender agreement and habitual
+present while opening में/पर/से, direct versus oblique noun forms, को,
+का/के/की possessives, pronoun obliques and progressive रहा. Past/perfective
+material may begin once enough argument marking is visible; do not postpone
+ने until every postposition or noun class has been exhausted.
+
+The seed's चाहिए, चाहना and बच्चे को examples are intentional previews of
+later systems and should be reinforced longitudinally.
+
+AMENDMENT NOTE
+
+Version 0.1 is the first Hindi syllabus. It was written after a 100-card
+prototype. The prototype showed that the common Polyglot seed works well
+for Hindi provided the language is allowed to assert gender agreement,
+multiple second-person registers, head-final syntax, postpositional
+possession/object marking and gender-sensitive habitual predicates
+immediately.
