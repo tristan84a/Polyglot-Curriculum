@@ -1,0 +1,490 @@
+POLYGLOT ICELANDIC SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for contemporary
+Icelandic in Polyglot. It was written after an initial 100-card seed and
+uses that seed together with the German curriculum and other successful
+Polyglot decks as design evidence.
+
+The syllabus is a roadmap rather than a transcript. Icelandic morphology is
+rich enough that many systems must develop longitudinally. A case form or
+verb pattern may appear naturally before its formal unit when the card is
+comprehensible.
+
+REFERENCE VARIETY AND ORTHOGRAPHY
+
+The production baseline is contemporary Standard Icelandic as used in
+Iceland. Targets use ordinary Icelandic spelling from the first card
+including á, ð, é, í, ó, ú, ý, þ, æ and ö. InputHint is normally blank.
+
+Modern Icelandic is the target. Older Icelandic and Old Norse are historically
+and structurally relevant and may later form a reading and historical strand
+but should not displace contemporary usage.
+
+COURSE-WIDE ICELANDIC PRINCIPLES
+
+1. Use authentic Icelandic orthography immediately. Do not transliterate þ
+   or ð or strip diacritics for beginner convenience.
+2. Nouns have masculine, feminine or neuter gender. Gender is a persistent
+   lexical property and should become visible through articles, pronouns,
+   adjective agreement and inflection.
+3. Icelandic has four cases: nominative, accusative, dative and genitive.
+   Develop them through grammatical functions and government rather than
+   requiring a complete declension table before useful sentences.
+4. The ordinary definite article is usually suffixed to the noun. Teach
+   forms such as húsið, maðurinn and konan from the opening rather than
+   importing a German-style free article system.
+5. The free definite article belongs to particular noun-phrase structures
+   and should be introduced where natural rather than as the default
+   translation of English "the."
+6. There is no ordinary indefinite article. English a/an normally requires
+   no Icelandic determiner.
+7. Adjectives agree in gender, number and case and have strong and weak
+   declensions. Predicative agreement provides an early entry point before
+   full attributive declension.
+8. Noun declension contains productive families and important irregular
+   forms. Teach useful patterns but retain lexical information where forms
+   are not safely predictable.
+9. Personal pronouns distinguish three genders in the third-person plural:
+   þeir, þær and þau. Mixed-gender reference normally uses neuter plural þau.
+10. Finite verbs mark person and number. Present paradigms deserve systematic
+    treatment where their cells expose genuine contrasts.
+11. Strong and weak verbs are central lexical/morphological classes.
+    Productive weak patterns should become clear without postponing common
+    strong and irregular verbs.
+12. Icelandic is fundamentally verb-second in main declarative clauses.
+    Teach the finite verb as the second constituent rather than treating
+    subject-first SVO as the underlying rule.
+13. Yes/no questions commonly place the finite verb before the subject.
+14. Negation with ekki interacts with clause architecture. Begin with clear
+    main-clause placement and develop scope and subordinate placement later.
+15. Subjects are not normally omitted merely because verb morphology makes
+    person recoverable. Do not import pro-drop behavior from unrelated
+    languages.
+16. Verbs and prepositions govern cases. Case selection belongs with the
+    lexical/constructional pattern and should be reinforced longitudinally.
+17. Direct objects are frequently accusative but Icelandic also has
+    lexically governed dative and genitive objects. Do not teach accusative
+    as a universal object case.
+18. Dative subjects and other non-nominative subject constructions are
+    ordinary Icelandic grammar and deserve explicit development after the
+    basic case system is intelligible.
+19. Possession uses genitive noun phrases and possessive pronouns with
+    important word-order and agreement behavior.
+20. Reflexive sig and possessive sinn require antecedent-sensitive treatment
+    and should not be collapsed into ordinary third-person pronouns.
+21. The middle voice -st is productive and lexicalized in important ways.
+    It is not merely a mechanical passive suffix.
+22. Modern spoken and written Icelandic are close but register, pronunciation
+    and usage still vary. Mature stages should develop natural colloquial
+    language alongside formal literacy.
+23. Vocabulary grows just in time. Rich morphology is not a reason to freeze
+    the lexicon while paradigms are completed.
+
+EMPIRICAL OPENING: CARDS 1–100
+
+The seed establishes:
+- the shared house/man/woman/child and big/small/good/bad anchors;
+- authentic Icelandic orthography;
+- suffixed definite articles across three genders;
+- predicative adjective gender agreement;
+- indefinite noun phrases without an article;
+- the personal-pronoun system including þeir/þær/þau;
+- present vera through ordinary clauses;
+- additional nouns and adjectives;
+- present verbal morphology through vinna and tala;
+- ekki negation;
+- verb-first polar questions;
+- hvað, hver and hvar;
+- possession with eiga;
+- direct objects through sjá;
+- first visible nominative/accusative contrasts including
+  maður → mann and maðurinn → manninn;
+- vilja + infinitive.
+
+The opening deliberately allows case to become visible before a complete
+declension system is taught. This is the intended Polyglot model: case is
+encountered through useful language and then systematized.
+
+INITIAL STRUCTURAL ROADMAP
+
+IS-01 — Core nouns and grammatical gender
+Continue useful nouns across masculine, feminine and neuter classes. Treat
+gender as lexical knowledge and begin exposing common declension families.
+
+IS-02 — Suffixed definite article
+Develop singular and plural definite forms across genders and cases. Relate
+article endings to noun declension through examples rather than one giant
+table.
+
+IS-03 — Core adjectives and predicative agreement
+Develop masculine, feminine and neuter predicative forms and plural
+agreement using common adjectives.
+
+IS-04 — Personal pronouns
+Establish singular/plural subject pronouns including þeir/þær/þau and later
+their oblique forms.
+
+IS-05 — Vera
+Develop present vera across person and number in identity, description and
+location.
+
+IS-06 — Present weak verbs
+Establish productive weak present patterns with several useful verbs and
+systematic person/number contrasts.
+
+IS-07 — Common strong and irregular presents
+Introduce high-frequency strong/irregular verbs early enough for ordinary
+language to remain natural.
+
+IS-08 — Main-clause V2
+Generalize finite-verb second position beyond subject-first sentences by
+fronting time, place and other constituents.
+
+IS-09 — Ekki negation
+Develop ordinary main-clause placement and later contrast subordinate-clause
+placement and scope.
+
+IS-10 — Polar and content questions
+Establish verb-first yes/no questions and interrogatives including hvað,
+hver, hvar, hvert, hvaðan, hvenær, hvernig and af hverju.
+
+CASE AND NOUN-PHRASE SPINE
+
+IS-11 — Accusative direct objects
+Broaden accusative singular/plural forms and article/adjective agreement
+through ordinary transitive clauses.
+
+IS-12 — Dative foundation
+Introduce recipients, instrumental/relational uses and high-frequency
+dative-governing prepositions and verbs.
+
+IS-13 — Genitive foundation
+Develop possession and common genitive-governing constructions before
+expanding to less frequent formal uses.
+
+IS-14 — Case paradigms by noun class
+Systematize representative strong and weak masculine, feminine and neuter
+declensions after meaningful case functions are already familiar.
+
+IS-15 — Definite article across cases
+Develop suffixed article morphology together with the noun forms it attaches
+to.
+
+IS-16 — Indefinite and definite adjective declension
+Introduce strong versus weak attributive adjective forms through natural
+noun phrases and determiners.
+
+IS-17 — Demonstratives
+Develop þessi, sá and related gender/number/case paradigms through useful
+reference.
+
+IS-18 — Possessive pronouns
+Develop minn, þinn, hans, hennar, okkar, ykkar and þeirra with natural
+agreement and word order.
+
+IS-19 — Reflexive possessive sinn
+Contrast sinn with ordinary third-person possessives according to subject
+reference.
+
+IS-20 — Quantifiers and case
+Develop allur, enginn, einhver, margur/margir, mikill and other useful
+quantifiers with their agreement and case behavior.
+
+VERBAL SPINE
+
+IS-21 — Infinitives
+Develop lexical infinitives and að + infinitive where required. Distinguish
+bare infinitives after modal-like verbs from að-infinitives.
+
+IS-22 — Weak past
+Introduce major weak past formations through high-frequency verbs and
+person/number forms.
+
+IS-23 — Strong past
+Develop ablaut patterns through useful strong verbs. Treat principal parts
+as lexical information where necessary.
+
+IS-24 — Perfect
+Develop hafa + past participle for completed/relevant past situations and
+contrast with simple past usage.
+
+IS-25 — Pluperfect
+Develop hafði + participle once perfect and past hafa are established.
+
+IS-26 — Future reference
+Teach ordinary present-tense future reference and munu + infinitive in its
+actual contemporary functions rather than assuming English will maps
+one-to-one.
+
+IS-27 — Modal verbs
+Develop vilja, geta, mega, þurfa, eiga and skulu in their principal modal
+uses and syntactic patterns.
+
+IS-28 — Imperative
+Develop singular/plural commands and common irregular forms.
+
+IS-29 — Present participle
+Introduce -andi forms in their genuine adjectival/adverbial and lexical
+uses.
+
+IS-30 — Past participles and agreement
+Develop participial morphology beyond the invariant perfect contexts where
+agreement becomes relevant.
+
+IS-31 — Passive
+Introduce vera + participle and verða + participle constructions with
+appropriate aspect/meaning contrasts.
+
+IS-32 — Middle voice -st
+Develop reciprocal, reflexive, passive-like and lexical -st verbs through
+actual high-frequency items. Avoid assigning one mechanical meaning to -st.
+
+IS-33 — Reflexive sig
+Develop sig and its case forms with antecedent-sensitive examples.
+
+IS-34 — Verb government
+Build lexical families of accusative-, dative- and genitive-governing verbs.
+The governing case is part of knowing the construction.
+
+PREPOSITIONS AND SPACE
+
+IS-35 — Accusative-governing prepositions
+Introduce common prepositions in meanings that govern accusative.
+
+IS-36 — Dative-governing prepositions
+Develop high-frequency dative government through concrete spatial and
+relational examples.
+
+IS-37 — Alternating prepositions
+Contrast motion/direction and location or other semantic distinctions where
+the same preposition selects accusative versus dative.
+
+IS-38 — Genitive-governing prepositions
+Develop common genitive prepositions and fixed constructions.
+
+IS-39 — Location and direction
+Systematize hvar, hvert and hvaðan together with adverbs and prepositional
+phrases for location, destination and source.
+
+IS-40 — Place-name case and preposition patterns
+Develop í/á and case selection with countries, towns, regions, institutions
+and common locations as lexicalized usage requires.
+
+NUMBER AND AGREEMENT
+
+IS-41 — Nominative plurals
+Develop common plural noun classes and adjective agreement.
+
+IS-42 — Oblique plurals
+Expand accusative, dative and genitive plural morphology longitudinally.
+
+IS-43 — Cardinal numbers one to four
+Develop gender/case inflection of einn, tveir, þrír and fjórir because these
+forms encode genuine grammatical contrasts.
+
+IS-44 — Higher cardinal numbers
+Develop five and above together with counted noun behavior and ordinary
+number expressions.
+
+IS-45 — Ordinals
+Develop ordinal agreement and uses in dates, rankings and sequences.
+
+IS-46 — Dates and clock time
+Build Icelandic conventions for dates, time, weekdays and schedules.
+
+IS-47 — Age
+Teach ordinary age expressions and relevant case/copular structures.
+
+IS-48 — Comparison
+Develop comparative and superlative adjective/adverb forms including common
+irregulars.
+
+CLAUSE ARCHITECTURE
+
+IS-49 — Fronting within V2
+Time, place, objects and other constituents in first position with the
+finite verb retained second.
+
+IS-50 — Adverb placement
+Develop ekki and other sentence adverbs relative to finite/nonfinite verbs
+and clause type.
+
+IS-51 — Coordination
+Develop og, en, eða, heldur and common coordination patterns.
+
+IS-52 — Að complement clauses
+Introduce finite complement clauses after verbs of saying, thinking,
+knowing and perception.
+
+IS-53 — Relative clauses
+Develop sem relatives and the role of resumptive/prepositional structures
+where natural.
+
+IS-54 — Causal and purpose clauses
+Develop af því að, vegna þess að, til að and related structures.
+
+IS-55 — Temporal clauses
+Develop þegar, áður en, eftir að, meðan and related sequencing.
+
+IS-56 — Conditionals
+Develop ef clauses from ordinary real conditions toward hypothetical and
+counterfactual systems.
+
+IS-57 — Subjunctive foundation
+Introduce present and past subjunctive morphology through environments that
+actually license or favor it rather than as an abstract parallel paradigm.
+
+IS-58 — Reported speech and sequence
+Develop tense/mood choices in reported thought and speech.
+
+IS-59 — Non-nominative subjects
+Develop dative and accusative subject constructions with high-frequency
+predicates and preserve their syntactic subject behavior.
+
+IS-60 — Impersonal constructions
+Weather, necessity, evaluation and other impersonal patterns.
+
+WORD FORMATION AND LEXICON
+
+IS-61 — Compound nouns
+Develop productive Icelandic compounding and linking behavior through common
+lexical families.
+
+IS-62 — Derivational suffixes
+Develop productive noun/adjective/verb derivation through actual vocabulary.
+
+IS-63 — Prefixes and particles
+Develop productive and lexicalized prefixed forms without assuming complete
+semantic predictability.
+
+IS-64 — Strong-verb families
+Use recurring ablaut relationships to support lexical organization after
+enough verbs make the patterns useful.
+
+IS-65 — Irregular noun families
+Consolidate high-frequency nouns whose stems or endings require lexical
+attention.
+
+IS-66 — Adjective families
+Develop irregular comparison, stem alternations and lexicalized adjective
+constructions.
+
+IS-67 — Verb-particle and idiomatic constructions
+Broaden ordinary verb combinations and case-governed idioms.
+
+REGISTER AND VARIATION
+
+IS-68 — Everyday spoken Icelandic
+Develop contractions, discourse patterns and ordinary conversational
+choices while retaining standard orthographic Targets.
+
+IS-69 — Formal written Icelandic
+Develop denser noun phrases, formal connectives and structures common in
+educated prose.
+
+IS-70 — Pronunciation and spelling relationships
+Address major phonological processes that are not transparent from spelling
+where they materially aid comprehension. Orthography remains canonical.
+
+IS-71 — Contemporary lexical innovation
+Develop productive native coinages, borrowings and actual modern usage
+without treating prescriptive preference as a complete description of the
+language.
+
+IS-72 — Regional and social variation
+Introduce high-value contemporary variation when useful for comprehension.
+
+IS-73 — Older Icelandic and Old Norse continuity
+Build recognition of historically important forms and vocabulary only after
+the modern system is secure. Historical comparison supports modern literacy
+but is not the production baseline.
+
+MATURE EDUCATED-ADULT DEVELOPMENT
+
+IS-74 — Household and daily life
+IS-75 — Food and cooking
+IS-76 — Family and relationships
+IS-77 — Body and health
+IS-78 — Work and occupations
+IS-79 — Education
+IS-80 — Travel and transportation
+IS-81 — Buildings and public places
+IS-82 — Nature weather and environment
+IS-83 — Technology and communications
+IS-84 — Commerce money and finance
+IS-85 — Government law and institutions
+IS-86 — Science and mathematics
+IS-87 — Arts literature and culture
+IS-88 — History society and public discourse
+IS-89 — Emotions personality and human behaviour
+IS-90 — Abstract concepts and relationships
+IS-91 — Idiom and collocation
+IS-92 — Semantic precision and near-synonyms
+IS-93 — Register-sensitive vocabulary
+IS-94 — Extended narrative
+IS-95 — Argumentation and exposition
+IS-96 — Professional and academic vocabulary
+IS-97 — Literary vocabulary of broad relevance
+IS-98 — Historical vocabulary encountered by educated readers
+IS-99 — Continuing morphology and phraseology
+IS-100 — Educated-adult long tail
+
+These mature domains develop in parallel. Their numbering is organizational
+and does not require one domain to be exhausted before another begins.
+
+CARD-SPECIFIC RULES
+
+1. EnglishPrompt must be unique and select one intended Icelandic Target.
+2. Use ordinary Icelandic spelling including þ, ð and diacritics.
+3. InputHint is normally blank.
+4. Avoid commas in card fields where a natural prompt or Target can be
+   written without them. CSV quoting should not be required for ordinary
+   card generation.
+5. English prompts should identify grammatical gender, case, number or
+   discourse context when needed to select one exact Target.
+6. Do not supply an Icelandic indefinite article where Icelandic naturally
+   has none.
+7. Definite noun cards should use the ordinary suffixed article unless the
+   intended construction specifically requires a free article.
+8. Case-sensitive prompts must distinguish forms when English alone would
+   otherwise leave the intended Icelandic form ambiguous.
+9. Do not assume every direct object is accusative; verb government remains
+   authoritative.
+10. Adjective cards should expose agreement economically. Fill a paradigm
+    when each cell teaches a genuine contrast; otherwise reinforce known
+    morphology through varied sentences.
+11. Strong-verb principal parts may need lexical support but should not
+    become detached terminology exercises.
+12. Modern Icelandic is unmarked. Historical or explicitly regional material
+    must be labelled when exact matching requires it.
+
+DEVELOPMENT POLICY
+
+The first 100 cards are the empirical opening. Correct genuine errors but do
+not rebuild the seed merely to make it mirror later unit numbering.
+
+The next expansion should broaden nominative plural and adjective agreement
+while developing accusative objects, dative location/government, genitive
+possession, additional present verbs, V2 fronting and question words.
+Useful past forms may begin before the noun declension system is exhaustive.
+
+German is a useful comparison for pacing, V2, strong/weak verbs, case and
+Germanic vocabulary. Icelandic remains authoritative wherever its suffixed
+article, four-case morphology, adjective agreement, pronouns, verb system
+or syntax differs.
+
+AMENDMENT NOTE
+
+Version 0.1 is the first Icelandic syllabus. It was written after a 100-card
+seed. The prototype showed that the shared Polyglot lexical seed works well
+if Icelandic is allowed to expose its suffixed definite article, three-way
+gender agreement, full third-person plural gender distinction, finite verb
+morphology, verb-first questions and first accusative object forms almost
+immediately.
