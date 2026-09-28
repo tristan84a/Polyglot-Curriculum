@@ -99,3 +99,362 @@
 900097,Spanish,There are houses.,Hay casas.,,
 900098,Spanish,There are children here.,Hay niños aquí.,,
 900099,Spanish,There is no car here.,No hay coche aquí.,,
+900100,Spanish,to eat,comer,,verb
+900101,Spanish,to drink,beber,,verb
+900102,Spanish,to read,leer,,verb
+900103,Spanish,to live,vivir,,verb
+900104,Spanish,to write,escribir,,verb
+900105,Spanish,to go,ir,,verb
+900106,Spanish,to do; make,hacer,,verb
+900107,Spanish,to want,querer,,verb
+900108,Spanish,to be able to,poder,,verb
+900109,Spanish,to come,venir,,verb
+900110,Spanish,to say; tell,decir,,verb
+900111,Spanish,to put,poner,,verb
+900112,Spanish,to see,ver,,verb
+900113,Spanish,to buy,comprar,,verb
+900114,Spanish,to help,ayudar,,verb
+900115,Spanish,to think,pensar,,verb
+900116,Spanish,to sleep,dormir,,verb
+900117,Spanish,to ask for; order,pedir,,verb
+900118,Spanish,to play,jugar,,verb
+900119,Spanish,to study,estudiar,,verb
+900120,Spanish,water,agua,,noun
+900121,Spanish,bread,pan,,noun
+900122,Spanish,coffee,café,,noun
+900123,Spanish,food,comida,,noun
+900124,Spanish,school,escuela,,noun
+900125,Spanish,city,ciudad,,noun
+900126,Spanish,shop,tienda,,noun
+900127,Spanish,park,parque,,noun
+900128,Spanish,station,estación,,noun
+900129,Spanish,friend (male),amigo,,noun
+900130,Spanish,friend (female),amiga,,noun
+900131,Spanish,teacher (male),profesor,,noun
+900132,Spanish,teacher (female),profesora,,noun
+900133,Spanish,mother,madre,,noun
+900134,Spanish,father,padre,,noun
+900135,Spanish,brother,hermano,,noun
+900136,Spanish,sister,hermana,,noun
+900137,Spanish,dog,perro,,noun
+900138,Spanish,cat,gato,,noun
+900139,Spanish,table,mesa,,noun
+900140,Spanish,door,puerta,,noun
+900141,Spanish,family,familia,,noun
+900142,Spanish,time,tiempo,,noun
+900143,Spanish,today,hoy,,adverb
+900144,Spanish,tomorrow,mañana,,adverb
+900145,Spanish,yesterday,ayer,,adverb
+900146,Spanish,who,quién,,pronoun
+900147,Spanish,what,qué,,pronoun
+900148,Spanish,when,cuándo,,adverb
+900149,Spanish,how,cómo,,adverb
+900150,Spanish,why,por qué,,phrase
+900151,Spanish,nothing,nada,,pronoun
+900152,Spanish,nobody,nadie,,pronoun
+900153,Spanish,never,nunca,,adverb
+900154,Spanish,something,algo,,pronoun
+900155,Spanish,someone,alguien,,pronoun
+900156,Spanish,one,uno,,number
+900157,Spanish,two,dos,,number
+900158,Spanish,three,tres,,number
+900159,Spanish,ten,diez,,number
+900160,Spanish,I eat bread.,Como pan.,,sentence
+900161,Spanish,You eat bread.,Comes pan.,,sentence
+900162,Spanish,He eat bread.,Come pan.,,sentence
+900163,Spanish,We eat bread.,Comemos pan.,,sentence
+900164,Spanish,You eat bread. (plural; Spain),Coméis pan.,,sentence
+900165,Spanish,They eat bread.,Comen pan.,,sentence
+900166,Spanish,I drink water.,Bebo agua.,,sentence
+900167,Spanish,You drink water.,Bebes agua.,,sentence
+900168,Spanish,He drink water.,Bebe agua.,,sentence
+900169,Spanish,We drink water.,Bebemos agua.,,sentence
+900170,Spanish,You drink water. (plural; Spain),Bebéis agua.,,sentence
+900171,Spanish,They drink water.,Beben agua.,,sentence
+900172,Spanish,I live here.,Vivo aquí.,,sentence
+900173,Spanish,You live here.,Vives aquí.,,sentence
+900174,Spanish,He live here.,Vive aquí.,,sentence
+900175,Spanish,We live here.,Vivimos aquí.,,sentence
+900176,Spanish,You live here. (plural; Spain),Vivís aquí.,,sentence
+900177,Spanish,They live here.,Viven aquí.,,sentence
+900178,Spanish,I write here.,Escribo aquí.,,sentence
+900179,Spanish,You write here.,Escribes aquí.,,sentence
+900180,Spanish,He write here.,Escribe aquí.,,sentence
+900181,Spanish,We write here.,Escribimos aquí.,,sentence
+900182,Spanish,You write here. (plural; Spain),Escribís aquí.,,sentence
+900183,Spanish,They write here.,Escriben aquí.,,sentence
+900184,Spanish,I go to school.,Voy a la escuela.,,sentence
+900185,Spanish,You go to school.,Vas a la escuela.,,sentence
+900186,Spanish,He go to school.,Va a la escuela.,,sentence
+900187,Spanish,We go to school.,Vamos a la escuela.,,sentence
+900188,Spanish,You go to school. (plural; Spain),Vais a la escuela.,,sentence
+900189,Spanish,They go to school.,Van a la escuela.,,sentence
+900190,Spanish,I want coffee.,Quiero café.,,sentence
+900191,Spanish,You want coffee.,Quieres café.,,sentence
+900192,Spanish,He want coffee.,Quiere café.,,sentence
+900193,Spanish,We want coffee.,Queremos café.,,sentence
+900194,Spanish,You want coffee. (plural; Spain),Queréis café.,,sentence
+900195,Spanish,They want coffee.,Quieren café.,,sentence
+900196,Spanish,I can read.,Puedo leer.,,sentence
+900197,Spanish,You can read.,Puedes leer.,,sentence
+900198,Spanish,He can read.,Puede leer.,,sentence
+900199,Spanish,We can read.,Podemos leer.,,sentence
+900200,Spanish,You can read. (plural; Spain),Podéis leer.,,sentence
+900201,Spanish,They can read.,Pueden leer.,,sentence
+900202,Spanish,I come here.,Vengo aquí.,,sentence
+900203,Spanish,You come here.,Vienes aquí.,,sentence
+900204,Spanish,He come here.,Viene aquí.,,sentence
+900205,Spanish,We come here.,Venimos aquí.,,sentence
+900206,Spanish,You come here. (plural; Spain),Venís aquí.,,sentence
+900207,Spanish,They come here.,Vienen aquí.,,sentence
+900208,Spanish,I do the work.,Hago el trabajo.,,sentence
+900209,Spanish,What are you doing?,¿Qué haces?,,sentence
+900210,Spanish,She makes food.,Hace comida.,,sentence
+900211,Spanish,I say no.,Digo que no.,,sentence
+900212,Spanish,She says yes.,Dice que sí.,,sentence
+900213,Spanish,I put the book here.,Pongo el libro aquí.,,sentence
+900214,Spanish,She puts the car there.,Pone el coche allí.,,sentence
+900215,Spanish,I think about the house.,Pienso en la casa.,,sentence
+900216,Spanish,We think about the city.,Pensamos en la ciudad.,,sentence
+900217,Spanish,She sleeps there.,Duerme allí.,,sentence
+900218,Spanish,We sleep here.,Dormimos aquí.,,sentence
+900219,Spanish,I ask for water.,Pido agua.,,sentence
+900220,Spanish,We ask for food.,Pedimos comida.,,sentence
+900221,Spanish,I play here.,Juego aquí.,,sentence
+900222,Spanish,We play there.,Jugamos allí.,,sentence
+900223,Spanish,I cannot go.,No puedo ir.,,sentence
+900224,Spanish,She does not want coffee.,No quiere café.,,sentence
+900225,Spanish,They do not live here.,No viven aquí.,,sentence
+900226,Spanish,Do you want water?,¿Quieres agua?,,sentence
+900227,Spanish,Can you read?,¿Puedes leer?,,sentence
+900228,Spanish,Does she live here?,¿Vive aquí?,,sentence
+900229,Spanish,my house,mi casa,,phrase
+900230,Spanish,your book (singular informal),tu libro,,phrase
+900231,Spanish,his car,su coche,,phrase
+900232,Spanish,her house,su casa,,phrase
+900233,Spanish,our city,nuestra ciudad,,phrase
+900234,Spanish,our books,nuestros libros,,phrase
+900235,Spanish,your house (plural; Spain),vuestra casa,,phrase
+900236,Spanish,their children,sus hijos,,phrase
+900237,Spanish,this house,esta casa,,phrase
+900238,Spanish,this book,este libro,,phrase
+900239,Spanish,these houses,estas casas,,phrase
+900240,Spanish,that house,esa casa,,phrase
+900241,Spanish,that book,ese libro,,phrase
+900242,Spanish,those children,esos niños,,phrase
+900243,Spanish,that house over there,aquella casa,,phrase
+900244,Spanish,that man over there,aquel hombre,,phrase
+900245,Spanish,I see the house.,Veo la casa.,,sentence
+900246,Spanish,I see the man.,Veo al hombre.,,sentence
+900247,Spanish,She sees the woman.,Ve a la mujer.,,sentence
+900248,Spanish,We see the children.,Vemos a los niños.,,sentence
+900249,Spanish,I buy the book.,Compro el libro.,,sentence
+900250,Spanish,She buys food.,Compra comida.,,sentence
+900251,Spanish,I help my mother.,Ayudo a mi madre.,,sentence
+900252,Spanish,She helps her brother.,Ayuda a su hermano.,,sentence
+900253,Spanish,The book is on the table.,El libro está en la mesa.,,sentence
+900254,Spanish,I go to the park.,Voy al parque.,,sentence
+900255,Spanish,I come from the park.,Vengo del parque.,,sentence
+900256,Spanish,I work for my family.,Trabajo para mi familia.,,sentence
+900257,Spanish,I work with my friend.,Trabajo con mi amigo.,,sentence
+900258,Spanish,I am twenty years old.,Tengo veinte años.,,sentence
+900259,Spanish,What time is it?,¿Qué hora es?,,sentence
+900260,Spanish,It is two o'clock.,Son las dos.,,sentence
+900261,Spanish,Who is here?,¿Quién está aquí?,,sentence
+900262,Spanish,Who has the book?,¿Quién tiene el libro?,,sentence
+900263,Spanish,What do you want?,¿Qué quieres?,,sentence
+900264,Spanish,When do you work?,¿Cuándo trabajas?,,sentence
+900265,Spanish,How do you go to school?,¿Cómo vas a la escuela?,,sentence
+900266,Spanish,Why do you study Spanish?,¿Por qué estudias español?,,sentence
+900267,Spanish,Where do you live?,¿Dónde vives?,,sentence
+900268,Spanish,I see nothing.,No veo nada.,,sentence
+900269,Spanish,Nobody is here.,No hay nadie aquí.,,sentence
+900270,Spanish,I never drink coffee.,Nunca bebo café.,,sentence
+900271,Spanish,I want something.,Quiero algo.,,sentence
+900272,Spanish,Someone is here.,Hay alguien aquí.,,sentence
+900273,Spanish,I do not see anyone.,No veo a nadie.,,sentence
+900274,Spanish,I do not want anything.,No quiero nada.,,sentence
+900275,Spanish,you (singular formal),usted,,pronoun
+900276,Spanish,you (plural formal; Spain),ustedes,,pronoun
+900277,Spanish,to wash oneself,lavarse,,verb
+900278,Spanish,to get up,levantarse,,verb
+900279,Spanish,to go to bed,acostarse,,verb
+900280,Spanish,to be called,llamarse,,verb
+900281,Spanish,Speak! (singular informal),¡Habla!,,sentence
+900282,Spanish,Eat! (singular informal),¡Come!,,sentence
+900283,Spanish,Write! (singular informal),¡Escribe!,,sentence
+900284,Spanish,Go! (singular informal),¡Ve!,,sentence
+900285,Spanish,Come! (singular informal),¡Ven!,,sentence
+900286,Spanish,Do it! (singular informal),¡Hazlo!,,sentence
+900287,Spanish,Say it! (singular informal),¡Dilo!,,sentence
+900288,Spanish,Speak! (plural; Spain),¡Hablad!,,sentence
+900289,Spanish,Eat! (plural; Spain),¡Comed!,,sentence
+900290,Spanish,Write! (plural; Spain),¡Escribid!,,sentence
+900291,Spanish,Go! (plural; Spain),¡Id!,,sentence
+900292,Spanish,Do not speak! (singular informal),¡No hables!,,sentence
+900293,Spanish,Do not eat! (singular informal),¡No comas!,,sentence
+900294,Spanish,Do not write! (singular informal),¡No escribas!,,sentence
+900295,Spanish,Do not go! (singular informal),¡No vayas!,,sentence
+900296,Spanish,Do not speak! (plural; Spain),¡No habléis!,,sentence
+900297,Spanish,Do not eat! (plural; Spain),¡No comáis!,,sentence
+900298,Spanish,I see him.,Lo veo.,,sentence
+900299,Spanish,I see her.,La veo.,,sentence
+900300,Spanish,I see them. (masculine or mixed),Los veo.,,sentence
+900301,Spanish,I see them. (feminine),Las veo.,,sentence
+900302,Spanish,She sees me.,Me ve.,,sentence
+900303,Spanish,She sees you. (singular informal),Te ve.,,sentence
+900304,Spanish,They see us.,Nos ven.,,sentence
+900305,Spanish,They see you. (plural; Spain),Os ven.,,sentence
+900306,Spanish,I buy it. (masculine),Lo compro.,,sentence
+900307,Spanish,I buy it. (feminine),La compro.,,sentence
+900308,Spanish,I give him the book.,Le doy el libro.,,sentence
+900309,Spanish,I give her the book.,Le doy el libro.,,sentence
+900310,Spanish,She gives me water.,Me da agua.,,sentence
+900311,Spanish,They give us food.,Nos dan comida.,,sentence
+900312,Spanish,I give them water.,Les doy agua.,,sentence
+900313,Spanish,I give it to him. (masculine object),Se lo doy.,,sentence
+900314,Spanish,I give it to her. (feminine object),Se la doy.,,sentence
+900315,Spanish,She gives it to me. (masculine object),Me lo da.,,sentence
+900316,Spanish,I wash myself.,Me lavo.,,sentence
+900317,Spanish,You wash yourself.,Te lavas.,,sentence
+900318,Spanish,He washes himself.,Se lava.,,sentence
+900319,Spanish,We wash ourselves.,Nos lavamos.,,sentence
+900320,Spanish,You wash yourselves. (plural; Spain),Os laváis.,,sentence
+900321,Spanish,They wash themselves.,Se lavan.,,sentence
+900322,Spanish,I get up.,Me levanto.,,sentence
+900323,Spanish,She gets up.,Se levanta.,,sentence
+900324,Spanish,We get up.,Nos levantamos.,,sentence
+900325,Spanish,I go to bed.,Me acuesto.,,sentence
+900326,Spanish,He goes to bed.,Se acuesta.,,sentence
+900327,Spanish,I am called Ana.,Me llamo Ana.,,sentence
+900328,Spanish,What is your name?,¿Cómo te llamas?,,sentence
+900329,Spanish,I like the book.,Me gusta el libro.,,sentence
+900330,Spanish,I like books.,Me gustan los libros.,,sentence
+900331,Spanish,Do you like coffee? (gustar),¿Te gusta el café?,,sentence
+900332,Spanish,She likes the city.,Le gusta la ciudad.,,sentence
+900333,Spanish,We like Spanish.,Nos gusta el español.,,sentence
+900334,Spanish,You like the park. (plural; Spain),Os gusta el parque.,,sentence
+900335,Spanish,They like cars.,Les gustan los coches.,,sentence
+900336,Spanish,I do not like coffee.,No me gusta el café.,,sentence
+900337,Spanish,Do you like reading?,¿Te gusta leer?,,sentence
+900338,Spanish,I work yesterday.,Trabajé ayer.,,sentence
+900339,Spanish,You work yesterday.,Trabajaste ayer.,,sentence
+900340,Spanish,He work yesterday.,Trabajó ayer.,,sentence
+900341,Spanish,We work yesterday.,Trabajamos ayer.,,sentence
+900342,Spanish,You work yesterday. (plural; Spain),Trabajasteis ayer.,,sentence
+900343,Spanish,They work yesterday.,Trabajaron ayer.,,sentence
+900344,Spanish,I eat bread yesterday.,Comí pan ayer.,,sentence
+900345,Spanish,You eat bread yesterday.,Comiste pan ayer.,,sentence
+900346,Spanish,He eat bread yesterday.,Comió pan ayer.,,sentence
+900347,Spanish,We eat bread yesterday.,Comimos pan ayer.,,sentence
+900348,Spanish,You eat bread yesterday. (plural; Spain),Comisteis pan ayer.,,sentence
+900349,Spanish,They eat bread yesterday.,Comieron pan ayer.,,sentence
+900350,Spanish,I live there.,Viví allí.,,sentence
+900351,Spanish,You live there.,Viviste allí.,,sentence
+900352,Spanish,He live there.,Vivió allí.,,sentence
+900353,Spanish,We live there.,Vivimos allí.,,sentence
+900354,Spanish,You live there. (plural; Spain),Vivisteis allí.,,sentence
+900355,Spanish,They live there.,Vivieron allí.,,sentence
+900356,Spanish,I went to the city yesterday.,Fui a la ciudad ayer.,,sentence
+900357,Spanish,She went to school yesterday.,Fue a la escuela ayer.,,sentence
+900358,Spanish,We went to the park yesterday.,Fuimos al parque ayer.,,sentence
+900359,Spanish,They went home yesterday.,Fueron a casa ayer.,,sentence
+900360,Spanish,I had a car.,Tuve un coche.,,sentence
+900361,Spanish,He had a book.,Tuvo un libro.,,sentence
+900362,Spanish,We had time.,Tuvimos tiempo.,,sentence
+900363,Spanish,I was at home yesterday.,Estuve en casa ayer.,,sentence
+900364,Spanish,She was at school yesterday.,Estuvo en la escuela ayer.,,sentence
+900365,Spanish,We were in the city yesterday.,Estuvimos en la ciudad ayer.,,sentence
+900366,Spanish,I did the work.,Hice el trabajo.,,sentence
+900367,Spanish,She did the work.,Hizo el trabajo.,,sentence
+900368,Spanish,We did the work.,Hicimos el trabajo.,,sentence
+900369,Spanish,I could go.,Pude ir.,,sentence
+900370,Spanish,He could not go.,No pudo ir.,,sentence
+900371,Spanish,We could read it.,Pudimos leerlo.,,sentence
+900372,Spanish,I put the book on the table.,Puse el libro en la mesa.,,sentence
+900373,Spanish,She came yesterday.,Vino ayer.,,sentence
+900374,Spanish,We came yesterday.,Vinimos ayer.,,sentence
+900375,Spanish,He said no.,Dijo que no.,,sentence
+900376,Spanish,I used to work here.,Trabajaba aquí.,,sentence
+900377,Spanish,You used to work here.,Trabajabas aquí.,,sentence
+900378,Spanish,He used to work here.,Trabajaba aquí.,,sentence
+900379,Spanish,We used to work here.,Trabajábamos aquí.,,sentence
+900380,Spanish,You used to work here. (plural; Spain),Trabajabais aquí.,,sentence
+900381,Spanish,They used to work here.,Trabajaban aquí.,,sentence
+900382,Spanish,I used to eat bread.,Comía pan.,,sentence
+900383,Spanish,You used to eat bread.,Comías pan.,,sentence
+900384,Spanish,He used to eat bread.,Comía pan.,,sentence
+900385,Spanish,We used to eat bread.,Comíamos pan.,,sentence
+900386,Spanish,You used to eat bread. (plural; Spain),Comíais pan.,,sentence
+900387,Spanish,They used to eat bread.,Comían pan.,,sentence
+900388,Spanish,I used to live there.,Vivía allí.,,sentence
+900389,Spanish,You used to live there.,Vivías allí.,,sentence
+900390,Spanish,He used to live there.,Vivía allí.,,sentence
+900391,Spanish,We used to live there.,Vivíamos allí.,,sentence
+900392,Spanish,You used to live there. (plural; Spain),Vivíais allí.,,sentence
+900393,Spanish,They used to live there.,Vivían allí.,,sentence
+900394,Spanish,I was a child.,Era niño.,,sentence
+900395,Spanish,She was a teacher.,Era profesora.,,sentence
+900396,Spanish,We were friends.,Éramos amigos.,,sentence
+900397,Spanish,I used to go to school.,Iba a la escuela.,,sentence
+900398,Spanish,She used to go to the park.,Iba al parque.,,sentence
+900399,Spanish,We used to go by car.,Íbamos en coche.,,sentence
+900400,Spanish,I used to see him.,Lo veía.,,sentence
+900401,Spanish,She used to see the house.,Veía la casa.,,sentence
+900402,Spanish,We used to see them.,Los veíamos.,,sentence
+900403,Spanish,I have eaten.,He comido.,,sentence
+900404,Spanish,You have eaten.,Has comido.,,sentence
+900405,Spanish,She has eaten.,Ha comido.,,sentence
+900406,Spanish,We have eaten.,Hemos comido.,,sentence
+900407,Spanish,You have eaten. (plural; Spain),Habéis comido.,,sentence
+900408,Spanish,They have eaten.,Han comido.,,sentence
+900409,Spanish,I have seen the house.,He visto la casa.,,sentence
+900410,Spanish,She has written the book.,Ha escrito el libro.,,sentence
+900411,Spanish,I had eaten.,Había comido.,,sentence
+900412,Spanish,We had seen the house.,Habíamos visto la casa.,,sentence
+900413,Spanish,to need,necesitar,,verb
+900414,Spanish,to arrive,llegar,,verb
+900415,Spanish,now,ahora,,adverb
+900416,Spanish,I need to work.,Necesito trabajar.,,sentence
+900417,Spanish,We need to go.,Necesitamos ir.,,sentence
+900418,Spanish,I want to read.,Quiero leer.,,sentence
+900419,Spanish,We can go tomorrow.,Podemos ir mañana.,,sentence
+900420,Spanish,I am eating.,Estoy comiendo.,,sentence
+900421,Spanish,She is reading.,Está leyendo.,,sentence
+900422,Spanish,We are working.,Estamos trabajando.,,sentence
+900423,Spanish,They are sleeping.,Están durmiendo.,,sentence
+900424,Spanish,What are you doing now?,¿Qué estás haciendo ahora?,,sentence
+900425,Spanish,I have just eaten.,Acabo de comer.,,sentence
+900426,Spanish,She has just arrived.,Acaba de llegar.,,sentence
+900427,Spanish,I am going to work tomorrow.,Voy a trabajar mañana.,,sentence
+900428,Spanish,She is going to buy a car.,Va a comprar un coche.,,sentence
+900429,Spanish,We are going to eat now.,Vamos a comer ahora.,,sentence
+900430,Spanish,I have to work.,Tengo que trabajar.,,sentence
+900431,Spanish,She has to go.,Tiene que ir.,,sentence
+900432,Spanish,We have to study.,Tenemos que estudiar.,,sentence
+900433,Spanish,One must work.,Hay que trabajar.,,sentence
+900434,Spanish,One must eat.,Hay que comer.,,sentence
+900435,Spanish,I must go.,Debo ir.,,sentence
+900436,Spanish,When I was a child I lived there.,Cuando era niño vivía allí.,,sentence
+900437,Spanish,I was reading when she arrived.,Leía cuando llegó.,,sentence
+900438,Spanish,She arrived yesterday.,Llegó ayer.,,sentence
+900439,Spanish,to need to,tener que,,phrase
+900440,Spanish,to have just done,acabar de,,phrase
+900441,Spanish,to be going to,ir a,,phrase
+900442,Spanish,during,durante,,preposition
+900443,Spanish,before,antes,,adverb
+900444,Spanish,after,después,,adverb
+900445,Spanish,always,siempre,,adverb
+900446,Spanish,often,a menudo,,adverb
+900447,Spanish,sometimes,a veces,,adverb
+900448,Spanish,soon,pronto,,adverb
+900449,Spanish,late,tarde,,adverb
+900450,Spanish,early,temprano,,adverb
+900451,Spanish,place,lugar,,noun
+900452,Spanish,thing,cosa,,noun
+900453,Spanish,question,pregunta,,noun
+900454,Spanish,answer,respuesta,,noun
+900455,Spanish,problem,problema,,noun
+900456,Spanish,work (noun),trabajo,,noun
+900457,Spanish,money,dinero,,noun
+900458,Spanish,language,idioma,,noun
