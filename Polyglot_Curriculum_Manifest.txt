@@ -31,7 +31,7 @@ Hungarian   500000-599999        500000-500499        500
 Turkish     600000-699999        600000-600049        50
 Arabic      700000-799999        700000-700499        500
 Ojibwe      800000-899999        800000-800098        99
-Spanish      900000-999999        900000-900099        100
+Spanish     900000-999999        900000-900458        459
 Russian     1000000-1099999       1000000-1000452       453
 Greek       1100000-1199999       1100000-1100099       100
 Hindi       1200000-1299999       1200000-1200099       100
@@ -215,25 +215,24 @@ SPANISH
 Syllabus: Syllabi/Polyglot_Spanish_Syllabus_v0.1.txt
 Syllabus version: 0.1
 Card file: Cards/Spanish.csv
-Cards: 100
-Used IDs: 900000-900099
-Checkpoint: Spanish has advanced to a 100-card pre-syllabus prototype using French as
-the principal Romance comparison without treating French as a template.
-The opening uses the shared eight-word seed, definite and indefinite
-articles, noun/adjective gender and number agreement, predominantly
-postnominal adjective examples, subject pronouns followed immediately by
-natural pro-drop finite clauses, and the present of ser through identity
-and description. The prototype deliberately includes vosotros so that European Spanish
-person/number morphology is visible; regional second-person systems remain
-a future design question. Cards 51-100 introduce estar through location,
-tener, a regular -ar present paradigm with natural subject omission,
-simple no negation, punctuation-based yes/no questions, dónde + estar,
-and existential hay in affirmative, plural and negative examples. The
-ser/estar/hay split is now visible enough to inform syllabus design.
-Spanish syllabus v0.1 now reconciles the prototype into the long-term roadmap.
-Continue from the current CSV under that syllabus; early structures may be
-reinforced longitudinally rather than exhaustively drilled before progression.
-
+Cards: 459
+Used IDs: 900000-900458
+Checkpoint: Spanish has advanced from the 100-card prototype to 459 live
+cards under syllabus v0.1. The expansion develops regular -er/-ir and
+high-frequency irregular/stem-changing present verbs; direct objects and
+personal a; possessives and demonstratives; common prepositional relations;
+questions, polarity and negative concord; informal Peninsular commands and
+initial formal address; direct and indirect object clitics; double-object
+se; reflexive/pronominal verbs; and gustar-type constructions. Past-time
+work now includes regular preterite paradigms, several high-frequency
+irregular preterites, regular imperfect patterns, ser/ir/ver-style imperfect
+usage, an initial preterite/imperfect contrast, present perfect and
+pluperfect examples. The frontier then opens infinitive complements,
+progressive estar + gerund, acabar de, ir a + infinitive, tener que, hay que
+and deber. Continue by consolidating past-time aspect and nonfinite/
+periphrastic structures before moving naturally into the future and
+conditional roadmap. Spain remains the unmarked production reference;
+pan-Hispanic variation remains a later explicit strand.
 RUSSIAN
 Syllabus: Syllabi/Polyglot_Russian_Syllabus_v0.2.txt
 Syllabus version: 0.2
