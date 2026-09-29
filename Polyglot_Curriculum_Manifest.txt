@@ -451,20 +451,23 @@ by itself tests script rather than regional difference.
 
 
 PORTUGUESE
-Syllabus: Syllabi/Polyglot_Portuguese_Syllabus_v0.1.txt
-Syllabus version: 0.1
+Syllabus: Syllabi/Polyglot_Portuguese_Syllabus_v0.2.txt
+Syllabus version: 0.2
 Card file: Cards/Portuguese.csv
-Cards: 101
-Used IDs: 2000000-2000100
+Cards: 100
+Used IDs: 2000000-2000099
 Frontier: PT-12 — Regular -er present
-Checkpoint: Portuguese begins with a 101-card European Portuguese seed under
-syllabus v0.1. The opening establishes the shared lexical seed; definite and
-indefinite articles; basic gender agreement; personal pronouns with natural
-subject omission; present ser and estar; ter possession; regular -ar verbs
-through falar and trabalhar; não negation; polar and content questions;
-direct objects with ver; querer + infinitive; and existential há. European
-Portuguese is the unmarked production reference, with vocês used for ordinary
-plural address and Brazilian Portuguese reserved for an explicitly labelled
-later strand. Future expansion should open regular -er/-ir verbs, common
-irregular presents, contractions, possessives and broader noun phrases while
-reinforcing the ser/estar/há/ter system longitudinally.
+Checkpoint: Portuguese now begins with a rebuilt 100-card Brazilian
+Portuguese seed under syllabus v0.2. Contemporary educated Brazilian
+Portuguese is the unmarked production reference. The opening establishes
+the shared lexical seed; definite and indefinite articles; basic gender
+agreement; Brazilian você/vocês with third-person agreement; natural
+subject omission elsewhere; present ser and estar; ter possession; regular
+-ar verbs through falar and trabalhar; não negation; polar and content
+questions; direct objects with ver; querer + infinitive; and neutral
+standard existential há. European Portuguese is reserved for an explicitly
+labelled later standard-variety strand. Future expansion should open regular
+-er/-ir verbs, common irregular presents, contractions, possessives and
+broader noun phrases while reinforcing the ser/estar/há/ter system
+longitudinally. Duplicate EnglishPrompt and ID checks are required before
+future commits.
