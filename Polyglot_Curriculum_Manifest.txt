@@ -35,7 +35,7 @@ Language    Reserved ID range    Current used IDs     Current cards
 French      100000-199999        100000-100599        600
 German      200000-299999        200000-200749        750
 Japanese    300000-399999        300000-300499        500
-Polish      400000-499999        400000-400050        51
+Polish      400000-499999        400000-400249        250
 Hungarian   500000-599999        500000-500311        312
 Turkish     600000-699999        600000-600049        50
 Arabic      700000-799999        700000-700499        500
@@ -127,12 +127,24 @@ POLISH
 Syllabus: Syllabi/Polyglot_Polish_Syllabus_v0.2.txt
 Syllabus version: 0.2
 Card file: Cards/Polish.csv
-Cards: 51
-Used IDs: 400000-400050
-Checkpoint: The opening has been deliberately rebuilt as a 51-card
-small-seed prototype under the revised pacing model. Reconcile future
-extension against syllabus v0.2 and the current CSV rather than the
-superseded 200-card opening.
+Cards: 250
+Used IDs: 400000-400249
+Frontier: PL-15 — Masculine-personal versus non-masculine-personal plural
+Checkpoint: Polish has advanced from the 51-card seed to 250 cards under
+syllabus v0.2 and Protocol v0.9. The extension establishes possession and
+existence with mieć and nie ma; productive present-tense work with pracować,
+czytać and wiedzieć; question words; chcieć and móc with infinitives; direct
+objects and first visible accusative morphology; jeść and pić; location with
+w and na; destination and source with do and z; first motion contrasts with
+iść and jechać; accompaniment with z + instrumental; and a widening everyday
+lexicon. Possessives, low numerals and nominative plurals are previewed in
+useful contexts. Later vocabulary increasingly enters directly through
+established sentence frames rather than requiring a standalone lexical card.
+Continue the main introduction sequence at PL-15 by making the
+masculine-personal versus non-masculine-personal plural contrast explicit,
+then widen the accusative and case system without turning declension into
+isolated paradigm blocks. Duplicate EnglishPrompt and ID checks are required
+before future commits.
 
 HUNGARIAN
 Syllabus: Syllabi/Polyglot_Hungarian_Syllabus_v0.2.txt
