@@ -1,0 +1,452 @@
+POLYGLOT CARD GENERATION PROTOCOL
+
+Version: 0.9
+Status: Current
+Encoding: UTF-8
+
+1. PURPOSE
+
+This protocol defines the practical workflow for creating and extending
+Polyglot card CSVs.
+
+This is the primary operating document for card generation. A generator
+asked to create or extend Polyglot cards should begin here and should be
+able to carry out an ordinary batch from this protocol plus the relevant
+language files without reconstructing project philosophy from other decks.
+
+The Charter supplies top-level clarification of what Polyglot is and why
+the curriculum is structured as it is. The language syllabus supplies the
+canonical sequence in which new branches are introduced. The Manifest
+supplies allocation, extent and current-frontier information. The current
+CSV records the curriculum that actually exists. Other decks are examples
+only and should be consulted sparingly: they may contain useful solutions,
+but they are not templates and some contain historical imperfections.
+
+This protocol should remain practical rather than attempting to automate
+every language-specific special case.
+
+2. OPERATING DOCUMENTS AND AUTHORITY
+
+Begin with this protocol.
+
+For an established language, then inspect:
+
+1. the Manifest entry for the language;
+2. the current language syllabus;
+3. the current language CSV;
+4. the Charter when top-level project intent needs clarification;
+5. one or more other Polyglot decks only when a concrete example would
+   materially help.
+
+These documents answer different questions and should not be treated as a
+single ranked stack.
+
+- Protocol: how to generate cards.
+- Manifest: where the deck is now, including ID extent and syllabus frontier.
+- Syllabus: what branches should be introduced and in what prerequisite-aware
+  sequence.
+- CSV: what cards actually exist and their canonical introduction order.
+- Charter: what the project is trying to accomplish at the highest level.
+- Other decks: optional examples, not normative templates.
+
+The syllabus is an introduction map, not a textbook chapter plan. A unit
+marks the point at which a structure, lexical domain or other branch should
+be opened. Passing that unit does not mean the branch has been exhausted.
+Previously opened branches normally remain active for longitudinal reuse.
+
+Do not infer a generation rule merely because another deck happens to use
+it. Existing decks were produced at different stages of the project's
+development and some are less polished than others.
+
+For a new language, use this protocol and the Charter, inspect structurally
+relevant examples sparingly, and use what is known about the target language
+before committing to a detailed sequence. A complete syllabus need not be
+invented before the first safe prototype if the user has explicitly chosen
+prototype-first development.
+
+3. NEW-LANGUAGE WORKFLOW
+
+The normal workflow is:
+
+1. Discuss the target language's important early characteristics.
+2. Inspect one or more useful Polyglot reference openings.
+3. Propose a very small lexical/structural seed.
+4. Build a short prototype, commonly somewhere around 30–60 cards when
+   that is enough to reveal the opening.
+5. Review what the prototype exposes: natural sentence structure,
+   morphology, script burden, input needs, omissions, particles/cases,
+   agreement, register, or other language-specific concerns.
+6. Establish or refine the syllabus/path forward from that evidence.
+7. Audit the prototype against the resulting path.
+8. Continue in progressively larger batches as confidence increases.
+
+The 30–60 range is a heuristic, not a quota. Some languages may reveal
+their path sooner; others may need a larger experiment.
+
+French, German and Japanese are strong current reference implementations
+because their reworked openings demonstrate different solutions to the
+same general problem. Other languages should also be consulted when they
+offer a closer structural analogy.
+
+Cards can help design the syllabus, but once the syllabus exists, the
+syllabus governs the long-term path. Ordinary prerequisite-safe detours do
+not require a syllabus amendment.
+
+4. EXTENDING AN EXISTING LANGUAGE
+
+Read the current syllabus and CSV, identify the useful next frontier, and
+continue from there.
+
+Do not mechanically search for the lowest numbered unfinished unit and
+treat everything before the next number as a sealed prerequisite. Ask:
+
+- What new structure or lexical strand is now ready?
+- What previously introduced material still needs reinforcement?
+- Can the same cards do both jobs naturally?
+- Has card generation revealed a sensible local detour from the roadmap?
+
+Historical or incidental later material may remain valid. Reconcile by
+convergence rather than restarting the course.
+
+5. SEED AND PACING
+
+Begin new languages with a small reusable seed and move into productive
+language quickly.
+
+Test the common house/man/woman/child and big/small/good/bad seed where it
+fits. Adapt it freely when the target language gives a reason. Japanese,
+for example, showed the value of including a few concrete verbs in the
+seed so that particles and verbal clauses could emerge immediately.
+
+Add vocabulary just in time. Avoid long lexical front-loads. Avoid the
+opposite error of demonstrating many grammar points indefinitely with the
+same tiny vocabulary.
+
+Existing Polyglot sequences may be copied closely when useful. Originality
+is not a generation requirement.
+
+6. INTRODUCTION AND REINFORCEMENT
+
+Give a new pattern enough controlled exposure to become intelligible.
+Then allow it to recur in cards whose principal novelty may be something
+else.
+
+Use double-duty cards deliberately. Questions can reinforce plurals;
+negation can accompany new vocabulary; known tense can carry a new case;
+known particles can support a new verb.
+
+Do not mistake first appearance for establishment. Do not require every
+concept to be established inside a self-contained block before proceeding.
+
+Where two concepts have no genuine prerequisite relationship, choose a
+clear introduction order and move on once the first is intelligible enough
+that the second will not obscure it.
+
+7. ORDER, SHUFFLING, AND DUPLICATES
+
+CSV row order records canonical introduction order and should remain
+pedagogically coherent.
+
+It does not create conversational adjacency. Polyglot will eventually
+shuffle available cards, so a card must not depend on "the previous card"
+for its meaning or answer.
+
+The scheduler supplies repeated exposure to a card. Do not create exact
+duplicate cards for review. Reinforce a concept with varied examples,
+contexts and combinations instead.
+
+Order matters most for prerequisites and first introduction. Do not spend
+time optimizing the relative order of independent cards that will
+ultimately be shuffled.
+
+8. PARADIGMS AND THE WIDENING SPIRAL
+
+Use systematic coverage when each cell teaches a meaningful contrast.
+A first representative regular verb or other productive pattern may
+legitimately receive a complete paradigm. A second major conjugation class
+may do the same. Important irregular paradigms may also warrant dense
+coverage.
+
+Paradigm density should decline as a productive pattern becomes established.
+Do not mechanically repeat an already-known table with many new lexical
+stems. Instead, introduce later stems with selected forms in increasingly
+natural sentences that also expand vocabulary, syntax or another active
+branch.
+
+Practical test:
+
+If filling every cell teaches a new contrast, fill the table. If it merely
+substitutes a new stem into an already-known table, sample and reuse.
+
+New vocabulary must continue entering while grammar develops. Do not first
+dump a long list of citation forms and then conjugate them in blocks when
+the same material can be interleaved coherently.
+
+When a new tense, mood, case, construction or other grammatical system is
+introduced, it joins the active repertoire; it does not replace the older
+system or create a chapter that must be completed before returning to older
+material. Later cards should increasingly combine lexical expansion,
+reinforcement of established patterns and development of the current
+grammatical frontier.
+
+For example, after present and past are established, a new verb may receive
+a present example, then a past example, and later future, conditional or
+subjunctive examples as those systems become available. The goal is a
+widening spiral, not a succession of sealed paradigm blocks.
+
+This is a calibration rule, not a ban on paradigms.
+
+9. COMPREHENSIBLE DISCOVERY
+
+Not every form needs a dedicated introductory card before it can appear.
+Once enough context exists for a learner to infer a new form safely,
+comprehensible discovery is acceptable.
+
+Do not use this as permission to stack several opaque new mechanisms into
+one card. The intended novelty should remain recoverable.
+
+10. CURRICULUM PHASES
+
+10.1 FORWARD CONSTRUCTION
+
+The syllabus governs forward construction. Treat its units as a
+prerequisite-aware sequence of introductions rather than textbook chapters.
+Open a branch with enough controlled material to make it usable, then keep
+that branch alive while later branches open.
+
+As grammar matures, open lexical, register, phraseology and discourse
+strands in parallel. Late syllabus domains such as politics, science, the
+arts, commerce, law or technical language are representative openings, not
+attempts to exhaust those fields. A few dozen well-chosen terms,
+constructions and examples may be enough to establish a domain before the
+curriculum moves onward while continuing to reuse it.
+
+There is no fixed card count at which forward construction ends. In a
+typical large curriculum it may take a few thousand cards. The relevant
+condition is that the syllabus's major structural branches and representative
+lexical domains have been meaningfully introduced.
+
+10.2 TRANSITION
+
+When the syllabus has been substantially traversed, generation should shift
+from asking primarily "what should be introduced next?" to asking "what can
+natural contemporary language do that this learner still cannot reproduce?"
+
+This transition is gradual. Syllabus-driven additions and authentic-language
+gap filling may overlap.
+
+10.3 BACKWARD VALIDATION
+
+After the core syllabus has been traversed, use authentic contemporary
+language as the principal source of new curriculum gaps. Sample broadly
+across appropriate real-world speech and writing: conversation, journalism,
+fiction, nonfiction, government, commerce, entertainment, professional and
+technical material, and other domains relevant to educated-adult competence.
+
+For each sample, ask whether a learner with the existing Polyglot curriculum
+could productively reproduce the language, not merely recognize its general
+meaning.
+
+If not, identify the obstacle: missing vocabulary, a new sense of a known
+word, collocation, idiom, governed preposition, morphology, syntax, discourse
+pattern, register distinction, derivation, or another productive capability.
+
+Authentic text diagnoses the gap; it does not automatically become the
+flashcard. Add the smallest natural card or small prerequisite-aware family
+of cards needed to close the productive gap. If an authentic example
+depends on several missing mechanisms, decompose them in pedagogically
+coherent order.
+
+Continue backward validation indefinitely. Increasingly broad authentic
+sampling should reveal progressively rarer gaps. There is no requirement to
+declare a language complete.
+
+Do not make high card IDs artificially difficult. Mature curriculum should
+continue expanding educated-adult breadth, collocation, semantic precision
+and register even when grammatical difficulty has largely plateaued.
+
+11. CARD SCHEMA
+
+Canonical language CSV:
+
+ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+
+Use UTF-8 with BOM when practical for Excel compatibility, comma
+delimiting, standard CSV quoting and consistent Unicode normalization.
+
+EnglishPrompt must be unique within the language under the current schema.
+Exact duplicate cards are prohibited.
+
+Each prompt has one intended Target. Case, diacritics, punctuation and
+script are part of the answer where the language requires them. Improve
+ambiguous prompts rather than relying on multiple accepted answers.
+
+PartOfSpeech should use established Polyglot categories where useful.
+InputHint is normally blank except where the intended input method
+genuinely benefits from an intermediate representation. Language-specific
+practice may be defined by the syllabus or current approved experiment.
+
+12. NATURAL TARGET LANGUAGE
+
+Targets should be natural for the intended meaning and register.
+
+Do not mechanically preserve English pronouns, subjects, articles, word
+order or other structure when the target language would normally express
+the meaning differently.
+
+Use ordinary contemporary orthography. Do not simplify normal spelling
+merely because script is unfamiliar.
+
+Lexical verbs normally use the target language's ordinary dictionary or
+citation form. Grammar is normally taught through examples rather than
+metalinguistic prompt cards.
+
+13. IDS: DEVELOPMENT AND LIVE DECKS
+
+IDs belong to the language block recorded in the Manifest.
+
+During pre-production development, when cards have not yet accumulated
+learner state, pedagogical cleanup may include reordering and renumbering
+the draft sequence.
+
+Once cards have entered real learner use, IDs become stable identities.
+Assign new IDs monotonically and do not reuse an existing live ID for a
+materially different card.
+
+Ordinary corrections to a live card preserve its ID so scheduler state
+remains attached to that card. If a proposed change would effectively
+replace the card with different curriculum content, review it explicitly
+rather than silently transferring learner state.
+
+14. EXISTING-CARD CORRECTIONS
+
+While extending a language, correct an existing card when a clear problem
+becomes evident: factual error, unnatural neutral target, misleading
+prompt, unnecessary explicitness, duplicate, or conflict with an
+established convention.
+
+Do not turn routine generation into a full retrospective audit unless
+requested.
+
+Report every correction to a pre-existing live card with its ID, old and
+new content as relevant, and brief reason. Never silently alter live
+curriculum.
+
+15. VALIDATION
+
+Before publishing a batch, verify at minimum:
+
+1. IDs are unique and within the language's reserved block.
+2. EnglishPrompt values are unique within the language.
+3. No exact duplicate cards exist.
+4. The six required columns are present in the correct order.
+5. Targets use correct natural language, spelling, punctuation and script.
+6. InputHint follows current language practice.
+7. New cards have no unresolved prerequisite problem.
+8. Cards stand independently when shuffled.
+9. Existing-card changes are intentional and reported.
+10. The stopping point is pedagogically defensible.
+
+Do not reject a good batch merely because it took a reasonable detour from
+the syllabus.
+
+16. BATCH SIZE
+
+Requested counts are approximate unless explicitly exact.
+
+Prefer coherent stopping points over round numbers. Early experimental
+batches should remain small enough for meaningful review. As a language's
+path becomes clearer, larger batches are appropriate.
+
+Do not pad a batch with redundant cards to hit a target count.
+
+17. MANIFEST AND ARCHIVES
+
+Update the Manifest when card extent or curriculum frontier materially
+changes.
+
+Every established-language checkpoint should identify the current syllabus
+frontier by unit code and name where the syllabus provides them. "Frontier"
+means the furthest syllabus introduction materially opened by the current
+deck; it does not assert that that unit or earlier units are complete.
+Also describe important longitudinal strands when a bare unit code would be
+misleading.
+
+Before extending an established deck, read this frontier together with the
+CSV. After a substantive extension, update the card count, used-ID extent
+and frontier so that a fresh generator can resume without reconstructing
+progress from scratch.
+
+Git history is the normal archive for superseded development material.
+Once a trial deck has yielded its useful lessons and a canonical sequence
+has replaced it, do not keep duplicate archive CSVs in the Cards folder
+unless there is a specific ongoing reason.
+
+18. LEARNER STATE
+
+Language curriculum CSVs contain authored curriculum only.
+
+Operational app/export state may add:
+
+Weight,Active,LastShown
+
+When rebuilding a master/app file, preserve learner state by stable live
+card ID. Initialize state only for genuinely new IDs. Do not attach old
+learner state to a materially different card because an ID was reused.
+
+Curriculum generation does not edit scheduler state.
+
+19. WHEN TO DISCUSS
+
+Stop and discuss rather than inventing a rule when a choice could
+materially shape many later cards and the existing Charter, syllabus and
+examples do not give a clear answer.
+
+Good reasons for discussion include competing natural registers, a major
+orthographic/input decision, uncertain treatment of a structural
+distinction, or a choice that would commit the curriculum to a long
+sequence.
+
+Do not escalate trivial ordering questions or ordinary prerequisite-safe
+detours. The purpose of discussion is judgment, not bureaucracy.
+
+20. BATCH SUMMARY
+
+For a substantive published batch, report:
+
+- number of new cards and ID range;
+- important structures or lexical strands advanced;
+- significant decisions or unresolved questions;
+- every correction to a pre-existing live card;
+- the useful next frontier.
+
+Do not overstate unit completion merely because a structure has appeared.
+
+21. AMENDMENTS
+
+This protocol is versioned. Amend it when the generation workflow changes,
+not when a language merely advances.
+
+Version 0.9 makes this protocol the primary operating document for card
+generators; clarifies the distinct roles of Protocol, Manifest, syllabus,
+CSV, Charter and example decks; defines syllabus units as introductions
+rather than sealed chapters; formalizes declining paradigm density and the
+widening spiral; requires continued lexical growth during grammatical
+development; defines forward construction, transition and backward
+validation; and requires Manifest checkpoints to name the current syllabus
+frontier.
+
+Version 0.8 replaced increasingly elaborate special-case automation with a
+simpler collaborative workflow and formalized shuffle-independent cards,
+duplicate avoidance, paradigm calibration, comprehensible discovery,
+development-versus-live ID handling, Git history as the normal archive for
+retired prototypes, and explicit discussion at meaningful design forks.
+
+22. GOVERNING PRINCIPLE
+
+Start with this Protocol. Use the Manifest to locate the current frontier,
+the syllabus to know what to introduce next, the current CSV to know what
+already exists, and the Charter to clarify the project's top-level purpose.
+Use other decks sparingly as examples rather than authorities. Generate the
+simplest coherent continuation that advances the frontier while reinforcing
+the widening body of language already introduced.
