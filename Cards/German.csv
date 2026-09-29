@@ -553,3 +553,199 @@
 200551,German,to close,schließen,,
 200552,German,I close the door.,Ich schließe die Tür.,,
 200553,German,The woman closes the window.,Die Frau schließt das Fenster.,,
+200554,German,yesterday,gestern,,adverb
+200555,German,last week,letzte Woche,,phrase
+200556,German,last year,letztes Jahr,,phrase
+200557,German,train,Zug,,noun
+200558,German,station,Bahnhof,,noun
+200559,German,office,Büro,,noun
+200560,German,market,Markt,,noun
+200561,German,money,Geld,,noun
+200562,German,food,Essen,,noun
+200563,German,Yesterday I worked.,Gestern habe ich gearbeitet.,,sentence
+200564,German,Yesterday we played.,Gestern haben wir gespielt.,,sentence
+200565,German,The child learned German yesterday.,Das Kind hat gestern Deutsch gelernt.,,sentence
+200566,German,I bought food at the market.,Ich habe auf dem Markt Essen gekauft.,,sentence
+200567,German,The woman opened the window.,Die Frau hat das Fenster geöffnet.,,sentence
+200568,German,We closed the door.,Wir haben die Tür geschlossen.,,sentence
+200569,German,to cook,kochen,,verb
+200570,German,to clean,putzen,,verb
+200571,German,to wait,warten,,verb
+200572,German,to say,sagen,,verb
+200573,German,I cooked yesterday.,Ich habe gestern gekocht.,,sentence
+200574,German,She cleaned the room.,Sie hat das Zimmer geputzt.,,sentence
+200575,German,We waited at the station.,Wir haben am Bahnhof gewartet.,,sentence
+200576,German,He said that.,Er hat das gesagt.,,sentence
+200577,German,I have worked today.,Ich habe heute gearbeitet.,,sentence
+200578,German,Have you worked today? (singular informal),Hast du heute gearbeitet?,,sentence
+200579,German,The man has not worked today.,Der Mann hat heute nicht gearbeitet.,,sentence
+200580,German,What did you buy? (singular informal),Was hast du gekauft?,,sentence
+200581,German,Where did she work?,Wo hat sie gearbeitet?,,sentence
+200582,German,When did they arrive?,Wann sind sie angekommen?,,sentence
+200583,German,to arrive,ankommen,,verb
+200584,German,to leave,abfahren,,verb
+200585,German,to return,zurückkommen,,verb
+200586,German,to travel,reisen,,verb
+200587,German,I arrived yesterday.,Ich bin gestern angekommen.,,sentence
+200588,German,The train left this morning.,Der Zug ist heute Morgen abgefahren.,,sentence
+200589,German,She returned last week.,Sie ist letzte Woche zurückgekommen.,,sentence
+200590,German,We travelled to Berlin.,Wir sind nach Berlin gereist.,,sentence
+200591,German,They went to the market.,Sie sind auf den Markt gegangen.,,sentence
+200592,German,The child came home.,Das Kind ist nach Hause gekommen.,,sentence
+200593,German,to stay overnight,übernachten,,verb
+200594,German,hotel,Hotel,,noun
+200595,German,trip,Reise,,noun
+200596,German,week,Woche,,noun
+200597,German,We stayed overnight at the hotel.,Wir haben im Hotel übernachtet.,,sentence
+200598,German,The trip was good.,Die Reise war gut.,,sentence
+200599,German,The train was late.,Der Zug war spät.,,sentence
+200600,German,I was at the station.,Ich war am Bahnhof.,,sentence
+200601,German,She was in Berlin.,Sie war in Berlin.,,sentence
+200602,German,We were at home.,Wir waren zu Hause.,,sentence
+200603,German,They were tired.,Sie waren müde.,,sentence
+200604,German,tired,müde,,adjective
+200605,German,early,früh,,adverb
+200606,German,late,spät,,adverb
+200607,German,The early train is here.,Der frühe Zug ist hier.,,sentence
+200608,German,I take the early train.,Ich nehme den frühen Zug.,,sentence
+200609,German,We travel with the early train.,Wir fahren mit dem frühen Zug.,,sentence
+200610,German,The new station is big.,Der neue Bahnhof ist groß.,,sentence
+200611,German,I see the new station.,Ich sehe den neuen Bahnhof.,,sentence
+200612,German,She works in the new office.,Sie arbeitet im neuen Büro.,,sentence
+200613,German,We buy fresh bread.,Wir kaufen frisches Brot.,,sentence
+200614,German,fresh,frisch,,adjective
+200615,German,expensive,teuer,,adjective
+200616,German,cheap,billig,,adjective
+200617,German,important,wichtig,,adjective
+200618,German,an expensive car,ein teures Auto,,phrase
+200619,German,I do not need an expensive car.,Ich brauche kein teures Auto.,,sentence
+200620,German,She buys a cheap book.,Sie kauft ein billiges Buch.,,sentence
+200621,German,We have an important question.,Wir haben eine wichtige Frage.,,sentence
+200622,German,question,Frage,,noun
+200623,German,answer,Antwort,,noun
+200624,German,He gives a good answer.,Er gibt eine gute Antwort.,,sentence
+200625,German,I know the answer.,Ich kenne die Antwort.,,sentence
+200626,German,She answered the important question.,Sie hat die wichtige Frage beantwortet.,,sentence
+200627,German,to answer a question,beantworten,,verb
+200628,German,interesting,interessant,,adjective
+200629,German,difficult,schwierig,,adjective
+200630,German,easy,einfach,,adjective
+200631,German,an interesting book,ein interessantes Buch,,phrase
+200632,German,The difficult question is important.,Die schwierige Frage ist wichtig.,,sentence
+200633,German,He answered an easy question.,Er hat eine einfache Frage beantwortet.,,sentence
+200634,German,I read an interesting book.,Ich habe ein interessantes Buch gelesen.,,sentence
+200635,German,She found the book.,Sie hat das Buch gefunden.,,sentence
+200636,German,We drank water.,Wir haben Wasser getrunken.,,sentence
+200637,German,The child ate an apple.,Das Kind hat einen Apfel gegessen.,,sentence
+200638,German,They took the train.,Sie haben den Zug genommen.,,sentence
+200639,German,I saw the woman.,Ich habe die Frau gesehen.,,sentence
+200640,German,He spoke German.,Er hat Deutsch gesprochen.,,sentence
+200641,German,She helped the child.,Sie hat dem Kind geholfen.,,sentence
+200642,German,We gave the man the book.,Wir haben dem Mann das Buch gegeben.,,sentence
+200643,German,I wrote a letter.,Ich habe einen Brief geschrieben.,,sentence
+200644,German,letter,Brief,,noun
+200645,German,to write,schreiben,,verb
+200646,German,to meet,treffen,,verb
+200647,German,to forget,vergessen,,verb
+200648,German,to begin,beginnen,,verb
+200649,German,I met my friend yesterday.,Ich habe gestern meinen Freund getroffen.,,sentence
+200650,German,She forgot the book.,Sie hat das Buch vergessen.,,sentence
+200651,German,We began early.,Wir haben früh begonnen.,,sentence
+200652,German,Did you read the letter? (singular informal),Hast du den Brief gelesen?,,sentence
+200653,German,Why did he leave?,Warum ist er abgefahren?,,sentence
+200654,German,The woman did not forget the answer.,Die Frau hat die Antwort nicht vergessen.,,sentence
+200655,German,to wake up,aufwachen,,verb
+200656,German,to invite,einladen,,verb
+200657,German,to visit a place,besichtigen,,verb
+200658,German,museum,Museum,,noun
+200659,German,restaurant,Restaurant,,noun
+200660,German,coffee shop,Café,,noun
+200661,German,I woke up early.,Ich bin früh aufgewacht.,,sentence
+200662,German,She invited her friend.,Sie hat ihre Freundin eingeladen.,,sentence
+200663,German,We visited the museum.,Wir haben das Museum besichtigt.,,sentence
+200664,German,They ate at the restaurant.,Sie haben im Restaurant gegessen.,,sentence
+200665,German,I drank coffee at the café.,Ich habe im Café Kaffee getrunken.,,sentence
+200666,German,Did you call your parents? (singular informal),Hast du deine Eltern angerufen?,,sentence
+200667,German,He did not get up early.,Er ist nicht früh aufgestanden.,,sentence
+200668,German,The train has already left.,Der Zug ist schon abgefahren.,,sentence
+200669,German,already,schon,,adverb
+200670,German,still; yet,noch,,adverb
+200671,German,again,wieder,,adverb
+200672,German,The woman is still working.,Die Frau arbeitet noch.,,sentence
+200673,German,We have already eaten.,Wir haben schon gegessen.,,sentence
+200674,German,I have not read the letter yet.,Ich habe den Brief noch nicht gelesen.,,sentence
+200675,German,They came again yesterday.,Sie sind gestern wiedergekommen.,,sentence
+200676,German,The old man lives in the small house.,Der alte Mann wohnt in dem kleinen Haus.,,sentence
+200677,German,I speak with the young woman.,Ich spreche mit der jungen Frau.,,sentence
+200678,German,young,jung,,adjective
+200679,German,She helps a sick child.,Sie hilft einem kranken Kind.,,sentence
+200680,German,sick,krank,,adjective
+200681,German,We travel with good friends.,Wir reisen mit guten Freunden.,,sentence
+200682,German,He comes from a small city.,Er kommt aus einer kleinen Stadt.,,sentence
+200683,German,I bought fresh apples.,Ich habe frische Äpfel gekauft.,,sentence
+200684,German,They drink cold water.,Sie trinken kaltes Wasser.,,sentence
+200685,German,cold,kalt,,adjective
+200686,German,warm,warm,,adjective
+200687,German,She drinks warm coffee.,Sie trinkt warmen Kaffee.,,sentence
+200688,German,The children eat fresh bread.,Die Kinder essen frisches Brot.,,sentence
+200689,German,I see two old houses.,Ich sehe zwei alte Häuser.,,sentence
+200690,German,two,zwei,,number
+200691,German,three,drei,,number
+200692,German,four,vier,,number
+200693,German,five,fünf,,number
+200694,German,We have three new books.,Wir haben drei neue Bücher.,,sentence
+200695,German,Four children are playing in the park.,Vier Kinder spielen im Park.,,sentence
+200696,German,The five old houses are small.,Die fünf alten Häuser sind klein.,,sentence
+200697,German,weather,Wetter,,noun
+200698,German,sun,Sonne,,noun
+200699,German,snow,Schnee,,noun
+200700,German,wind,Wind,,noun
+200701,German,The weather is good today.,Das Wetter ist heute gut.,,sentence
+200702,German,The sun is shining.,Die Sonne scheint.,,sentence
+200703,German,to shine,scheinen,,verb
+200704,German,It rained yesterday.,Gestern hat es geregnet.,,sentence
+200705,German,to rain,regnen,,verb
+200706,German,It snowed last week.,Letzte Woche hat es geschneit.,,sentence
+200707,German,to snow,schneien,,verb
+200708,German,The wind was strong.,Der Wind war stark.,,sentence
+200709,German,strong,stark,,adjective
+200710,German,We stayed at home because of the bad weather.,Wegen des schlechten Wetters sind wir zu Hause geblieben.,,sentence
+200711,German,She took the train because of the rain.,Wegen des Regens hat sie den Zug genommen.,,sentence
+200712,German,I had a car.,Ich hatte ein Auto.,,sentence
+200713,German,You had a dog. (singular informal),Du hattest einen Hund.,,sentence
+200714,German,She had a question.,Sie hatte eine Frage.,,sentence
+200715,German,We had time.,Wir hatten Zeit.,,sentence
+200716,German,time,Zeit,,noun
+200717,German,They had no money.,Sie hatten kein Geld.,,sentence
+200718,German,I could read.,Ich konnte lesen.,,sentence
+200719,German,She had to work.,Sie musste arbeiten.,,sentence
+200720,German,We wanted to go home.,Wir wollten nach Hause gehen.,,sentence
+200721,German,They were allowed to stay.,Sie durften bleiben.,,sentence
+200722,German,Could you help me? (singular informal),Konntest du mir helfen?,,sentence
+200723,German,I was tired but I worked.,Ich war müde aber ich habe gearbeitet.,,sentence
+200724,German,but,aber,,conjunction
+200725,German,and,und,,conjunction
+200726,German,or,oder,,conjunction
+200727,German,We bought bread and we cooked.,Wir haben Brot gekauft und wir haben gekocht.,,sentence
+200728,German,She went to the station but the train had already left.,Sie ist zum Bahnhof gegangen aber der Zug war schon abgefahren.,,sentence
+200729,German,The child reads or plays.,Das Kind liest oder spielt.,,sentence
+200730,German,I know that the train is here.,Ich weiß dass der Zug hier ist.,,sentence
+200731,German,that (conjunction),dass,,conjunction
+200732,German,She says that the book is good.,Sie sagt dass das Buch gut ist.,,sentence
+200733,German,We know that the children are at school.,Wir wissen dass die Kinder in der Schule sind.,,sentence
+200734,German,I think that he works here.,Ich denke dass er hier arbeitet.,,sentence
+200735,German,to think,denken,,verb
+200736,German,because,weil,,conjunction
+200737,German,I stay at home because I am tired.,Ich bleibe zu Hause weil ich müde bin.,,sentence
+200738,German,She takes the train because she works in Berlin.,Sie nimmt den Zug weil sie in Berlin arbeitet.,,sentence
+200739,German,We bought food because the children were hungry.,Wir haben Essen gekauft weil die Kinder hungrig waren.,,sentence
+200740,German,hungry,hungrig,,adjective
+200741,German,if; when,wenn,,conjunction
+200742,German,If I have time I read.,Wenn ich Zeit habe lese ich.,,sentence
+200743,German,When the child is tired he sleeps.,Wenn das Kind müde ist schläft es.,,sentence
+200744,German,When we are in Berlin we take the train.,Wenn wir in Berlin sind nehmen wir den Zug.,,sentence
+200745,German,although,obwohl,,conjunction
+200746,German,Although I am tired I work.,Obwohl ich müde bin arbeite ich.,,sentence
+200747,German,Although the car is old it is good.,Obwohl das Auto alt ist ist es gut.,,sentence
+200748,German,She says that she bought the book.,Sie sagt dass sie das Buch gekauft hat.,,sentence
+200749,German,I know that the train has already left.,Ich weiß dass der Zug schon abgefahren ist.,,sentence
