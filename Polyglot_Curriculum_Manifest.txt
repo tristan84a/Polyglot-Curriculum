@@ -36,7 +36,7 @@ French      100000-199999        100000-100599        600
 German      200000-299999        200000-200553        554
 Japanese    300000-399999        300000-300499        500
 Polish      400000-499999        400000-400050        51
-Hungarian   500000-599999        500000-500499        500
+Hungarian   500000-599999        500000-500311        312
 Turkish     600000-699999        600000-600049        50
 Arabic      700000-799999        700000-700499        500
 Ojibwe      800000-899999        800000-800098        99
@@ -134,28 +134,28 @@ extension against syllabus v0.2 and the current CSV rather than the
 superseded 200-card opening.
 
 HUNGARIAN
-Syllabus: Syllabi/Polyglot_Hungarian_Syllabus_v0.1.txt
-Syllabus version: 0.1
+Syllabus: Syllabi/Polyglot_Hungarian_Syllabus_v0.2.txt
+Syllabus version: 0.2
 Card file: Cards/Hungarian.csv
-Cards: 500
-Used IDs: 500000-500499
-Checkpoint: Hungarian has advanced from its 36-card predication prototype to
-a 500-card foundation under syllabus v0.1. The expansion develops noun
-plurals and attributive versus predicative adjective behavior; present
-indefinite and definite conjugation; accusative objects; negation and
-questions; overt van/vannak in existential and locative clauses; the major
-local-case families; vowel-harmonic suffixing through concrete examples;
-possessive suffixes and existential possession; dative instrumental and
-other common case/postposition patterns; infinitives and modal constructions;
-verbal prefixes; past future conditional and imperative/subjunctive forms;
-case-marked and reflexive pronouns; demonstrative case agreement; numbers
-and singular nouns after numerals; comparison and time expressions; broader
-everyday vocabulary; first complex clauses; formal address; -hat/-het
-potential forms; causative morphology; and initial focus contrasts. Future
-development should consolidate these systems while deepening verbal-prefix
-placement and lexicalization, definite/indefinite conjugation, case and
-possessive stacking, information structure, complex clauses and natural
-register before moving farther into the syllabus's mature lexical strands.
+Cards: 312
+Used IDs: 500000-500311
+Frontier: HU-55 — Topic-comment organization
+Checkpoint: Hungarian is locked through 500074. Cards 500075-500311 were
+rebuilt under syllabus v0.2 and Protocol v0.9 as a widening-spiral
+continuation. Lexical verb cards now consistently use -ni infinitives.
+Indefinite and definite present conjugation are established with declining
+paradigm density while vocabulary continues to grow. Accusative, local-case,
+possessive, dative, instrumental and other suffixal morphology is normally
+revealed through contextual sentences rather than isolated inflected-form
+lists. Infinitival complements, verbal prefixes, past, future, conditional
+and imperative/subjunctive forms have been opened and are available for
+longitudinal reuse. Later previews include accusative and reflexive pronouns,
+demonstrative case agreement, indefinite/negative pronouns, numbers, calendar
+language and comparison through HU-74. These previews do not move the main
+forward frontier past HU-55. Continue with Hungarian information structure
+while recycling the already-open verbal and nominal systems and continuing
+ordinary lexical expansion.
+
 TURKISH
 Syllabus: Syllabi/Polyglot_Turkish_Syllabus_v0.1.txt
 Syllabus version: 0.1
