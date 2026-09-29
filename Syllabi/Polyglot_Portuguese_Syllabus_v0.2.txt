@@ -1,0 +1,312 @@
+POLYGLOT PORTUGUESE SYLLABUS
+
+Version: 0.2
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for contemporary
+Portuguese in Polyglot. Spanish, French and Italian provide useful Romance
+comparison points, but Portuguese structure, pronunciation, vocabulary and
+usage remain authoritative.
+
+The syllabus is a roadmap rather than a transcript. Vocabulary and
+previously introduced grammar continue to develop longitudinally. Useful
+structures may appear before their numbered unit is fully established, and
+later double-duty cards may reinforce earlier material while advancing the
+frontier.
+
+REFERENCE VARIETY
+
+Contemporary Brazilian Portuguese is the unmarked initial production
+reference. Unqualified prompts therefore target ordinary educated usage in
+Brazil. The opening favors broadly neutral forms that are suitable in both
+speech and writing where practical.
+
+European Portuguese is a major standard variety and is not treated as an
+error or a peripheral dialect. It receives an explicit later strand covering
+pronouns, address, clitic placement, progressive constructions, vocabulary,
+pronunciation-sensitive contrasts and other systematic differences. Other
+Lusophone varieties may be added explicitly where they contribute to
+educated-adult competence.
+
+Targets use contemporary Portuguese orthography, including diacritics and
+ç, from the first card. InputHint is normally blank.
+
+COURSE-WIDE PORTUGUESE PRINCIPLES
+
+1. Begin with a small reusable Romance seed and move rapidly into productive
+   phrases and sentences.
+2. Noun gender is lexical. Definite and indefinite articles should reinforce
+   gender whenever useful.
+3. Adjectives agree in gender and number where the adjective permits it.
+   Regular -o/-a forms are introduced before less transparent patterns.
+4. Portuguese normally allows subject omission when finite morphology and
+   context identify the subject. Teach pronouns explicitly, but model
+   natural pro-drop in ordinary clauses.
+5. Brazilian Portuguese uses você widely for ordinary singular address and
+   vocês for plural address. These take third-person verb forms. Tu remains
+   important in substantial regions of Brazil and must be introduced later
+   with explicit attention to regional agreement patterns. Formal address
+   with o senhor/a senhora and related forms must also be taught explicitly
+   rather than collapsed into one English “you”.
+6. Ser and estar form a central functional contrast. Introduce them early
+   through clear contexts and refine the distinction longitudinally rather
+   than relying on a simplistic permanent/temporary rule.
+7. Há is introduced early as a neutral standard existential form. Ter is
+   taught for possession and common expressions. Colloquial Brazilian
+   existential ter is introduced later as a major usage pattern rather than
+   silently conflated with possession in the seed.
+8. Present-tense verb morphology carries person and number. Establish
+   productive -ar, -er and -ir patterns before broad irregular families.
+9. The infinitive is a major structural resource. Ordinary infinitival
+   complements are introduced early; the personal infinitive is developed
+   later as a distinct Portuguese system.
+10. The future subjunctive is unusually productive in Portuguese and deserves
+    explicit treatment rather than being postponed as an exotic literary
+    form.
+11. Object pronouns are structurally central. Brazilian Portuguese combines
+    standard written clitic patterns with spoken object-pronoun strategies
+    that differ by register. Teach high-frequency contemporary Brazilian
+    usage first and label formal written or regionally restricted patterns
+    when exact-match ambiguity would otherwise result.
+12. Clitic placement differs substantially between Brazilian and European
+    Portuguese. Exact-match cards must not silently mix the two systems.
+13. Brazilian Portuguese commonly forms the progressive with estar +
+    gerund. European estar a + infinitive is introduced in the later
+    European strand.
+14. Contractions of prepositions with articles and demonstratives are common
+    and should be learned as productive written forms: do/da, no/na, ao/à,
+    pelo/pela and related plurals.
+15. Por and para require longitudinal semantic development. Do not attempt
+    to reduce the distinction to a single English gloss.
+16. Personal a is not a general Portuguese counterpart of Spanish personal
+    a. Direct-object marking and clitic behavior must follow Portuguese usage.
+17. Contractions and crasis involving à are part of standard written targets.
+18. Negation with não precedes the finite verb in basic clauses. Expanded
+    negative-concord patterns enter later.
+19. Polar questions usually rely on intonation and context rather than an
+    English-style auxiliary.
+20. Portuguese pronunciation cannot be inferred perfectly from spelling.
+    European vowel reduction, nasal vowels/diphthongs, open/closed vowels,
+    lh, nh, r/rr, sibilant variation and stress deserve longitudinal
+    attention without replacing normal orthography with phonetic targets.
+21. The spelling system includes useful written contrasts whose pronunciation
+    may merge in some varieties. Written exact-match targets remain standard.
+22. Plural formation is mostly transparent but includes useful consonant,
+    -ão and other patterns that should be introduced through real nouns.
+23. Possessives normally agree with the possessed noun, not the possessor.
+    Article use with possessives differs by variety and context; Brazilian
+    baseline usage should be established before variation.
+24. Demonstratives encode spatial/discourse distinctions and interact with
+    contractions.
+25. Relative clauses, complement clauses and conjunctions are developed
+    after a stable simple-clause foundation, but common que clauses may appear
+    earlier when transparent.
+26. Perfective/imperfective past contrasts are central. Pretérito perfeito
+    and imperfeito should be developed through narrative meaning, not only
+    paradigm memorization.
+27. The compound perfect tenho falado does not simply equal English “have
+    spoken”; its iterative/continuative value in contemporary Portuguese
+    requires separate treatment.
+28. Future and conditional synthetic forms are productive in writing and
+    formal speech; common periphrastic futures also deserve early practical
+    coverage.
+29. The present subjunctive, imperfect subjunctive and future subjunctive are
+    treated as functional systems tied to triggers and clause meanings.
+30. Inflected infinitives, clitic combinations, impersonal se and passive se
+    are developed only after the prerequisite clause and pronoun systems are
+    sufficiently clear.
+31. Vocabulary grows just in time. Similarity to Spanish, French or Italian
+    may speed lexical selection, but false friends and Portuguese-specific
+    usage must be respected.
+32. Contemporary neutral educated Brazilian Portuguese precedes strongly
+    regional, archaic or literary material.
+
+EMPIRICAL OPENING: CARDS 1-100
+
+The rebuilt 100-card seed establishes:
+- the shared house/man/woman/child and big/small/good/bad anchors;
+- masculine/feminine definite and indefinite articles;
+- basic adjective agreement;
+- personal subject pronouns;
+- natural subject omission;
+- present ser in identity and description;
+- estar for location;
+- aqui and ali;
+- ter for possession;
+- falar and trabalhar as productive -ar models;
+- não negation;
+- polar questions;
+- onde, o que and quem;
+- direct objects with ver;
+- querer + infinitive;
+- existir with há;
+- first plural noun phrases;
+- Brazilian você/vocês as the ordinary opening singular/plural “you”
+  baseline with third-person agreement.
+
+The seed intentionally keeps object clitics, contractions, progressive
+aspect and past tense outside the first hundred so the opening first exposes
+the basic clause and present morphology cleanly. The original European
+Portuguese seed used tu and second-person singular verb forms; version 0.2
+rebuilds the same general opening around Brazilian você/vocês and
+third-person agreement while preserving useful pro-drop elsewhere.
+
+INITIAL STRUCTURAL ROADMAP
+
+PT-01 Core nouns and adjectives
+PT-02 Definite and indefinite articles
+PT-03 Gender and number agreement
+PT-04 Subject pronouns and pro-drop
+PT-05 Present ser
+PT-06 Present estar
+PT-07 Ser/estar initial functional contrast
+PT-08 Há for existence
+PT-09 Present ter
+PT-10 Basic não negation
+PT-11 Regular -ar present
+PT-12 Regular -er present
+PT-13 Regular -ir present
+PT-14 Present-tense synthesis and pro-drop
+PT-15 High-frequency irregular present verbs I
+PT-16 Stem-changing and spelling-sensitive present patterns
+PT-17 Questions and interrogatives
+PT-18 Direct objects
+PT-19 Basic prepositions
+PT-20 De + article contractions
+PT-21 Em + article contractions
+PT-22 A + article contractions and crasis
+PT-23 Por + article contractions
+PT-24 Place, destination and origin
+PT-25 Possessive determiners
+PT-26 Demonstratives
+PT-27 Numbers, dates and clock time
+PT-28 Everyday noun-phrase synthesis
+PT-29 Expanded negation and negative concord
+PT-30 Indefinites and quantifiers
+PT-31 Infinitives and common verb complements
+PT-32 Querer, poder, dever and precisar de
+PT-33 Ir + infinitive and practical future reference
+PT-34 Estar + gerund progressive
+PT-35 Reflexive/pronominal verbs introduction
+PT-36 Direct-object clitics
+PT-37 Indirect-object clitics
+PT-38 Basic Brazilian object-pronoun placement and register
+PT-39 Proclisis and standard written clitic patterns
+PT-40 Combined clitics and formal written patterns
+PT-41 Tu, você, o senhor/a senhora and address variation
+PT-42 Imperative
+PT-43 Negative commands and present subjunctive exposure
+PT-44 Pretérito perfeito regular verbs
+PT-45 High-frequency irregular pretérito perfeito
+PT-46 Pretérito imperfeito
+PT-47 Perfect/imperfect contrast
+PT-48 Past-time adverbs and narrative sequencing
+PT-49 Mais-que-perfeito and pluperfect strategies
+PT-50 Compound perfect and its Portuguese aspectual value
+PT-51 Synthetic future
+PT-52 Conditional
+PT-53 Future versus ir + infinitive
+PT-54 Present subjunctive
+PT-55 Subjunctive after desire, command and evaluation
+PT-56 Subjunctive in purpose, concession and uncertainty
+PT-57 Imperfect subjunctive
+PT-58 Conditional protases with se
+PT-59 Future subjunctive
+PT-60 Future-time clauses with quando/se and related triggers
+PT-61 Impersonal infinitive
+PT-62 Personal infinitive
+PT-63 Infinitive versus subjunctive contrasts
+PT-64 Present participle/gerund and restricted European uses
+PT-65 Past participles and compound tenses
+PT-66 Passive with ser
+PT-67 Result/state with estar + participle
+PT-68 Impersonal se
+PT-69 Passive se
+PT-70 Relative clauses with que
+PT-71 Quem, cujo, onde and prepositioned relatives
+PT-72 Complement clauses with que
+PT-73 Indirect questions
+PT-74 Coordination
+PT-75 Causal clauses
+PT-76 Temporal clauses
+PT-77 Purpose clauses
+PT-78 Concessive clauses
+PT-79 Comparison
+PT-80 Superlatives
+PT-81 Adverbs and adverb formation
+PT-82 Por versus para
+PT-83 Preposition-government patterns
+PT-84 Pronoun forms after prepositions
+PT-85 Contractions with pronouns/demonstratives
+PT-86 Plural noun patterns including -ão
+PT-87 Adjective placement and meaning
+PT-88 Diminutives and augmentatives
+PT-89 Common derivational morphology
+PT-90 Discourse connectors
+PT-91 Register and polite requests
+PT-92 Colloquial Brazilian Portuguese pronoun/verb usage
+PT-93 Brazilian Portuguese pronunciation: unstressed vowels
+PT-94 Nasal vowels and diphthongs
+PT-95 Open/closed vowel contrasts and stress
+PT-96 Consonant systems: r/rr, lh, nh and sibilants
+PT-97 Spoken reductions and connected speech
+PT-98 European Portuguese strand: pronouns and address
+PT-99 European Portuguese strand: subject expression and object pronouns
+PT-100 European Portuguese strand: clitic placement
+PT-101 European Portuguese strand: estar a + infinitive
+PT-102 European Portuguese strand: core usage contrasts
+PT-103 European Portuguese strand: vocabulary differences
+PT-104 European Portuguese strand: pronunciation and phonology
+PT-105 African and other Lusophone standard/regional strands
+PT-106 Idiom and high-frequency phraseology
+PT-107 Collocation and verb-preposition combinations
+PT-108 False friends and Romance contrast
+PT-109 Formal written syntax
+PT-110 Literary and historical structures where useful
+PT-111 Educated-adult abstract vocabulary
+PT-112 Professional, civic and technical vocabulary
+PT-113 Mature discourse and stylistic precision
+
+DEVELOPMENT DIRECTIVE
+
+Future batches should continue from the live CSV rather than mechanically
+rebuilding these units. Reinforce the opening through double-duty cards while
+opening regular -er/-ir verbs, contractions and everyday noun-phrase growth.
+Past-time language may begin once the present system is stable enough to make
+the contrast intelligible; there is no requirement to exhaust every article,
+pronoun or preposition combination first.
+
+European Portuguese should enter as an explicit strand after the learner has
+a coherent Brazilian baseline. When a European target differs materially,
+the EnglishPrompt should label it clearly enough for exact-match production.
+
+The syllabus may be revised if actual card generation reveals a better
+prerequisite order, but ordinary local detours should converge on this path
+without amendment.
+
+
+AMENDMENT HISTORY
+
+Version 0.2
+- Changes the unmarked production reference from European Portuguese to
+  Brazilian Portuguese.
+- Rebuilds the 100-card seed around você/vocês with third-person agreement
+  while retaining natural subject omission where appropriate.
+- Keeps há as the neutral standard existential form in the opening and
+  postpones colloquial Brazilian existential ter until it can be labelled
+  and contrasted clearly.
+- Makes estar + gerund the baseline progressive and moves estar a +
+  infinitive to the European Portuguese strand.
+- Reframes clitic, possessive, pronunciation and address guidance around a
+  Brazilian baseline.
+- Reverses PT-98 through PT-104 so they introduce European Portuguese as the
+  first major comparative standard-variety strand.
+- Preserves the widening-spiral roadmap and the PT-12 forward frontier.
+
+Version 0.1
+- Initial Portuguese syllabus using European Portuguese as the unmarked
+  reference variety.
