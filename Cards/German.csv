@@ -729,23 +729,23 @@
 200727,German,We bought bread and we cooked.,Wir haben Brot gekauft und wir haben gekocht.,,sentence
 200728,German,She went to the station but the train had already left.,Sie ist zum Bahnhof gegangen aber der Zug war schon abgefahren.,,sentence
 200729,German,The child reads or plays.,Das Kind liest oder spielt.,,sentence
-200730,German,I know that the train is here.,Ich weiß dass der Zug hier ist.,,sentence
-200731,German,that (conjunction),dass,,conjunction
-200732,German,She says that the book is good.,Sie sagt dass das Buch gut ist.,,sentence
-200733,German,We know that the children are at school.,Wir wissen dass die Kinder in der Schule sind.,,sentence
-200734,German,I think that he works here.,Ich denke dass er hier arbeitet.,,sentence
-200735,German,to think,denken,,verb
-200736,German,because,weil,,conjunction
-200737,German,I stay at home because I am tired.,Ich bleibe zu Hause weil ich müde bin.,,sentence
-200738,German,She takes the train because she works in Berlin.,Sie nimmt den Zug weil sie in Berlin arbeitet.,,sentence
-200739,German,We bought food because the children were hungry.,Wir haben Essen gekauft weil die Kinder hungrig waren.,,sentence
-200740,German,hungry,hungrig,,adjective
-200741,German,if; when,wenn,,conjunction
-200742,German,If I have time I read.,Wenn ich Zeit habe lese ich.,,sentence
-200743,German,When the child is tired he sleeps.,Wenn das Kind müde ist schläft es.,,sentence
-200744,German,When we are in Berlin we take the train.,Wenn wir in Berlin sind nehmen wir den Zug.,,sentence
-200745,German,although,obwohl,,conjunction
-200746,German,Although I am tired I work.,Obwohl ich müde bin arbeite ich.,,sentence
-200747,German,Although the car is old it is good.,Obwohl das Auto alt ist ist es gut.,,sentence
-200748,German,She says that she bought the book.,Sie sagt dass sie das Buch gekauft hat.,,sentence
-200749,German,I know that the train has already left.,Ich weiß dass der Zug schon abgefahren ist.,,sentence
+200730,German,to need time,Zeit brauchen,,phrase
+200731,German,I needed time.,Ich brauchte Zeit.,,sentence
+200732,German,She worked in Berlin last year.,Sie arbeitete letztes Jahr in Berlin.,,sentence
+200733,German,We lived in the city.,Wir wohnten in der Stadt.,,sentence
+200734,German,They learned German at school.,Sie lernten Deutsch in der Schule.,,sentence
+200735,German,The child played in the garden.,Das Kind spielte im Garten.,,sentence
+200736,German,garden,Garten,,noun
+200737,German,I opened the window.,Ich öffnete das Fenster.,,sentence
+200738,German,She answered the question.,Sie beantwortete die Frage.,,sentence
+200739,German,We waited at the station.,Wir warteten am Bahnhof.,,sentence
+200740,German,The man bought a new car.,Der Mann kaufte ein neues Auto.,,sentence
+200741,German,The woman visited the museum.,Die Frau besuchte das Museum.,,sentence
+200742,German,I did not need the car.,Ich brauchte das Auto nicht.,,sentence
+200743,German,Did you work yesterday? (singular informal),Arbeitetest du gestern?,,sentence
+200744,German,Why did she wait?,Warum wartete sie?,,sentence
+200745,German,and,und,,conjunction
+200746,German,but,aber,,conjunction
+200747,German,or,oder,,conjunction
+200748,German,The child reads and the woman writes.,Das Kind liest und die Frau schreibt.,,sentence
+200749,German,We wanted to travel but the train was late.,Wir wollten reisen aber der Zug war spät.,,sentence
