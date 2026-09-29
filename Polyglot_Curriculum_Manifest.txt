@@ -8,15 +8,24 @@ Encoding: UTF-8
 This manifest is the compact progress and allocation record for the
 Polyglot curriculum repository.
 
-It does not define pedagogy. The Polyglot Curriculum Charter governs
-system-wide curriculum design, and each language syllabus governs that
-language's canonical sequence. The language CSV is authoritative for
-cards that actually exist and for their row order.
+It does not define pedagogy. The Polyglot Card Generation Protocol is the
+primary operating document for card generators. Each language syllabus
+provides that language's sequence of introductions; the Charter provides
+top-level project purpose and clarification; and the language CSV is
+authoritative for cards that actually exist and for their row order.
 
 The manifest records stable language ID allocations, current card-file
-extent, syllabus version, and a concise curriculum-frontier checkpoint.
-Routine card generation may update this manifest without amending the
-Charter or a language syllabus.
+extent, syllabus version, the next syllabus frontier for forward
+construction, and a concise checkpoint. Routine card generation may update
+this manifest without amending the Charter or a language syllabus.
+
+Current generation protocol:
+Polyglot_Card_Generation_Protocol_v0.9.txt
+
+A fresh generator extending an established language should normally begin
+with the Protocol, then read this language's Manifest entry, syllabus and
+current CSV. Other language decks are optional examples rather than
+authorities.
 
 2. ID ALLOCATION
 
@@ -31,7 +40,7 @@ Hungarian   500000-599999        500000-500499        500
 Turkish     600000-699999        600000-600049        50
 Arabic      700000-799999        700000-700499        500
 Ojibwe      800000-899999        800000-800098        99
-Spanish     900000-999999        900000-900458        459
+Spanish     900000-999999        900000-900360        361
 Russian     1000000-1099999       1000000-1000452       453
 Greek       1100000-1199999       1100000-1100099       100
 Hindi       1200000-1299999       1200000-1200099       100
@@ -216,23 +225,21 @@ SPANISH
 Syllabus: Syllabi/Polyglot_Spanish_Syllabus_v0.1.txt
 Syllabus version: 0.1
 Card file: Cards/Spanish.csv
-Cards: 459
-Used IDs: 900000-900458
-Checkpoint: Spanish has advanced from the 100-card prototype to 459 live
-cards under syllabus v0.1. The expansion develops regular -er/-ir and
-high-frequency irregular/stem-changing present verbs; direct objects and
-personal a; possessives and demonstratives; common prepositional relations;
-questions, polarity and negative concord; informal Peninsular commands and
-initial formal address; direct and indirect object clitics; double-object
-se; reflexive/pronominal verbs; and gustar-type constructions. Past-time
-work now includes regular preterite paradigms, several high-frequency
-irregular preterites, regular imperfect patterns, ser/ir/ver-style imperfect
-usage, an initial preterite/imperfect contrast, present perfect and
-pluperfect examples. The frontier then opens infinitive complements,
-progressive estar + gerund, acabar de, ir a + infinitive, tener que, hay que
-and deber. Continue by consolidating past-time aspect and nonfinite/
-periphrastic structures before moving naturally into the future and
-conditional roadmap. Spain remains the unmarked production reference;
+Cards: 361
+Used IDs: 900000-900360
+Frontier: ES-20 — Personal a
+Checkpoint: Cards 900100 onward were rebuilt as the reference widening-
+spiral continuation. Regular -er is first established densely with comer;
+later regular verbs receive progressively more selective contextualized
+coverage while new nouns and other vocabulary continue to enter. Regular
+-ir then opens through vivir. Preterite, imperfect, future, conditional
+and present subjunctive are introduced progressively and thereafter mixed
+with present and with newly introduced verbs rather than isolated into
+exhaustive tense blocks. Later previews include real and hypothetical si
+clauses through ES-103, but these previews do not move the main forward
+frontier past intervening syllabus introductions. Continue the main
+introduction sequence at ES-20 while reusing the already-open tense/mood
+systems longitudinally. Spain remains the unmarked production reference;
 pan-Hispanic variation remains a later explicit strand.
 RUSSIAN
 Syllabus: Syllabi/Polyglot_Russian_Syllabus_v0.2.txt
@@ -365,10 +372,17 @@ Update this manifest when:
 - a syllabus version changes in a way relevant to the checkpoint;
 - an ID allocation convention changes.
 
-Do not use this manifest to replace the language syllabus or CSV.
-For routine extension, the relevant syllabus and current language CSV
-remain the primary sources. The manifest is a checkpoint and
-cross-language allocation record.
+Do not use this manifest to replace the Protocol, language syllabus or CSV.
+For routine extension, begin with the current Protocol, then use this
+checkpoint to locate the syllabus frontier and inspect the relevant syllabus
+and current CSV. The manifest is a checkpoint and cross-language allocation
+record.
+
+Frontier means the next point in the syllabus's main introduction sequence
+from which ordinary forward construction should advance. Earlier units may
+still need longitudinal reinforcement and later units may already have been
+previewed. A preview alone does not move the frontier past intervening
+introductions.
 
 Card counts are descriptive only. They are not completion quotas and do
 not determine when a syllabus unit is established.
@@ -441,6 +455,7 @@ Syllabus version: 0.1
 Card file: Cards/Portuguese.csv
 Cards: 101
 Used IDs: 2000000-2000100
+Frontier: PT-12 — Regular -er present
 Checkpoint: Portuguese begins with a 101-card European Portuguese seed under
 syllabus v0.1. The opening establishes the shared lexical seed; definite and
 indefinite articles; basic gender agreement; personal pronouns with natural
