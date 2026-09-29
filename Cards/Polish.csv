@@ -203,13 +203,13 @@
 400201,Polish,Her book is here.,Jej książka jest tutaj.,,sentence
 400202,Polish,Our city is big.,Nasze miasto jest duże.,,sentence
 400203,Polish,our (neuter nominative),nasze,,determiner
-400204,Polish,red,czerwony,,adjective
+400204,Polish,The red car is new.,Czerwony samochód jest nowy.,,sentence
 400205,Polish,I have a red car.,Mam czerwony samochód.,,sentence
-400206,Polish,yellow,żółty,,adjective
-400207,Polish,The tram is yellow.,Tramwaj jest żółty.,,sentence
-400208,Polish,tram,tramwaj,,noun
-400209,Polish,The trams in Warsaw are yellow.,Tramwaje w Warszawie są żółte.,,sentence
-400210,Polish,blue,niebieski,,adjective
+400206,Polish,tram,tramwaj,,noun
+400207,Polish,I see a yellow tram.,Widzę żółty tramwaj.,,sentence
+400208,Polish,The yellow tram is here.,Żółty tramwaj jest tutaj.,,sentence
+400209,Polish,The yellow tram is in Warsaw.,Żółty tramwaj jest w Warszawie.,,sentence
+400210,Polish,The blue book is good.,Niebieska książka jest dobra.,,sentence
 400211,Polish,She has a blue book.,Ona ma niebieską książkę.,,sentence
 400212,Polish,coffee,kawa,,noun
 400213,Polish,tea,herbata,,noun
