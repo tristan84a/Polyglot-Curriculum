@@ -367,10 +367,12 @@ changes.
 
 Every established-language checkpoint should identify the current syllabus
 frontier by unit code and name where the syllabus provides them. "Frontier"
-means the furthest syllabus introduction materially opened by the current
-deck; it does not assert that that unit or earlier units are complete.
-Also describe important longitudinal strands when a bare unit code would be
-misleading.
+means the next point in the syllabus's main introduction sequence from which
+ordinary forward construction should advance. Earlier units need not be
+complete, and later structures may already have appeared as useful previews.
+A preview does not by itself move the frontier past intervening introductions.
+Also describe important longitudinal strands and later previews when a bare
+unit code would be misleading.
 
 Before extending an established deck, read this frontier together with the
 CSV. After a substantive extension, update the card count, used-ID extent
