@@ -50,3 +50,202 @@
 400048,Polish,The child is not small.,Dziecko nie jest małe.,,sentence
 400049,Polish,Is the house big?,Czy dom jest duży?,,sentence
 400050,Polish,Is the woman good?,Czy kobieta jest dobra?,,sentence
+400051,Polish,book,książka,,noun
+400052,Polish,city,miasto,,noun
+400053,Polish,water,woda,,noun
+400054,Polish,table,stół,,noun
+400055,Polish,The book is new.,Książka jest nowa.,,sentence
+400056,Polish,The city is big.,Miasto jest duże.,,sentence
+400057,Polish,The water is good.,Woda jest dobra.,,sentence
+400058,Polish,The table is small.,Stół jest mały.,,sentence
+400059,Polish,to have,mieć,,verb
+400060,Polish,I have a house.,Mam dom.,,sentence
+400061,Polish,You have a book. (singular informal),Masz książkę.,,sentence
+400062,Polish,She has a child.,Ona ma dziecko.,,sentence
+400063,Polish,We have water.,Mamy wodę.,,sentence
+400064,Polish,They have a new house.,Oni mają nowy dom.,,sentence
+400065,Polish,There is a book on the table.,Na stole jest książka.,,sentence
+400066,Polish,There is water here.,Tutaj jest woda.,,sentence
+400067,Polish,There is no water.,Nie ma wody.,,sentence
+400068,Polish,There is no book here.,Nie ma tutaj książki.,,sentence
+400069,Polish,here,tutaj,,adverb
+400070,Polish,there,tam,,adverb
+400071,Polish,to work,pracować,,verb
+400072,Polish,I work.,Pracuję.,,sentence
+400073,Polish,You work. (singular informal),Pracujesz.,,sentence
+400074,Polish,He works.,On pracuje.,,sentence
+400075,Polish,We work.,Pracujemy.,,sentence
+400076,Polish,They work.,Oni pracują.,,sentence
+400077,Polish,She does not work.,Ona nie pracuje.,,sentence
+400078,Polish,to read,czytać,,verb
+400079,Polish,I read a book.,Czytam książkę.,,sentence
+400080,Polish,She reads a book.,Ona czyta książkę.,,sentence
+400081,Polish,We read books.,Czytamy książki.,,sentence
+400082,Polish,They read here.,Oni czytają tutaj.,,sentence
+400083,Polish,Do you read? (singular informal),Czy czytasz?,,sentence
+400084,Polish,to know,wiedzieć,,verb
+400085,Polish,I know.,Wiem.,,sentence
+400086,Polish,You know. (singular informal),Wiesz.,,sentence
+400087,Polish,He knows.,On wie.,,sentence
+400088,Polish,We know.,Wiemy.,,sentence
+400089,Polish,They know.,Oni wiedzą.,,sentence
+400090,Polish,I do not know.,Nie wiem.,,sentence
+400091,Polish,where,gdzie,,adverb
+400092,Polish,what,co,,pronoun
+400093,Polish,who,kto,,pronoun
+400094,Polish,how,jak,,adverb
+400095,Polish,when,kiedy,,adverb
+400096,Polish,why,dlaczego,,adverb
+400097,Polish,Where is the book?,Gdzie jest książka?,,sentence
+400098,Polish,Who is there?,Kto tam jest?,,sentence
+400099,Polish,What are you reading? (singular informal),Co czytasz?,,sentence
+400100,Polish,How is the child?,Jak się ma dziecko?,,sentence
+400101,Polish,When do you work? (singular informal),Kiedy pracujesz?,,sentence
+400102,Polish,Why is the house small?,Dlaczego dom jest mały?,,sentence
+400103,Polish,to want,chcieć,,verb
+400104,Polish,I want water.,Chcę wodę.,,sentence
+400105,Polish,I want to work.,Chcę pracować.,,sentence
+400106,Polish,She wants to read.,Ona chce czytać.,,sentence
+400107,Polish,We want to know.,Chcemy wiedzieć.,,sentence
+400108,Polish,They want a new house.,Oni chcą nowy dom.,,sentence
+400109,Polish,to be able to,móc,,verb
+400110,Polish,I can work.,Mogę pracować.,,sentence
+400111,Polish,Can you read? (singular informal),Czy możesz czytać?,,sentence
+400112,Polish,She can help.,Ona może pomóc.,,sentence
+400113,Polish,to help,pomagać,,verb
+400114,Polish,He can help the woman.,On może pomóc kobiecie.,,sentence
+400115,Polish,We cannot work here.,Nie możemy tutaj pracować.,,sentence
+400116,Polish,to see,widzieć,,verb
+400117,Polish,I see the house.,Widzę dom.,,sentence
+400118,Polish,I see the woman.,Widzę kobietę.,,sentence
+400119,Polish,She sees the child.,Ona widzi dziecko.,,sentence
+400120,Polish,We see a new city.,Widzimy nowe miasto.,,sentence
+400121,Polish,They see the man.,Oni widzą mężczyznę.,,sentence
+400122,Polish,Do you see the book? (singular informal),Czy widzisz książkę?,,sentence
+400123,Polish,cat,kot,,noun
+400124,Polish,dog,pies,,noun
+400125,Polish,I see a cat.,Widzę kota.,,sentence
+400126,Polish,She sees a dog.,Ona widzi psa.,,sentence
+400127,Polish,The cat is small.,Kot jest mały.,,sentence
+400128,Polish,The dog is big.,Pies jest duży.,,sentence
+400129,Polish,He has a good dog.,On ma dobrego psa.,,sentence
+400130,Polish,We have a small cat.,Mamy małego kota.,,sentence
+400131,Polish,food,jedzenie,,noun
+400132,Polish,to eat,jeść,,verb
+400133,Polish,to drink,pić,,verb
+400134,Polish,I eat.,Jem.,,sentence
+400135,Polish,You eat. (singular informal),Jesz.,,sentence
+400136,Polish,The child eats.,Dziecko je.,,sentence
+400137,Polish,We eat here.,Jemy tutaj.,,sentence
+400138,Polish,They eat.,Oni jedzą.,,sentence
+400139,Polish,I drink water.,Piję wodę.,,sentence
+400140,Polish,She drinks water.,Ona pije wodę.,,sentence
+400141,Polish,We drink water.,Pijemy wodę.,,sentence
+400142,Polish,Do they drink water?,Czy oni piją wodę?,,sentence
+400143,Polish,The child wants food.,Dziecko chce jedzenie.,,sentence
+400144,Polish,school,szkoła,,noun
+400145,Polish,work (place),praca,,noun
+400146,Polish,shop,sklep,,noun
+400147,Polish,park,park,,noun
+400148,Polish,I am at school.,Jestem w szkole.,,sentence
+400149,Polish,She works at school.,Ona pracuje w szkole.,,sentence
+400150,Polish,The child is in the park.,Dziecko jest w parku.,,sentence
+400151,Polish,The man is in the shop.,Mężczyzna jest w sklepie.,,sentence
+400152,Polish,We are at work.,Jesteśmy w pracy.,,sentence
+400153,Polish,Where is the woman?,Gdzie jest kobieta?,,sentence
+400154,Polish,She is at work.,Ona jest w pracy.,,sentence
+400155,Polish,to live,mieszkać,,verb
+400156,Polish,I live in the city.,Mieszkam w mieście.,,sentence
+400157,Polish,She lives in a big city.,Ona mieszka w dużym mieście.,,sentence
+400158,Polish,We live in a small house.,Mieszkamy w małym domu.,,sentence
+400159,Polish,They live here.,Oni mieszkają tutaj.,,sentence
+400160,Polish,Where do you live? (singular informal),Gdzie mieszkasz?,,sentence
+400161,Polish,to go on foot,iść,,verb
+400162,Polish,to go by vehicle,jechać,,verb
+400163,Polish,I am going to the shop on foot.,Idę do sklepu.,,sentence
+400164,Polish,She is going to school on foot.,Ona idzie do szkoły.,,sentence
+400165,Polish,We are going to the park on foot.,Idziemy do parku.,,sentence
+400166,Polish,They are going to the city by vehicle.,Oni jadą do miasta.,,sentence
+400167,Polish,I am going to work by vehicle.,Jadę do pracy.,,sentence
+400168,Polish,Where are you going on foot? (singular informal),Dokąd idziesz?,,sentence
+400169,Polish,where to,dokąd,,adverb
+400170,Polish,where from,skąd,,adverb
+400171,Polish,Where are you from? (singular informal),Skąd jesteś?,,sentence
+400172,Polish,I am from Poland.,Jestem z Polski.,,sentence
+400173,Polish,Poland,Polska,,noun
+400174,Polish,Warsaw,Warszawa,,noun
+400175,Polish,I live in Warsaw.,Mieszkam w Warszawie.,,sentence
+400176,Polish,We are going to Warsaw by vehicle.,Jedziemy do Warszawy.,,sentence
+400177,Polish,She is from Warsaw.,Ona jest z Warszawy.,,sentence
+400178,Polish,friend (male),przyjaciel,,noun
+400179,Polish,friend (female),przyjaciółka,,noun
+400180,Polish,I am with a friend. (male),Jestem z przyjacielem.,,sentence
+400181,Polish,She is with a friend. (female),Ona jest z przyjaciółką.,,sentence
+400182,Polish,He works with a doctor. (male),On pracuje z lekarzem.,,sentence
+400183,Polish,We are going with a child.,Idziemy z dzieckiem.,,sentence
+400184,Polish,I am drinking water with a friend. (female),Piję wodę z przyjaciółką.,,sentence
+400185,Polish,mother,matka,,noun
+400186,Polish,father,ojciec,,noun
+400187,Polish,brother,brat,,noun
+400188,Polish,sister,siostra,,noun
+400189,Polish,My mother is a doctor.,Moja matka jest lekarką.,,sentence
+400190,Polish,My father is a doctor.,Mój ojciec jest lekarzem.,,sentence
+400191,Polish,My brother works here.,Mój brat tutaj pracuje.,,sentence
+400192,Polish,My sister reads a book.,Moja siostra czyta książkę.,,sentence
+400193,Polish,my (masculine nominative),mój,,determiner
+400194,Polish,my (feminine nominative),moja,,determiner
+400195,Polish,my (neuter nominative),moje,,determiner
+400196,Polish,My child is small.,Moje dziecko jest małe.,,sentence
+400197,Polish,Your house is big. (singular informal),Twój dom jest duży.,,sentence
+400198,Polish,your (singular informal masculine nominative),twój,,determiner
+400199,Polish,His car is new.,Jego samochód jest nowy.,,sentence
+400200,Polish,car,samochód,,noun
+400201,Polish,Her book is here.,Jej książka jest tutaj.,,sentence
+400202,Polish,Our city is big.,Nasze miasto jest duże.,,sentence
+400203,Polish,our (neuter nominative),nasze,,determiner
+400204,Polish,red,czerwony,,adjective
+400205,Polish,I have a red car.,Mam czerwony samochód.,,sentence
+400206,Polish,yellow,żółty,,adjective
+400207,Polish,The tram is yellow.,Tramwaj jest żółty.,,sentence
+400208,Polish,tram,tramwaj,,noun
+400209,Polish,The trams in Warsaw are yellow.,Tramwaje w Warszawie są żółte.,,sentence
+400210,Polish,blue,niebieski,,adjective
+400211,Polish,She has a blue book.,Ona ma niebieską książkę.,,sentence
+400212,Polish,coffee,kawa,,noun
+400213,Polish,tea,herbata,,noun
+400214,Polish,bread,chleb,,noun
+400215,Polish,apple,jabłko,,noun
+400216,Polish,I drink coffee.,Piję kawę.,,sentence
+400217,Polish,She drinks tea.,Ona pije herbatę.,,sentence
+400218,Polish,The child eats an apple.,Dziecko je jabłko.,,sentence
+400219,Polish,We have bread.,Mamy chleb.,,sentence
+400220,Polish,I want coffee.,Chcę kawę.,,sentence
+400221,Polish,to buy,kupować,,verb
+400222,Polish,I buy bread.,Kupuję chleb.,,sentence
+400223,Polish,She buys coffee.,Ona kupuje kawę.,,sentence
+400224,Polish,We buy a book.,Kupujemy książkę.,,sentence
+400225,Polish,They buy apples.,Oni kupują jabłka.,,sentence
+400226,Polish,What are you buying? (singular informal),Co kupujesz?,,sentence
+400227,Polish,today,dzisiaj,,adverb
+400228,Polish,tomorrow,jutro,,adverb
+400229,Polish,now,teraz,,adverb
+400230,Polish,often,często,,adverb
+400231,Polish,always,zawsze,,adverb
+400232,Polish,I am working now.,Teraz pracuję.,,sentence
+400233,Polish,She is reading now.,Ona teraz czyta.,,sentence
+400234,Polish,We often drink coffee.,Często pijemy kawę.,,sentence
+400235,Polish,They always work here.,Oni zawsze tutaj pracują.,,sentence
+400236,Polish,Are you working today? (singular informal),Czy dzisiaj pracujesz?,,sentence
+400237,Polish,We are going to Warsaw tomorrow by vehicle.,Jutro jedziemy do Warszawy.,,sentence
+400238,Polish,one,jeden,,number
+400239,Polish,two,dwa,,number
+400240,Polish,three,trzy,,number
+400241,Polish,four,cztery,,number
+400242,Polish,I have two books.,Mam dwie książki.,,sentence
+400243,Polish,She has three apples.,Ona ma trzy jabłka.,,sentence
+400244,Polish,We see four houses.,Widzimy cztery domy.,,sentence
+400245,Polish,Two children are here.,Dwoje dzieci jest tutaj.,,sentence
+400246,Polish,These houses are new.,Te domy są nowe.,,sentence
+400247,Polish,These books are good.,Te książki są dobre.,,sentence
+400248,Polish,These children are small.,Te dzieci są małe.,,sentence
+400249,Polish,Where are these books?,Gdzie są te książki?,,sentence
