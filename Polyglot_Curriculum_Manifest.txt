@@ -42,6 +42,7 @@ Italian     1600000-1699999       1600000-1600099       100
 Serbian     1700000-1799999       1700000-1700099       100
 Swedish     1800000-1899999       1800000-1800099       100
 Punjabi     1900000-1999999       1900000-1900099       100
+Portuguese  2000000-2099999       2000000-2000100       101
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -433,3 +434,21 @@ duplication. Pakistani/Western Punjabi is an active later strand; a
 "(Pakistani)" prompt normally implies Shahmukhi while a "(Shahmukhi)" prompt
 by itself tests script rather than regional difference.
 
+
+PORTUGUESE
+Syllabus: Syllabi/Polyglot_Portuguese_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Portuguese.csv
+Cards: 101
+Used IDs: 2000000-2000100
+Checkpoint: Portuguese begins with a 101-card European Portuguese seed under
+syllabus v0.1. The opening establishes the shared lexical seed; definite and
+indefinite articles; basic gender agreement; personal pronouns with natural
+subject omission; present ser and estar; ter possession; regular -ar verbs
+through falar and trabalhar; não negation; polar and content questions;
+direct objects with ver; querer + infinitive; and existential há. European
+Portuguese is the unmarked production reference, with vocês used for ordinary
+plural address and Brazilian Portuguese reserved for an explicitly labelled
+later strand. Future expansion should open regular -er/-ir verbs, common
+irregular presents, contractions, possessives and broader noun phrases while
+reinforcing the ser/estar/há/ter system longitudinally.
