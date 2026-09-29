@@ -1,102 +1,101 @@
 ﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
-2000000,Portuguese,house,casa,,
-2000001,Portuguese,man,homem,,
-2000002,Portuguese,woman,mulher,,
-2000003,Portuguese,child,criança,,
-2000004,Portuguese,big,grande,,
-2000005,Portuguese,small,pequeno,,
-2000006,Portuguese,good,bom,,
-2000007,Portuguese,bad,mau,,
-2000008,Portuguese,the house,a casa,,
-2000009,Portuguese,the man,o homem,,
-2000010,Portuguese,the woman,a mulher,,
-2000011,Portuguese,the child,a criança,,
-2000012,Portuguese,a house,uma casa,,
-2000013,Portuguese,a man,um homem,,
-2000014,Portuguese,a woman,uma mulher,,
-2000015,Portuguese,a child,uma criança,,
-2000016,Portuguese,The house is big.,A casa é grande.,,
-2000017,Portuguese,The man is good.,O homem é bom.,,
-2000018,Portuguese,The woman is good.,A mulher é boa.,,
-2000019,Portuguese,The child is small.,A criança é pequena.,,
-2000020,Portuguese,the big house,a casa grande,,
-2000021,Portuguese,the good man,o homem bom,,
-2000022,Portuguese,the good woman,a mulher boa,,
-2000023,Portuguese,the small child,a criança pequena,,
-2000024,Portuguese,I,eu,,
-2000025,Portuguese,you (singular informal),tu,,
-2000026,Portuguese,he,ele,,
-2000027,Portuguese,she,ela,,
-2000028,Portuguese,we,nós,,
-2000029,Portuguese,you (plural),vocês,,
-2000030,Portuguese,they (masculine or mixed),eles,,
-2000031,Portuguese,they (feminine),elas,,
-2000032,Portuguese,I am a man.,Sou um homem.,,
-2000033,Portuguese,I am a woman.,Sou uma mulher.,,
-2000034,Portuguese,You are a man. (singular informal),És um homem.,,
-2000035,Portuguese,You are a woman. (singular informal),És uma mulher.,,
-2000036,Portuguese,He is a man.,É um homem.,,
-2000037,Portuguese,She is a woman.,É uma mulher.,,
-2000038,Portuguese,The man is bad.,O homem é mau.,,
-2000039,Portuguese,The woman is bad.,A mulher é má.,,
-2000040,Portuguese,The house is small.,A casa é pequena.,,
-2000041,Portuguese,The child is good.,A criança é boa.,,
-2000042,Portuguese,here,aqui,,
-2000043,Portuguese,there,ali,,
-2000044,Portuguese,I am here.,Estou aqui.,,
-2000045,Portuguese,You are here. (singular informal),Estás aqui.,,
-2000046,Portuguese,He is there.,Está ali.,,
-2000047,Portuguese,She is here.,Está aqui.,,
-2000048,Portuguese,We are here.,Estamos aqui.,,
-2000049,Portuguese,You are here. (plural),Estão aqui.,,
-2000050,Portuguese,They are there.,Estão ali.,,
-2000051,Portuguese,book,livro,,
-2000052,Portuguese,car,carro,,
-2000053,Portuguese,a book,um livro,,
-2000054,Portuguese,a car,um carro,,
-2000055,Portuguese,to have,ter,,
-2000056,Portuguese,I have a book.,Tenho um livro.,,
-2000057,Portuguese,You have a book. (singular informal),Tens um livro.,,
-2000058,Portuguese,He has a car.,Tem um carro.,,
-2000059,Portuguese,We have a house.,Temos uma casa.,,
-2000060,Portuguese,You have a car. (plural),Têm um carro.,,
-2000061,Portuguese,They have a book.,Têm um livro.,,
-2000062,Portuguese,to speak,falar,,
-2000063,Portuguese,Portuguese (language),português,,
-2000064,Portuguese,I speak Portuguese.,Falo português.,,
-2000065,Portuguese,You speak Portuguese. (singular informal),Falas português.,,
-2000066,Portuguese,He speaks Portuguese.,Fala português.,,
-2000067,Portuguese,We speak Portuguese.,Falamos português.,,
-2000068,Portuguese,You speak Portuguese. (plural),Falam português.,,
-2000069,Portuguese,They speak Portuguese.,Falam português.,,
-2000070,Portuguese,I do not speak Portuguese.,Não falo português.,,
-2000071,Portuguese,He does not speak Portuguese.,Não fala português.,,
-2000072,Portuguese,We do not speak Portuguese.,Não falamos português.,,
-2000073,Portuguese,to work,trabalhar,,
-2000074,Portuguese,I work.,Trabalho.,,
-2000075,Portuguese,You work. (singular informal),Trabalhas.,,
-2000076,Portuguese,She works.,Trabalha.,,
-2000077,Portuguese,We work.,Trabalhamos.,,
-2000078,Portuguese,They work.,Trabalham.,,
-2000079,Portuguese,He does not work.,Não trabalha.,,
-2000080,Portuguese,Do you speak Portuguese? (singular informal),Falas português?,,
-2000081,Portuguese,Does he work?,Trabalha?,,
-2000082,Portuguese,where,onde,,
-2000083,Portuguese,what,o que,,
-2000084,Portuguese,who,quem,,
-2000085,Portuguese,Where is the house?,Onde está a casa?,,
-2000086,Portuguese,Who is here?,Quem está aqui?,,
-2000087,Portuguese,What is this?,O que é isto?,,
-2000088,Portuguese,to see,ver,,
-2000089,Portuguese,I see the man.,Vejo o homem.,,
-2000090,Portuguese,She sees the woman.,Vê a mulher.,,
-2000091,Portuguese,We see the child.,Vemos a criança.,,
-2000092,Portuguese,They see the car.,Veem o carro.,,
-2000093,Portuguese,to want,querer,,
-2000094,Portuguese,I want to work.,Quero trabalhar.,,
-2000095,Portuguese,You want to speak Portuguese. (singular informal),Queres falar português.,,
-2000096,Portuguese,She wants to see the house.,Quer ver a casa.,,
-2000097,Portuguese,We want to have a car.,Queremos ter um carro.,,
-2000098,Portuguese,There is a house.,Há uma casa.,,
-2000099,Portuguese,There are houses.,Há casas.,,
-2000100,Portuguese,There is no car here.,Não há carro aqui.,,
+2000000,Portuguese,house,casa,,noun
+2000001,Portuguese,man,homem,,noun
+2000002,Portuguese,woman,mulher,,noun
+2000003,Portuguese,child,criança,,noun
+2000004,Portuguese,big,grande,,adjective
+2000005,Portuguese,small,pequeno,,adjective
+2000006,Portuguese,good,bom,,adjective
+2000007,Portuguese,bad,ruim,,adjective
+2000008,Portuguese,the house,a casa,,phrase
+2000009,Portuguese,the man,o homem,,phrase
+2000010,Portuguese,the woman,a mulher,,phrase
+2000011,Portuguese,the child,a criança,,phrase
+2000012,Portuguese,a house,uma casa,,phrase
+2000013,Portuguese,a man,um homem,,phrase
+2000014,Portuguese,a woman,uma mulher,,phrase
+2000015,Portuguese,a child,uma criança,,phrase
+2000016,Portuguese,The house is big.,A casa é grande.,,sentence
+2000017,Portuguese,The man is good.,O homem é bom.,,sentence
+2000018,Portuguese,The woman is good.,A mulher é boa.,,sentence
+2000019,Portuguese,The child is small.,A criança é pequena.,,sentence
+2000020,Portuguese,the big house,a casa grande,,phrase
+2000021,Portuguese,the good man,o homem bom,,phrase
+2000022,Portuguese,the good woman,a mulher boa,,phrase
+2000023,Portuguese,the small child,a criança pequena,,phrase
+2000024,Portuguese,I,eu,,pronoun
+2000025,Portuguese,you (singular Brazilian),você,,pronoun
+2000026,Portuguese,he,ele,,pronoun
+2000027,Portuguese,she,ela,,pronoun
+2000028,Portuguese,we,nós,,pronoun
+2000029,Portuguese,you (plural Brazilian),vocês,,pronoun
+2000030,Portuguese,they (masculine or mixed),eles,,pronoun
+2000031,Portuguese,they (feminine),elas,,pronoun
+2000032,Portuguese,I am a man.,Sou um homem.,,sentence
+2000033,Portuguese,I am a woman.,Sou uma mulher.,,sentence
+2000034,Portuguese,You are a man. (singular Brazilian),Você é um homem.,,sentence
+2000035,Portuguese,You are a woman. (singular Brazilian),Você é uma mulher.,,sentence
+2000036,Portuguese,He is a man.,Ele é um homem.,,sentence
+2000037,Portuguese,She is a woman.,Ela é uma mulher.,,sentence
+2000038,Portuguese,The man is bad.,O homem é ruim.,,sentence
+2000039,Portuguese,The woman is bad.,A mulher é ruim.,,sentence
+2000040,Portuguese,The house is small.,A casa é pequena.,,sentence
+2000041,Portuguese,The child is good.,A criança é boa.,,sentence
+2000042,Portuguese,here,aqui,,adverb
+2000043,Portuguese,there,ali,,adverb
+2000044,Portuguese,I am here.,Estou aqui.,,sentence
+2000045,Portuguese,You are here. (singular Brazilian),Você está aqui.,,sentence
+2000046,Portuguese,He is there.,Ele está ali.,,sentence
+2000047,Portuguese,She is here.,Ela está aqui.,,sentence
+2000048,Portuguese,We are here.,Estamos aqui.,,sentence
+2000049,Portuguese,You are here. (plural Brazilian),Vocês estão aqui.,,sentence
+2000050,Portuguese,They are there.,Eles estão ali.,,sentence
+2000051,Portuguese,book,livro,,noun
+2000052,Portuguese,car,carro,,noun
+2000053,Portuguese,a book,um livro,,phrase
+2000054,Portuguese,a car,um carro,,phrase
+2000055,Portuguese,to have,ter,,verb
+2000056,Portuguese,I have a book.,Tenho um livro.,,sentence
+2000057,Portuguese,You have a book. (singular Brazilian),Você tem um livro.,,sentence
+2000058,Portuguese,He has a car.,Ele tem um carro.,,sentence
+2000059,Portuguese,We have a house.,Temos uma casa.,,sentence
+2000060,Portuguese,You have a car. (plural Brazilian),Vocês têm um carro.,,sentence
+2000061,Portuguese,They have a book.,Eles têm um livro.,,sentence
+2000062,Portuguese,to speak,falar,,verb
+2000063,Portuguese,Portuguese (language),português,,noun
+2000064,Portuguese,I speak Portuguese.,Falo português.,,sentence
+2000065,Portuguese,You speak Portuguese. (singular Brazilian),Você fala português.,,sentence
+2000066,Portuguese,He speaks Portuguese.,Ele fala português.,,sentence
+2000067,Portuguese,We speak Portuguese.,Falamos português.,,sentence
+2000068,Portuguese,You speak Portuguese. (plural Brazilian),Vocês falam português.,,sentence
+2000069,Portuguese,They speak Portuguese.,Eles falam português.,,sentence
+2000070,Portuguese,I do not speak Portuguese.,Não falo português.,,sentence
+2000071,Portuguese,He does not speak Portuguese.,Ele não fala português.,,sentence
+2000072,Portuguese,We do not speak Portuguese.,Não falamos português.,,sentence
+2000073,Portuguese,to work,trabalhar,,verb
+2000074,Portuguese,I work.,Trabalho.,,sentence
+2000075,Portuguese,You work. (singular Brazilian),Você trabalha.,,sentence
+2000076,Portuguese,She works.,Ela trabalha.,,sentence
+2000077,Portuguese,We work.,Trabalhamos.,,sentence
+2000078,Portuguese,They work.,Eles trabalham.,,sentence
+2000079,Portuguese,He does not work.,Ele não trabalha.,,sentence
+2000080,Portuguese,Do you speak Portuguese? (singular Brazilian),Você fala português?,,sentence
+2000081,Portuguese,Does he work?,Ele trabalha?,,sentence
+2000082,Portuguese,where,onde,,adverb
+2000083,Portuguese,what,o que,,pronoun
+2000084,Portuguese,who,quem,,pronoun
+2000085,Portuguese,Where is the house?,Onde está a casa?,,sentence
+2000086,Portuguese,Who is here?,Quem está aqui?,,sentence
+2000087,Portuguese,What is this?,O que é isto?,,sentence
+2000088,Portuguese,to see,ver,,verb
+2000089,Portuguese,I see the man.,Vejo o homem.,,sentence
+2000090,Portuguese,She sees the woman.,Ela vê a mulher.,,sentence
+2000091,Portuguese,We see the child.,Vemos a criança.,,sentence
+2000092,Portuguese,They see the car.,Eles veem o carro.,,sentence
+2000093,Portuguese,to want,querer,,verb
+2000094,Portuguese,I want to work.,Quero trabalhar.,,sentence
+2000095,Portuguese,You want to speak Portuguese. (singular Brazilian),Você quer falar português.,,sentence
+2000096,Portuguese,She wants to see the house.,Ela quer ver a casa.,,sentence
+2000097,Portuguese,We want to have a car.,Queremos ter um carro.,,sentence
+2000098,Portuguese,There is a house.,Há uma casa.,,sentence
+2000099,Portuguese,There are houses.,Há casas.,,sentence
