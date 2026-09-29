@@ -74,428 +74,240 @@
 500072,Hungarian,That is a house.,Az egy ház.,,sentence
 500073,Hungarian,This house is big.,Ez a ház nagy.,,sentence
 500074,Hungarian,That book is new.,Az a könyv új.,,sentence
-500075,Hungarian,to see,lát,,verb
-500076,Hungarian,to read,olvas,,verb
-500077,Hungarian,to write,ír,,verb
-500078,Hungarian,to eat,eszik,,verb
-500079,Hungarian,to drink,iszik,,verb
-500080,Hungarian,to buy,vesz,,verb
-500081,Hungarian,to love / like,szeret,,verb
-500082,Hungarian,to know,tud,,verb
-500083,Hungarian,to speak,beszél,,verb
-500084,Hungarian,to work,dolgozik,,verb
-500085,Hungarian,I see a house.,Látok egy házat.,,sentence
-500086,Hungarian,You see a house. (singular informal),Látsz egy házat.,,sentence
-500087,Hungarian,He sees a house.,Lát egy házat.,,sentence
-500088,Hungarian,We see a house.,Látunk egy házat.,,sentence
-500089,Hungarian,You see a house. (plural informal),Láttok egy házat.,,sentence
-500090,Hungarian,They see a house.,Látnak egy házat.,,sentence
-500091,Hungarian,I read a book.,Olvasok egy könyvet.,,sentence
-500092,Hungarian,You read a book. (singular informal),Olvasol egy könyvet.,,sentence
-500093,Hungarian,She reads a book.,Olvas egy könyvet.,,sentence
-500094,Hungarian,We read a book.,Olvasunk egy könyvet.,,sentence
-500095,Hungarian,They read a book.,Olvasnak egy könyvet.,,sentence
-500096,Hungarian,I write.,Írok.,,sentence
-500097,Hungarian,You write. (singular informal),Írsz.,,sentence
-500098,Hungarian,He writes.,Ír.,,sentence
-500099,Hungarian,We write.,Írunk.,,sentence
-500100,Hungarian,They write.,Írnak.,,sentence
-500101,Hungarian,I eat an apple.,Eszem egy almát.,,sentence
-500102,Hungarian,You eat bread. (singular informal),Kenyeret eszel.,,sentence
-500103,Hungarian,The child eats an apple.,A gyerek almát eszik.,,sentence
-500104,Hungarian,We drink water.,Vizet iszunk.,,sentence
-500105,Hungarian,They drink coffee.,Kávét isznak.,,sentence
-500106,Hungarian,I buy a book.,Veszek egy könyvet.,,sentence
-500107,Hungarian,She buys an apple.,Vesz egy almát.,,sentence
-500108,Hungarian,We like coffee.,Szeretjük a kávét.,,sentence
-500109,Hungarian,house (accusative),házat,,noun
-500110,Hungarian,book (accusative),könyvet,,noun
-500111,Hungarian,apple (accusative),almát,,noun
-500112,Hungarian,water (accusative),vizet,,noun
-500113,Hungarian,man (accusative),férfit,,noun
-500114,Hungarian,woman (accusative),nőt,,noun
-500115,Hungarian,child (accusative),gyereket,,noun
-500116,Hungarian,car (accusative),autót,,noun
-500117,Hungarian,I see the house.,Látom a házat.,,sentence
-500118,Hungarian,You see the house. (singular informal),Látod a házat.,,sentence
-500119,Hungarian,He sees the house.,Látja a házat.,,sentence
-500120,Hungarian,We see the house.,Látjuk a házat.,,sentence
-500121,Hungarian,You see the house. (plural informal),Látjátok a házat.,,sentence
-500122,Hungarian,They see the house.,Látják a házat.,,sentence
-500123,Hungarian,I read the book.,Olvasom a könyvet.,,sentence
-500124,Hungarian,You read the book. (singular informal),Olvasod a könyvet.,,sentence
-500125,Hungarian,She reads the book.,Olvassa a könyvet.,,sentence
-500126,Hungarian,We read the book.,Olvassuk a könyvet.,,sentence
-500127,Hungarian,They read the book.,Olvassák a könyvet.,,sentence
-500128,Hungarian,I write the letter.,Írom a levelet.,,sentence
-500129,Hungarian,He writes the letter.,Írja a levelet.,,sentence
-500130,Hungarian,We buy the car.,Megvesszük az autót.,,sentence
-500131,Hungarian,They like the house.,Szeretik a házat.,,sentence
-500132,Hungarian,not,nem,,grammar
-500133,Hungarian,I do not work.,Nem dolgozom.,,sentence
-500134,Hungarian,She does not read.,Nem olvas.,,sentence
-500135,Hungarian,We do not see a house.,Nem látunk házat.,,sentence
-500136,Hungarian,I do not see the house.,Nem látom a házat.,,sentence
-500137,Hungarian,The house is not big.,A ház nem nagy.,,sentence
-500138,Hungarian,The man is not a doctor.,A férfi nem orvos.,,sentence
-500139,Hungarian,Do you work? (singular informal),Dolgozol?,,sentence
-500140,Hungarian,Do you see the house? (singular informal),Látod a házat?,,sentence
-500141,Hungarian,Does she read?,Olvas?,,sentence
-500142,Hungarian,Is the house big?,Nagy a ház?,,sentence
-500143,Hungarian,who,ki,,grammar
-500144,Hungarian,what,mi,,grammar
-500145,Hungarian,where,hol,,grammar
-500146,Hungarian,where to,hová,,grammar
-500147,Hungarian,where from,honnan,,grammar
-500148,Hungarian,when,mikor,,grammar
-500149,Hungarian,how,hogyan,,grammar
-500150,Hungarian,why,miért,,grammar
-500151,Hungarian,Who is here?,Ki van itt?,,sentence
-500152,Hungarian,What do you see? (singular informal),Mit látsz?,,sentence
-500153,Hungarian,Where is the book?,Hol van a könyv?,,sentence
-500154,Hungarian,Where are the books?,Hol vannak a könyvek?,,sentence
-500155,Hungarian,Where are you going? (singular informal),Hová mész?,,sentence
-500156,Hungarian,Where are you coming from? (singular informal),Honnan jössz?,,sentence
-500157,Hungarian,When do you work? (singular informal),Mikor dolgozol?,,sentence
-500158,Hungarian,Why do you read? (singular informal),Miért olvasol?,,sentence
-500159,Hungarian,on the table,az asztalon,,phrase
-500160,Hungarian,The book is on the table.,A könyv az asztalon van.,,sentence
-500161,Hungarian,at school,az iskolában,,phrase
-500162,Hungarian,The child is at school.,A gyerek az iskolában van.,,sentence
-500163,Hungarian,in the house,a házban,,phrase
-500164,Hungarian,The woman is in the house.,A nő a házban van.,,sentence
-500165,Hungarian,into the house,a házba,,phrase
-500166,Hungarian,I go into the house.,Bemegyek a házba.,,sentence
-500167,Hungarian,out of the house,a házból,,phrase
-500168,Hungarian,I come out of the house.,Kijövök a házból.,,sentence
-500169,Hungarian,onto the table,az asztalra,,phrase
-500170,Hungarian,I put the book onto the table.,Az asztalra teszem a könyvet.,,sentence
-500171,Hungarian,from the table,az asztalról,,phrase
-500172,Hungarian,I take the book from the table.,Elveszem a könyvet az asztalról.,,sentence
-500173,Hungarian,at the doctor,az orvosnál,,phrase
-500174,Hungarian,I am at the doctor.,Az orvosnál vagyok.,,sentence
-500175,Hungarian,to the doctor,az orvoshoz,,phrase
-500176,Hungarian,I am going to the doctor.,Az orvoshoz megyek.,,sentence
-500177,Hungarian,from the doctor,az orvostól,,phrase
-500178,Hungarian,I am coming from the doctor.,Az orvostól jövök.,,sentence
-500179,Hungarian,in the city,a városban,,phrase
-500180,Hungarian,to the city,a városba,,phrase
-500181,Hungarian,from the city,a városból,,phrase
-500182,Hungarian,The car is in the city.,Az autó a városban van.,,sentence
-500183,Hungarian,We are going to the city.,A városba megyünk.,,sentence
-500184,Hungarian,They are coming from the city.,A városból jönnek.,,sentence
-500185,Hungarian,my house,a házam,,phrase
-500186,Hungarian,your house (singular informal),a házad,,phrase
-500187,Hungarian,his / her house,a háza,,phrase
-500188,Hungarian,our house,a házunk,,phrase
-500189,Hungarian,your house (plural informal),a házatok,,phrase
-500190,Hungarian,their house,a házuk,,phrase
-500191,Hungarian,my book,a könyvem,,phrase
-500192,Hungarian,your book (singular informal),a könyved,,phrase
-500193,Hungarian,his / her book,a könyve,,phrase
-500194,Hungarian,our book,a könyvünk,,phrase
-500195,Hungarian,their book,a könyvük,,phrase
-500196,Hungarian,my friend,a barátom,,phrase
-500197,Hungarian,your friend (singular informal),a barátod,,phrase
-500198,Hungarian,his / her friend,a barátja,,phrase
-500199,Hungarian,I have a house.,Van egy házam.,,sentence
-500200,Hungarian,You have a book. (singular informal),Van egy könyved.,,sentence
-500201,Hungarian,She has a car.,Van egy autója.,,sentence
-500202,Hungarian,We have a dog.,Van egy kutyánk.,,sentence
-500203,Hungarian,They have a child.,Van egy gyerekük.,,sentence
-500204,Hungarian,I do not have a car.,Nincs autóm.,,sentence
-500205,Hungarian,The man has a book.,A férfinak van egy könyve.,,sentence
-500206,Hungarian,The woman has a car.,A nőnek van egy autója.,,sentence
-500207,Hungarian,to the man,a férfinak,,phrase
-500208,Hungarian,to the woman,a nőnek,,phrase
-500209,Hungarian,I give the book to the man.,Odaadom a könyvet a férfinak.,,sentence
-500210,Hungarian,She gives an apple to the child.,Ad egy almát a gyereknek.,,sentence
-500211,Hungarian,with the man,a férfival,,phrase
-500212,Hungarian,with the woman,a nővel,,phrase
-500213,Hungarian,I work with the man.,A férfival dolgozom.,,sentence
-500214,Hungarian,She goes with the child.,A gyerekkel megy.,,sentence
-500215,Hungarian,by car,autóval,,phrase
-500216,Hungarian,I go by car.,Autóval megyek.,,sentence
-500217,Hungarian,for the book,a könyvért,,phrase
-500218,Hungarian,I go for the book.,Elmegyek a könyvért.,,sentence
-500219,Hungarian,until five,ötig,,phrase
-500220,Hungarian,I work until five.,Ötig dolgozom.,,sentence
-500221,Hungarian,as a doctor,orvosként,,phrase
-500222,Hungarian,She works as a doctor.,Orvosként dolgozik.,,sentence
-500223,Hungarian,before the house,a ház előtt,,phrase
-500224,Hungarian,behind the house,a ház mögött,,phrase
-500225,Hungarian,next to the house,a ház mellett,,phrase
-500226,Hungarian,under the table,az asztal alatt,,phrase
-500227,Hungarian,above the table,az asztal fölött,,phrase
-500228,Hungarian,The car is behind the house.,Az autó a ház mögött van.,,sentence
-500229,Hungarian,The chair is next to the table.,A szék az asztal mellett van.,,sentence
-500230,Hungarian,to go,menni,,verb
-500231,Hungarian,to come,jönni,,verb
-500232,Hungarian,to give,adni,,verb
-500233,Hungarian,to take,vinni,,verb
-500234,Hungarian,to put,tenni,,verb
-500235,Hungarian,to sleep,aludni,,verb
-500236,Hungarian,to learn,tanulni,,verb
-500237,Hungarian,to understand,érteni,,verb
-500238,Hungarian,to help,segíteni,,verb
-500239,Hungarian,to want,akarni,,verb
-500240,Hungarian,to be able to,tudni,,verb
-500241,Hungarian,I want to work.,Dolgozni akarok.,,sentence
-500242,Hungarian,She wants to read.,Olvasni akar.,,sentence
-500243,Hungarian,We want to go.,Menni akarunk.,,sentence
-500244,Hungarian,I can read.,Tudok olvasni.,,sentence
-500245,Hungarian,Can you help? (singular informal),Tudsz segíteni?,,sentence
-500246,Hungarian,I cannot go.,Nem tudok menni.,,sentence
-500247,Hungarian,I go in.,Bemegyek.,,sentence
-500248,Hungarian,I come out.,Kijövök.,,sentence
-500249,Hungarian,She goes away.,Elmegy.,,sentence
-500250,Hungarian,He comes back.,Visszajön.,,sentence
-500251,Hungarian,We go up.,Felmegyünk.,,sentence
-500252,Hungarian,They go down.,Lemennek.,,sentence
-500253,Hungarian,I read the whole book.,Elolvasom az egész könyvet.,,sentence
-500254,Hungarian,I write the whole letter.,Megírom az egész levelet.,,sentence
-500255,Hungarian,I do not read the book.,Nem olvasom el a könyvet.,,sentence
-500256,Hungarian,Do you write the letter? (singular informal),Megírod a levelet?,,sentence
-500257,Hungarian,I worked.,Dolgoztam.,,sentence
-500258,Hungarian,You worked. (singular informal),Dolgoztál.,,sentence
-500259,Hungarian,He worked.,Dolgozott.,,sentence
-500260,Hungarian,We worked.,Dolgoztunk.,,sentence
-500261,Hungarian,You worked. (plural informal),Dolgoztatok.,,sentence
-500262,Hungarian,They worked.,Dolgoztak.,,sentence
-500263,Hungarian,I read a book yesterday.,Tegnap olvastam egy könyvet.,,sentence
-500264,Hungarian,She read a book.,Olvasott egy könyvet.,,sentence
-500265,Hungarian,We saw the house.,Láttuk a házat.,,sentence
-500266,Hungarian,They saw the car.,Látták az autót.,,sentence
-500267,Hungarian,I went to the city.,A városba mentem.,,sentence
-500268,Hungarian,She came from school.,Az iskolából jött.,,sentence
-500269,Hungarian,We ate bread.,Kenyeret ettünk.,,sentence
-500270,Hungarian,They drank coffee.,Kávét ittak.,,sentence
-500271,Hungarian,I did not work.,Nem dolgoztam.,,sentence
-500272,Hungarian,He did not see the house.,Nem látta a házat.,,sentence
-500273,Hungarian,Did you work? (singular informal),Dolgoztál?,,sentence
-500274,Hungarian,What did you see? (singular informal),Mit láttál?,,sentence
-500275,Hungarian,I will work tomorrow.,Holnap dolgozni fogok.,,sentence
-500276,Hungarian,She will read the book.,El fogja olvasni a könyvet.,,sentence
-500277,Hungarian,We will go to the city.,A városba fogunk menni.,,sentence
-500278,Hungarian,They will come tomorrow.,Holnap fognak jönni.,,sentence
-500279,Hungarian,I would work.,Dolgoznék.,,sentence
-500280,Hungarian,You would work. (singular informal),Dolgoznál.,,sentence
-500281,Hungarian,She would work.,Dolgozna.,,sentence
-500282,Hungarian,We would work.,Dolgoznánk.,,sentence
-500283,Hungarian,They would work.,Dolgoznának.,,sentence
-500284,Hungarian,I would like coffee.,Kávét szeretnék.,,sentence
-500285,Hungarian,Would you help? (singular informal),Segítenél?,,sentence
-500286,Hungarian,If I have time I will read.,Ha van időm olvasni fogok.,,sentence
-500287,Hungarian,Work! (singular informal),Dolgozz!,,sentence
-500288,Hungarian,Read! (singular informal),Olvass!,,sentence
-500289,Hungarian,Come here! (singular informal),Gyere ide!,,sentence
-500290,Hungarian,Go home! (singular informal),Menj haza!,,sentence
-500291,Hungarian,Do not go! (singular informal),Ne menj!,,sentence
-500292,Hungarian,Do not read it! (singular informal),Ne olvasd el!,,sentence
-500293,Hungarian,me (accusative),engem,,pronoun
-500294,Hungarian,you (accusative singular informal),téged,,pronoun
-500295,Hungarian,him / her (accusative),őt,,pronoun
-500296,Hungarian,us (accusative),minket,,pronoun
-500297,Hungarian,them (accusative),őket,,pronoun
-500298,Hungarian,She sees me.,Lát engem.,,sentence
-500299,Hungarian,I see you. (singular informal),Látlak.,,sentence
-500300,Hungarian,I see him / her.,Látom őt.,,sentence
-500301,Hungarian,They see us.,Látnak minket.,,sentence
-500302,Hungarian,in this house,ebben a házban,,phrase
-500303,Hungarian,in that house,abban a házban,,phrase
-500304,Hungarian,to this man,ehhez a férfihoz,,phrase
-500305,Hungarian,to that woman,ahhoz a nőhöz,,phrase
-500306,Hungarian,I am in this house.,Ebben a házban vagyok.,,sentence
-500307,Hungarian,She goes to that woman.,Ahhoz a nőhöz megy.,,sentence
-500308,Hungarian,myself,magam,,pronoun
-500309,Hungarian,yourself (singular informal),magad,,pronoun
-500310,Hungarian,himself / herself,maga,,pronoun
-500311,Hungarian,ourselves,magunk,,pronoun
-500312,Hungarian,themselves,maguk,,pronoun
-500313,Hungarian,I see myself.,Látom magam.,,sentence
-500314,Hungarian,They see themselves.,Látják magukat.,,sentence
-500315,Hungarian,each other,egymás,,pronoun
-500316,Hungarian,We see each other.,Látjuk egymást.,,sentence
-500317,Hungarian,someone,valaki,,pronoun
-500318,Hungarian,something,valami,,pronoun
-500319,Hungarian,nobody,senki,,pronoun
-500320,Hungarian,nothing,semmi,,pronoun
-500321,Hungarian,everyone,mindenki,,pronoun
-500322,Hungarian,everything,minden,,pronoun
-500323,Hungarian,Someone is here.,Valaki itt van.,,sentence
-500324,Hungarian,Nobody is here.,Senki sincs itt.,,sentence
-500325,Hungarian,I see nothing.,Semmit sem látok.,,sentence
-500326,Hungarian,Everyone works.,Mindenki dolgozik.,,sentence
-500327,Hungarian,two,kettő,,number
-500328,Hungarian,three,három,,number
-500329,Hungarian,four,négy,,number
-500330,Hungarian,five,öt,,number
-500331,Hungarian,six,hat,,number
-500332,Hungarian,seven,hét,,number
-500333,Hungarian,eight,nyolc,,number
-500334,Hungarian,nine,kilenc,,number
-500335,Hungarian,ten,tíz,,number
-500336,Hungarian,twenty,húsz,,number
-500337,Hungarian,one hundred,száz,,number
-500338,Hungarian,one thousand,ezer,,number
-500339,Hungarian,two houses,két ház,,phrase
-500340,Hungarian,three books,három könyv,,phrase
-500341,Hungarian,five apples,öt alma,,phrase
-500342,Hungarian,ten children,tíz gyerek,,phrase
-500343,Hungarian,I see two houses.,Két házat látok.,,sentence
-500344,Hungarian,She buys three books.,Három könyvet vesz.,,sentence
-500345,Hungarian,We have two cars.,Két autónk van.,,sentence
-500346,Hungarian,first,első,,number
-500347,Hungarian,second,második,,number
-500348,Hungarian,third,harmadik,,number
-500349,Hungarian,today,ma,,adverb
-500350,Hungarian,tomorrow,holnap,,adverb
-500351,Hungarian,yesterday,tegnap,,adverb
-500352,Hungarian,morning,reggel,,noun
-500353,Hungarian,evening,este,,noun
-500354,Hungarian,Monday,hétfő,,noun
-500355,Hungarian,Tuesday,kedd,,noun
-500356,Hungarian,Wednesday,szerda,,noun
-500357,Hungarian,Thursday,csütörtök,,noun
-500358,Hungarian,Friday,péntek,,noun
-500359,Hungarian,Saturday,szombat,,noun
-500360,Hungarian,Sunday,vasárnap,,noun
-500361,Hungarian,What time is it?,Hány óra van?,,sentence
-500362,Hungarian,It is five o'clock.,Öt óra van.,,sentence
-500363,Hungarian,I work on Monday.,Hétfőn dolgozom.,,sentence
-500364,Hungarian,I worked yesterday.,Tegnap dolgoztam.,,sentence
-500365,Hungarian,I will go tomorrow.,Holnap megyek.,,sentence
-500366,Hungarian,bigger,nagyobb,,adjective
-500367,Hungarian,smaller,kisebb,,adjective
-500368,Hungarian,better,jobb,,adjective
-500369,Hungarian,worse,rosszabb,,adjective
-500370,Hungarian,The house is bigger than the car.,A ház nagyobb az autónál.,,sentence
-500371,Hungarian,This book is better.,Ez a könyv jobb.,,sentence
-500372,Hungarian,the biggest,a legnagyobb,,adjective
-500373,Hungarian,the smallest,a legkisebb,,adjective
-500374,Hungarian,the best,a legjobb,,adjective
-500375,Hungarian,the worst,a legrosszabb,,adjective
-500376,Hungarian,This is the biggest house.,Ez a legnagyobb ház.,,sentence
-500377,Hungarian,This is the best book.,Ez a legjobb könyv.,,sentence
-500378,Hungarian,mother,anya,,noun
-500379,Hungarian,father,apa,,noun
-500380,Hungarian,brother,fiútestvér,,noun
-500381,Hungarian,sister,lánytestvér,,noun
-500382,Hungarian,family,család,,noun
-500383,Hungarian,food,étel,,noun
-500384,Hungarian,milk,tej,,noun
-500385,Hungarian,tea,tea,,noun
-500386,Hungarian,beer,sör,,noun
-500387,Hungarian,restaurant,étterem,,noun
-500388,Hungarian,shop,bolt,,noun
-500389,Hungarian,room,szoba,,noun
-500390,Hungarian,door,ajtó,,noun
-500391,Hungarian,window,ablak,,noun
-500392,Hungarian,bed,ágy,,noun
-500393,Hungarian,street,utca,,noun
-500394,Hungarian,road,út,,noun
-500395,Hungarian,train,vonat,,noun
-500396,Hungarian,bus,busz,,noun
-500397,Hungarian,bicycle,kerékpár,,noun
-500398,Hungarian,job,munka,,noun
-500399,Hungarian,teacher,tanár,,noun
-500400,Hungarian,student,diák,,noun
-500401,Hungarian,language,nyelv,,noun
-500402,Hungarian,Hungarian (language),magyar,,noun
-500403,Hungarian,English (language),angol,,noun
-500404,Hungarian,day,nap,,noun
-500405,Hungarian,week,hét,,noun
-500406,Hungarian,month,hónap,,noun
-500407,Hungarian,year,év,,noun
-500408,Hungarian,time,idő,,noun
-500409,Hungarian,sun,nap,,noun
-500410,Hungarian,rain,eső,,noun
-500411,Hungarian,snow,hó,,noun
-500412,Hungarian,tree,fa,,noun
-500413,Hungarian,flower,virág,,noun
-500414,Hungarian,river,folyó,,noun
-500415,Hungarian,happy,boldog,,adjective
-500416,Hungarian,sad,szomorú,,adjective
-500417,Hungarian,tired,fáradt,,adjective
-500418,Hungarian,fast,gyors,,adjective
-500419,Hungarian,slow,lassú,,adjective
-500420,Hungarian,important,fontos,,adjective
-500421,Hungarian,easy,könnyű,,adjective
-500422,Hungarian,difficult,nehéz,,adjective
-500423,Hungarian,My mother is a doctor.,Anyám orvos.,,sentence
-500424,Hungarian,My father works.,Apám dolgozik.,,sentence
-500425,Hungarian,The family is in the house.,A család a házban van.,,sentence
-500426,Hungarian,I drink tea.,Teát iszom.,,sentence
-500427,Hungarian,She drinks milk.,Tejet iszik.,,sentence
-500428,Hungarian,We eat at the restaurant.,Az étteremben eszünk.,,sentence
-500429,Hungarian,I go to the shop.,A boltba megyek.,,sentence
-500430,Hungarian,The book is in the room.,A könyv a szobában van.,,sentence
-500431,Hungarian,The door is open.,Az ajtó nyitva van.,,sentence
-500432,Hungarian,The window is closed.,Az ablak zárva van.,,sentence
-500433,Hungarian,I go by train.,Vonattal megyek.,,sentence
-500434,Hungarian,She goes by bus.,Busszal megy.,,sentence
-500435,Hungarian,The teacher is at school.,A tanár az iskolában van.,,sentence
-500436,Hungarian,The student reads.,A diák olvas.,,sentence
-500437,Hungarian,I speak Hungarian.,Magyarul beszélek.,,sentence
-500438,Hungarian,She speaks English.,Angolul beszél.,,sentence
-500439,Hungarian,Hungarian is difficult.,A magyar nehéz.,,sentence
-500440,Hungarian,This book is easy.,Ez a könyv könnyű.,,sentence
-500441,Hungarian,I am tired.,Fáradt vagyok.,,sentence
-500442,Hungarian,She is happy.,Boldog.,,sentence
-500443,Hungarian,The car is fast.,Az autó gyors.,,sentence
-500444,Hungarian,Today is a good day.,Ma jó nap van.,,sentence
-500445,Hungarian,It is raining.,Esik az eső.,,sentence
-500446,Hungarian,It is snowing.,Esik a hó.,,sentence
-500447,Hungarian,and,és,,grammar
-500448,Hungarian,but,de,,grammar
-500449,Hungarian,or,vagy,,grammar
-500450,Hungarian,because,mert,,grammar
-500451,Hungarian,if,ha,,grammar
-500452,Hungarian,that (conjunction),hogy,,grammar
-500453,Hungarian,I read and she works.,Én olvasok ő pedig dolgozik.,,sentence
-500454,Hungarian,I work but she reads.,Dolgozom de ő olvas.,,sentence
-500455,Hungarian,I drink tea because I like it.,Teát iszom mert szeretem.,,sentence
-500456,Hungarian,I know that she works.,Tudom hogy dolgozik.,,sentence
-500457,Hungarian,I think that the book is good.,Azt gondolom hogy a könyv jó.,,sentence
-500458,Hungarian,If I have time I read.,Ha van időm olvasok.,,sentence
-500459,Hungarian,If it rains I stay home.,Ha esik otthon maradok.,,sentence
-500460,Hungarian,when (conjunction),amikor,,grammar
-500461,Hungarian,When I work I drink coffee.,Amikor dolgozom kávét iszom.,,sentence
-500462,Hungarian,who (relative),aki,,grammar
-500463,Hungarian,that / which (relative),ami,,grammar
-500464,Hungarian,The man who works is a doctor.,A férfi aki dolgozik orvos.,,sentence
-500465,Hungarian,The book that I read is good.,A könyv amit olvasok jó.,,sentence
-500466,Hungarian,I know where the book is.,Tudom hol van a könyv.,,sentence
-500467,Hungarian,I know who is here.,Tudom ki van itt.,,sentence
-500468,Hungarian,I do not know what she wants.,Nem tudom mit akar.,,sentence
-500469,Hungarian,you (singular formal),ön,,pronoun
-500470,Hungarian,Are you a doctor? (singular formal),Ön orvos?,,sentence
-500471,Hungarian,Do you speak Hungarian? (singular formal),Beszél magyarul?,,sentence
-500472,Hungarian,please,kérem,,expression
-500473,Hungarian,thank you,köszönöm,,expression
-500474,Hungarian,hello,szia,,expression
-500475,Hungarian,good morning,jó reggelt,,expression
-500476,Hungarian,goodbye,viszontlátásra,,expression
-500477,Hungarian,I can work.,Dolgozhatok.,,sentence
-500478,Hungarian,You can go. (singular informal),Mehetsz.,,sentence
-500479,Hungarian,She can read the book.,Elolvashatja a könyvet.,,sentence
-500480,Hungarian,We can speak Hungarian.,Beszélhetünk magyarul.,,sentence
-500481,Hungarian,I am not allowed to go.,Nem mehetek.,,sentence
-500482,Hungarian,Can I come in?,Bejöhetek?,,sentence
-500483,Hungarian,to make someone work,dolgoztatni,,verb
-500484,Hungarian,The teacher makes the student read.,A tanár olvastatja a diákot.,,sentence
-500485,Hungarian,to open,kinyit,,verb
-500486,Hungarian,to close,bezár,,verb
-500487,Hungarian,I open the door.,Kinyitom az ajtót.,,sentence
-500488,Hungarian,I close the window.,Bezárom az ablakot.,,sentence
-500489,Hungarian,She opened the door.,Kinyitotta az ajtót.,,sentence
-500490,Hungarian,He closed the window.,Bezárta az ablakot.,,sentence
-500491,Hungarian,Only Anna works.,Csak Anna dolgozik.,,sentence
-500492,Hungarian,Anna reads the book.,Anna olvassa a könyvet.,,sentence
-500493,Hungarian,It is the book that Anna reads.,A könyvet olvassa Anna.,,sentence
-500494,Hungarian,I am the one who works.,Én dolgozom.,,sentence
-500495,Hungarian,You are the one who reads. (singular informal),Te olvasol.,,sentence
-500496,Hungarian,very,nagyon,,adverb
-500497,Hungarian,The house is very big.,A ház nagyon nagy.,,sentence
-500498,Hungarian,always,mindig,,adverb
-500499,Hungarian,sometimes,néha,,adverb
+500075,Hungarian,to see,látni,,verb
+500076,Hungarian,I see a house.,Látok egy házat.,,sentence
+500077,Hungarian,You see a house. (singular informal),Látsz egy házat.,,sentence
+500078,Hungarian,He / she sees a house.,Lát egy házat.,,sentence
+500079,Hungarian,We see a house.,Látunk egy házat.,,sentence
+500080,Hungarian,You see a house. (plural informal),Láttok egy házat.,,sentence
+500081,Hungarian,They see a house.,Látnak egy házat.,,sentence
+500082,Hungarian,to read,olvasni,,verb
+500083,Hungarian,letter,levél,,noun
+500084,Hungarian,I read a book.,Olvasok egy könyvet.,,sentence
+500085,Hungarian,She reads a letter.,Levelet olvas.,,sentence
+500086,Hungarian,We read books.,Könyveket olvasunk.,,sentence
+500087,Hungarian,to write,írni,,verb
+500088,Hungarian,I write a letter.,Levelet írok.,,sentence
+500089,Hungarian,They write.,Írnak.,,sentence
+500090,Hungarian,to eat,enni,,verb
+500091,Hungarian,I eat an apple.,Eszem egy almát.,,sentence
+500092,Hungarian,The child eats bread.,A gyerek kenyeret eszik.,,sentence
+500093,Hungarian,to drink,inni,,verb
+500094,Hungarian,We drink water.,Vizet iszunk.,,sentence
+500095,Hungarian,They drink coffee.,Kávét isznak.,,sentence
+500096,Hungarian,to buy,venni,,verb
+500097,Hungarian,shop,bolt,,noun
+500098,Hungarian,I buy a book.,Veszek egy könyvet.,,sentence
+500099,Hungarian,She buys bread at the shop.,Kenyeret vesz a boltban.,,sentence
+500100,Hungarian,to like; love,szeretni,,verb
+500101,Hungarian,I like coffee.,Szeretem a kávét.,,sentence
+500102,Hungarian,They like the city.,Szeretik a várost.,,sentence
+500103,Hungarian,to work,dolgozni,,verb
+500104,Hungarian,I work.,Dolgozom.,,sentence
+500105,Hungarian,She works in the city.,A városban dolgozik.,,sentence
+500106,Hungarian,I see the house.,Látom a házat.,,sentence
+500107,Hungarian,You see the book. (singular informal),Látod a könyvet.,,sentence
+500108,Hungarian,He / she sees the car.,Látja az autót.,,sentence
+500109,Hungarian,We see the woman.,Látjuk a nőt.,,sentence
+500110,Hungarian,You see the child. (plural informal),Látjátok a gyereket.,,sentence
+500111,Hungarian,They see the man.,Látják a férfit.,,sentence
+500112,Hungarian,I read the book.,Olvasom a könyvet.,,sentence
+500113,Hungarian,She reads the letter.,Olvassa a levelet.,,sentence
+500114,Hungarian,We buy the car.,Megvesszük az autót.,,sentence
+500115,Hungarian,not,nem,,grammar
+500116,Hungarian,I do not work.,Nem dolgozom.,,sentence
+500117,Hungarian,She does not read.,Nem olvas.,,sentence
+500118,Hungarian,We do not see a house.,Nem látunk házat.,,sentence
+500119,Hungarian,I do not see the house.,Nem látom a házat.,,sentence
+500120,Hungarian,Do you work? (singular informal),Dolgozol?,,sentence
+500121,Hungarian,Do you see the house? (singular informal),Látod a házat?,,sentence
+500122,Hungarian,who,ki,,grammar
+500123,Hungarian,what,mi,,grammar
+500124,Hungarian,where,hol,,grammar
+500125,Hungarian,where to,hová,,grammar
+500126,Hungarian,where from,honnan,,grammar
+500127,Hungarian,when,mikor,,grammar
+500128,Hungarian,why,miért,,grammar
+500129,Hungarian,Who is here?,Ki van itt?,,sentence
+500130,Hungarian,What do you see? (singular informal),Mit látsz?,,sentence
+500131,Hungarian,Where is the book?,Hol van a könyv?,,sentence
+500132,Hungarian,Where do you work? (singular informal),Hol dolgozol?,,sentence
+500133,Hungarian,room,szoba,,noun
+500134,Hungarian,garden,kert,,noun
+500135,Hungarian,office,iroda,,noun
+500136,Hungarian,The book is on the table.,A könyv az asztalon van.,,sentence
+500137,Hungarian,The child is at school.,A gyerek az iskolában van.,,sentence
+500138,Hungarian,The cat is in the room.,A macska a szobában van.,,sentence
+500139,Hungarian,The dog is in the garden.,A kutya a kertben van.,,sentence
+500140,Hungarian,to go,menni,,verb
+500141,Hungarian,to come,jönni,,verb
+500142,Hungarian,I go into the house.,Bemegyek a házba.,,sentence
+500143,Hungarian,She goes into the room.,Bemegy a szobába.,,sentence
+500144,Hungarian,I come out of the house.,Kijövök a házból.,,sentence
+500145,Hungarian,They come out of the office.,Kijönnek az irodából.,,sentence
+500146,Hungarian,I put the book onto the table.,Az asztalra teszem a könyvet.,,sentence
+500147,Hungarian,I take the book from the table.,Elveszem a könyvet az asztalról.,,sentence
+500148,Hungarian,I am at the doctor.,Az orvosnál vagyok.,,sentence
+500149,Hungarian,I am going to the doctor.,Az orvoshoz megyek.,,sentence
+500150,Hungarian,I am coming from the doctor.,Az orvostól jövök.,,sentence
+500151,Hungarian,We are going to the city.,A városba megyünk.,,sentence
+500152,Hungarian,They are coming from the city.,A városból jönnek.,,sentence
+500153,Hungarian,family,család,,noun
+500154,Hungarian,brother,fiútestvér,,noun
+500155,Hungarian,sister,lánytestvér,,noun
+500156,Hungarian,I have a house.,Van egy házam.,,sentence
+500157,Hungarian,You have a book. (singular informal),Van egy könyved.,,sentence
+500158,Hungarian,She has a car.,Van egy autója.,,sentence
+500159,Hungarian,We have a dog.,Van egy kutyánk.,,sentence
+500160,Hungarian,You have a cat. (plural informal),Van egy macskátok.,,sentence
+500161,Hungarian,They have a child.,Van egy gyerekük.,,sentence
+500162,Hungarian,My book is on the table.,A könyvem az asztalon van.,,sentence
+500163,Hungarian,Your car is new. (singular informal),Az autód új.,,sentence
+500164,Hungarian,His / her friend is a doctor.,A barátja orvos.,,sentence
+500165,Hungarian,Our house is big.,A házunk nagy.,,sentence
+500166,Hungarian,Their dog is in the garden.,A kutyájuk a kertben van.,,sentence
+500167,Hungarian,I do not have a car.,Nincs autóm.,,sentence
+500168,Hungarian,The man has a book.,A férfinak van egy könyve.,,sentence
+500169,Hungarian,The woman has a car.,A nőnek van egy autója.,,sentence
+500170,Hungarian,to give,adni,,verb
+500171,Hungarian,I give the book to the man.,Odaadom a könyvet a férfinak.,,sentence
+500172,Hungarian,She gives an apple to the child.,Ad egy almát a gyereknek.,,sentence
+500173,Hungarian,I work with the man.,A férfival dolgozom.,,sentence
+500174,Hungarian,She goes with the child.,A gyerekkel megy.,,sentence
+500175,Hungarian,I go by car.,Autóval megyek.,,sentence
+500176,Hungarian,I go for the book.,Elmegyek a könyvért.,,sentence
+500177,Hungarian,five,öt,,number
+500178,Hungarian,I work until five.,Ötig dolgozom.,,sentence
+500179,Hungarian,She works as a doctor.,Orvosként dolgozik.,,sentence
+500180,Hungarian,The car is behind the house.,Az autó a ház mögött van.,,sentence
+500181,Hungarian,The chair is next to the table.,A szék az asztal mellett van.,,sentence
+500182,Hungarian,The cat is under the table.,A macska az asztal alatt van.,,sentence
+500183,Hungarian,to take; carry,vinni,,verb
+500184,Hungarian,to put,tenni,,verb
+500185,Hungarian,to sleep,aludni,,verb
+500186,Hungarian,to learn,tanulni,,verb
+500187,Hungarian,to understand,érteni,,verb
+500188,Hungarian,to help,segíteni,,verb
+500189,Hungarian,to want,akarni,,verb
+500190,Hungarian,to be able to; know how,tudni,,verb
+500191,Hungarian,I want to work.,Dolgozni akarok.,,sentence
+500192,Hungarian,She wants to read.,Olvasni akar.,,sentence
+500193,Hungarian,We want to go.,Menni akarunk.,,sentence
+500194,Hungarian,I can read.,Tudok olvasni.,,sentence
+500195,Hungarian,Can you help? (singular informal),Tudsz segíteni?,,sentence
+500196,Hungarian,I cannot go.,Nem tudok menni.,,sentence
+500197,Hungarian,The child wants to sleep.,A gyerek aludni akar.,,sentence
+500198,Hungarian,They want to learn Hungarian.,Magyarul akarnak tanulni.,,sentence
+500199,Hungarian,Hungarian (language adverb),magyarul,,adverb
+500200,Hungarian,I go in.,Bemegyek.,,sentence
+500201,Hungarian,I come out.,Kijövök.,,sentence
+500202,Hungarian,She goes away.,Elmegy.,,sentence
+500203,Hungarian,He / she comes back.,Visszajön.,,sentence
+500204,Hungarian,We go up.,Felmegyünk.,,sentence
+500205,Hungarian,They go down.,Lemennek.,,sentence
+500206,Hungarian,I read the whole book.,Elolvasom az egész könyvet.,,sentence
+500207,Hungarian,I write the whole letter.,Megírom az egész levelet.,,sentence
+500208,Hungarian,I do not read the book.,Nem olvasom el a könyvet.,,sentence
+500209,Hungarian,Do you write the letter? (singular informal),Megírod a levelet?,,sentence
+500210,Hungarian,today,ma,,adverb
+500211,Hungarian,tomorrow,holnap,,adverb
+500212,Hungarian,yesterday,tegnap,,adverb
+500213,Hungarian,morning,reggel,,noun
+500214,Hungarian,evening,este,,noun
+500215,Hungarian,I worked yesterday.,Tegnap dolgoztam.,,sentence
+500216,Hungarian,You worked yesterday. (singular informal),Tegnap dolgoztál.,,sentence
+500217,Hungarian,He / she worked yesterday.,Tegnap dolgozott.,,sentence
+500218,Hungarian,We worked yesterday.,Tegnap dolgoztunk.,,sentence
+500219,Hungarian,They worked yesterday.,Tegnap dolgoztak.,,sentence
+500220,Hungarian,I read a book yesterday.,Tegnap olvastam egy könyvet.,,sentence
+500221,Hungarian,She read the book yesterday.,Tegnap olvasta a könyvet.,,sentence
+500222,Hungarian,We saw the house.,Láttuk a házat.,,sentence
+500223,Hungarian,They saw a car.,Láttak egy autót.,,sentence
+500224,Hungarian,I went to the city.,A városba mentem.,,sentence
+500225,Hungarian,She came from school.,Az iskolából jött.,,sentence
+500226,Hungarian,We ate bread.,Kenyeret ettünk.,,sentence
+500227,Hungarian,They drank coffee.,Kávét ittak.,,sentence
+500228,Hungarian,I did not work yesterday.,Tegnap nem dolgoztam.,,sentence
+500229,Hungarian,What did you see? (singular informal),Mit láttál?,,sentence
+500230,Hungarian,train,vonat,,noun
+500231,Hungarian,station,állomás,,noun
+500232,Hungarian,street,utca,,noun
+500233,Hungarian,market,piac,,noun
+500234,Hungarian,food,étel,,noun
+500235,Hungarian,money,pénz,,noun
+500236,Hungarian,I went to the station.,Az állomásra mentem.,,sentence
+500237,Hungarian,She bought food at the market.,Ételt vett a piacon.,,sentence
+500238,Hungarian,The train is at the station.,A vonat az állomáson van.,,sentence
+500239,Hungarian,I will work tomorrow.,Holnap dolgozni fogok.,,sentence
+500240,Hungarian,She will read the book.,El fogja olvasni a könyvet.,,sentence
+500241,Hungarian,We will go to the city.,A városba fogunk menni.,,sentence
+500242,Hungarian,They will come tomorrow.,Holnap fognak jönni.,,sentence
+500243,Hungarian,I am going to the market tomorrow.,Holnap a piacra megyek.,,sentence
+500244,Hungarian,I would work.,Dolgoznék.,,sentence
+500245,Hungarian,She would read the book.,Elolvasná a könyvet.,,sentence
+500246,Hungarian,We would go by train.,Vonattal mennénk.,,sentence
+500247,Hungarian,They would buy food.,Ételt vennének.,,sentence
+500248,Hungarian,I would like coffee.,Kávét szeretnék.,,sentence
+500249,Hungarian,Would you help? (singular informal),Segítenél?,,sentence
+500250,Hungarian,time,idő,,noun
+500251,Hungarian,If I have time I will read.,Ha van időm olvasni fogok.,,sentence
+500252,Hungarian,Work! (singular informal),Dolgozz!,,sentence
+500253,Hungarian,Read! (singular informal),Olvass!,,sentence
+500254,Hungarian,Come here! (singular informal),Gyere ide!,,sentence
+500255,Hungarian,Go home! (singular informal),Menj haza!,,sentence
+500256,Hungarian,Do not go! (singular informal),Ne menj!,,sentence
+500257,Hungarian,Do not read the book! (singular informal),Ne olvasd el a könyvet!,,sentence
+500258,Hungarian,She sees me.,Lát engem.,,sentence
+500259,Hungarian,I see you. (singular informal),Látlak.,,sentence
+500260,Hungarian,I see him / her.,Látom őt.,,sentence
+500261,Hungarian,They see us.,Látnak minket.,,sentence
+500262,Hungarian,I am in this house.,Ebben a házban vagyok.,,sentence
+500263,Hungarian,She is in that room.,Abban a szobában van.,,sentence
+500264,Hungarian,I am going to this doctor.,Ehhez az orvoshoz megyek.,,sentence
+500265,Hungarian,She goes to that woman.,Ahhoz a nőhöz megy.,,sentence
+500266,Hungarian,I see myself.,Látom magam.,,sentence
+500267,Hungarian,You see yourself. (singular informal),Látod magad.,,sentence
+500268,Hungarian,They see themselves.,Látják magukat.,,sentence
+500269,Hungarian,We see each other.,Látjuk egymást.,,sentence
+500270,Hungarian,someone,valaki,,pronoun
+500271,Hungarian,something,valami,,pronoun
+500272,Hungarian,nobody,senki,,pronoun
+500273,Hungarian,nothing,semmi,,pronoun
+500274,Hungarian,everyone,mindenki,,pronoun
+500275,Hungarian,Someone is here.,Valaki itt van.,,sentence
+500276,Hungarian,Nobody is here.,Senki sincs itt.,,sentence
+500277,Hungarian,I see nothing.,Semmit sem látok.,,sentence
+500278,Hungarian,Everyone works.,Mindenki dolgozik.,,sentence
+500279,Hungarian,two,kettő,,number
+500280,Hungarian,three,három,,number
+500281,Hungarian,four,négy,,number
+500282,Hungarian,six,hat,,number
+500283,Hungarian,seven,hét,,number
+500284,Hungarian,eight,nyolc,,number
+500285,Hungarian,nine,kilenc,,number
+500286,Hungarian,ten,tíz,,number
+500287,Hungarian,two houses,két ház,,phrase
+500288,Hungarian,three books,három könyv,,phrase
+500289,Hungarian,I see two houses.,Két házat látok.,,sentence
+500290,Hungarian,She buys three books.,Három könyvet vesz.,,sentence
+500291,Hungarian,We have two cars.,Két autónk van.,,sentence
+500292,Hungarian,Monday,hétfő,,noun
+500293,Hungarian,Tuesday,kedd,,noun
+500294,Hungarian,Wednesday,szerda,,noun
+500295,Hungarian,Thursday,csütörtök,,noun
+500296,Hungarian,Friday,péntek,,noun
+500297,Hungarian,Saturday,szombat,,noun
+500298,Hungarian,Sunday,vasárnap,,noun
+500299,Hungarian,What time is it?,Hány óra van?,,sentence
+500300,Hungarian,It is five o'clock.,Öt óra van.,,sentence
+500301,Hungarian,I work on Monday.,Hétfőn dolgozom.,,sentence
+500302,Hungarian,We went to the city on Tuesday.,Kedden a városba mentünk.,,sentence
+500303,Hungarian,fast,gyors,,adjective
+500304,Hungarian,slow,lassú,,adjective
+500305,Hungarian,better,jobb,,adjective
+500306,Hungarian,bigger,nagyobb,,adjective
+500307,Hungarian,smaller,kisebb,,adjective
+500308,Hungarian,This house is bigger.,Ez a ház nagyobb.,,sentence
+500309,Hungarian,That car is smaller.,Az az autó kisebb.,,sentence
+500310,Hungarian,The train is faster than the car.,A vonat gyorsabb az autónál.,,sentence
+500311,Hungarian,This book is better.,Ez a könyv jobb.,,sentence
