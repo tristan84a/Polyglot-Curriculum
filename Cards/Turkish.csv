@@ -49,3 +49,203 @@
 600047,Turkish,children,çocuklar,,noun
 600048,Turkish,The houses are big.,Evler büyük.,,sentence
 600049,Turkish,The children are small.,Çocuklar küçük.,,sentence
+600050,Turkish,to work,çalışmak,,verb
+600051,Turkish,I am working.,Çalışıyorum.,,sentence
+600052,Turkish,You are working. (singular informal),Çalışıyorsun.,,sentence
+600053,Turkish,She is working.,Çalışıyor.,,sentence
+600054,Turkish,We are working.,Çalışıyoruz.,,sentence
+600055,Turkish,They are working.,Çalışıyorlar.,,sentence
+600056,Turkish,book,kitap,,noun
+600057,Turkish,to read,okumak,,verb
+600058,Turkish,I am reading a book.,Kitap okuyorum.,,sentence
+600059,Turkish,She is reading the book.,Kitabı okuyor.,,sentence
+600060,Turkish,We are reading books.,Kitap okuyoruz.,,sentence
+600061,Turkish,to see,görmek,,verb
+600062,Turkish,I see a child.,Çocuk görüyorum.,,sentence
+600063,Turkish,I see the child.,Çocuğu görüyorum.,,sentence
+600064,Turkish,She sees a house.,Ev görüyor.,,sentence
+600065,Turkish,She sees the house.,Evi görüyor.,,sentence
+600066,Turkish,car,araba,,noun
+600067,Turkish,to buy,satın almak,,verb
+600068,Turkish,I am buying a car.,Araba satın alıyorum.,,sentence
+600069,Turkish,I am buying the car.,Arabayı satın alıyorum.,,sentence
+600070,Turkish,He is not working.,Çalışmıyor.,,sentence
+600071,Turkish,I am not reading.,Okumuyorum.,,sentence
+600072,Turkish,We do not see the house.,Evi görmüyoruz.,,sentence
+600073,Turkish,Are you working? (singular informal),Çalışıyor musun?,,sentence
+600074,Turkish,Is she reading the book?,Kitabı okuyor mu?,,sentence
+600075,Turkish,Are they buying a car?,Araba satın alıyorlar mı?,,sentence
+600076,Turkish,that,şu,,pronoun
+600077,Turkish,that over there,o,,pronoun
+600078,Turkish,this book,bu kitap,,phrase
+600079,Turkish,that house,şu ev,,phrase
+600080,Turkish,that car over there,o araba,,phrase
+600081,Turkish,This book is good.,Bu kitap iyi.,,sentence
+600082,Turkish,That house is big.,Şu ev büyük.,,sentence
+600083,Turkish,That car over there is new.,O araba yeni.,,sentence
+600084,Turkish,new,yeni,,adjective
+600085,Turkish,two,iki,,number
+600086,Turkish,three,üç,,number
+600087,Turkish,four,dört,,number
+600088,Turkish,five,beş,,number
+600089,Turkish,two houses,iki ev,,phrase
+600090,Turkish,three books,üç kitap,,phrase
+600091,Turkish,I see four children.,Dört çocuk görüyorum.,,sentence
+600092,Turkish,We have five books.,Beş kitabımız var.,,sentence
+600093,Turkish,school,okul,,noun
+600094,Turkish,to go,gitmek,,verb
+600095,Turkish,I am going to school.,Okula gidiyorum.,,sentence
+600096,Turkish,She is going home.,Eve gidiyor.,,sentence
+600097,Turkish,We are going to the city.,Şehre gidiyoruz.,,sentence
+600098,Turkish,city,şehir,,noun
+600099,Turkish,He gives the book to the child.,Kitabı çocuğa veriyor.,,sentence
+600100,Turkish,to give,vermek,,verb
+600101,Turkish,Where are you going? (singular informal),Nereye gidiyorsun?,,sentence
+600102,Turkish,where to,nereye,,adverb
+600103,Turkish,at home,evde,,phrase
+600104,Turkish,at school,okulda,,phrase
+600105,Turkish,in the city,şehirde,,phrase
+600106,Turkish,The child is at home.,Çocuk evde.,,sentence
+600107,Turkish,She is at school.,Okulda.,,sentence
+600108,Turkish,We are in the city.,Şehirdeyiz.,,sentence
+600109,Turkish,Where is the book?,Kitap nerede?,,sentence
+600110,Turkish,where,nerede,,adverb
+600111,Turkish,from home,evden,,phrase
+600112,Turkish,from school,okuldan,,phrase
+600113,Turkish,from the city,şehirden,,phrase
+600114,Turkish,I am coming from home.,Evden geliyorum.,,sentence
+600115,Turkish,to come,gelmek,,verb
+600116,Turkish,She is coming from school.,Okuldan geliyor.,,sentence
+600117,Turkish,We are coming from the city.,Şehirden geliyoruz.,,sentence
+600118,Turkish,Where are you coming from? (singular informal),Nereden geliyorsun?,,sentence
+600119,Turkish,where from,nereden,,adverb
+600120,Turkish,There is a child at home.,Evde çocuk var.,,sentence
+600121,Turkish,There is no child at home.,Evde çocuk yok.,,sentence
+600122,Turkish,There is a book at school.,Okulda kitap var.,,sentence
+600123,Turkish,There is no car here.,Burada araba yok.,,sentence
+600124,Turkish,here,burada,,adverb
+600125,Turkish,I have a book.,Kitabım var.,,sentence
+600126,Turkish,I do not have a car.,Arabam yok.,,sentence
+600127,Turkish,Do you have a house? (singular informal),Evin var mı?,,sentence
+600128,Turkish,She has a child.,Çocuğu var.,,sentence
+600129,Turkish,my house,evim,,phrase
+600130,Turkish,my book,kitabım,,phrase
+600131,Turkish,your house (singular informal),evin,,phrase
+600132,Turkish,your book (singular informal),kitabın,,phrase
+600133,Turkish,his or her house,evi,,phrase
+600134,Turkish,our house,evimiz,,phrase
+600135,Turkish,your house (plural/formal),eviniz,,phrase
+600136,Turkish,their house,evleri,,phrase
+600137,Turkish,My house is small.,Evim küçük.,,sentence
+600138,Turkish,Your book is good. (singular informal),Kitabın iyi.,,sentence
+600139,Turkish,Our house is in the city.,Evimiz şehirde.,,sentence
+600140,Turkish,The woman's book,kadının kitabı,,phrase
+600141,Turkish,The child's house,çocuğun evi,,phrase
+600142,Turkish,The doctor's car,doktorun arabası,,phrase
+600143,Turkish,The woman's book is here.,Kadının kitabı burada.,,sentence
+600144,Turkish,The child's house is big.,Çocuğun evi büyük.,,sentence
+600145,Turkish,The doctor's car is new.,Doktorun arabası yeni.,,sentence
+600146,Turkish,coffee,kahve,,noun
+600147,Turkish,water,su,,noun
+600148,Turkish,bread,ekmek,,noun
+600149,Turkish,to drink,içmek,,verb
+600150,Turkish,to eat,yemek,,verb
+600151,Turkish,I am drinking coffee.,Kahve içiyorum.,,sentence
+600152,Turkish,She is drinking water.,Su içiyor.,,sentence
+600153,Turkish,We are eating bread.,Ekmek yiyoruz.,,sentence
+600154,Turkish,The child is eating the bread.,Çocuk ekmeği yiyor.,,sentence
+600155,Turkish,I am not drinking coffee.,Kahve içmiyorum.,,sentence
+600156,Turkish,Are you eating? (singular informal),Yiyor musun?,,sentence
+600157,Turkish,morning,sabah,,noun
+600158,Turkish,evening,akşam,,noun
+600159,Turkish,today,bugün,,adverb
+600160,Turkish,now,şimdi,,adverb
+600161,Turkish,I am working now.,Şimdi çalışıyorum.,,sentence
+600162,Turkish,She is reading this morning.,Bu sabah okuyor.,,sentence
+600163,Turkish,We are going home this evening.,Bu akşam eve gidiyoruz.,,sentence
+600164,Turkish,They are eating now.,Şimdi yiyorlar.,,sentence
+600165,Turkish,to like,sevmek,,verb
+600166,Turkish,I like coffee.,Kahve severim.,,sentence
+600167,Turkish,She likes books.,Kitapları sever.,,sentence
+600168,Turkish,We like this city.,Bu şehri severiz.,,sentence
+600169,Turkish,They like children.,Çocukları severler.,,sentence
+600170,Turkish,I do not like coffee.,Kahve sevmem.,,sentence
+600171,Turkish,Do you like this house? (singular informal),Bu evi sever misin?,,sentence
+600172,Turkish,to know,bilmek,,verb
+600173,Turkish,I know.,Bilirim.,,sentence
+600174,Turkish,She knows.,Bilir.,,sentence
+600175,Turkish,We know.,Biliriz.,,sentence
+600176,Turkish,I do not know.,Bilmem.,,sentence
+600177,Turkish,Do you know? (singular informal),Bilir misin?,,sentence
+600178,Turkish,to want,istemek,,verb
+600179,Turkish,I want water.,Su istiyorum.,,sentence
+600180,Turkish,She wants the book.,Kitabı istiyor.,,sentence
+600181,Turkish,We want to go home.,Eve gitmek istiyoruz.,,sentence
+600182,Turkish,Do you want coffee? (singular informal),Kahve istiyor musun?,,sentence
+600183,Turkish,to be necessary,gerek olmak,,verb
+600184,Turkish,I have to work.,Çalışmam gerekiyor.,,sentence
+600185,Turkish,We have to go.,Gitmemiz gerekiyor.,,sentence
+600186,Turkish,You do not have to come. (singular informal),Gelmen gerekmiyor.,,sentence
+600187,Turkish,yesterday,dün,,adverb
+600188,Turkish,I worked yesterday.,Dün çalıştım.,,sentence
+600189,Turkish,She came yesterday.,Dün geldi.,,sentence
+600190,Turkish,We went to school.,Okula gittik.,,sentence
+600191,Turkish,They read the book.,Kitabı okudular.,,sentence
+600192,Turkish,I saw the car.,Arabayı gördüm.,,sentence
+600193,Turkish,Did you drink coffee? (singular informal),Kahve içtin mi?,,sentence
+600194,Turkish,He did not work yesterday.,Dün çalışmadı.,,sentence
+600195,Turkish,The child ate the bread.,Çocuk ekmeği yedi.,,sentence
+600196,Turkish,tomorrow,yarın,,adverb
+600197,Turkish,I will work tomorrow.,Yarın çalışacağım.,,sentence
+600198,Turkish,She will go to school.,Okula gidecek.,,sentence
+600199,Turkish,We will come tomorrow.,Yarın geleceğiz.,,sentence
+600200,Turkish,They will buy a house.,Ev satın alacaklar.,,sentence
+600201,Turkish,I will not drink coffee.,Kahve içmeyeceğim.,,sentence
+600202,Turkish,Will you read the book? (singular informal),Kitabı okuyacak mısın?,,sentence
+600203,Turkish,fast,hızlı,,adjective
+600204,Turkish,slow,yavaş,,adjective
+600205,Turkish,The car is fast.,Araba hızlı.,,sentence
+600206,Turkish,The child is walking slowly.,Çocuk yavaş yürüyor.,,sentence
+600207,Turkish,to walk,yürümek,,verb
+600208,Turkish,The man is walking to school.,Erkek okula yürüyor.,,sentence
+600209,Turkish,She came home quickly.,Eve hızlı geldi.,,sentence
+600210,Turkish,friend,arkadaş,,noun
+600211,Turkish,with my friend,arkadaşımla,,phrase
+600212,Turkish,I am going to the city with my friend.,Arkadaşımla şehre gidiyorum.,,sentence
+600213,Turkish,She is drinking coffee with the doctor.,Doktorla kahve içiyor.,,sentence
+600214,Turkish,We are working with the woman.,Kadınla çalışıyoruz.,,sentence
+600215,Turkish,from the house,evden,,phrase
+600216,Turkish,to the house,eve,,phrase
+600217,Turkish,in the house,evde,,phrase
+600218,Turkish,I am going from the house to the school.,Evden okula gidiyorum.,,sentence
+600219,Turkish,The book is in the house.,Kitap evde.,,sentence
+600220,Turkish,She is coming to the house.,Eve geliyor.,,sentence
+600221,Turkish,red,kırmızı,,adjective
+600222,Turkish,I am buying a red car.,Kırmızı araba satın alıyorum.,,sentence
+600223,Turkish,yellow,sarı,,adjective
+600224,Turkish,The taxi is yellow.,Taksi sarı.,,sentence
+600225,Turkish,taxi,taksi,,noun
+600226,Turkish,I am taking a yellow taxi.,Sarı taksiye biniyorum.,,sentence
+600227,Turkish,to get on/bin a vehicle,binmek,,verb
+600228,Turkish,The buses in Istanbul are yellow.,İstanbul'daki otobüsler sarı.,,sentence
+600229,Turkish,bus,otobüs,,noun
+600230,Turkish,Istanbul,İstanbul,,noun
+600231,Turkish,beautiful,güzel,,adjective
+600232,Turkish,The city is beautiful.,Şehir güzel.,,sentence
+600233,Turkish,The beautiful house is small.,Güzel ev küçük.,,sentence
+600234,Turkish,The new book is good.,Yeni kitap iyi.,,sentence
+600235,Turkish,This red car is fast.,Bu kırmızı araba hızlı.,,sentence
+600236,Turkish,one,bir,,number
+600237,Turkish,six,altı,,number
+600238,Turkish,seven,yedi,,number
+600239,Turkish,eight,sekiz,,number
+600240,Turkish,nine,dokuz,,number
+600241,Turkish,ten,on,,number
+600242,Turkish,six books,altı kitap,,phrase
+600243,Turkish,seven houses,yedi ev,,phrase
+600244,Turkish,We see eight children.,Sekiz çocuk görüyoruz.,,sentence
+600245,Turkish,There are nine cars here.,Burada dokuz araba var.,,sentence
+600246,Turkish,I have ten books.,On kitabım var.,,sentence
+600247,Turkish,How many books are there?,Kaç kitap var?,,sentence
+600248,Turkish,how many,kaç,,adverb
+600249,Turkish,How many children are at school?,Okulda kaç çocuk var?,,sentence
