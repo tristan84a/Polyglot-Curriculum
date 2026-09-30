@@ -37,7 +37,7 @@ German      200000-299999        200000-200749        750
 Japanese    300000-399999        300000-300499        500
 Polish      400000-499999        400000-400249        250
 Hungarian   500000-599999        500000-500311        312
-Turkish     600000-699999        600000-600049        50
+Turkish     600000-699999        600000-600249        250
 Arabic      700000-799999        700000-700499        500
 Ojibwe      800000-899999        800000-800098        99
 Spanish     900000-999999        900000-900360        361
@@ -173,17 +173,26 @@ TURKISH
 Syllabus: Syllabi/Polyglot_Turkish_Syllabus_v0.1.txt
 Syllabus version: 0.1
 Card file: Cards/Turkish.csv
-Cards: 50
-Used IDs: 600000-600049
-Checkpoint: The 50-card seed prototype is now governed by Turkish syllabus
-v0.1. It covers the opening through first introduction of TR-09: shared
-lexical seed, zero third-person nominal/adjectival predication, bir/bu,
-personal predicate endings, natural subject omission, değil negation,
-polar-question mı/mi/mu/mü, and noun plural -lar/-ler. TR-07 through TR-09
-are introduced but remain longitudinally incomplete; future extension
-should reinforce them through double-duty cards while moving into TR-10
-and subsequent structures.
-
+Cards: 250
+Used IDs: 600000-600249
+Frontier: TR-17 — Buffer consonants and basic consonant alternations
+Checkpoint: Turkish has advanced from the 50-card seed to 250 cards under
+syllabus v0.1 and Protocol v0.9. The extension establishes basic -iyor verbal
+clauses; specific/definite accusative marking; verbal negation and verbal
+polar questions; expanded demonstratives; numbers with singular nouns;
+dative, locative and ablative case functions; var/yok existence and
+possession; possessive suffixes and first genitive-possessive constructions.
+Vowel harmony is now repeatedly visible across plural, question, case and
+verbal morphology. The deck also previews the aorist through sevmek and
+bilmek; necessity constructions; direct past -di; future -(y)acak/-(y)ecek;
+and instrumental/comitative -la/-le while ordinary vocabulary continues to
+expand. Later lexical items increasingly enter through established sentence
+frames rather than automatically receiving standalone cards. Continue the
+main sequence at TR-17 by making buffer consonants and common consonant
+alternations explicit through useful morphology, then consolidate suffix
+order and the core case/possession system without turning it into isolated
+paradigm blocks. Duplicate EnglishPrompt and ID checks are required before
+future commits.
 
 ARABIC
 Syllabus: Syllabi/Polyglot_Arabic_Syllabus_v0.1.txt
