@@ -1,0 +1,101 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+2100000,Korean,house,집,,noun
+2100001,Korean,man,남자,,noun
+2100002,Korean,woman,여자,,noun
+2100003,Korean,child,아이,,noun
+2100004,Korean,to be big,크다,,adjective
+2100005,Korean,to be small,작다,,adjective
+2100006,Korean,to be good,좋다,,adjective
+2100007,Korean,to be bad,나쁘다,,adjective
+2100008,Korean,to be (copula),이다,,verb
+2100009,Korean,this thing,이것,,pronoun
+2100010,Korean,This is a house.,이것은 집이에요.,,sentence
+2100011,Korean,This is a man.,이것은 남자예요.,,sentence
+2100012,Korean,This is a woman.,이것은 여자예요.,,sentence
+2100013,Korean,This is a child.,이것은 아이예요.,,sentence
+2100014,Korean,doctor,의사,,noun
+2100015,Korean,student,학생,,noun
+2100016,Korean,I (polite),저,,pronoun
+2100017,Korean,we / our,우리,,pronoun
+2100018,Korean,I am a doctor.,저는 의사예요.,,sentence
+2100019,Korean,I am a student.,저는 학생이에요.,,sentence
+2100020,Korean,We are students.,우리는 학생이에요.,,sentence
+2100021,Korean,book,책,,noun
+2100022,Korean,car,차,,noun
+2100023,Korean,water,물,,noun
+2100024,Korean,school,학교,,noun
+2100025,Korean,weather,날씨,,noun
+2100026,Korean,The house is big.,집이 커요.,,sentence
+2100027,Korean,The child is small.,아이가 작아요.,,sentence
+2100028,Korean,The book is good.,책이 좋아요.,,sentence
+2100029,Korean,The weather is bad.,날씨가 나빠요.,,sentence
+2100030,Korean,to work,일하다,,verb
+2100031,Korean,I work.,저는 일해요.,,sentence
+2100032,Korean,The woman works.,여자는 일해요.,,sentence
+2100033,Korean,I work at school.,학교에서 일해요.,,sentence
+2100034,Korean,to read,읽다,,verb
+2100035,Korean,I read a book.,책을 읽어요.,,sentence
+2100036,Korean,The man reads a book.,남자는 책을 읽어요.,,sentence
+2100037,Korean,to drink,마시다,,verb
+2100038,Korean,I drink water.,물을 마셔요.,,sentence
+2100039,Korean,The child drinks water.,아이는 물을 마셔요.,,sentence
+2100040,Korean,bread,빵,,noun
+2100041,Korean,to eat,먹다,,verb
+2100042,Korean,I eat bread.,빵을 먹어요.,,sentence
+2100043,Korean,The child eats bread.,아이는 빵을 먹어요.,,sentence
+2100044,Korean,to see / watch,보다,,verb
+2100045,Korean,I see a car.,차를 봐요.,,sentence
+2100046,Korean,The woman sees the child.,여자는 아이를 봐요.,,sentence
+2100047,Korean,not (before a verb),안,,grammar
+2100048,Korean,I do not work.,저는 일 안 해요.,,sentence
+2100049,Korean,I do not read a book.,책을 안 읽어요.,,sentence
+2100050,Korean,I do not drink water.,물을 안 마셔요.,,sentence
+2100051,Korean,not to be (copula),아니다,,verb
+2100052,Korean,I am not a doctor.,저는 의사가 아니에요.,,sentence
+2100053,Korean,Are you a student? (polite),학생이에요?,,sentence
+2100054,Korean,Do you work? (polite),일해요?,,sentence
+2100055,Korean,Do you read? (polite),읽어요?,,sentence
+2100056,Korean,where,어디,,adverb
+2100057,Korean,what,뭐,,pronoun
+2100058,Korean,who,누구,,pronoun
+2100059,Korean,when,언제,,adverb
+2100060,Korean,why,왜,,adverb
+2100061,Korean,how,어떻게,,adverb
+2100062,Korean,to go,가다,,verb
+2100063,Korean,Where are you going? (polite),어디 가요?,,sentence
+2100064,Korean,I go to school.,학교에 가요.,,sentence
+2100065,Korean,The child goes home.,아이는 집에 가요.,,sentence
+2100066,Korean,to come,오다,,verb
+2100067,Korean,I come home.,집에 와요.,,sentence
+2100068,Korean,The woman comes to school.,여자는 학교에 와요.,,sentence
+2100069,Korean,to exist / have,있다,,verb
+2100070,Korean,to not exist / not have,없다,,verb
+2100071,Korean,There is a book at home.,집에 책이 있어요.,,sentence
+2100072,Korean,There is a child at school.,학교에 아이가 있어요.,,sentence
+2100073,Korean,I have a book.,책이 있어요.,,sentence
+2100074,Korean,I do not have a car.,차가 없어요.,,sentence
+2100075,Korean,Where is the book?,책이 어디에 있어요?,,sentence
+2100076,Korean,I am at home.,집에 있어요.,,sentence
+2100077,Korean,here,여기,,adverb
+2100078,Korean,there,거기,,adverb
+2100079,Korean,over there,저기,,adverb
+2100080,Korean,The book is here.,책이 여기 있어요.,,sentence
+2100081,Korean,The car is over there.,차가 저기 있어요.,,sentence
+2100082,Korean,to study,공부하다,,verb
+2100083,Korean,I study at school.,학교에서 공부해요.,,sentence
+2100084,Korean,today,오늘,,adverb
+2100085,Korean,tomorrow,내일,,adverb
+2100086,Korean,yesterday,어제,,adverb
+2100087,Korean,now,지금,,adverb
+2100088,Korean,I am working now.,지금 일해요.,,sentence
+2100089,Korean,Tomorrow I go to school.,내일 학교에 가요.,,sentence
+2100090,Korean,this book,이 책,,phrase
+2100091,Korean,that book,그 책,,phrase
+2100092,Korean,that book over there,저 책,,phrase
+2100093,Korean,This book is good.,이 책이 좋아요.,,sentence
+2100094,Korean,That car is big.,그 차가 커요.,,sentence
+2100095,Korean,That child over there is a student.,저 아이는 학생이에요.,,sentence
+2100096,Korean,to like,좋아하다,,verb
+2100097,Korean,I like this book.,이 책을 좋아해요.,,sentence
+2100098,Korean,I want to go home.,집에 가고 싶어요.,,sentence
+2100099,Korean,What do you want to eat? (polite),뭐 먹고 싶어요?,,sentence
