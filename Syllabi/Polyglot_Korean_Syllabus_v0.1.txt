@@ -1,0 +1,677 @@
+POLYGLOT KOREAN SYLLABUS
+
+Version: 0.1 Status: Current Charter version: 0.7
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for modern Korean in
+Polyglot. It specifies content, prerequisite order, and card strategy rather
+than learner progress. Routine card generation changes the Manifest and CSV,
+not this syllabus.
+
+Vocabulary grows continuously. Grammar units identify structural branches
+that should be opened in a prerequisite-aware order; they are not sealed
+chapters that must be exhausted before later material can begin.
+
+The initial reference variety is contemporary standard South Korean Korean.
+Common colloquial, regional, generational, literary, historical, and North
+Korean distinctions are introduced later when they materially improve modern
+comprehension or educated-adult competence.
+
+TERMINOLOGY
+
+INTRODUCED — A form, word, construction, orthographic element, or distinction
+has begun to be demonstrated.
+
+ESTABLISHED — The canonical curriculum has demonstrated an item sufficiently
+for its basic operation to be assumed in later cards. This describes
+curriculum state rather than learner mastery.
+
+REUSABLE — Established material may recur naturally when another element is
+the principal novelty.
+
+LEXICAL ANCHOR — A word selected to make a grammatical, semantic, or
+orthographic pattern visible. Anchors do not limit additional vocabulary.
+
+CANONICAL SEQUENCE — The static authored introduction order. Scheduling may
+adapt to performance but does not change curriculum order.
+
+COMPLETION STANDARD — The coverage required before a unit's principal
+concept may be treated as established.
+
+COURSE-WIDE KOREAN PRINCIPLES
+
+1. Korean is written in ordinary contemporary Hangul from the first card.
+   There is no romanization bootstrap and romanization is not an accepted
+   Target.
+2. InputHint is normally blank. Korean is entered directly with a Korean
+   keyboard. External keyboard practice may support the learner without
+   becoming permanent curriculum.
+3. Lexical verbs and descriptive verbs normally use the dictionary form in
+   -다. Finite grammar is taught through natural sentences.
+4. The initial conversational baseline is polite 해요체. Dictionary forms
+   remain lexical citation forms rather than conversational sentence endings.
+5. Korean does not require overt subjects or objects when discourse makes
+   them recoverable. Cards should not mechanically preserve English
+   pronouns.
+6. Do not teach 당신 as the ordinary neutral equivalent of English "you".
+   Second-person reference is often omitted or expressed through names,
+   titles, kinship terms, or context. 당신 receives explicit later treatment.
+7. Likewise 그 and 그녀 are not treated as compulsory everyday equivalents
+   of English "he" and "she". Natural omission and nominal reference take
+   precedence.
+8. Topic 은/는 and subject 이/가 are distinct systems. Neither is reduced to
+   a one-word English translation.
+9. Object 을/를 is taught together with ordinary omission and information
+   structure rather than as a mechanically obligatory accusative marker.
+10. Korean descriptive verbs behave predicatively and inflect. They are not
+    forced into an English adjective-plus-copula model.
+11. Speech level, honorific marking, address terms, and social relationship
+    are central grammar. Politeness is developed longitudinally rather than
+    added as decorative vocabulary.
+12. Word order is broadly head-final and commonly SOV but information
+    structure and omission permit substantial variation. Static Targets
+    represent one clearly cued natural realization rather than every
+    grammatical ordering.
+13. Particles are learned through contrasts and functions in sentences.
+14. Korean spacing and standard orthography are part of the Target.
+15. Pronunciation rules such as liaison, nasal assimilation, tensification,
+    palatalization, and 받침 neutralization are taught against standard
+    spelling rather than replacing spelling with phonetic transcription.
+16. Native Korean and Sino-Korean numeral systems receive separate
+    development together with the counters and domains that license them.
+17. Productive morphology is introduced through controlled examples and then
+    reused in a widening spiral. Do not repeat complete paradigms once a
+    pattern is established.
+18. New vocabulary increasingly enters through established sentence frames
+    when isolation has no special pedagogical value.
+19. Common contractions and spoken forms are introduced explicitly after the
+    underlying structures are intelligible.
+20. Contemporary broadly neutral South Korean usage is the initial
+    production reference. Regional and North Korean variation is later
+    descriptive material rather than error.
+
+OPENING PACING DIRECTIVE
+
+The first 100 cards form a compact seed. They begin with a small lexical
+base and authentic Hangul, then quickly establish 이에요/예요, topic and
+subject marking, descriptive predicates, 해요체 verbal clauses, objects,
+안 negation, 아니다, polar questions, high-value interrogatives, 에 and
+에서, 있다/없다, demonstratives, time expressions, and first -고 싶어요
+desire clauses.
+
+The shared Polyglot house/man/woman/child and big/small/good/bad seed is used
+where helpful, but Korean diverges immediately where its structure requires
+it. In particular there is no early artificial he/she/you pronoun paradigm.
+
+STAGE 1 — AUTHENTIC HANGUL AND FIRST PREDICATES
+
+KO-01 — Core nouns and authentic Hangul
+
+OBJECTIVE: Begin useful concrete vocabulary in normal Hangul. Initial anchors
+include 집, 남자, 여자, 아이 and other immediately reusable nouns.
+DELIBERATELY EXCLUDED: Romanization drills and detached consonant/vowel-name
+quizzes.
+
+KO-02 — Core descriptive verbs
+
+OBJECTIVE: Introduce high-value descriptive verbs such as 크다, 작다, 좋다,
+나쁘다 in dictionary form and begin natural polite predication.
+
+KO-03 — Copula 이다 with 이에요/예요
+
+OBJECTIVE: Establish ordinary polite nominal identification and the
+consonant/vowel-conditioned alternation between 이에요 and 예요.
+
+KO-04 — Topic 은/는
+
+OBJECTIVE: Introduce topic marking through clear discourse-neutral examples.
+Do not equate it mechanically with English subjecthood.
+
+KO-05 — Subject 이/가
+
+OBJECTIVE: Introduce subject/focus marking and contrast it gradually with
+은/는 through existential, descriptive, and identificational contexts.
+
+KO-06 — Personal reference and omission
+
+OBJECTIVE: Introduce 저 and 우리 while establishing omission of recoverable
+subjects as normal Korean. Delay a forced English-style pronoun inventory.
+
+KO-07 — Basic 해요체 present clauses
+
+OBJECTIVE: Establish productive polite-present formation with a small set of
+high-value verbs. Include 하다 compounds early.
+
+KO-08 — Object 을/를
+
+OBJECTIVE: Establish marked direct objects in ordinary transitive clauses and
+allow later controlled omission where natural.
+
+KO-09 — Verbal negation with 안
+
+OBJECTIVE: Establish pre-verbal 안 in ordinary colloquial negation and
+contrast it later with -지 않다.
+
+KO-10 — Copular negation 아니다
+
+OBJECTIVE: Establish 아니다 with subject marking on the nominal complement in
+natural polite sentences.
+
+KO-11 — Polar questions in 해요체
+
+OBJECTIVE: Show that ordinary polite yes/no questions can use the same
+clause-final morphology with interrogative intonation and punctuation.
+
+KO-12 — Core question words
+
+OBJECTIVE: Establish 어디, 뭐/무엇, 누구, 언제, 왜, 어떻게 in natural
+questions. Develop particle-marked forms such as 누구를 and 무엇을 as needed.
+
+KO-13 — 에: destination and static location
+
+OBJECTIVE: Establish high-frequency destination and existence/location uses
+of 에.
+
+KO-14 — 에서: action location and source
+
+OBJECTIVE: Contrast action location with static 에 and later develop source
+meanings.
+
+KO-15 — 있다 and 없다
+
+OBJECTIVE: Establish existence and ordinary possession with 있다/없다 while
+distinguishing these from the copula and from location predicates.
+
+KO-16 — Demonstratives 이/그/저
+
+OBJECTIVE: Develop 이/그/저 before nouns and 이것/그것/저것 as pronouns with
+natural discourse-distance meanings.
+
+KO-17 — Basic time expressions
+
+OBJECTIVE: Introduce 오늘, 내일, 어제, 지금 and other time expressions in
+ordinary clause positions.
+
+KO-18 — Desire with -고 싶다
+
+OBJECTIVE: Establish first-person and question uses of -고 싶어요 without
+prematurely generalizing third-person desire.
+
+STAGE 2 — CORE NOMINAL MORPHOLOGY AND EVERYDAY CLAUSES
+
+KO-19 — Plural 들
+
+OBJECTIVE: Introduce 들 where Korean naturally marks plurality and establish
+that plural marking is often unnecessary when number is already clear.
+
+KO-20 — Genitive 의 and noun-noun possession
+
+OBJECTIVE: Establish 의 while also showing ordinary omission in common
+possessive compounds and relationships.
+
+KO-21 — Comitative 와/과 and 하고
+
+OBJECTIVE: Introduce neutral written/spoken comitative and coordination
+patterns one register distinction at a time.
+
+KO-22 — Dative/recipient 에게 and 한테
+
+OBJECTIVE: Establish recipients and interpersonal direction with appropriate
+register distinctions.
+
+KO-23 — Instrumental/directional (으)로
+
+OBJECTIVE: Develop means, route, direction, role, and material meanings
+progressively rather than as one English equivalent.
+
+KO-24 — From/to ranges: 부터 and 까지
+
+OBJECTIVE: Establish spatial and temporal endpoints.
+
+KO-25 — Also/even with 도
+
+OBJECTIVE: Introduce additive 도 and its interaction with omitted case
+particles in natural clauses.
+
+KO-26 — Only with 만
+
+OBJECTIVE: Establish restrictive focus and contrast with 도.
+
+KO-27 — Contrastive topic and information structure
+
+OBJECTIVE: Deepen 은/는 beyond first introduction through contrast, generic
+topics, discourse continuity, and switching.
+
+KO-28 — Particle omission in colloquial Korean
+
+OBJECTIVE: Show common natural omission only after the relevant particles
+are understood. Avoid treating omission as unrestricted.
+
+KO-29 — First nominal synthesis
+
+COMPLETION STANDARD: Topic, subject, object, location, possession, plurality,
+coordination, recipient, instrument/direction, and basic focus particles can
+combine in short natural sentences.
+
+STAGE 3 — NUMBERS, COUNTERS, TIME, AND QUANTITY
+
+KO-30 — Native Korean numbers one to ten
+
+KO-31 — Native Korean numbers beyond ten
+
+KO-32 — Sino-Korean numbers
+
+KO-33 — Generic counter 개
+
+KO-34 — Human counter 명 and honorific 분
+
+KO-35 — Animal counter 마리
+
+KO-36 — Books and flat objects: 권 and 장
+
+KO-37 — Time with 시 and 분
+
+KO-38 — Dates and calendar expressions
+
+KO-39 — Age and 살
+
+KO-40 — Prices, money, telephone numbers, addresses, and measurements
+
+KO-41 — Number-counter syntax and contractions
+
+OBJECTIVE: Establish forms such as 한, 두, 세, 네 before counters and
+contrast the two numeral systems according to actual domain.
+
+STAGE 4 — TENSE, ASPECT, NEGATION, AND MODALITY
+
+KO-42 — Past -았/었어요
+
+OBJECTIVE: Establish regular polite past formation across representative
+vowel classes and 하다.
+
+KO-43 — Past irregulars and stem alternations
+
+KO-44 — Future/intention -(으)ㄹ 거예요
+
+OBJECTIVE: Establish common planned/predicted future reference without
+pretending it equals English will in every context.
+
+KO-45 — Progressive -고 있다
+
+OBJECTIVE: Establish ongoing activity and begin distinguishing it from
+resultant-state interpretations.
+
+KO-46 — Result/state -아/어 있다
+
+OBJECTIVE: Contrast persistent result states with active progressive
+constructions.
+
+KO-47 — Long-form negation -지 않다
+
+OBJECTIVE: Contrast style and structure with 안 negation.
+
+KO-48 — Inability with 못 and -지 못하다
+
+KO-49 — Ability -(으)ㄹ 수 있다/없다
+
+KO-50 — Obligation -아/어야 하다
+
+KO-51 — Permission -아/어도 되다
+
+KO-52 — Prohibition -(으)면 안 되다
+
+KO-53 — Intention -(으)려고 하다
+
+KO-54 — Experience -아/어 본 적이 있다
+
+KO-55 — Change/become -아/어지다 and -게 되다
+
+KO-56 — Tense/aspect/modality synthesis
+
+STAGE 5 — CONNECTIVES AND CLAUSE BUILDING
+
+KO-57 — Sequential and connective -고
+
+KO-58 — Cause/reason -아/어서
+
+KO-59 — Cause/reason -(으)니까
+
+KO-60 — Contrast -지만
+
+KO-61 — Condition -(으)면
+
+KO-62 — Temporal -(으)ㄹ 때 and -았/었을 때
+
+KO-63 — Before/after: -기 전에 and -(으)ㄴ 후에
+
+KO-64 — Purpose -(으)러 가다/오다
+
+KO-65 — Purpose/intention -(으)려고
+
+KO-66 — Simultaneous -(으)면서
+
+KO-67 — Choice -거나
+
+KO-68 — Because/therefore discourse connectors
+
+KO-69 — Clause-linking synthesis
+
+CARD STRATEGY: Prefer comma-free English prompts and Korean targets where a
+natural sentence permits it. Korean punctuation remains standard where
+required.
+
+STAGE 6 — ATTRIBUTIVE FORMS AND COMPLEX NOUN PHRASES
+
+KO-70 — Descriptive-verb present attributive -(으)ㄴ
+
+KO-71 — Action-verb present attributive -는
+
+KO-72 — Past attributive -(으)ㄴ
+
+KO-73 — Future/prospective attributive -(으)ㄹ
+
+KO-74 — 있다/없다 attributive forms
+
+KO-75 — Relative clauses without relative pronouns
+
+OBJECTIVE: Establish Korean prenominal relative clauses and argument
+recovery through controlled semantic roles.
+
+KO-76 — Nominalization -기
+
+KO-77 — Nominalization 것
+
+KO-78 — 것 contractions and ordinary spoken forms
+
+KO-79 — Adverbial -게
+
+KO-80 — Noun-modification synthesis
+
+STAGE 7 — SPEECH LEVELS, HONORIFICS, AND SOCIAL REFERENCE
+
+KO-81 — 해요체 consolidation
+
+KO-82 — Plain/casual 해체
+
+OBJECTIVE: Introduce ordinary intimate/casual endings with explicit social
+context rather than presenting them as merely shorter polite forms.
+
+KO-83 — Formal polite 합쇼체
+
+OBJECTIVE: Establish -습니다/-ㅂ니다 and -습니까? in service, workplace,
+broadcast, institutional, and formal contexts.
+
+KO-84 — Plain written style 한다체
+
+OBJECTIVE: Introduce common narrative, expository, diary, headline, and
+dictionary-adjacent uses.
+
+KO-85 — Subject honorific -(으)시-
+
+KO-86 — Honorific lexical verbs
+
+OBJECTIVE: Develop 계시다, 주무시다, 드시다/잡수시다 and other common items by
+actual use.
+
+KO-87 — Humble and deferential lexical choices
+
+OBJECTIVE: Develop 드리다, 말씀드리다, 뵙다 and related perspective-sensitive
+forms.
+
+KO-88 — Names, titles, kin terms, and occupational address
+
+KO-89 — Second-person reference and 당신
+
+OBJECTIVE: Explain when 당신 occurs and why it is not the default neutral
+translation of English you.
+
+KO-90 — Third-person reference
+
+OBJECTIVE: Develop natural omission, names, titles, 그 사람, and written
+그/그녀 where appropriate without overproducing literary pronouns.
+
+KO-91 — Speech-level switching and pragmatic meaning
+
+KO-92 — Social-reference synthesis
+
+STAGE 8 — IRREGULAR MORPHOLOGY AND VERB/ADJECTIVE FAMILIES
+
+KO-93 — ㅂ irregulars
+
+KO-94 — ㄷ irregulars
+
+KO-95 — 르 irregulars
+
+KO-96 — ㅡ deletion
+
+KO-97 — ㅅ irregulars
+
+KO-98 — ㄹ irregulars
+
+KO-99 — 하다 and 여/해 development
+
+KO-100 — 으 irregular and lexical exceptions
+
+KO-101 — Descriptive verb families and antonyms
+
+KO-102 — Productive causative morphology
+
+KO-103 — Productive passive morphology
+
+KO-104 — Lexical causatives and passives
+
+KO-105 — Morphology synthesis
+
+CARD STRATEGY: Irregular classes are established with representative
+high-frequency stems and then reused. Do not fill every possible paradigm.
+
+STAGE 9 — QUOTATION, REPORTED SPEECH, AND COMPLEMENTATION
+
+KO-106 — Quoted statements -다고 하다
+
+KO-107 — Quoted action commands -(으)라고 하다
+
+KO-108 — Quoted questions -냐고 하다
+
+KO-109 — Quoted suggestions -자고 하다
+
+KO-110 — Colloquial quotation contractions
+
+KO-111 — Saying, thinking, knowing, hearing, and asking complements
+
+KO-112 — Indirect questions -는지 / -(으)ㄴ지
+
+KO-113 — Reported-speech synthesis
+
+STAGE 10 — ADVANCED MODALITY, STANCE, AND EVIDENTIAL MEANING
+
+KO-114 — Guess/intention -겠-
+
+KO-115 — Appearance/inference -는 것 같다
+
+KO-116 — Inference -나 보다 / -(으)ㄴ가 보다
+
+KO-117 — Supposition -(으)ㄹ지도 모르다
+
+KO-118 — Expectation/obligation -(으)ㄹ 것이다 and related forms
+
+KO-119 — Retrospective -더-
+
+KO-120 — Discovery/exclamation -네요
+
+KO-121 — Reminder/shared knowledge -잖아요
+
+KO-122 — Background/explanation -는데 / -(으)ㄴ데
+
+KO-123 — Stance particles and sentence-final nuance
+
+KO-124 — Modality/stance synthesis
+
+STAGE 11 — DISCOURSE, WORD ORDER, AND PRAGMATICS
+
+KO-125 — Topic chains and zero anaphora
+
+KO-126 — Focus and particle alternation
+
+KO-127 — Scrambling and marked constituent order
+
+KO-128 — Answers, fragments, and conversational ellipsis
+
+KO-129 — Backchannels and response tokens
+
+KO-130 — Softening, hesitation, and politeness strategies
+
+KO-131 — Common contractions in spontaneous speech
+
+KO-132 — Sentence-final endings beyond the core speech levels
+
+KO-133 — Texting and informal digital conventions
+
+OBJECTIVE: Introduce high-frequency forms that an educated adult routinely
+encounters without making ephemeral slang the baseline.
+
+KO-134 — Discourse synthesis
+
+STAGE 12 — PRONUNCIATION, SPELLING, AND LITERACY SYSTEMS
+
+KO-135 — Hangul syllable structure and 받침 systematization
+
+KO-136 — Liaison
+
+KO-137 — Nasal assimilation
+
+KO-138 — Liquid assimilation
+
+KO-139 — Tensification
+
+KO-140 — Aspiration and ㅎ interactions
+
+KO-141 — Palatalization
+
+KO-142 — Batchim neutralization and resyllabification
+
+KO-143 — Sound changes in common compounds and inflection
+
+KO-144 — Standard spacing
+
+KO-145 — Standard spelling and morphophonemic preservation
+
+KO-146 — Loanword orthography
+
+KO-147 — Abbreviations and common written conventions
+
+KO-148 — Hanja-derived vocabulary awareness
+
+OBJECTIVE: Use Sino-Korean morpheme families to support vocabulary breadth.
+Hanja character production is not a default requirement unless later
+curriculum evidence gives it clear modern value.
+
+KO-149 — Literacy/pronunciation synthesis
+
+STAGE 13 — BROAD VOCABULARY AND PHRASEOLOGY
+
+These domains are organizing strands rather than sealed thematic blocks.
+Vocabulary from all of them begins earlier when structurally useful.
+
+KO-150 — Household and daily life
+KO-151 — Food and cooking
+KO-152 — Clothing and personal possessions
+KO-153 — Family and relationships
+KO-154 — Body and health
+KO-155 — Work and occupations
+KO-156 — Education
+KO-157 — Travel and transportation
+KO-158 — Buildings, towns, and public places
+KO-159 — Nature, plants, and animals
+KO-160 — Weather and environment
+KO-161 — Tools, materials, and physical objects
+KO-162 — Technology and communications
+KO-163 — Commerce, money, and finance
+KO-164 — Government, law, and public institutions
+KO-165 — Science and mathematics
+KO-166 — Arts, literature, and culture
+KO-167 — Religion and philosophy
+KO-168 — Emotions, personality, and human behavior
+KO-169 — Abstract concepts and relationships
+
+COMMON OBJECTIVE: Build broad educated-adult lexical competence while
+recycling mature Korean grammar, speech-level awareness, and orthography.
+
+STAGE 14 — COLLOCATION, REGISTER, AND EDUCATED-ADULT LANGUAGE
+
+KO-170 — High-frequency verbs across senses and argument frames
+KO-171 — Light-verb constructions with 하다 and 되다
+KO-172 — Conventional noun-verb and adjective-noun collocations
+KO-173 — Sino-Korean lexical families
+KO-174 — Native Korean lexical families
+KO-175 — Formal institutional vocabulary
+KO-176 — Academic and technical prose
+KO-177 — News and public-affairs language
+KO-178 — Literary but still encountered constructions
+KO-179 — Idioms and figurative language
+KO-180 — Proverbs of ordinary cultural reach
+KO-181 — Fine semantic distinctions and near-synonyms
+KO-182 — Register-sensitive lexical alternatives
+KO-183 — Productive derivation and nominal compounds
+
+STAGE 15 — VARIATION AND LONG TAIL
+
+KO-184 — Seoul and broadly neutral contemporary pronunciation
+KO-185 — Major South Korean regional vocabulary and features
+KO-186 — Generational variation
+KO-187 — Contemporary slang of broad reach
+KO-188 — North Korean standard vocabulary and grammar of broad relevance
+KO-189 — Historical forms encountered in modern texts and culture
+KO-190 — Specialized vocabulary of broad educated-adult relevance
+KO-191 — Less frequent idioms and collocations
+KO-192 — Continuing authentic-language gap expansion
+
+COMMON OBJECTIVE: Move toward the practical asymptote of modern Korean
+competence. There is intentionally no final exhaustive card count.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1. Unit completion establishes canonical coverage rather than learner mastery.
+2. Established grammar and vocabulary remain active in later cards.
+3. New structures normally begin with controlled lexical load and then enter
+   increasingly varied contexts.
+4. New vocabulary continues throughout every grammatical stage.
+5. Standalone lexical cards are used when isolation has pedagogical value.
+   Otherwise a new word may be introduced as the one new element in a
+   sentence whose surrounding structure is already established.
+6. Natural omission, information structure, politeness, and register must not
+   be sacrificed merely to mirror an English prompt.
+7. Exact-match prompts should state politeness, social relationship, temporal
+   context, or discourse contrast when those materially determine the Target.
+8. The scheduler supplies repetition; the curriculum supplies varied
+   productive examples rather than duplicate cards.
+9. Future amendments may split, merge, reorder, or refine units without
+   renumbering stable live card IDs.
+10. Once the major syllabus branches have been traversed, authentic modern
+    Korean should increasingly drive backward-validation gap discovery.
+
+AMENDMENT POLICY
+
+Change this syllabus when the canonical Korean curriculum changes. Routine
+card generation and learner progress do not amend it.
+
+AMENDMENT HISTORY
+
+Version 0.1
+- Establishes contemporary standard South Korean Korean as the initial
+  production reference.
+- Begins in authentic Hangul without romanization or a preliminary alphabet
+  deck.
+- Uses polite 해요체 as the initial conversational baseline while retaining
+  dictionary forms for lexical verbs and descriptive verbs.
+- Avoids teaching 당신, 그 and 그녀 as mechanical equivalents of English
+  pronouns and treats omission and social reference as foundational.
+- Develops 은/는, 이/가, 을/를, 에, 에서, 있다/없다, demonstratives, and
+  first polite verbal clauses in the opening seed.
+- Gives speech levels, honorifics, counters, numeral systems, irregular
+  morphology, relative clauses, quotation, modality, discourse, pronunciation
+  rules, spacing, and register dedicated longitudinal treatment.
+- Preserves continuous vocabulary growth and an indefinitely expandable
+  educated-adult long tail.
