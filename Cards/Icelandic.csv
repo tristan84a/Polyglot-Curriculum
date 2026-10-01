@@ -99,3 +99,208 @@
 1500097,Icelandic,no,nei,,
 1500098,Icelandic,Do you speak Icelandic? (singular informal),Talar þú íslensku?,,
 1500099,Icelandic,Where is the car?,Hvar er bíllinn?,,
+1500100,Icelandic,bookstore,bókabúð,,noun
+1500101,Icelandic,school,skóli,,noun
+1500102,Icelandic,city,borg,,noun
+1500103,Icelandic,friend (male),vinur,,noun
+1500104,Icelandic,friend (female),vinkona,,noun
+1500105,Icelandic,food,matur,,noun
+1500106,Icelandic,coffee,kaffi,,noun
+1500107,Icelandic,bread,brauð,,noun
+1500108,Icelandic,fish,fiskur,,noun
+1500109,Icelandic,dog,hundur,,noun
+1500110,Icelandic,cat,köttur,,noun
+1500111,Icelandic,I read a book.,Ég les bók.,,sentence
+1500112,Icelandic,She reads the book.,Hún les bókina.,,sentence
+1500113,Icelandic,We read books.,Við lesum bækur.,,sentence
+1500114,Icelandic,to read,lesa,,verb
+1500115,Icelandic,I drink water.,Ég drekk vatn.,,sentence
+1500116,Icelandic,He drinks coffee.,Hann drekkur kaffi.,,sentence
+1500117,Icelandic,to drink,drekka,,verb
+1500118,Icelandic,I eat bread.,Ég borða brauð.,,sentence
+1500119,Icelandic,She eats fish.,Hún borðar fisk.,,sentence
+1500120,Icelandic,to eat,borða,,verb
+1500121,Icelandic,Today I work.,Í dag vinn ég.,,sentence
+1500122,Icelandic,Today she speaks Icelandic.,Í dag talar hún íslensku.,,sentence
+1500123,Icelandic,Here I have a book.,Hér á ég bók.,,sentence
+1500124,Icelandic,There he works.,Þar vinnur hann.,,sentence
+1500125,Icelandic,today,í dag,,adverb
+1500126,Icelandic,tomorrow,á morgun,,adverb
+1500127,Icelandic,yesterday,í gær,,adverb
+1500128,Icelandic,now,núna,,adverb
+1500129,Icelandic,often,oft,,adverb
+1500130,Icelandic,always,alltaf,,adverb
+1500131,Icelandic,Today I am not working.,Í dag vinn ég ekki.,,sentence
+1500132,Icelandic,Now she is reading.,Núna les hún.,,sentence
+1500133,Icelandic,Tomorrow we are working.,Á morgun vinnum við.,,sentence
+1500134,Icelandic,Where are you going? (singular informal),Hvert ertu að fara?,,sentence
+1500135,Icelandic,where to,hvert,,adverb
+1500136,Icelandic,where from,hvaðan,,adverb
+1500137,Icelandic,when,hvenær,,adverb
+1500138,Icelandic,how,hvernig,,adverb
+1500139,Icelandic,why,af hverju,,adverb
+1500140,Icelandic,When do you work?,Hvenær vinnur þú?,,sentence
+1500141,Icelandic,How are you?,Hvernig hefur þú það?,,sentence
+1500142,Icelandic,Why are you here?,Af hverju ert þú hér?,,sentence
+1500143,Icelandic,Where are you from?,Hvaðan ertu?,,sentence
+1500144,Icelandic,I am from Iceland.,Ég er frá Íslandi.,,sentence
+1500145,Icelandic,Iceland,Ísland,,noun
+1500146,Icelandic,Reykjavík,Reykjavík,,noun
+1500147,Icelandic,I live in Reykjavík.,Ég bý í Reykjavík.,,sentence
+1500148,Icelandic,to live,búa,,verb
+1500149,Icelandic,She lives in Iceland.,Hún býr á Íslandi.,,sentence
+1500150,Icelandic,We live in a small house.,Við búum í litlu húsi.,,sentence
+1500151,Icelandic,They live in the city.,Þau búa í borginni.,,sentence
+1500152,Icelandic,I see a dog.,Ég sé hund.,,sentence
+1500153,Icelandic,I see the dog.,Ég sé hundinn.,,sentence
+1500154,Icelandic,She sees a cat.,Hún sér kött.,,sentence
+1500155,Icelandic,She sees the cat.,Hún sér köttinn.,,sentence
+1500156,Icelandic,We see the new house.,Við sjáum nýja húsið.,,sentence
+1500157,Icelandic,He sees the good woman.,Hann sér góðu konuna.,,sentence
+1500158,Icelandic,I have a good friend. (male),Ég á góðan vin.,,sentence
+1500159,Icelandic,She has a good friend. (female),Hún á góða vinkonu.,,sentence
+1500160,Icelandic,The dog is big.,Hundurinn er stór.,,sentence
+1500161,Icelandic,The cat is small.,Kötturinn er lítill.,,sentence
+1500162,Icelandic,The books are new.,Bækurnar eru nýjar.,,sentence
+1500163,Icelandic,The houses are old.,Húsin eru gömul.,,sentence
+1500164,Icelandic,The women are good.,Konurnar eru góðar.,,sentence
+1500165,Icelandic,The children are small.,Börnin eru lítil.,,sentence
+1500166,Icelandic,men,menn,,noun
+1500167,Icelandic,women,konur,,noun
+1500168,Icelandic,children,börn,,noun
+1500169,Icelandic,books,bækur,,noun
+1500170,Icelandic,cars,bílar,,noun
+1500171,Icelandic,The men are here.,Mennirnir eru hér.,,sentence
+1500172,Icelandic,The cars are new.,Bílarnir eru nýir.,,sentence
+1500173,Icelandic,I give the child a book.,Ég gef barninu bók.,,sentence
+1500174,Icelandic,to give,gefa,,verb
+1500175,Icelandic,She gives the man water.,Hún gefur manninum vatn.,,sentence
+1500176,Icelandic,We give the woman a book.,Við gefum konunni bók.,,sentence
+1500177,Icelandic,I help the child.,Ég hjálpa barninu.,,sentence
+1500178,Icelandic,to help,hjálpa,,verb
+1500179,Icelandic,He helps the woman.,Hann hjálpar konunni.,,sentence
+1500180,Icelandic,She helps the man.,Hún hjálpar manninum.,,sentence
+1500181,Icelandic,with the man,með manninum,,phrase
+1500182,Icelandic,with the woman,með konunni,,phrase
+1500183,Icelandic,with the child,með barninu,,phrase
+1500184,Icelandic,I work with the man.,Ég vinn með manninum.,,sentence
+1500185,Icelandic,She speaks with the woman.,Hún talar við konuna.,,sentence
+1500186,Icelandic,We are with the child.,Við erum með barninu.,,sentence
+1500187,Icelandic,from the house,frá húsinu,,phrase
+1500188,Icelandic,from the city,frá borginni,,phrase
+1500189,Icelandic,I come from the house.,Ég kem frá húsinu.,,sentence
+1500190,Icelandic,to come,koma,,verb
+1500191,Icelandic,She comes from the city.,Hún kemur frá borginni.,,sentence
+1500192,Icelandic,We come from Iceland.,Við komum frá Íslandi.,,sentence
+1500193,Icelandic,to go,fara,,verb
+1500194,Icelandic,I am going home.,Ég fer heim.,,sentence
+1500195,Icelandic,She is going to school.,Hún fer í skólann.,,sentence
+1500196,Icelandic,We are going to Reykjavík.,Við förum til Reykjavíkur.,,sentence
+1500197,Icelandic,They are going to Iceland.,Þau fara til Íslands.,,sentence
+1500198,Icelandic,home,heim,,adverb
+1500199,Icelandic,at home,heima,,adverb
+1500200,Icelandic,I am at home.,Ég er heima.,,sentence
+1500201,Icelandic,The child is at school.,Barnið er í skólanum.,,sentence
+1500202,Icelandic,The book is on the table.,Bókin er á borðinu.,,sentence
+1500203,Icelandic,table,borð,,noun
+1500204,Icelandic,I put the book on the table.,Ég set bókina á borðið.,,sentence
+1500205,Icelandic,to put,setja,,verb
+1500206,Icelandic,The car is in front of the house.,Bíllinn er fyrir framan húsið.,,sentence
+1500207,Icelandic,behind the house,fyrir aftan húsið,,phrase
+1500208,Icelandic,The dog is behind the house.,Hundurinn er fyrir aftan húsið.,,sentence
+1500209,Icelandic,my house,húsið mitt,,phrase
+1500210,Icelandic,my book,bókin mín,,phrase
+1500211,Icelandic,my car,bíllinn minn,,phrase
+1500212,Icelandic,your house (singular informal),húsið þitt,,phrase
+1500213,Icelandic,your book (singular informal),bókin þín,,phrase
+1500214,Icelandic,his house,húsið hans,,phrase
+1500215,Icelandic,her book,bókin hennar,,phrase
+1500216,Icelandic,our car,bíllinn okkar,,phrase
+1500217,Icelandic,their house,húsið þeirra,,phrase
+1500218,Icelandic,My house is small.,Húsið mitt er lítið.,,sentence
+1500219,Icelandic,Your book is new. (singular informal),Bókin þín er ný.,,sentence
+1500220,Icelandic,Her car is good.,Bíllinn hennar er góður.,,sentence
+1500221,Icelandic,Our child is here.,Barnið okkar er hér.,,sentence
+1500222,Icelandic,The man's house,hús mannsins,,phrase
+1500223,Icelandic,The woman's book,bók konunnar,,phrase
+1500224,Icelandic,The child's car,bíll barnsins,,phrase
+1500225,Icelandic,The man's house is big.,Hús mannsins er stórt.,,sentence
+1500226,Icelandic,The woman's book is new.,Bók konunnar er ný.,,sentence
+1500227,Icelandic,one,einn,,number
+1500228,Icelandic,two,tveir,,number
+1500229,Icelandic,three,þrír,,number
+1500230,Icelandic,four,fjórir,,number
+1500231,Icelandic,five,fimm,,number
+1500232,Icelandic,two houses,tvö hús,,phrase
+1500233,Icelandic,two books,tvær bækur,,phrase
+1500234,Icelandic,two men,tveir menn,,phrase
+1500235,Icelandic,three children,þrjú börn,,phrase
+1500236,Icelandic,four cars,fjórir bílar,,phrase
+1500237,Icelandic,I see two houses.,Ég sé tvö hús.,,sentence
+1500238,Icelandic,She has three books.,Hún á þrjár bækur.,,sentence
+1500239,Icelandic,We see four children.,Við sjáum fjögur börn.,,sentence
+1500240,Icelandic,There are five cars here.,Hér eru fimm bílar.,,sentence
+1500241,Icelandic,red,rauður,,adjective
+1500242,Icelandic,The red car is new.,Rauði bíllinn er nýr.,,sentence
+1500243,Icelandic,I see a red car.,Ég sé rauðan bíl.,,sentence
+1500244,Icelandic,yellow,gulur,,adjective
+1500245,Icelandic,The yellow house is small.,Gula húsið er lítið.,,sentence
+1500246,Icelandic,She has a yellow book.,Hún á gula bók.,,sentence
+1500247,Icelandic,blue,blár,,adjective
+1500248,Icelandic,The blue book is here.,Bláa bókin er hér.,,sentence
+1500249,Icelandic,I have a blue car.,Ég á bláan bíl.,,sentence
+1500250,Icelandic,beautiful,fallegur,,adjective
+1500251,Icelandic,Reykjavík is beautiful.,Reykjavík er falleg.,,sentence
+1500252,Icelandic,The beautiful house is old.,Fallega húsið er gamalt.,,sentence
+1500253,Icelandic,I see the beautiful city.,Ég sé fallegu borgina.,,sentence
+1500254,Icelandic,to buy,kaupa,,verb
+1500255,Icelandic,I buy a book.,Ég kaupi bók.,,sentence
+1500256,Icelandic,She buys the book.,Hún kaupir bókina.,,sentence
+1500257,Icelandic,We buy food.,Við kaupum mat.,,sentence
+1500258,Icelandic,They buy a car.,Þau kaupa bíl.,,sentence
+1500259,Icelandic,I do not buy the car.,Ég kaupi ekki bílinn.,,sentence
+1500260,Icelandic,Do you buy books? (singular informal),Kaupir þú bækur?,,sentence
+1500261,Icelandic,to know,vita,,verb
+1500262,Icelandic,I know.,Ég veit.,,sentence
+1500263,Icelandic,She knows.,Hún veit.,,sentence
+1500264,Icelandic,We know.,Við vitum.,,sentence
+1500265,Icelandic,They do not know.,Þau vita ekki.,,sentence
+1500266,Icelandic,Do you know? (singular informal),Veist þú?,,sentence
+1500267,Icelandic,to be able to,geta,,verb
+1500268,Icelandic,I can work.,Ég get unnið.,,sentence
+1500269,Icelandic,She can read Icelandic.,Hún getur lesið íslensku.,,sentence
+1500270,Icelandic,We can see the house.,Við getum séð húsið.,,sentence
+1500271,Icelandic,They cannot come.,Þau geta ekki komið.,,sentence
+1500272,Icelandic,Can you help? (singular informal),Getur þú hjálpað?,,sentence
+1500273,Icelandic,to need,þurfa,,verb
+1500274,Icelandic,I need to work.,Ég þarf að vinna.,,sentence
+1500275,Icelandic,She needs to go home.,Hún þarf að fara heim.,,sentence
+1500276,Icelandic,We need to buy food.,Við þurfum að kaupa mat.,,sentence
+1500277,Icelandic,They do not need to come.,Þau þurfa ekki að koma.,,sentence
+1500278,Icelandic,to be going to,ætla,,verb
+1500279,Icelandic,I am going to work tomorrow.,Ég ætla að vinna á morgun.,,sentence
+1500280,Icelandic,She is going to read the book.,Hún ætlar að lesa bókina.,,sentence
+1500281,Icelandic,We are going to buy a car.,Við ætlum að kaupa bíl.,,sentence
+1500282,Icelandic,They are going to go home.,Þau ætla að fara heim.,,sentence
+1500283,Icelandic,morning,morgunn,,noun
+1500284,Icelandic,evening,kvöld,,noun
+1500285,Icelandic,This morning I am working.,Í morgun vinn ég.,,sentence
+1500286,Icelandic,This evening we are at home.,Í kvöld erum við heima.,,sentence
+1500287,Icelandic,Yesterday I worked.,Í gær vann ég.,,sentence
+1500288,Icelandic,She worked yesterday.,Hún vann í gær.,,sentence
+1500289,Icelandic,We spoke Icelandic.,Við töluðum íslensku.,,sentence
+1500290,Icelandic,They bought a book.,Þau keyptu bók.,,sentence
+1500291,Icelandic,I saw the man.,Ég sá manninn.,,sentence
+1500292,Icelandic,She saw the house.,Hún sá húsið.,,sentence
+1500293,Icelandic,We went home.,Við fórum heim.,,sentence
+1500294,Icelandic,They came yesterday.,Þau komu í gær.,,sentence
+1500295,Icelandic,I drank water.,Ég drakk vatn.,,sentence
+1500296,Icelandic,She ate fish.,Hún borðaði fisk.,,sentence
+1500297,Icelandic,We read the book yesterday.,Við lásum bókina í gær.,,sentence
+1500298,Icelandic,He had a car.,Hann átti bíl.,,sentence
+1500299,Icelandic,I wanted to work.,Ég vildi vinna.,,sentence
+1500300,Icelandic,We could see the city.,Við gátum séð borgina.,,sentence
+1500301,Icelandic,I did not work yesterday.,Ég vann ekki í gær.,,sentence
+1500302,Icelandic,She did not come.,Hún kom ekki.,,sentence
+1500303,Icelandic,Did you see the car? (singular informal),Sást þú bílinn?,,sentence
+1500304,Icelandic,Did they go home?,Fóru þau heim?,,sentence
