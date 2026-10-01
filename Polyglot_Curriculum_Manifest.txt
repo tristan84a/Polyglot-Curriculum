@@ -52,6 +52,7 @@ Serbian     1700000-1799999       1700000-1700099       100
 Swedish     1800000-1899999       1800000-1800099       100
 Punjabi     1900000-1999999       1900000-1900099       100
 Portuguese  2000000-2099999       2000000-2000100       101
+Korean      2100000-2199999       2100000-2100099       100
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -391,4 +392,25 @@ then deepen article/adjective declension and the verbal spine without
 turning either into isolated paradigm blocks. Duplicate EnglishPrompt and ID
 checks are required before future commits.
 
+KOREAN
+Syllabus: Syllabi/Polyglot_Korean_Syllabus_v0.1.txt
+Syllabus version: 0.1
+Card file: Cards/Korean.csv
+Cards: 100
+Used IDs: 2100000-2100099
+Frontier: KO-19 — Plural 들
+Checkpoint: Korean has begun with a 100-card seed under syllabus v0.1 and
+Protocol v0.9. The opening uses ordinary Hangul with blank InputHint and
+contemporary standard South Korean usage. It establishes 이에요/예요 nominal
+identification, first 은/는 topics and 이/가 subjects, descriptive predicates,
+polite 해요체 present clauses, 을/를 objects, 안 verbal negation, 아니다
+copular negation, polar questions, core interrogatives, destination/location
+에, action-location 에서, 있다/없다 existence and possession, 이/그/저
+demonstratives, basic time expressions and first -고 싶어요 desire clauses.
+The seed deliberately avoids an artificial English-style pronoun table:
+저 and 우리 are introduced while 당신 and routine he/she pronouns are
+deferred in favor of natural omission and social reference. Continue at
+KO-19 with plural 들 and the core particle system while reinforcing the
+opening structures through widening-spiral vocabulary growth. Duplicate
+EnglishPrompt and ID checks are required before future commits.
 
