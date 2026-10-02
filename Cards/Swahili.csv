@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+2900000,Swahili,house,nyumba,,noun
+2900001,Swahili,water,maji,,noun
+2900002,Swahili,man,mwanamume,,noun
+2900003,Swahili,doctor,daktari,,noun
+2900004,Swahili,car,gari,,noun
+2900005,Swahili,red,nyekundu,,adjective
+2900006,Swahili,big,kubwa,,adjective
+2900007,Swahili,four,nne,,number
+2900008,Swahili,He is a doctor.,Yeye ni daktari.,,sentence
+2900009,Swahili,The house is big.,Nyumba ni kubwa.,,sentence
+2900010,Swahili,The car is red.,Gari ni jekundu.,,sentence
+2900011,Swahili,I see the house.,Ninaona nyumba.,,sentence
+2900012,Swahili,He has a car.,Ana gari.,,sentence
+2900013,Swahili,He has a red car.,Ana gari jekundu.,,sentence
+2900014,Swahili,I see four cars.,Ninaona magari manne.,,sentence
