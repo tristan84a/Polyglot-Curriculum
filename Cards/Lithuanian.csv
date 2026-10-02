@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+4500000,Lithuanian,house,namas,,noun
+4500001,Lithuanian,water,vanduo,,noun
+4500002,Lithuanian,man,vyras,,noun
+4500003,Lithuanian,doctor,gydytojas,,noun
+4500004,Lithuanian,car,automobilis,,noun
+4500005,Lithuanian,red,raudonas,,adjective
+4500006,Lithuanian,big,didelis,,adjective
+4500007,Lithuanian,four,keturi,,number
+4500008,Lithuanian,He is a doctor.,Jis yra gydytojas.,,sentence
+4500009,Lithuanian,The house is big.,Namas yra didelis.,,sentence
+4500010,Lithuanian,The car is red.,Automobilis yra raudonas.,,sentence
+4500011,Lithuanian,I see the house.,Matau namą.,,sentence
+4500012,Lithuanian,He has a car.,Jis turi automobilį.,,sentence
+4500013,Lithuanian,He has a red car.,Jis turi raudoną automobilį.,,sentence
+4500014,Lithuanian,I see four cars.,Matau keturis automobilius.,,sentence
