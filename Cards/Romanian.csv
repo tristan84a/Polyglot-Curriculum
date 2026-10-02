@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+2500000,Romanian,house,casă,,noun
+2500001,Romanian,water,apă,,noun
+2500002,Romanian,man,bărbat,,noun
+2500003,Romanian,doctor,medic,,noun
+2500004,Romanian,car,mașină,,noun
+2500005,Romanian,red,roșu,,adjective
+2500006,Romanian,big,mare,,adjective
+2500007,Romanian,four,patru,,number
+2500008,Romanian,He is a doctor.,El este medic.,,sentence
+2500009,Romanian,The house is big.,Casa este mare.,,sentence
+2500010,Romanian,The car is red.,Mașina este roșie.,,sentence
+2500011,Romanian,I see the house.,Văd casa.,,sentence
+2500012,Romanian,He has a car.,El are o mașină.,,sentence
+2500013,Romanian,He has a red car.,El are o mașină roșie.,,sentence
+2500014,Romanian,I see four cars.,Văd patru mașini.,,sentence
