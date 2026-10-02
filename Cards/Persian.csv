@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+2400000,Persian,house,خانه,,noun
+2400001,Persian,water,آب,,noun
+2400002,Persian,man,مرد,,noun
+2400003,Persian,doctor,پزشک,,noun
+2400004,Persian,car,ماشین,,noun
+2400005,Persian,red,قرمز,,adjective
+2400006,Persian,big,بزرگ,,adjective
+2400007,Persian,four,چهار,,number
+2400008,Persian,He is a doctor.,او پزشک است.,,sentence
+2400009,Persian,The house is big.,خانه بزرگ است.,,sentence
+2400010,Persian,The car is red.,ماشین قرمز است.,,sentence
+2400011,Persian,I see the house.,من خانه را می‌بینم.,,sentence
+2400012,Persian,He has a car.,او ماشین دارد.,,sentence
+2400013,Persian,He has a red car.,او یک ماشین قرمز دارد.,,sentence
+2400014,Persian,I see four cars.,من چهار ماشین می‌بینم.,,sentence
