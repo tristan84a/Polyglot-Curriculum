@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+3300000,Thai,house,บ้าน,,noun
+3300001,Thai,water,น้ำ,,noun
+3300002,Thai,man,ผู้ชาย,,noun
+3300003,Thai,doctor,หมอ,,noun
+3300004,Thai,car,รถ,,noun
+3300005,Thai,red,สีแดง,,adjective
+3300006,Thai,big,ใหญ่,,adjective
+3300007,Thai,four,สี่,,number
+3300008,Thai,He is a doctor.,เขาเป็นหมอ,,sentence
+3300009,Thai,The house is big.,บ้านใหญ่,,sentence
+3300010,Thai,The car is red.,รถสีแดง,,sentence
+3300011,Thai,I see the house.,ฉันเห็นบ้าน,,sentence
+3300012,Thai,He has a car.,เขามีรถ,,sentence
+3300013,Thai,He has a red car.,เขามีรถสีแดง,,sentence
+3300014,Thai,I see four cars.,ฉันเห็นรถสี่คัน,,sentence
