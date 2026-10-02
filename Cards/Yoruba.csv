@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+4900000,Yoruba,house,ilé,,noun
+4900001,Yoruba,water,omi,,noun
+4900002,Yoruba,man,ọkùnrin,,noun
+4900003,Yoruba,doctor,dókítà,,noun
+4900004,Yoruba,car,ọkọ̀ ayọ́kẹ́lẹ́,,noun
+4900005,Yoruba,red,pupa,,adjective
+4900006,Yoruba,big,nlá,,adjective
+4900007,Yoruba,four,mẹ́rin,,number
+4900008,Yoruba,He is a doctor.,Dókítà ni ó jẹ́.,,sentence
+4900009,Yoruba,The house is big.,Ilé náà tóbi.,,sentence
+4900010,Yoruba,The car is red.,Ọkọ̀ ayọ́kẹ́lẹ́ náà pupa.,,sentence
+4900011,Yoruba,I see the house.,Mo rí ilé náà.,,sentence
+4900012,Yoruba,He has a car.,Ó ní ọkọ̀ ayọ́kẹ́lẹ́.,,sentence
+4900013,Yoruba,He has a red car.,Ó ní ọkọ̀ ayọ́kẹ́lẹ́ pupa.,,sentence
+4900014,Yoruba,I see four cars.,Mo rí ọkọ̀ ayọ́kẹ́lẹ́ mẹ́rin.,,sentence
