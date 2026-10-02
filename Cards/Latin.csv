@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+3700000,Latin,house,domus,,noun
+3700001,Latin,water,aqua,,noun
+3700002,Latin,man,vir,,noun
+3700003,Latin,doctor,medicus,,noun
+3700004,Latin,car,currus,,noun
+3700005,Latin,red,ruber,,adjective
+3700006,Latin,big,magnus,,adjective
+3700007,Latin,four,quattuor,,number
+3700008,Latin,He is a doctor.,Medicus est.,,sentence
+3700009,Latin,The house is big.,Domus magna est.,,sentence
+3700010,Latin,The car is red.,Currus ruber est.,,sentence
+3700011,Latin,I see the house.,Domum video.,,sentence
+3700012,Latin,He has a car.,Currum habet.,,sentence
+3700013,Latin,He has a red car.,Currum rubrum habet.,,sentence
+3700014,Latin,I see four cars.,Quattuor currus video.,,sentence
