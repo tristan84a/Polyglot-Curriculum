@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+4000000,Bengali,house,বাড়ি,,noun
+4000001,Bengali,water,পানি,,noun
+4000002,Bengali,man,পুরুষ,,noun
+4000003,Bengali,doctor,ডাক্তার,,noun
+4000004,Bengali,car,গাড়ি,,noun
+4000005,Bengali,red,লাল,,adjective
+4000006,Bengali,big,বড়,,adjective
+4000007,Bengali,four,চার,,number
+4000008,Bengali,He is a doctor.,সে একজন ডাক্তার।,,sentence
+4000009,Bengali,The house is big.,বাড়িটা বড়।,,sentence
+4000010,Bengali,The car is red.,গাড়িটা লাল।,,sentence
+4000011,Bengali,I see the house.,আমি বাড়িটা দেখি।,,sentence
+4000012,Bengali,He has a car.,তার একটা গাড়ি আছে।,,sentence
+4000013,Bengali,He has a red car.,তার একটা লাল গাড়ি আছে।,,sentence
+4000014,Bengali,I see four cars.,আমি চারটা গাড়ি দেখি।,,sentence
