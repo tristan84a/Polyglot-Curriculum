@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+2600000,Danish,house,hus,,noun
+2600001,Danish,water,vand,,noun
+2600002,Danish,man,mand,,noun
+2600003,Danish,doctor,læge,,noun
+2600004,Danish,car,bil,,noun
+2600005,Danish,red,rød,,adjective
+2600006,Danish,big,stor,,adjective
+2600007,Danish,four,fire,,number
+2600008,Danish,He is a doctor.,Han er læge.,,sentence
+2600009,Danish,The house is big.,Huset er stort.,,sentence
+2600010,Danish,The car is red.,Bilen er rød.,,sentence
+2600011,Danish,I see the house.,Jeg ser huset.,,sentence
+2600012,Danish,He has a car.,Han har en bil.,,sentence
+2600013,Danish,He has a red car.,Han har en rød bil.,,sentence
+2600014,Danish,I see four cars.,Jeg ser fire biler.,,sentence
