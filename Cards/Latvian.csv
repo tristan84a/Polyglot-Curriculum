@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+5700000,Latvian,house,māja,,noun
+5700001,Latvian,water,ūdens,,noun
+5700002,Latvian,man,vīrietis,,noun
+5700003,Latvian,doctor,ārsts,,noun
+5700004,Latvian,car,automašīna,,noun
+5700005,Latvian,red,sarkans,,adjective
+5700006,Latvian,big,liels,,adjective
+5700007,Latvian,four,četri,,number
+5700008,Latvian,He is a doctor.,Viņš ir ārsts.,,sentence
+5700009,Latvian,The house is big.,Māja ir liela.,,sentence
+5700010,Latvian,The car is red.,Automašīna ir sarkana.,,sentence
+5700011,Latvian,I see the house.,Es redzu māju.,,sentence
+5700012,Latvian,He has a car.,Viņam ir automašīna.,,sentence
+5700013,Latvian,He has a red car.,Viņam ir sarkana automašīna.,,sentence
+5700014,Latvian,I see four cars.,Es redzu četras automašīnas.,,sentence
