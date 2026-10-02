@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+6100000,Khmer,house,ផ្ទះ,,noun
+6100001,Khmer,water,ទឹក,,noun
+6100002,Khmer,man,បុរស,,noun
+6100003,Khmer,doctor,គ្រូពេទ្យ,,noun
+6100004,Khmer,car,ឡាន,,noun
+6100005,Khmer,red,ក្រហម,,adjective
+6100006,Khmer,big,ធំ,,adjective
+6100007,Khmer,four,បួន,,number
+6100008,Khmer,He is a doctor.,គាត់ជាគ្រូពេទ្យ។,,sentence
+6100009,Khmer,The house is big.,ផ្ទះធំ។,,sentence
+6100010,Khmer,The car is red.,ឡានពណ៌ក្រហម។,,sentence
+6100011,Khmer,I see the house.,ខ្ញុំឃើញផ្ទះ។,,sentence
+6100012,Khmer,He has a car.,គាត់មានឡាន។,,sentence
+6100013,Khmer,He has a red car.,គាត់មានឡានពណ៌ក្រហម។,,sentence
+6100014,Khmer,I see four cars.,ខ្ញុំឃើញឡានបួនគ្រឿង។,,sentence
