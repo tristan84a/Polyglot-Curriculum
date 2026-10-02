@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+5600000,Gujarati,house,ઘર,,noun
+5600001,Gujarati,water,પાણી,,noun
+5600002,Gujarati,man,માણસ,,noun
+5600003,Gujarati,doctor,ડૉક્ટર,,noun
+5600004,Gujarati,car,ગાડી,,noun
+5600005,Gujarati,red,લાલ,,adjective
+5600006,Gujarati,big,મોટું,,adjective
+5600007,Gujarati,four,ચાર,,number
+5600008,Gujarati,He is a doctor.,તે ડૉક્ટર છે.,,sentence
+5600009,Gujarati,The house is big.,ઘર મોટું છે.,,sentence
+5600010,Gujarati,The car is red.,ગાડી લાલ છે.,,sentence
+5600011,Gujarati,I see the house.,હું ઘર જોઉં છું.,,sentence
+5600012,Gujarati,He has a car.,તેની પાસે ગાડી છે.,,sentence
+5600013,Gujarati,He has a red car.,તેની પાસે લાલ ગાડી છે.,,sentence
+5600014,Gujarati,I see four cars.,હું ચાર ગાડીઓ જોઉં છું.,,sentence
