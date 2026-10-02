@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+3400000,Armenian,house,տուն,,noun
+3400001,Armenian,water,ջուր,,noun
+3400002,Armenian,man,տղամարդ,,noun
+3400003,Armenian,doctor,բժիշկ,,noun
+3400004,Armenian,car,մեքենա,,noun
+3400005,Armenian,red,կարմիր,,adjective
+3400006,Armenian,big,մեծ,,adjective
+3400007,Armenian,four,չորս,,number
+3400008,Armenian,He is a doctor.,Նա բժիշկ է։,,sentence
+3400009,Armenian,The house is big.,Տունը մեծ է։,,sentence
+3400010,Armenian,The car is red.,Մեքենան կարմիր է։,,sentence
+3400011,Armenian,I see the house.,Ես տեսնում եմ տունը։,,sentence
+3400012,Armenian,He has a car.,Նա մեքենա ունի։,,sentence
+3400013,Armenian,He has a red car.,Նա կարմիր մեքենա ունի։,,sentence
+3400014,Armenian,I see four cars.,Ես չորս մեքենա եմ տեսնում։,,sentence
