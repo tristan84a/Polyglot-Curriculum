@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+3200000,Dutch,house,huis,,noun
+3200001,Dutch,water,water,,noun
+3200002,Dutch,man,man,,noun
+3200003,Dutch,doctor,arts,,noun
+3200004,Dutch,car,auto,,noun
+3200005,Dutch,red,rood,,adjective
+3200006,Dutch,big,groot,,adjective
+3200007,Dutch,four,vier,,number
+3200008,Dutch,He is a doctor.,Hij is arts.,,sentence
+3200009,Dutch,The house is big.,Het huis is groot.,,sentence
+3200010,Dutch,The car is red.,De auto is rood.,,sentence
+3200011,Dutch,I see the house.,Ik zie het huis.,,sentence
+3200012,Dutch,He has a car.,Hij heeft een auto.,,sentence
+3200013,Dutch,He has a red car.,Hij heeft een rode auto.,,sentence
+3200014,Dutch,I see four cars.,Ik zie vier auto's.,,sentence
