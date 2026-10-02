@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+4200000,Hausa,house,gida,,noun
+4200001,Hausa,water,ruwa,,noun
+4200002,Hausa,man,namiji,,noun
+4200003,Hausa,doctor,likita,,noun
+4200004,Hausa,car,mota,,noun
+4200005,Hausa,red,ja,,adjective
+4200006,Hausa,big,babba,,adjective
+4200007,Hausa,four,huɗu,,number
+4200008,Hausa,He is a doctor.,Shi likita ne.,,sentence
+4200009,Hausa,The house is big.,Gidan babba ne.,,sentence
+4200010,Hausa,The car is red.,Motar ja ce.,,sentence
+4200011,Hausa,I see the house.,Ina ganin gidan.,,sentence
+4200012,Hausa,He has a car.,Yana da mota.,,sentence
+4200013,Hausa,He has a red car.,Yana da jar mota.,,sentence
+4200014,Hausa,I see four cars.,Ina ganin motoci huɗu.,,sentence
