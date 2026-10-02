@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+3100000,Cantonese,house,屋,uk1,noun
+3100001,Cantonese,water,水,seoi2,noun
+3100002,Cantonese,man,男人,naam4 jan4,noun
+3100003,Cantonese,doctor,醫生,ji1 sang1,noun
+3100004,Cantonese,car,車,ce1,noun
+3100005,Cantonese,red,紅色,hung4 sik1,adjective
+3100006,Cantonese,big,大,daai6,adjective
+3100007,Cantonese,four,四,sei3,number
+3100008,Cantonese,He is a doctor.,佢係醫生。,keoi5 hai6 ji1 sang1,sentence
+3100009,Cantonese,The house is big.,間屋好大。,gaan1 uk1 hou2 daai6,sentence
+3100010,Cantonese,The car is red.,架車係紅色嘅。,gaa3 ce1 hai6 hung4 sik1 ge3,sentence
+3100011,Cantonese,I see the house.,我見到間屋。,ngo5 gin3 dou2 gaan1 uk1,sentence
+3100012,Cantonese,He has a car.,佢有架車。,keoi5 jau5 gaa3 ce1,sentence
+3100013,Cantonese,He has a red car.,佢有架紅色嘅車。,keoi5 jau5 gaa3 hung4 sik1 ge3 ce1,sentence
+3100014,Cantonese,I see four cars.,我見到四架車。,ngo5 gin3 dou2 sei3 gaa3 ce1,sentence
