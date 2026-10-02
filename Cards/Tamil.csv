@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+3500000,Tamil,house,வீடு,,noun
+3500001,Tamil,water,தண்ணீர்,,noun
+3500002,Tamil,man,ஆண்,,noun
+3500003,Tamil,doctor,மருத்துவர்,,noun
+3500004,Tamil,car,கார்,,noun
+3500005,Tamil,red,சிவப்பு,,adjective
+3500006,Tamil,big,பெரிய,,adjective
+3500007,Tamil,four,நான்கு,,number
+3500008,Tamil,He is a doctor.,அவர் ஒரு மருத்துவர்.,,sentence
+3500009,Tamil,The house is big.,வீடு பெரியது.,,sentence
+3500010,Tamil,The car is red.,கார் சிவப்பாக இருக்கிறது.,,sentence
+3500011,Tamil,I see the house.,நான் வீட்டைப் பார்க்கிறேன்.,,sentence
+3500012,Tamil,He has a car.,அவரிடம் ஒரு கார் இருக்கிறது.,,sentence
+3500013,Tamil,He has a red car.,அவரிடம் ஒரு சிவப்பு கார் இருக்கிறது.,,sentence
+3500014,Tamil,I see four cars.,நான் நான்கு கார்களைப் பார்க்கிறேன்.,,sentence
