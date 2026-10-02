@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+4100000,Uzbek,house,uy,,noun
+4100001,Uzbek,water,suv,,noun
+4100002,Uzbek,man,erkak,,noun
+4100003,Uzbek,doctor,shifokor,,noun
+4100004,Uzbek,car,mashina,,noun
+4100005,Uzbek,red,qizil,,adjective
+4100006,Uzbek,big,katta,,adjective
+4100007,Uzbek,four,to‘rt,,number
+4100008,Uzbek,He is a doctor.,U shifokor.,,sentence
+4100009,Uzbek,The house is big.,Uy katta.,,sentence
+4100010,Uzbek,The car is red.,Mashina qizil.,,sentence
+4100011,Uzbek,I see the house.,Men uyni ko‘raman.,,sentence
+4100012,Uzbek,He has a car.,Uning mashinasi bor.,,sentence
+4100013,Uzbek,He has a red car.,Uning qizil mashinasi bor.,,sentence
+4100014,Uzbek,I see four cars.,Men to‘rtta mashinani ko‘raman.,,sentence
