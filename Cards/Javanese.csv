@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+5800000,Javanese,house,omah,,noun
+5800001,Javanese,water,banyu,,noun
+5800002,Javanese,man,wong lanang,,noun
+5800003,Javanese,doctor,dokter,,noun
+5800004,Javanese,car,mobil,,noun
+5800005,Javanese,red,abang,,adjective
+5800006,Javanese,big,gedhé,,adjective
+5800007,Javanese,four,papat,,number
+5800008,Javanese,He is a doctor.,Dheweke dokter.,,sentence
+5800009,Javanese,The house is big.,Omahé gedhé.,,sentence
+5800010,Javanese,The car is red.,Mobilé abang.,,sentence
+5800011,Javanese,I see the house.,Aku weruh omahé.,,sentence
+5800012,Javanese,He has a car.,Dheweke nduwé mobil.,,sentence
+5800013,Javanese,He has a red car.,Dheweke nduwé mobil abang.,,sentence
+5800014,Javanese,I see four cars.,Aku weruh mobil papat.,,sentence
