@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+4400000,Tagalog,house,bahay,,noun
+4400001,Tagalog,water,tubig,,noun
+4400002,Tagalog,man,lalaki,,noun
+4400003,Tagalog,doctor,doktor,,noun
+4400004,Tagalog,car,kotse,,noun
+4400005,Tagalog,red,pula,,adjective
+4400006,Tagalog,big,malaki,,adjective
+4400007,Tagalog,four,apat,,number
+4400008,Tagalog,He is a doctor.,Doktor siya.,,sentence
+4400009,Tagalog,The house is big.,Malaki ang bahay.,,sentence
+4400010,Tagalog,The car is red.,Pula ang kotse.,,sentence
+4400011,Tagalog,I see the house.,Nakikita ko ang bahay.,,sentence
+4400012,Tagalog,He has a car.,May kotse siya.,,sentence
+4400013,Tagalog,He has a red car.,May pulang kotse siya.,,sentence
+4400014,Tagalog,I see four cars.,Nakikita ko ang apat na kotse.,,sentence
