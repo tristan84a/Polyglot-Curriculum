@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+3800000,Vietnamese,house,nhà,,noun
+3800001,Vietnamese,water,nước,,noun
+3800002,Vietnamese,man,đàn ông,,noun
+3800003,Vietnamese,doctor,bác sĩ,,noun
+3800004,Vietnamese,car,xe hơi,,noun
+3800005,Vietnamese,red,đỏ,,adjective
+3800006,Vietnamese,big,lớn,,adjective
+3800007,Vietnamese,four,bốn,,number
+3800008,Vietnamese,He is a doctor.,Anh ấy là bác sĩ.,,sentence
+3800009,Vietnamese,The house is big.,Ngôi nhà lớn.,,sentence
+3800010,Vietnamese,The car is red.,Chiếc xe hơi màu đỏ.,,sentence
+3800011,Vietnamese,I see the house.,Tôi thấy ngôi nhà.,,sentence
+3800012,Vietnamese,He has a car.,Anh ấy có một chiếc xe hơi.,,sentence
+3800013,Vietnamese,He has a red car.,Anh ấy có một chiếc xe hơi màu đỏ.,,sentence
+3800014,Vietnamese,I see four cars.,Tôi thấy bốn chiếc xe hơi.,,sentence
