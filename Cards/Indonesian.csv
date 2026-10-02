@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+4800000,Indonesian,house,rumah,,noun
+4800001,Indonesian,water,air,,noun
+4800002,Indonesian,man,pria,,noun
+4800003,Indonesian,doctor,dokter,,noun
+4800004,Indonesian,car,mobil,,noun
+4800005,Indonesian,red,merah,,adjective
+4800006,Indonesian,big,besar,,adjective
+4800007,Indonesian,four,empat,,number
+4800008,Indonesian,He is a doctor.,Dia dokter.,,sentence
+4800009,Indonesian,The house is big.,Rumah itu besar.,,sentence
+4800010,Indonesian,The car is red.,Mobil itu merah.,,sentence
+4800011,Indonesian,I see the house.,Saya melihat rumah itu.,,sentence
+4800012,Indonesian,He has a car.,Dia punya mobil.,,sentence
+4800013,Indonesian,He has a red car.,Dia punya mobil merah.,,sentence
+4800014,Indonesian,I see four cars.,Saya melihat empat mobil.,,sentence
