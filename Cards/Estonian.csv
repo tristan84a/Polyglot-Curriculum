@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+5100000,Estonian,house,maja,,noun
+5100001,Estonian,water,vesi,,noun
+5100002,Estonian,man,mees,,noun
+5100003,Estonian,doctor,arst,,noun
+5100004,Estonian,car,auto,,noun
+5100005,Estonian,red,punane,,adjective
+5100006,Estonian,big,suur,,adjective
+5100007,Estonian,four,neli,,number
+5100008,Estonian,He is a doctor.,Ta on arst.,,sentence
+5100009,Estonian,The house is big.,Maja on suur.,,sentence
+5100010,Estonian,The car is red.,Auto on punane.,,sentence
+5100011,Estonian,I see the house.,Ma näen maja.,,sentence
+5100012,Estonian,He has a car.,Tal on auto.,,sentence
+5100013,Estonian,He has a red car.,Tal on punane auto.,,sentence
+5100014,Estonian,I see four cars.,Ma näen nelja autot.,,sentence
