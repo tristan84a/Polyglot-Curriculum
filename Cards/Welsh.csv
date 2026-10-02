@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+4600000,Welsh,house,tŷ,,noun
+4600001,Welsh,water,dŵr,,noun
+4600002,Welsh,man,dyn,,noun
+4600003,Welsh,doctor,meddyg,,noun
+4600004,Welsh,car,car,,noun
+4600005,Welsh,red,coch,,adjective
+4600006,Welsh,big,mawr,,adjective
+4600007,Welsh,four,pedwar,,number
+4600008,Welsh,He is a doctor.,Mae e'n feddyg.,,sentence
+4600009,Welsh,The house is big.,Mae'r tŷ yn fawr.,,sentence
+4600010,Welsh,The car is red.,Mae'r car yn goch.,,sentence
+4600011,Welsh,I see the house.,Dw i'n gweld y tŷ.,,sentence
+4600012,Welsh,He has a car.,Mae ganddo gar.,,sentence
+4600013,Welsh,He has a red car.,Mae ganddo gar coch.,,sentence
+4600014,Welsh,I see four cars.,Dw i'n gweld pedwar car.,,sentence
