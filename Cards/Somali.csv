@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+5200000,Somali,house,guri,,noun
+5200001,Somali,water,biyo,,noun
+5200002,Somali,man,nin,,noun
+5200003,Somali,doctor,dhakhtar,,noun
+5200004,Somali,car,baabuur,,noun
+5200005,Somali,red,cas,,adjective
+5200006,Somali,big,weyn,,adjective
+5200007,Somali,four,afar,,number
+5200008,Somali,He is a doctor.,Waa dhakhtar.,,sentence
+5200009,Somali,The house is big.,Gurigu waa weyn yahay.,,sentence
+5200010,Somali,The car is red.,Baabuurku waa cas yahay.,,sentence
+5200011,Somali,I see the house.,Waxaan arkaa guriga.,,sentence
+5200012,Somali,He has a car.,Wuxuu leeyahay baabuur.,,sentence
+5200013,Somali,He has a red car.,Wuxuu leeyahay baabuur cas.,,sentence
+5200014,Somali,I see four cars.,Waxaan arkaa afar baabuur.,,sentence
