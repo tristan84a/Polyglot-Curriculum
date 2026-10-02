@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+3900000,Basque,house,etxe,,noun
+3900001,Basque,water,ur,,noun
+3900002,Basque,man,gizon,,noun
+3900003,Basque,doctor,mediku,,noun
+3900004,Basque,car,auto,,noun
+3900005,Basque,red,gorri,,adjective
+3900006,Basque,big,handi,,adjective
+3900007,Basque,four,lau,,number
+3900008,Basque,He is a doctor.,Medikua da.,,sentence
+3900009,Basque,The house is big.,Etxea handia da.,,sentence
+3900010,Basque,The car is red.,Autoa gorria da.,,sentence
+3900011,Basque,I see the house.,Etxea ikusten dut.,,sentence
+3900012,Basque,He has a car.,Auto bat dauka.,,sentence
+3900013,Basque,He has a red car.,Auto gorri bat dauka.,,sentence
+3900014,Basque,I see four cars.,Lau auto ikusten ditut.,,sentence
