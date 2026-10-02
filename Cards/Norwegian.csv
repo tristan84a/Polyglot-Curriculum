@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+3600000,Norwegian,house,hus,,noun
+3600001,Norwegian,water,vann,,noun
+3600002,Norwegian,man,mann,,noun
+3600003,Norwegian,doctor,lege,,noun
+3600004,Norwegian,car,bil,,noun
+3600005,Norwegian,red,rød,,adjective
+3600006,Norwegian,big,stor,,adjective
+3600007,Norwegian,four,fire,,number
+3600008,Norwegian,He is a doctor.,Han er lege.,,sentence
+3600009,Norwegian,The house is big.,Huset er stort.,,sentence
+3600010,Norwegian,The car is red.,Bilen er rød.,,sentence
+3600011,Norwegian,I see the house.,Jeg ser huset.,,sentence
+3600012,Norwegian,He has a car.,Han har en bil.,,sentence
+3600013,Norwegian,He has a red car.,Han har en rød bil.,,sentence
+3600014,Norwegian,I see four cars.,Jeg ser fire biler.,,sentence
