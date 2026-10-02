@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+4300000,Catalan,house,casa,,noun
+4300001,Catalan,water,aigua,,noun
+4300002,Catalan,man,home,,noun
+4300003,Catalan,doctor,metge,,noun
+4300004,Catalan,car,cotxe,,noun
+4300005,Catalan,red,vermell,,adjective
+4300006,Catalan,big,gran,,adjective
+4300007,Catalan,four,quatre,,number
+4300008,Catalan,He is a doctor.,És metge.,,sentence
+4300009,Catalan,The house is big.,La casa és gran.,,sentence
+4300010,Catalan,The car is red.,El cotxe és vermell.,,sentence
+4300011,Catalan,I see the house.,Veig la casa.,,sentence
+4300012,Catalan,He has a car.,Té un cotxe.,,sentence
+4300013,Catalan,He has a red car.,Té un cotxe vermell.,,sentence
+4300014,Catalan,I see four cars.,Veig quatre cotxes.,,sentence
