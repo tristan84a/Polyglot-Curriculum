@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+2800000,Georgian,house,სახლი,,noun
+2800001,Georgian,water,წყალი,,noun
+2800002,Georgian,man,კაცი,,noun
+2800003,Georgian,doctor,ექიმი,,noun
+2800004,Georgian,car,მანქანა,,noun
+2800005,Georgian,red,წითელი,,adjective
+2800006,Georgian,big,დიდი,,adjective
+2800007,Georgian,four,ოთხი,,number
+2800008,Georgian,He is a doctor.,ის ექიმია.,,sentence
+2800009,Georgian,The house is big.,სახლი დიდია.,,sentence
+2800010,Georgian,The car is red.,მანქანა წითელია.,,sentence
+2800011,Georgian,I see the house.,სახლს ვხედავ.,,sentence
+2800012,Georgian,He has a car.,მას მანქანა აქვს.,,sentence
+2800013,Georgian,He has a red car.,მას წითელი მანქანა აქვს.,,sentence
+2800014,Georgian,I see four cars.,ოთხ მანქანას ვხედავ.,,sentence
