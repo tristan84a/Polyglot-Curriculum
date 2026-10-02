@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+5400000,Slovene,house,hiša,,noun
+5400001,Slovene,water,voda,,noun
+5400002,Slovene,man,moški,,noun
+5400003,Slovene,doctor,zdravnik,,noun
+5400004,Slovene,car,avto,,noun
+5400005,Slovene,red,rdeč,,adjective
+5400006,Slovene,big,velik,,adjective
+5400007,Slovene,four,štiri,,number
+5400008,Slovene,He is a doctor.,On je zdravnik.,,sentence
+5400009,Slovene,The house is big.,Hiša je velika.,,sentence
+5400010,Slovene,The car is red.,Avto je rdeč.,,sentence
+5400011,Slovene,I see the house.,Vidim hišo.,,sentence
+5400012,Slovene,He has a car.,Ima avto.,,sentence
+5400013,Slovene,He has a red car.,Ima rdeč avto.,,sentence
+5400014,Slovene,I see four cars.,Vidim štiri avte.,,sentence
