@@ -46,13 +46,23 @@ Greek       1100000-1199999       1100000-1100099       100
 Hindi       1200000-1299999       1200000-1200099       100
 Hebrew      1300000-1399999       1300000-1300099       100
 Mandarin    1400000-1499999       1400000-1400099       100
-Icelandic   1500000-1599999       1500000-1500099       100
+Icelandic   1500000-1599999       1500000-1500519       520
 Italian     1600000-1699999       1600000-1600099       100
 Serbian     1700000-1799999       1700000-1700099       100
 Swedish     1800000-1899999       1800000-1800099       100
 Punjabi     1900000-1999999       1900000-1900099       100
-Portuguese  2000000-2099999       2000000-2000100       101
+Portuguese  2000000-2099999       2000000-2000099       100
 Korean      2100000-2199999       2100000-2100099       100
+Finnish     2200000-2299999       2200000-2200014       15
+Ukrainian   2300000-2399999       2300000-2300014       15
+Persian     2400000-2499999       2400000-2400014       15
+Romanian    2500000-2599999       2500000-2500014       15
+Danish      2600000-2699999       2600000-2600014       15
+Czech       2700000-2799999       2700000-2700014       15
+Georgian    2800000-2899999       2800000-2800014       15
+Swahili     2900000-2999999       2900000-2900014       15
+Albanian    3000000-3099999       3000000-3000014       15
+Cantonese   3100000-3199999       3100000-3100014       15
 
 These ranges are reservations, not curriculum-size targets. Unused IDs
 within a language's block remain reserved for that language. Stable IDs
@@ -124,6 +134,7 @@ counter frontier through 一-五, 人, 冊 and つ forms. Continue from counters
 and quantity while reinforcing plain forms, て-form constructions, clause
 modification and modal meanings longitudinally; comparison and later syllabus
 systems remain ahead rather than requiring a restart.
+
 POLISH
 Syllabus: Syllabi/Polyglot_Polish_Syllabus_v0.2.txt
 Syllabus version: 0.2
@@ -264,6 +275,7 @@ frontier past intervening syllabus introductions. Continue the main
 introduction sequence at ES-20 while reusing the already-open tense/mood
 systems longitudinally. Spain remains the unmarked production reference;
 pan-Hispanic variation remains a later explicit strand.
+
 RUSSIAN
 Syllabus: Syllabi/Polyglot_Russian_Syllabus_v0.2.txt
 Syllabus version: 0.2
@@ -414,3 +426,62 @@ KO-19 with plural 들 and the core particle system while reinforcing the
 opening structures through widening-spiral vocabulary growth. Duplicate
 EnglishPrompt and ID checks are required before future commits.
 
+FINNISH
+Card file: Cards/Finnish.csv
+Cards: 15
+Used IDs: 2200000-2200014
+Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+
+UKRAINIAN
+Card file: Cards/Ukrainian.csv
+Cards: 15
+Used IDs: 2300000-2300014
+Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+
+PERSIAN
+Card file: Cards/Persian.csv
+Cards: 15
+Used IDs: 2400000-2400014
+Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+
+ROMANIAN
+Card file: Cards/Romanian.csv
+Cards: 15
+Used IDs: 2500000-2500014
+Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+
+DANISH
+Card file: Cards/Danish.csv
+Cards: 15
+Used IDs: 2600000-2600014
+Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+
+CZECH
+Card file: Cards/Czech.csv
+Cards: 15
+Used IDs: 2700000-2700014
+Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+
+GEORGIAN
+Card file: Cards/Georgian.csv
+Cards: 15
+Used IDs: 2800000-2800014
+Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+
+SWAHILI
+Card file: Cards/Swahili.csv
+Cards: 15
+Used IDs: 2900000-2900014
+Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+
+ALBANIAN
+Card file: Cards/Albanian.csv
+Cards: 15
+Used IDs: 3000000-3000014
+Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+
+CANTONESE
+Card file: Cards/Cantonese.csv
+Cards: 15
+Used IDs: 3100000-3100014
+Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. Traditional characters with Jyutping InputHint; no syllabus or frontier yet.
