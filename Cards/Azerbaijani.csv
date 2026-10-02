@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+5500000,Azerbaijani,house,ev,,noun
+5500001,Azerbaijani,water,su,,noun
+5500002,Azerbaijani,man,kişi,,noun
+5500003,Azerbaijani,doctor,həkim,,noun
+5500004,Azerbaijani,car,maşın,,noun
+5500005,Azerbaijani,red,qırmızı,,adjective
+5500006,Azerbaijani,big,böyük,,adjective
+5500007,Azerbaijani,four,dörd,,number
+5500008,Azerbaijani,He is a doctor.,O həkimdir.,,sentence
+5500009,Azerbaijani,The house is big.,Ev böyükdür.,,sentence
+5500010,Azerbaijani,The car is red.,Maşın qırmızıdır.,,sentence
+5500011,Azerbaijani,I see the house.,Mən evi görürəm.,,sentence
+5500012,Azerbaijani,He has a car.,Onun maşını var.,,sentence
+5500013,Azerbaijani,He has a red car.,Onun qırmızı maşını var.,,sentence
+5500014,Azerbaijani,I see four cars.,Mən dörd maşın görürəm.,,sentence
