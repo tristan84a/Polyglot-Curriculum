@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+4700000,Bulgarian,house,къща,,noun
+4700001,Bulgarian,water,вода,,noun
+4700002,Bulgarian,man,мъж,,noun
+4700003,Bulgarian,doctor,лекар,,noun
+4700004,Bulgarian,car,кола,,noun
+4700005,Bulgarian,red,червен,,adjective
+4700006,Bulgarian,big,голям,,adjective
+4700007,Bulgarian,four,четири,,number
+4700008,Bulgarian,He is a doctor.,Той е лекар.,,sentence
+4700009,Bulgarian,The house is big.,Къщата е голяма.,,sentence
+4700010,Bulgarian,The car is red.,Колата е червена.,,sentence
+4700011,Bulgarian,I see the house.,Виждам къщата.,,sentence
+4700012,Bulgarian,He has a car.,Той има кола.,,sentence
+4700013,Bulgarian,He has a red car.,Той има червена кола.,,sentence
+4700014,Bulgarian,I see four cars.,Виждам четири коли.,,sentence
