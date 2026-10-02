@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+3000000,Albanian,house,shtëpi,,noun
+3000001,Albanian,water,ujë,,noun
+3000002,Albanian,man,burrë,,noun
+3000003,Albanian,doctor,mjek,,noun
+3000004,Albanian,car,makinë,,noun
+3000005,Albanian,red,i kuq,,adjective
+3000006,Albanian,big,i madh,,adjective
+3000007,Albanian,four,katër,,number
+3000008,Albanian,He is a doctor.,Ai është mjek.,,sentence
+3000009,Albanian,The house is big.,Shtëpia është e madhe.,,sentence
+3000010,Albanian,The car is red.,Makina është e kuqe.,,sentence
+3000011,Albanian,I see the house.,E shoh shtëpinë.,,sentence
+3000012,Albanian,He has a car.,Ai ka një makinë.,,sentence
+3000013,Albanian,He has a red car.,Ai ka një makinë të kuqe.,,sentence
+3000014,Albanian,I see four cars.,Shoh katër makina.,,sentence
