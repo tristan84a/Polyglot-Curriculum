@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+5000000,Tibetan,house,ཁང་པ་,,noun
+5000001,Tibetan,water,ཆུ་,,noun
+5000002,Tibetan,man,སྐྱེས་པ་,,noun
+5000003,Tibetan,doctor,སྨན་པ་,,noun
+5000004,Tibetan,car,མོ་ཊ་,,noun
+5000005,Tibetan,red,དམར་པོ་,,adjective
+5000006,Tibetan,big,ཆེན་པོ་,,adjective
+5000007,Tibetan,four,བཞི་,,number
+5000008,Tibetan,He is a doctor.,ཁོ་སྨན་པ་རེད།,,sentence
+5000009,Tibetan,The house is big.,ཁང་པ་ཆེན་པོ་རེད།,,sentence
+5000010,Tibetan,The car is red.,མོ་ཊ་དམར་པོ་རེད།,,sentence
+5000011,Tibetan,I see the house.,ངས་ཁང་པ་མཐོང་གི་འདུག,,sentence
+5000012,Tibetan,He has a car.,ཁོ་ལ་མོ་ཊ་ཡོད་རེད།,,sentence
+5000013,Tibetan,He has a red car.,ཁོ་ལ་མོ་ཊ་དམར་པོ་ཡོད་རེད།,,sentence
+5000014,Tibetan,I see four cars.,ངས་མོ་ཊ་བཞི་མཐོང་གི་འདུག,,sentence
