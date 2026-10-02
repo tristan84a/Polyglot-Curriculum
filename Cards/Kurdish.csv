@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+5900000,Kurdish,house,mal,,noun
+5900001,Kurdish,water,av,,noun
+5900002,Kurdish,man,mêr,,noun
+5900003,Kurdish,doctor,doktor,,noun
+5900004,Kurdish,car,erebe,,noun
+5900005,Kurdish,red,sor,,adjective
+5900006,Kurdish,big,mezin,,adjective
+5900007,Kurdish,four,çar,,number
+5900008,Kurdish,He is a doctor.,Ew doktor e.,,sentence
+5900009,Kurdish,The house is big.,Mal mezin e.,,sentence
+5900010,Kurdish,The car is red.,Erebe sor e.,,sentence
+5900011,Kurdish,I see the house.,Ez malê dibînim.,,sentence
+5900012,Kurdish,He has a car.,Ereba wî heye.,,sentence
+5900013,Kurdish,He has a red car.,Ereba wî ya sor heye.,,sentence
+5900014,Kurdish,I see four cars.,Ez çar erebeyan dibînim.,,sentence
