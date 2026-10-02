@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+5300000,Maltese,house,dar,,noun
+5300001,Maltese,water,ilma,,noun
+5300002,Maltese,man,raġel,,noun
+5300003,Maltese,doctor,tabib,,noun
+5300004,Maltese,car,karozza,,noun
+5300005,Maltese,red,aħmar,,adjective
+5300006,Maltese,big,kbir,,adjective
+5300007,Maltese,four,erbgħa,,number
+5300008,Maltese,He is a doctor.,Huwa tabib.,,sentence
+5300009,Maltese,The house is big.,Id-dar hija kbira.,,sentence
+5300010,Maltese,The car is red.,Il-karozza hija ħamra.,,sentence
+5300011,Maltese,I see the house.,Nara d-dar.,,sentence
+5300012,Maltese,He has a car.,Għandu karozza.,,sentence
+5300013,Maltese,He has a red car.,Għandu karozza ħamra.,,sentence
+5300014,Maltese,I see four cars.,Nara erba' karozzi.,,sentence
