@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+2300000,Ukrainian,house,будинок,,noun
+2300001,Ukrainian,water,вода,,noun
+2300002,Ukrainian,man,чоловік,,noun
+2300003,Ukrainian,doctor,лікар,,noun
+2300004,Ukrainian,car,машина,,noun
+2300005,Ukrainian,red,червоний,,adjective
+2300006,Ukrainian,big,великий,,adjective
+2300007,Ukrainian,four,чотири,,number
+2300008,Ukrainian,He is a doctor.,Він лікар.,,sentence
+2300009,Ukrainian,The house is big.,Будинок великий.,,sentence
+2300010,Ukrainian,The car is red.,Машина червона.,,sentence
+2300011,Ukrainian,I see the house.,Я бачу будинок.,,sentence
+2300012,Ukrainian,He has a car.,У нього є машина.,,sentence
+2300013,Ukrainian,He has a red car.,У нього є червона машина.,,sentence
+2300014,Ukrainian,I see four cars.,Я бачу чотири машини.,,sentence
