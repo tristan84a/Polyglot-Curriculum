@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+6000000,Zulu,house,indlu,,noun
+6000001,Zulu,water,amanzi,,noun
+6000002,Zulu,man,indoda,,noun
+6000003,Zulu,doctor,udokotela,,noun
+6000004,Zulu,car,imoto,,noun
+6000005,Zulu,red,bomvu,,adjective
+6000006,Zulu,big,khulu,,adjective
+6000007,Zulu,four,ne,,number
+6000008,Zulu,He is a doctor.,Ungudokotela.,,sentence
+6000009,Zulu,The house is big.,Indlu inkulu.,,sentence
+6000010,Zulu,The car is red.,Imoto ibomvu.,,sentence
+6000011,Zulu,I see the house.,Ngibona indlu.,,sentence
+6000012,Zulu,He has a car.,Unemoto.,,sentence
+6000013,Zulu,He has a red car.,Unemoto ebomvu.,,sentence
+6000014,Zulu,I see four cars.,Ngibona izimoto ezine.,,sentence
