@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+2700000,Czech,house,dům,,noun
+2700001,Czech,water,voda,,noun
+2700002,Czech,man,muž,,noun
+2700003,Czech,doctor,lékař,,noun
+2700004,Czech,car,auto,,noun
+2700005,Czech,red,červený,,adjective
+2700006,Czech,big,velký,,adjective
+2700007,Czech,four,čtyři,,number
+2700008,Czech,He is a doctor.,Je lékař.,,sentence
+2700009,Czech,The house is big.,Dům je velký.,,sentence
+2700010,Czech,The car is red.,Auto je červené.,,sentence
+2700011,Czech,I see the house.,Vidím dům.,,sentence
+2700012,Czech,He has a car.,Má auto.,,sentence
+2700013,Czech,He has a red car.,Má červené auto.,,sentence
+2700014,Czech,I see four cars.,Vidím čtyři auta.,,sentence
