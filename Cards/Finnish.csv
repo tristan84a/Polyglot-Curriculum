@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+2200000,Finnish,house,talo,,noun
+2200001,Finnish,water,vesi,,noun
+2200002,Finnish,man,mies,,noun
+2200003,Finnish,doctor,lääkäri,,noun
+2200004,Finnish,car,auto,,noun
+2200005,Finnish,red,punainen,,adjective
+2200006,Finnish,big,iso,,adjective
+2200007,Finnish,four,neljä,,number
+2200008,Finnish,He is a doctor.,Hän on lääkäri.,,sentence
+2200009,Finnish,The house is big.,Talo on iso.,,sentence
+2200010,Finnish,The car is red.,Auto on punainen.,,sentence
+2200011,Finnish,I see the house.,Näen talon.,,sentence
+2200012,Finnish,He has a car.,Hänellä on auto.,,sentence
+2200013,Finnish,He has a red car.,Hänellä on punainen auto.,,sentence
+2200014,Finnish,I see four cars.,Näen neljä autoa.,,sentence
