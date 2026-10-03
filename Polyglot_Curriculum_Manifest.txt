@@ -5,483 +5,265 @@ Encoding: UTF-8
 
 1. PURPOSE
 
-This manifest is the compact progress and allocation record for the
-Polyglot curriculum repository.
+This manifest is the compact progress and allocation record for the Polyglot curriculum repository.
 
-It does not define pedagogy. The Polyglot Card Generation Protocol is the
-primary operating document for card generators. Each language syllabus
-provides that language's sequence of introductions; the Charter provides
-top-level project purpose and clarification; and the language CSV is
-authoritative for cards that actually exist and for their row order.
+The Polyglot Card Generation Protocol is the primary operating document for card generators. Each established language syllabus provides that language's sequence of introductions; the Charter provides top-level project purpose; and each language CSV is authoritative for cards that actually exist and for their row order.
 
-The manifest records stable language ID allocations, current card-file
-extent, syllabus version, the next syllabus frontier for forward
-construction, and a concise checkpoint. Routine card generation may update
-this manifest without amending the Charter or a language syllabus.
+The manifest records stable language ID allocations, current card-file extent, syllabus/frontier information where applicable, and concise checkpoints. Micro decks have no active frontier until they deliberately graduate into systematic syllabus-governed development.
 
 Current generation protocol:
-Polyglot_Card_Generation_Protocol_v0.9.txt
-
-A fresh generator extending an established language should normally begin
-with the Protocol, then read this language's Manifest entry, syllabus and
-current CSV. Other language decks are optional examples rather than
-authorities.
+Polyglot_Card_Generation_Protocol_v1.0.txt
 
 2. ID ALLOCATION
 
-Polyglot currently uses integer language blocks of 100,000 IDs.
+Polyglot uses integer language blocks of 100,000 IDs.
 
-Language    Reserved ID range    Current used IDs     Current cards
-French      100000-199999        100000-100599        600
-German      200000-299999        200000-200749        750
-Japanese    300000-399999        300000-300499        500
-Polish      400000-499999        400000-400249        250
-Hungarian   500000-599999        500000-500311        312
-Turkish     600000-699999        600000-600249        250
-Arabic      700000-799999        700000-700499        500
-Ojibwe      800000-899999        800000-800098        99
-Spanish     900000-999999        900000-900360        361
-Russian     1000000-1099999       1000000-1000452       453
-Greek       1100000-1199999       1100000-1100099       100
-Hindi       1200000-1299999       1200000-1200099       100
-Hebrew      1300000-1399999       1300000-1300099       100
-Mandarin    1400000-1499999       1400000-1400099       100
-Icelandic   1500000-1599999       1500000-1500519       520
-Italian     1600000-1699999       1600000-1600099       100
-Serbian     1700000-1799999       1700000-1700099       100
-Swedish     1800000-1899999       1800000-1800099       100
-Punjabi     1900000-1999999       1900000-1900099       100
-Portuguese  2000000-2099999       2000000-2000099       100
-Korean      2100000-2199999       2100000-2100099       100
-Finnish     2200000-2299999       2200000-2200014       15
-Ukrainian   2300000-2399999       2300000-2300014       15
-Persian     2400000-2499999       2400000-2400014       15
-Romanian    2500000-2599999       2500000-2500014       15
-Danish      2600000-2699999       2600000-2600014       15
-Czech       2700000-2799999       2700000-2700014       15
-Georgian    2800000-2899999       2800000-2800014       15
-Swahili     2900000-2999999       2900000-2900014       15
-Albanian    3000000-3099999       3000000-3000014       15
-Cantonese   3100000-3199999       3100000-3100014       15
+Language     Reserved ID range       Current used IDs       Current cards
+French       100000-199999           100000-100599          600
+German       200000-299999           200000-200749          750
+Japanese     300000-399999           300000-300499          500
+Polish       400000-499999           400000-400249          250
+Hungarian    500000-599999           500000-500311          312
+Turkish      600000-699999           600000-600249          250
+Arabic       700000-799999           700000-700499          500
+Ojibwe       800000-899999           800000-800098          99
+Spanish      900000-999999           900000-900360          361
+Russian      1000000-1099999         1000000-1000452        453
+Greek        1100000-1199999         1100000-1100099        100
+Hindi        1200000-1299999         1200000-1200099        100
+Hebrew       1300000-1399999         1300000-1300099        100
+Mandarin     1400000-1499999         1400000-1400099        100
+Icelandic    1500000-1599999         1500000-1500519        520
+Italian      1600000-1699999         1600000-1600099        100
+Serbian      1700000-1799999         1700000-1700099        100
+Swedish      1800000-1899999         1800000-1800099        100
+Punjabi      1900000-1999999         1900000-1900099        100
+Portuguese   2000000-2099999         2000000-2000099        100
+Korean       2100000-2199999         2100000-2100099        100
+Finnish      2200000-2299999         2200000-2200099        100
+Ukrainian    2300000-2399999         2300000-2300014        15
+Persian      2400000-2499999         2400000-2400014        15
+Romanian     2500000-2599999         2500000-2500014        15
+Danish       2600000-2699999         2600000-2600014        15
+Czech        2700000-2799999         2700000-2700014        15
+Georgian     2800000-2899999         2800000-2800014        15
+Swahili      2900000-2999999         2900000-2900014        15
+Albanian     3000000-3099999         3000000-3000014        15
+Cantonese    3100000-3199999         3100000-3100014        15
+Dutch        3200000-3299999         3200000-3200014        15
+Thai         3300000-3399999         3300000-3300014        15
+Armenian     3400000-3499999         3400000-3400014        15
+Tamil        3500000-3599999         3500000-3500014        15
+Norwegian    3600000-3699999         3600000-3600014        15
+Latin        3700000-3799999         3700000-3700014        15
+Vietnamese   3800000-3899999         3800000-3800014        15
+Basque       3900000-3999999         3900000-3900014        15
+Bengali      4000000-4099999         4000000-4000014        15
+Uzbek        4100000-4199999         4100000-4100014        15
+Hausa        4200000-4299999         4200000-4200014        15
+Catalan      4300000-4399999         4300000-4300014        15
+Tagalog      4400000-4499999         4400000-4400014        15
+Lithuanian   4500000-4599999         4500000-4500014        15
+Welsh        4600000-4699999         4600000-4600014        15
+Bulgarian    4700000-4799999         4700000-4700014        15
+Indonesian   4800000-4899999         4800000-4800014        15
+Yoruba       4900000-4999999         4900000-4900014        15
+Tibetan      5000000-5099999         5000000-5000014        15
+Estonian     5100000-5199999         5100000-5100014        15
+Somali       5200000-5299999         5200000-5200014        15
+Maltese      5300000-5399999         5300000-5300014        15
+Slovene      5400000-5499999         5400000-5400014        15
+Azerbaijani  5500000-5599999         5500000-5500014        15
+Gujarati     5600000-5699999         5600000-5600014        15
+Latvian      5700000-5799999         5700000-5700014        15
+Javanese     5800000-5899999         5800000-5800014        15
+Kurdish      5900000-5999999         5900000-5900014        15
+Zulu         6000000-6099999         6000000-6000014        15
+Khmer        6100000-6199999         6100000-6100014        15
+Slovak       6200000-6299999         6200000-6200014        15
+Burmese      6300000-6399999         6300000-6300014        15
+Malagasy     6400000-6499999         6400000-6400014        15
+Sinhala      6500000-6599999         6500000-6500014        15
+Kazakh       6600000-6699999         6600000-6600014        15
+Macedonian   6700000-6799999         6700000-6700014        15
+Romani       6800000-6899999         6800000-6800014        15
+Inuktitut    6900000-6999999         6900000-6900014        15
+Quechua      7000000-7099999         7000000-7000014        15
+Telugu       7100000-7199999         7100000-7100014        15
 
-These ranges are reservations, not curriculum-size targets. Unused IDs
-within a language's block remain reserved for that language. Stable IDs
-must not be reused or renumbered merely because curriculum units are
-later split, merged, reordered, or reclassified.
+These ranges are reservations, not curriculum-size targets. Stable live IDs are not renumbered merely because curriculum organization later changes.
 
-Before assigning an ID block to a new language, consult this manifest
-and reserve a new non-overlapping range deliberately.
-
-3. CURRENT LANGUAGE CHECKPOINTS
+3. ESTABLISHED AND SEED-DECK CHECKPOINTS
 
 FRENCH
 Syllabus: Syllabi/Polyglot_French_Syllabus_v0.3.txt
-Syllabus version: 0.3
-Card file: Cards/French.csv
-Cards: 600
-Used IDs: 100000-100599
-Checkpoint: The French deck has been rebuilt as the reviewed 600-card
-canonical sequence under the revised pacing model. It begins with the
-shared small lexical seed and moves rapidly into productive structure,
-then develops articles, agreement, present-tense verbs, negation,
-questions, objects, partitives, location, determiners, common adverbs,
-existence, everyday predicate expressions, and an initial passé composé
-system with avoir and être. Continue from the current CSV and reconcile
-future extension against syllabus v0.3 rather than the superseded
-636-card sequence.
+Cards: 600 | Used IDs: 100000-100599
+Checkpoint: Established canonical deck. Continue from the current CSV and syllabus v0.3.
 
 GERMAN
 Syllabus: Syllabi/Polyglot_German_Syllabus_v0.3.txt
-Syllabus version: 0.3
-Card file: Cards/German.csv
-Cards: 750
-Used IDs: 200000-200749
+Cards: 750 | Used IDs: 200000-200749
 Frontier: DE-71 — Strong-verb Präteritum
-Checkpoint: German has advanced to 750 cards under syllabus v0.3. Cards
-200554-200749 demonstrate the Protocol v0.9 widening spiral rather than
-opening a sealed past-tense block. The extension opens regular and irregular
-Perfekt with haben and sein; separable and inseparable participles; Perfekt
-questions and negation; and conversational event vocabulary while continuing
-adjective declension across definite, indefinite, dative and zero-article
-contexts. Travel, places, weather, time, numbers and additional everyday
-verbs and adjectives enter throughout. Präteritum of sein, haben and modal
-verbs is opened alongside Perfekt, followed by first productive weak-verb
-Präteritum examples. Coordinating conjunctions are previewed at the end.
-Continue the main sequence at DE-71 with strong-verb Präteritum while keeping
-Perfekt, case, adjective endings, V2 and ordinary lexical expansion active.
-Do not turn the remaining past system into an isolated paradigm block.
+Checkpoint: Established widening-spiral deck with Perfekt, case/adjective systems and initial Präteritum active longitudinally.
 
 JAPANESE
 Syllabus: Syllabi/Polyglot_Japanese_Syllabus_v0.4.txt
-Syllabus version: 0.4
-Card file: Cards/Japanese.csv
-Cards: 500
-Used IDs: 300000-300499
-Checkpoint: Japanese has advanced from 120 to 500 live cards under syllabus
-v0.4. The expansion first broadens everyday vocabulary and develops
-い-adjectives and な-adjectives through attributive, predicative, negative
-and past forms; ある/いる existence and location; 好き; and additional
-ordinary kanji/kana/katakana literacy. It then establishes a substantial
-plain-form system across non-past, negative, past and past-negative verbs,
-nominal predicates and adjectives; expands て-form morphology across major
-verb classes; and develops sequential actions, ～ている, ～てください,
-～てもいい, ～てはいけない, ～てみる and negative requests. Later cards
-open prenominal relative clauses, 思う/言う complements, reason and contrast,
-nominalization, 時/前/後 time relations, ～たい, potential forms, できる,
-つもり, 予定, obligation, lack of necessity, advice, 欲しい, 分かる and
-purpose-of-motion constructions. Cards 300480-300499 begin the numbers and
-counter frontier through 一-五, 人, 冊 and つ forms. Continue from counters
-and quantity while reinforcing plain forms, て-form constructions, clause
-modification and modal meanings longitudinally; comparison and later syllabus
-systems remain ahead rather than requiring a restart.
+Cards: 500 | Used IDs: 300000-300499
+Checkpoint: Established deck through plain forms, て-form systems, clause modification, modality and the opening of numbers/counters.
 
 POLISH
 Syllabus: Syllabi/Polyglot_Polish_Syllabus_v0.2.txt
-Syllabus version: 0.2
-Card file: Cards/Polish.csv
-Cards: 250
-Used IDs: 400000-400249
+Cards: 250 | Used IDs: 400000-400249
 Frontier: PL-15 — Masculine-personal versus non-masculine-personal plural
-Checkpoint: Polish has advanced from the 51-card seed to 250 cards under
-syllabus v0.2 and Protocol v0.9. The extension establishes possession and
-existence with mieć and nie ma; productive present-tense work with pracować,
-czytać and wiedzieć; question words; chcieć and móc with infinitives; direct
-objects and first visible accusative morphology; jeść and pić; location with
-w and na; destination and source with do and z; first motion contrasts with
-iść and jechać; accompaniment with z + instrumental; and a widening everyday
-lexicon. Possessives, low numerals and nominative plurals are previewed in
-useful contexts. Later vocabulary increasingly enters directly through
-established sentence frames rather than requiring a standalone lexical card.
-Continue the main introduction sequence at PL-15 by making the
-masculine-personal versus non-masculine-personal plural contrast explicit,
-then widen the accusative and case system without turning declension into
-isolated paradigm blocks. Duplicate EnglishPrompt and ID checks are required
-before future commits.
+Checkpoint: Present verbs, first case functions, motion, possession, numbers and plurals are active in a widening spiral.
 
 HUNGARIAN
 Syllabus: Syllabi/Polyglot_Hungarian_Syllabus_v0.2.txt
-Syllabus version: 0.2
-Card file: Cards/Hungarian.csv
-Cards: 312
-Used IDs: 500000-500311
+Cards: 312 | Used IDs: 500000-500311
 Frontier: HU-55 — Topic-comment organization
-Checkpoint: Hungarian is locked through 500074. Cards 500075-500311 were
-rebuilt under syllabus v0.2 and Protocol v0.9 as a widening-spiral
-continuation. Lexical verb cards now consistently use -ni infinitives.
-Indefinite and definite present conjugation are established with declining
-paradigm density while vocabulary continues to grow. Accusative, local-case,
-possessive, dative, instrumental and other suffixal morphology is normally
-revealed through contextual sentences rather than isolated inflected-form
-lists. Infinitival complements, verbal prefixes, past, future, conditional
-and imperative/subjunctive forms have been opened and are available for
-longitudinal reuse. Later previews include accusative and reflexive pronouns,
-demonstrative case agreement, indefinite/negative pronouns, numbers, calendar
-language and comparison through HU-74. These previews do not move the main
-forward frontier past HU-55. Continue with Hungarian information structure
-while recycling the already-open verbal and nominal systems and continuing
-ordinary lexical expansion.
+Checkpoint: Definite/indefinite conjugation, suffixal morphology, possession, tense/mood and later previews are active. Lexical verbs use -ni infinitives.
 
 TURKISH
 Syllabus: Syllabi/Polyglot_Turkish_Syllabus_v0.1.txt
-Syllabus version: 0.1
-Card file: Cards/Turkish.csv
-Cards: 250
-Used IDs: 600000-600249
+Cards: 250 | Used IDs: 600000-600249
 Frontier: TR-17 — Buffer consonants and basic consonant alternations
-Checkpoint: Turkish has advanced from the 50-card seed to 250 cards under
-syllabus v0.1 and Protocol v0.9. The extension establishes basic -iyor verbal
-clauses; specific/definite accusative marking; verbal negation and verbal
-polar questions; expanded demonstratives; numbers with singular nouns;
-dative, locative and ablative case functions; var/yok existence and
-possession; possessive suffixes and first genitive-possessive constructions.
-Vowel harmony is now repeatedly visible across plural, question, case and
-verbal morphology. The deck also previews the aorist through sevmek and
-bilmek; necessity constructions; direct past -di; future -(y)acak/-(y)ecek;
-and instrumental/comitative -la/-le while ordinary vocabulary continues to
-expand. Later lexical items increasingly enter through established sentence
-frames rather than automatically receiving standalone cards. Continue the
-main sequence at TR-17 by making buffer consonants and common consonant
-alternations explicit through useful morphology, then consolidate suffix
-order and the core case/possession system without turning it into isolated
-paradigm blocks. Duplicate EnglishPrompt and ID checks are required before
-future commits.
+Checkpoint: Present, core cases, possession, harmony, negation/questions and previews of aorist, past, future and comitative are active.
 
 ARABIC
 Syllabus: Syllabi/Polyglot_Arabic_Syllabus_v0.1.txt
-Syllabus version: 0.1
-Card file: Cards/Arabic.csv
-Cards: 500
-Used IDs: 700000-700499
-Checkpoint: Arabic has advanced from its 50-card nominal seed to a 500-card
-MSA foundation under syllabus v0.1. The expansion develops question words
-and ليس negation; common singular dual and plural noun forms; construct-state
-possession; possessive suffixes; core prepositions and location/existence;
-a conventional third-person masculine singular perfect citation form for
-verbs; controlled perfect and imperfect paradigms; natural subject omission;
-direct objects and object suffixes; لا and لم and لن negation; verbal
-questions; future سـ; time expressions; family and everyday vocabulary;
-initial numeral grammar; adjective and plural agreement; commands and
-prohibitions; coordination; basic relative clauses; أن complements and
-ability/necessity constructions; and additional high-frequency verbs.
-The deck remains ordinary unvocalized MSA with blank InputHint. Future
-development should consolidate these systems while moving into broader
-broken plurals and dual agreement, more idafa and attached-pronoun patterns,
-root/Form I awareness, derived forms, verbal nouns and participles, weak
-verb classes, relative clauses, numbers and eventually the first explicitly
-labelled spoken-variety strand.
+Cards: 500 | Used IDs: 700000-700499
+Checkpoint: Established ordinary unvocalized MSA foundation. Optional harakat are not added merely to disambiguate exact-match cards.
 
 OJIBWE
 Syllabus: Syllabi/Polyglot_Ojibwe_Syllabus_v0.1.txt
-Syllabus version: 0.1
-Card file: Cards/Ojibwe.csv
-Cards: 99
-Used IDs: 800000-800098
-Checkpoint: Ojibwe has advanced to a deliberately exploratory 99-card
-prototype under the Charter v0.8 prototype-first workflow. Double Vowel
-orthography is canonical, with the University of Minnesota Ojibwe
-People's Dictionary serving as the principal initial lexical/reference
-anchor but not the exclusive source. The opening establishes noun
-animacy through plural and demonstrative contrasts, paired
-inanimate/animate predicate verbs, and the animate/inanimate
-demonstrative system. The second fifty begins interrogatives and personal
-pronouns, noun-derived verbs of being, first-person VAI morphology,
-mino-ayaa and a polar question, further animate/inanimate lexical
-evidence, and a tightly controlled introduction to dependent nouns and
-possession through =niijaanis- and =iinizis-. The English demonstrative
-prompts mark animacy only; English this/these and that/those already mark
-number. Ojibwe remains the first explicit test of the Charter's
-documentation-limited-language policy: proceed as deeply as reliable
-evidence permits and do not manufacture unsupported forms or usage.
-Review and audit this 99-card prototype against Ojibwe syllabus v0.1
-before generating a substantially larger batch.
+Cards: 99 | Used IDs: 800000-800098
+Checkpoint: Exploratory Double Vowel prototype emphasizing animacy, demonstratives, predicate verbs, early personal morphology and possession. Continue only where reliable documentation supports forms and usage.
 
 SPANISH
 Syllabus: Syllabi/Polyglot_Spanish_Syllabus_v0.1.txt
-Syllabus version: 0.1
-Card file: Cards/Spanish.csv
-Cards: 361
-Used IDs: 900000-900360
+Cards: 361 | Used IDs: 900000-900360
 Frontier: ES-20 — Personal a
-Checkpoint: Cards 900100 onward were rebuilt as the reference widening-
-spiral continuation. Regular -er is first established densely with comer;
-later regular verbs receive progressively more selective contextualized
-coverage while new nouns and other vocabulary continue to enter. Regular
--ir then opens through vivir. Preterite, imperfect, future, conditional
-and present subjunctive are introduced progressively and thereafter mixed
-with present and with newly introduced verbs rather than isolated into
-exhaustive tense blocks. Later previews include real and hypothetical si
-clauses through ES-103, but these previews do not move the main forward
-frontier past intervening syllabus introductions. Continue the main
-introduction sequence at ES-20 while reusing the already-open tense/mood
-systems longitudinally. Spain remains the unmarked production reference;
-pan-Hispanic variation remains a later explicit strand.
+Checkpoint: Spain Spanish is the unmarked reference. Present, preterite, imperfect, future, conditional and subjunctive are open longitudinally; later previews do not move the main frontier.
 
 RUSSIAN
 Syllabus: Syllabi/Polyglot_Russian_Syllabus_v0.2.txt
-Syllabus version: 0.2
-Card file: Cards/Russian.csv
-Cards: 453
-Used IDs: 1000000-1000452
-Checkpoint: Russian has advanced to 453 cards under syllabus v0.2 after a
-quick validation of the 100-card seed. The seed aligned well with RU-01
-through RU-10 while intentionally previewing accusative and genitive
-functions. The expansion develops nominative plural and adjective
-agreement, additional first- and second-conjugation/high-frequency verbs,
-question words and modal constructions, prepositional location versus
-accusative direction, идти/ехать, broader accusative animacy, possession
-and absence with genitive, imperfective past and past быть, compound
-imperfective future, first controlled imperfective/perfective contrasts,
-dative recipients and experiencers, initial instrumental accompaniment,
-numbers and quantity, imperatives, reflexive учиться, core preposition
-government, demonstratives/possessives and simple coordination/subordination.
-This reaches well beyond the old syllabus's opening stages by deliberate
-longitudinal interleaving; future expansion should reinforce aspect and
-case while broadening motion, past/future narration and noun-phrase
-agreement rather than treating each syllabus unit as a sealed block.
+Cards: 453 | Used IDs: 1000000-1000452
+Checkpoint: Established widening-spiral deck covering core case functions, present/past/future, initial aspect, motion, modality, possession, imperatives and clause linking.
 
 GREEK
 Syllabus: Syllabi/Polyglot_Greek_Syllabus_v0.1.txt
-Syllabus version: 0.1
-Card file: Cards/Greek.csv
-Cards: 100
-Used IDs: 1100000-1100099
-Checkpoint: Greek has begun with a 100-card prototype and is now governed
-by Greek syllabus v0.1. The opening uses ordinary monotonic Greek script
-and the shared eight-word seed, then develops nominative definite and
-indefinite noun phrases, masculine/feminine/neuter adjective agreement,
-personal pronouns followed by natural pro-drop clauses, present είμαι,
-present morphology with μιλάω and δουλεύω, δεν negation, Greek question
-punctuation, πού/τι/ποιος, έχω possession, first visible accusative article
-contrasts through βλέπω, and an intentional early preview of the central
-να + dependent-verb/aspect system through θέλω. Future expansion should
-reinforce these longitudinally while opening plural noun phrases, broader
-accusative use, basic prepositions, genitive possession and explicit aspect
-development; past and future need not wait for exhaustive declension work.
+Cards: 100 | Used IDs: 1100000-1100099
+Checkpoint: Seed deck in ordinary monotonic Greek with agreement, articles, pro-drop, present verbs, negation/questions, possession, accusative contrasts and an early να preview.
 
 HINDI
 Syllabus: Syllabi/Polyglot_Hindi_Syllabus_v0.1.txt
-Syllabus version: 0.1
-Card file: Cards/Hindi.csv
-Cards: 100
-Used IDs: 1200000-1200099
-Checkpoint: Hindi has begun with a 100-card seed and is now governed by
-Hindi syllabus v0.1. The opening uses ordinary Devanagari and the shared
-eight-word seed, then develops masculine/feminine adjective agreement,
-बच्चा/बच्ची, the pronoun and second-person register system, present forms
-of होना, gender-sensitive habitual predicates through बोलना and काम करना,
-नहीं negation, क्या polar questions, कहाँ/क्या/कौन, possession with के पास,
-first direct-object contrasts with and without को, an early oblique बच्चे,
-and distinct high-frequency want constructions with चाहिए and चाहना.
-Future expansion should reinforce these longitudinally while opening
-plural agreement, core postpositions and oblique forms, का/के/की
-possessives, pronoun obliques and progressive रहा; perfective morphology
-and ने need not wait for exhaustive noun paradigms.
+Cards: 100 | Used IDs: 1200000-1200099
+Checkpoint: Devanagari seed with agreement, pronoun/register distinctions, होना, habitual predicates, negation/questions, possession, first को contrasts and want constructions.
 
 HEBREW
 Syllabus: Syllabi/Polyglot_Hebrew_Syllabus_v0.1.txt
-Syllabus version: 0.1
-Card file: Cards/Hebrew.csv
-Cards: 100
-Used IDs: 1300000-1300099
-Checkpoint: Hebrew has begun with a 100-card seed and is now governed by
-Hebrew syllabus v0.1. The opening uses normal unpointed contemporary Hebrew
-and the shared lexical seed, then develops masculine/feminine adjective
-agreement, present nominal/adjectival predication without an overt copula,
-definite ה־ and attributive adjective definiteness, זה/זאת demonstratives,
-gendered personal pronouns, gender/number-sensitive present forms through
-לדבר and לעבוד, לא negation, ordinary polar questions, איפה/מה/מי,
-existential יש/אין, possession with יש + ל־, definite-object את contrasted
-with an indefinite object, infinitives and רוצה + infinitive. Future
-expansion should broaden plural agreement and present verbs while developing
-inflected possession/prepositions, של and construct-state possession, and
-a first controlled past-tense system; root/binyan awareness should support
-rather than delay useful language.
+Cards: 100 | Used IDs: 1300000-1300099
+Checkpoint: Unpointed contemporary Hebrew seed with agreement, zero-copula predication, definiteness, present verbs, questions/negation, existence/possession, את and infinitival complements.
 
 MANDARIN
 Syllabus: Syllabi/Polyglot_Mandarin_Syllabus_v0.1.txt
-Syllabus version: 0.1
-Card file: Cards/Mandarin.csv
-Cards: 100
-Used IDs: 1400000-1400099
-Checkpoint: Mandarin has begun with a 100-card seed and is now governed by
-Mandarin syllabus v0.1. The course is explicitly named Mandarin rather than
-Chinese so Cantonese, Hokkien and other Sinitic languages can remain
-independent future curricula. The opening uses Simplified Chinese Targets
-with tone-marked Hanyu Pinyin in InputHint, the shared eight-word seed,
-early 个 numeral-classifier phrases, personal pronouns and -们, 是 identity
-predication, 在 location, neutral adjectival predicates with 很, 这/那 plus
-classifier, invariant verbs, 不 negation, 吗 questions, 哪里/什么/谁,
-有/没有 possession, first lexical classifiers 本 and 辆, 看 versus
-resultative 看见, 想 + verb, and initial everyday 吃/喝 vocabulary.
-Future expansion should develop 的 possession/modification, classifiers,
-time/place word order and broader verbal vocabulary while allowing clear
-aspect and resultative structures to enter early rather than waiting for
-exhaustive classifier or character coverage.
+Cards: 100 | Used IDs: 1400000-1400099
+Checkpoint: Simplified Chinese Targets with tone-marked Hanyu Pinyin InputHint; seed covers classifiers, predication, location, questions/negation, possession and initial resultative structure.
 
 ICELANDIC
 Syllabus: Syllabi/Polyglot_Icelandic_Syllabus_v0.1.txt
-Syllabus version: 0.1
-Card file: Cards/Icelandic.csv
-Cards: 520
-Used IDs: 1500000-1500519
+Cards: 520 | Used IDs: 1500000-1500519
 Frontier: IS-14 — Case paradigms by noun class
-Checkpoint: Icelandic has advanced from the 100-card seed to 520 cards under
-syllabus v0.1 and Protocol v0.9. The extension broadens present weak, strong
-and irregular verbs; establishes repeated main-clause V2 through fronted
-time/place elements; expands content questions; develops accusative direct
-objects, first dative government, genitive possession, location/direction
-and common prepositions through contextual sentences; and substantially
-widens definite/article and adjective agreement across familiar noun
-classes. Plurals, possessives, demonstratives, sinn, numbers one through
-five, modals and imperatives are introduced in useful contexts. The verbal
-strand now includes weak and strong past forms, past vera/eiga, perfect with
-hafa, first pluperfect examples and ordinary future reference, while later
-clause linking and comparison are previewed. Vocabulary increasingly enters
-inside already established sentence frames rather than automatically
-receiving a standalone card. Continue the main sequence at IS-14 by
-systematizing representative noun classes from case forms already encountered,
-then deepen article/adjective declension and the verbal spine without
-turning either into isolated paradigm blocks. Duplicate EnglishPrompt and ID
-checks are required before future commits.
+Checkpoint: Established deck with V2, case government, noun/adjective agreement, plurals, possession, modals, past, perfect/pluperfect and later previews.
+
+ITALIAN
+Card file: Cards/Italian.csv
+Cards: 100 | Used IDs: 1600000-1600099
+Checkpoint: Seed deck. No current Italian syllabus file is recorded; audit the seed before substantial expansion.
+
+SERBIAN
+Syllabus: Syllabi/Polyglot_Serbian_Syllabus_v0.2.txt
+Cards: 100 | Used IDs: 1700000-1700099
+Checkpoint: Seed deck using Serbian/Cyrillic as the unmarked Serbo-Croatian reference; Latin and regional variants are explicitly distinguished when introduced.
+
+SWEDISH
+Syllabus: Syllabi/Polyglot_Swedish_Syllabus_v0.1.txt
+Cards: 100 | Used IDs: 1800000-1800099
+Checkpoint: Seed deck governed by Swedish syllabus v0.1.
+
+PUNJABI
+Syllabus: Syllabi/Polyglot_Punjabi_Syllabus_v0.1.txt
+Cards: 100 | Used IDs: 1900000-1900099
+Checkpoint: Seed deck governed by Punjabi syllabus v0.1.
+
+PORTUGUESE
+Syllabus: Syllabi/Polyglot_Portuguese_Syllabus_v0.2.txt
+Cards: 100 | Used IDs: 2000000-2000099
+Frontier: PT-12 — Regular -er present
+Checkpoint: Contemporary educated Brazilian Portuguese is the unmarked baseline; European Portuguese is a later explicitly labelled comparison strand.
 
 KOREAN
 Syllabus: Syllabi/Polyglot_Korean_Syllabus_v0.1.txt
-Syllabus version: 0.1
-Card file: Cards/Korean.csv
-Cards: 100
-Used IDs: 2100000-2100099
+Cards: 100 | Used IDs: 2100000-2100099
 Frontier: KO-19 — Plural 들
-Checkpoint: Korean has begun with a 100-card seed under syllabus v0.1 and
-Protocol v0.9. The opening uses ordinary Hangul with blank InputHint and
-contemporary standard South Korean usage. It establishes 이에요/예요 nominal
-identification, first 은/는 topics and 이/가 subjects, descriptive predicates,
-polite 해요체 present clauses, 을/를 objects, 안 verbal negation, 아니다
-copular negation, polar questions, core interrogatives, destination/location
-에, action-location 에서, 있다/없다 existence and possession, 이/그/저
-demonstratives, basic time expressions and first -고 싶어요 desire clauses.
-The seed deliberately avoids an artificial English-style pronoun table:
-저 and 우리 are introduced while 당신 and routine he/she pronouns are
-deferred in favor of natural omission and social reference. Continue at
-KO-19 with plural 들 and the core particle system while reinforcing the
-opening structures through widening-spiral vocabulary growth. Duplicate
-EnglishPrompt and ID checks are required before future commits.
+Checkpoint: Standard South Korean Hangul seed with polite 해요체, core particles, negation/questions, location, existence/possession, demonstratives and desire clauses.
 
 FINNISH
-Card file: Cards/Finnish.csv
-Cards: 15
-Used IDs: 2200000-2200014
-Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+Syllabus: Syllabi/Polyglot_Finnish_Syllabus_v0.1.txt
+Cards: 100 | Used IDs: 2200000-2200099
+Frontier: FI-23 — Illative
+Checkpoint: Cards 2200000-2200014 remain the standardized micro opening. Cards 2200015-2200099 form the seed, establishing pronouns/olla, predication, plurals, common present verbs, subject omission, the negative verb, -ko/-kö questions, interrogatives, genitive possession, first total/partitive contrasts, numeral + partitive, inessive and elative. Continue by completing the interior local-case family with the illative.
 
-UKRAINIAN
-Card file: Cards/Ukrainian.csv
-Cards: 15
-Used IDs: 2300000-2300014
-Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+4. MICRO-DECK CHECKPOINTS
 
-PERSIAN
-Card file: Cards/Persian.csv
-Cards: 15
-Used IDs: 2400000-2400014
-Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
+Unless noted otherwise, each entry below is a standardized 15-card semantic bootstrap with natural target-language preview sentences. These decks have no active syllabus frontier. Language-specific systematic development begins only when a deck deliberately graduates into a seed deck.
 
-ROMANIAN
-Card file: Cards/Romanian.csv
-Cards: 15
-Used IDs: 2500000-2500014
-Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
-
-DANISH
-Card file: Cards/Danish.csv
-Cards: 15
-Used IDs: 2600000-2600014
-Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
-
-CZECH
-Card file: Cards/Czech.csv
-Cards: 15
-Used IDs: 2700000-2700014
-Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
-
-GEORGIAN
-Card file: Cards/Georgian.csv
-Cards: 15
-Used IDs: 2800000-2800014
-Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
-
-SWAHILI
-Card file: Cards/Swahili.csv
-Cards: 15
-Used IDs: 2900000-2900014
-Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
-
-ALBANIAN
-Card file: Cards/Albanian.csv
-Cards: 15
-Used IDs: 3000000-3000014
-Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. No syllabus or frontier yet.
-
-CANTONESE
-Card file: Cards/Cantonese.csv
-Cards: 15
-Used IDs: 3100000-3100014
-Checkpoint: Micro deck only; standardized bootstrap vocabulary and recycled preview sentences. Traditional characters with Jyutping InputHint; no syllabus or frontier yet.
+UKRAINIAN — Cards/Ukrainian.csv — 15 cards — 2300000-2300014
+PERSIAN — Cards/Persian.csv — 15 cards — 2400000-2400014
+ROMANIAN — Cards/Romanian.csv — 15 cards — 2500000-2500014
+DANISH — Cards/Danish.csv — 15 cards — 2600000-2600014
+CZECH — Cards/Czech.csv — 15 cards — 2700000-2700014. A historical Czech syllabus v0.2 exists, but the live deck remains micro-only and has no active frontier until graduation.
+GEORGIAN — Cards/Georgian.csv — 15 cards — 2800000-2800014
+SWAHILI — Cards/Swahili.csv — 15 cards — 2900000-2900014
+ALBANIAN — Cards/Albanian.csv — 15 cards — 3000000-3000014
+CANTONESE — Cards/Cantonese.csv — 15 cards — 3100000-3100014. Spoken Hong Kong Cantonese; Traditional characters with Jyutping InputHint.
+DUTCH — Cards/Dutch.csv — 15 cards — 3200000-3200014
+THAI — Cards/Thai.csv — 15 cards — 3300000-3300014
+ARMENIAN — Cards/Armenian.csv — 15 cards — 3400000-3400014
+TAMIL — Cards/Tamil.csv — 15 cards — 3500000-3500014
+NORWEGIAN — Cards/Norwegian.csv — 15 cards — 3600000-3600014
+LATIN — Cards/Latin.csv — 15 cards — 3700000-3700014. Neo-Latin autoraeda is used for modern car.
+VIETNAMESE — Cards/Vietnamese.csv — 15 cards — 3800000-3800014
+BASQUE — Cards/Basque.csv — 15 cards — 3900000-3900014
+BENGALI — Cards/Bengali.csv — 15 cards — 4000000-4000014
+UZBEK — Cards/Uzbek.csv — 15 cards — 4100000-4100014
+HAUSA — Cards/Hausa.csv — 15 cards — 4200000-4200014
+CATALAN — Cards/Catalan.csv — 15 cards — 4300000-4300014
+TAGALOG — Cards/Tagalog.csv — 15 cards — 4400000-4400014
+LITHUANIAN — Cards/Lithuanian.csv — 15 cards — 4500000-4500014
+WELSH — Cards/Welsh.csv — 15 cards — 4600000-4600014
+BULGARIAN — Cards/Bulgarian.csv — 15 cards — 4700000-4700014
+INDONESIAN — Cards/Indonesian.csv — 15 cards — 4800000-4800014
+YORUBA — Cards/Yoruba.csv — 15 cards — 4900000-4900014
+TIBETAN — Cards/Tibetan.csv — 15 cards — 5000000-5000014
+ESTONIAN — Cards/Estonian.csv — 15 cards — 5100000-5100014
+SOMALI — Cards/Somali.csv — 15 cards — 5200000-5200014
+MALTESE — Cards/Maltese.csv — 15 cards — 5300000-5300014
+SLOVENE — Cards/Slovene.csv — 15 cards — 5400000-5400014
+AZERBAIJANI — Cards/Azerbaijani.csv — 15 cards — 5500000-5500014
+GUJARATI — Cards/Gujarati.csv — 15 cards — 5600000-5600014
+LATVIAN — Cards/Latvian.csv — 15 cards — 5700000-5700014
+JAVANESE — Cards/Javanese.csv — 15 cards — 5800000-5800014
+KURDISH — Cards/Kurdish.csv — 15 cards — 5900000-5900014. Kurmanji in Latin script is the initial reference variety.
+ZULU — Cards/Zulu.csv — 15 cards — 6000000-6000014
+KHMER — Cards/Khmer.csv — 15 cards — 6100000-6100014
+SLOVAK — Cards/Slovak.csv — 15 cards — 6200000-6200014
+BURMESE — Cards/Burmese.csv — 15 cards — 6300000-6300014
+MALAGASY — Cards/Malagasy.csv — 15 cards — 6400000-6400014
+SINHALA — Cards/Sinhala.csv — 15 cards — 6500000-6500014
+KAZAKH — Cards/Kazakh.csv — 15 cards — 6600000-6600014
+MACEDONIAN — Cards/Macedonian.csv — 15 cards — 6700000-6700014
+ROMANI — Cards/Romani.csv — 15 cards — 6800000-6800014. Vlax Romani is the initial reference variety.
+INUKTITUT — Cards/Inuktitut.csv — 15 cards — 6900000-6900014. Eastern Canadian/Nunavut-oriented Inuktitut in Unicode syllabics with Roman InputHint.
+QUECHUA — Cards/Quechua.csv — 15 cards — 7000000-7000014. Southern Quechua is the initial reference variety.
+TELUGU — Cards/Telugu.csv — 15 cards — 7100000-7100014
