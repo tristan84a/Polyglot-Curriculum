@@ -1,0 +1,297 @@
+POLYGLOT ITALIAN SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for Italian in Polyglot. It is grounded in the existing 100-card Italian seed deck. The seed is evidence for the opening sequence rather than a requirement that later development preserve every early authoring convention.
+
+The syllabus is a roadmap of introductions rather than a textbook chapter order. Useful structures may be previewed before their numbered unit and then reinforced longitudinally. Once a productive pattern is established, later cards should increasingly combine it with new vocabulary and other known structures rather than repeat sealed paradigms.
+
+REFERENCE VARIETY
+
+Contemporary standard Italian is the unmarked reference variety. Targets should be natural ordinary Italian rather than literal reproductions of English structure. Regional and colloquial alternatives may be introduced later when they materially improve educated-adult competence, but they should not displace the standard baseline without a clear reason.
+
+Orthography follows contemporary standard Italian. Accents and apostrophes are part of the target. InputHint is normally blank.
+
+OPENING EVIDENCE AND PACING
+
+Cards 1600000-1600099 establish the current seed. They introduce casa, uomo, donna, bambino; common adjectives; definite and indefinite articles; adjective agreement; essere; subject pronouns and ordinary subject omission; location with qui/lì; avere; a first regular -are paradigm through parlare and lavorare; non-negation; yes/no and content questions; vedere; and volere + infinitive.
+
+The seed demonstrates useful early systematic exposure to person/number morphology, but future verbs should use declining paradigm density once a pattern is established. New vocabulary should continue entering throughout grammatical development. Existing parenthetical person/register labels in the seed are historical scaffolding; future cards should normally rely on natural English, established defaults and contextual cues unless a distinction genuinely cannot otherwise be recovered.
+
+STAGE 1 — BOOTSTRAP AND THE BASIC CLAUSE
+
+IT-01 — Core nouns and adjectives
+OBJECTIVE: Establish a small reusable concrete vocabulary and high-frequency descriptive adjectives. INITIAL ANCHORS: casa, uomo, donna, bambino; grande, piccolo, buono, cattivo. CARD STRATEGY: Move rapidly from lexical forms into natural phrases and sentences while continuing lexical growth.
+
+IT-02 — Gender and singular articles
+OBJECTIVE: Establish grammatical gender and the basic definite/indefinite article system. CORE FORMS: il, lo, l', la; un, uno, una, un'. CARD STRATEGY: Teach article choice through useful nouns rather than an abstract table alone.
+
+IT-03 — Adjective agreement and basic placement
+OBJECTIVE: Establish gender/number agreement and common adjective placement. Begin with transparent -o/-a patterns and invariant/common -e adjectives. Later refine adjective position where meaning, emphasis or lexical convention matters.
+
+IT-04 — Subject pronouns and pro-drop
+OBJECTIVE: Establish io, tu, lui, lei, noi, voi, loro while making natural omission of recoverable subjects routine in finite clauses. Explicit pronouns remain available for contrast, emphasis and disambiguation.
+
+IT-05 — Essere
+OBJECTIVE: Establish present essere: sono, sei, è, siamo, siete, sono. Use identity, classification, description and straightforward location contexts while reinforcing agreement and subject omission.
+
+IT-06 — Basic location and deictics
+OBJECTIVE: Establish qui and lì/là in simple clauses and broaden everyday place vocabulary. Avoid manufacturing a rigid lì/là contrast before natural examples justify it.
+
+IT-07 — Avere
+OBJECTIVE: Establish present avere: ho, hai, ha, abbiamo, avete, hanno for possession. LEADS TO: age and common avere expressions later.
+
+IT-08 — Basic negation
+OBJECTIVE: Establish non before the finite verb and reuse it across essere, avere and lexical verbs. Later negative words and negative concord remain separate introductions.
+
+STAGE 2 — PRESENT-TENSE FOUNDATION
+
+IT-09 — Regular -are present
+OBJECTIVE: Establish the productive present -are pattern. INITIAL ANCHORS: parlare and lavorare. CORE PATTERN: -o, -i, -a, -iamo, -ate, -ano. CARD STRATEGY: The seed already gives relatively dense exposure; subsequent -are verbs should receive progressively more selective contextualized coverage.
+
+IT-10 — Yes/no questions
+OBJECTIVE: Establish ordinary polar questions using intonation and context rather than an English-style auxiliary. Reuse known verbs and natural subject omission.
+
+IT-11 — Core interrogatives
+OBJECTIVE: Establish cosa/che cosa, chi and dove, then broaden to quando, come, perché and quanto as vocabulary permits. Teach natural contractions such as cos'è and dov'è in context.
+
+IT-12 — Direct objects
+OBJECTIVE: Establish ordinary transitive clauses with lexical noun objects. INITIAL ANCHOR: vedere. Keep object pronouns for a later explicit unit.
+
+IT-13 — Volere + infinitive
+OBJECTIVE: Establish volere as a high-frequency irregular present verb and infinitival complementation through ordinary wants and intentions. INITIAL ANCHORS: voglio, vuoi, vuole, vogliamo, volete, vogliono. Reuse known infinitives and continue adding lexical verbs.
+
+IT-14 — Regular -ere present
+OBJECTIVE: Establish the productive -ere present pattern with useful high-frequency verbs. Relate person/number endings to the already-established finite system without repeating unnecessary full paradigms.
+
+IT-15 — Regular -ire present
+OBJECTIVE: Establish the productive -ire pattern and introduce the common -isc- subclass separately enough to make its distribution visible.
+
+IT-16 — Present-tense synthesis
+OBJECTIVE: Mix regular conjugation classes, essere, avere, volere and other high-frequency verbs in natural clauses while vocabulary expands. Subject omission should be normal rather than specially marked.
+
+STAGE 3 — NUMBER AND THE NOUN PHRASE
+
+IT-17 — Noun plurals
+OBJECTIVE: Establish common -o→-i, -a→-e and -e→-i plural patterns plus frequent invariant nouns as encountered. Teach lexical gender and irregularity where needed rather than implying spelling alone always predicts form.
+
+IT-18 — Plural articles
+OBJECTIVE: Establish i, gli and le and integrate them with plural noun phrases. Connect gli to the same phonological environments that motivate lo/l'.
+
+IT-19 — Plural adjective agreement
+OBJECTIVE: Generalize adjective agreement across gender and number in natural noun phrases and predicate clauses.
+
+IT-20 — Possessive adjectives
+OBJECTIVE: Establish mio, tuo, suo, nostro, vostro and loro with agreement and normal article behavior. Introduce kinship-related article exceptions later through natural family vocabulary rather than as an early exhaustive rule list.
+
+IT-21 — Demonstratives
+OBJECTIVE: Establish questo and quello families in ordinary deictic use, including agreement and the article-like forms of quello where appropriate.
+
+IT-22 — Numbers and quantity
+OBJECTIVE: Establish practical cardinal numbers and their use with nouns, then expand toward age, dates, time and quantities. Use numbers to reinforce plural noun phrases without creating a sealed numeral block.
+
+STAGE 4 — PREPOSITIONS AND EVERYDAY RELATIONS
+
+IT-23 — Basic simple prepositions
+OBJECTIVE: Establish di, a, da, in, con, su, per and tra/fra first in transparent high-frequency meanings. Avoid pretending each has a single English equivalent.
+
+IT-24 — Articulated prepositions
+OBJECTIVE: Establish common preposition + definite article combinations such as del, al, dal, nel and sul families. Build them from already-known article selection rather than as unrelated vocabulary.
+
+IT-25 — Location, destination and origin
+OBJECTIVE: Integrate essere/stare where natural, andare, venire and common prepositions with places, movement and origin. Teach lexicalized country/city article and preposition patterns through examples.
+
+IT-26 — C'è and ci sono
+OBJECTIVE: Establish existential/presentational c'è and ci sono and distinguish them functionally from ordinary copular clauses.
+
+IT-27 — Avere expressions
+OBJECTIVE: Develop high-frequency constructions such as avere fame, sete, caldo/freddo, paura and avere + age where natural. These should be learned as Italian expressions rather than translated word for word.
+
+IT-28 — Everyday noun-phrase synthesis
+OBJECTIVE: Mix articles, agreement, possession, demonstratives, quantity, prepositions and expanding concrete vocabulary in ordinary clauses.
+
+STAGE 5 — PRONOUNS AND VALENCY
+
+IT-29 — Direct-object clitics
+OBJECTIVE: Establish mi, ti, lo, la, ci, vi, li, le before finite verbs in clear present-tense contexts. Begin with unambiguous antecedents and natural discourse.
+
+IT-30 — Indirect objects and indirect-object clitics
+OBJECTIVE: Establish recipient/beneficiary phrases and mi, ti, gli, le, ci, vi, gli/loro according to contemporary standard usage. Keep prescriptive and colloquial variation explicit where relevant rather than forcing false uniformity.
+
+IT-31 — Piacere and experiencer structure
+OBJECTIVE: Establish mi piace / mi piacciono and related experiencer constructions through natural preferences. Emphasize Italian argument structure through use rather than English word-for-word mapping.
+
+IT-32 — Reflexive verbs
+OBJECTIVE: Establish mi/ti/si/ci/vi/si with common genuinely reflexive and lexical pronominal verbs. LEADS TO: daily routines, reciprocal uses and compound-tense agreement.
+
+IT-33 — Ci and ne: first productive uses
+OBJECTIVE: Introduce high-frequency locative ci and partitive/source-related ne in transparent contexts. Their broader idiomatic and discourse uses are developed later.
+
+STAGE 6 — MODALS, COMMANDS AND NON-FINITE STRUCTURE
+
+IT-34 — Potere + infinitive
+OBJECTIVE: Establish ability/possibility and ordinary requests with potere in the present.
+
+IT-35 — Dovere + infinitive
+OBJECTIVE: Establish obligation, necessity and common inferential meanings progressively, beginning with transparent necessity.
+
+IT-36 — Sapere versus conoscere
+OBJECTIVE: Establish the high-frequency distinction between knowing facts/how-to and knowing people/places where Italian usage supports it. Avoid reducing either verb to one English gloss.
+
+IT-37 — Imperative: informal singular and plural
+OBJECTIVE: Establish common affirmative commands with regular and frequent irregular verbs. Introduce negative tu commands with non + infinitive as a distinct high-value pattern.
+
+IT-38 — Formal address and Lei
+OBJECTIVE: Introduce formal singular Lei through contexts that naturally establish respectful/formal address. Avoid parenthetical '(formal)' labels when social context itself makes the intended register clear.
+
+IT-39 — Infinitives and clitic attachment
+OBJECTIVE: Develop clitic placement with infinitives and modal + infinitive constructions, including natural alternatives where clitic climbing is available.
+
+STAGE 7 — PAST-TIME FOUNDATION
+
+IT-40 — Passato prossimo with avere
+OBJECTIVE: Establish avere + past participle for common completed events. Begin with regular participles and high-frequency irregulars in natural narratives.
+
+IT-41 — Passato prossimo with essere
+OBJECTIVE: Establish common verbs selecting essere and subject agreement of the participle. Avoid presenting auxiliary selection as a simplistic semantic rule; build reliable lexical/pattern knowledge from examples.
+
+IT-42 — Reflexive verbs in the passato prossimo
+OBJECTIVE: Integrate reflexive clitics, essere and participle agreement in familiar daily-life contexts.
+
+IT-43 — Past participles and irregular families
+OBJECTIVE: Broaden common irregular participles and reinforce them longitudinally rather than through a long isolated inventory.
+
+IT-44 — Imperfetto
+OBJECTIVE: Establish regular imperfetto morphology and high-frequency essere forms for background, ongoing, habitual and descriptive past contexts.
+
+IT-45 — Passato prossimo versus imperfetto
+OBJECTIVE: Develop aspectual/narrative contrast through paired and mixed contexts. Do not map the contrast mechanically onto English simple past versus progressive.
+
+IT-46 — Time expressions and past narration
+OBJECTIVE: Expand temporal adverbs, dates, sequencing and short narratives while recycling both major past systems.
+
+STAGE 8 — FUTURE, CONDITIONAL AND EXPANDING CLAUSES
+
+IT-47 — Future simple
+OBJECTIVE: Establish regular future morphology and common irregular stems in practical future-reference contexts while also acknowledging ordinary present-tense future reference where natural.
+
+IT-48 — Conditional present
+OBJECTIVE: Establish conditional morphology for polite requests, wishes, hypothetical results and softened statements.
+
+IT-49 — Comparatives and superlatives
+OBJECTIVE: Establish più/meno ... di/che, così ... come and common superlative patterns in useful descriptions. Introduce irregular comparison lexically where frequent.
+
+IT-50 — Coordination
+OBJECTIVE: Expand e, ma, o, però, quindi and related high-frequency connectors. Because the app workflow avoids commas where practical, choose sentence designs that remain natural without depending on comma punctuation.
+
+IT-51 — Che relative clauses
+OBJECTIVE: Establish simple subject and direct-object relative clauses with che before broadening the relative system.
+
+IT-52 — Basic complement clauses
+OBJECTIVE: Establish high-frequency finite complements with che after verbs of saying, thinking and knowing. Keep mood selection for a later explicit contrast.
+
+STAGE 9 — SUBJUNCTIVE AND COMPLEX SENTENCE SYSTEMS
+
+IT-53 — Present subjunctive: high-frequency forms
+OBJECTIVE: Establish the present congiuntivo first with common verbs and transparent environments rather than exhaustive paradigms.
+
+IT-54 — Subjunctive after desire, necessity and evaluation
+OBJECTIVE: Develop productive mood selection in subordinate clauses after triggers already familiar semantically.
+
+IT-55 — Opinion, uncertainty and negation
+OBJECTIVE: Refine indicative/subjunctive choice after thinking, believing, doubt and negated opinion through natural contemporary examples. Avoid presenting variable usage as an absolute mechanical rule.
+
+IT-56 — Imperfect subjunctive
+OBJECTIVE: Establish common forms and prepare the hypothetical conditional system.
+
+IT-57 — Se clauses
+OBJECTIVE: Develop real and hypothetical conditional patterns progressively, integrating indicative, conditional and imperfect subjunctive forms.
+
+IT-58 — Compound conditional and past subjunctive
+OBJECTIVE: Extend the system to counterfactual past relations and anterior subordinate events once the component auxiliaries and participles are secure.
+
+STAGE 10 — LATER CORE ITALIAN SYSTEMS
+
+IT-59 — Combined clitics
+OBJECTIVE: Establish common indirect + direct clitic combinations and associated form changes through high-frequency discourse contexts.
+
+IT-60 — Clitics with compound tenses
+OBJECTIVE: Develop participle agreement and clitic placement where standard Italian requires or favors it, building from already-known passato prossimo sentences.
+
+IT-61 — Broader ci and ne
+OBJECTIVE: Expand pronominal, idiomatic and discourse uses of ci and ne after their transparent early functions are stable.
+
+IT-62 — Relative pronouns beyond che
+OBJECTIVE: Develop cui, preposition + cui, il quale families where useful, and relative constructions requiring explicit prepositions.
+
+IT-63 — Impersonal si
+OBJECTIVE: Establish generic/impersonal si and distinguish it from reflexive/passive-like uses through controlled natural examples.
+
+IT-64 — Si passivante and passive voice
+OBJECTIVE: Develop passive-like si constructions and essere + past participle passive clauses, including agreement and natural register preferences.
+
+IT-65 — Gerund and progressive stare + gerund
+OBJECTIVE: Establish the gerund and ordinary progressive constructions without implying that Italian uses the progressive wherever English does.
+
+IT-66 — Trapassato prossimo
+OBJECTIVE: Establish pluperfect anteriority in narratives using familiar imperfect auxiliaries and past participles.
+
+IT-67 — Passato remoto recognition and productive core
+OBJECTIVE: Introduce passato remoto as a living but regionally/register-variable past form important in literature and in ordinary speech in parts of Italy. Build recognition broadly and productive command selectively according to actual modern usefulness.
+
+IT-68 — Historical/literary tense relations
+OBJECTIVE: Develop passato remoto versus passato prossimo and imperfetto in narrative and written registers without treating one national spoken pattern as universal.
+
+STAGE 11 — DISCOURSE, REGISTER AND VARIATION
+
+IT-69 — Word order and information structure
+OBJECTIVE: Develop subject placement, postverbal subjects, topicalization and focus as discourse choices rather than deviations from an assumed rigid SVO template.
+
+IT-70 — Dislocation and resumptive clitics
+OBJECTIVE: Introduce common left/right dislocation patterns in natural spoken Italian after clitic competence is established.
+
+IT-71 — Formal and informal register
+OBJECTIVE: Deepen Lei, titles, polite requests, pronoun choices and register-sensitive vocabulary through social contexts rather than persistent parenthetical labels.
+
+IT-72 — Common discourse markers
+OBJECTIVE: Develop allora, quindi, però, invece, infatti, magari, ecco and other high-frequency connectors/markers according to natural use rather than one-word English equivalence.
+
+IT-73 — Lexicalized prepositions and idioms
+OBJECTIVE: Expand constructions whose meaning cannot be predicted reliably from simple preposition glosses. Use whole natural phrases and sentences.
+
+IT-74 — Regional and colloquial awareness
+OBJECTIVE: Introduce major widespread regional/colloquial variants where useful for comprehension while keeping contemporary standard Italian the unmarked production reference. Avoid turning dialectology into an early prerequisite.
+
+IT-75 — Educated-adult lexical expansion
+OBJECTIVE: Continue broad vocabulary growth across home, work, travel, institutions, culture, science, technology, media and abstract discussion. Vocabulary expansion is continuous throughout the syllabus and does not wait until this unit.
+
+IT-76 — Authentic-text gap validation
+OBJECTIVE: Once the syllabus has been substantially traversed, use authentic modern Italian prose, conversation and media to diagnose productive gaps. Authentic sources identify missing constructions, vocabulary and idioms; they do not automatically become cards. Add only material that fits the canonical curriculum and exact-match design.
+
+CONTINUING AUTHORING PRINCIPLES
+
+1. Follow the Polyglot Card Generation Protocol as the operational authority.
+2. Treat the numbered syllabus as an introduction sequence, not sealed units.
+3. Continue lexical growth while grammar develops. Do not stop vocabulary expansion to exhaust a paradigm.
+4. Use dense person/number exposure when establishing an early productive pattern; thereafter reduce paradigm density and favor contextualized selective forms.
+5. Write natural English prompts and natural Italian targets. Do not make either language imitate the other for flashcard convenience.
+6. Apply established defaults silently. Parenthetical qualifiers are early scaffolding only when natural English and context cannot identify a deliberately non-default distinction; use them very sparingly as the course develops.
+7. Prefer contextual introduction of vocabulary once surrounding language is established. Standalone lexical cards remain appropriate when isolation itself has pedagogical value.
+8. Avoid commas in card sentences whenever a natural alternative is available because the simple CSV workflow is comma-sensitive.
+9. Check the entire live deck plus every new batch for duplicate IDs and duplicate EnglishPrompt values before committing.
+10. Previewing a later construction does not move the Manifest frontier. The frontier records the next point in the main introduction sequence from which ordinary forward construction should proceed.
+
+CURRENT SEED ALIGNMENT
+
+Cards 1600000-1600099 substantially cover IT-01 through IT-13. The seed establishes core noun/adjective material, articles and agreement, subject pronouns/pro-drop, essere, location, avere, negation, regular -are present, polar/content questions, direct lexical objects and volere + infinitive. It does not yet systematically establish regular -ere morphology as a productive class.
+
+Accordingly the forward frontier after the current 100-card seed is:
+
+IT-14 — Regular -ere present
+
+Later cards should continue recycling the established seed systems while advancing from IT-14 under the widening-spiral model.
