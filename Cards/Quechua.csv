@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+7000000,Quechua,house,wasi,,noun
+7000001,Quechua,water,yaku,,noun
+7000002,Quechua,man,qhari,,noun
+7000003,Quechua,doctor,hampiq,,noun
+7000004,Quechua,car,awtu,,noun
+7000005,Quechua,red,puka,,adjective
+7000006,Quechua,big,hatun,,adjective
+7000007,Quechua,four,tawa,,number
+7000008,Quechua,He is a doctor.,Payqa hampiqmi.,,sentence
+7000009,Quechua,The house is big.,Wasiqa hatunmi.,,sentence
+7000010,Quechua,The car is red.,Awtuqa pukam.,,sentence
+7000011,Quechua,I see the house.,Wasita rikuni.,,sentence
+7000012,Quechua,He has a car.,Payqa awtuyuqmi.,,sentence
+7000013,Quechua,He has a red car.,Payqa puka awtuyuqmi.,,sentence
+7000014,Quechua,I see four cars.,Tawa awtuta rikuni.,,sentence
