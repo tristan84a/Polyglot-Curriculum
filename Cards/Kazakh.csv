@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+6600000,Kazakh,house,үй,,noun
+6600001,Kazakh,water,су,,noun
+6600002,Kazakh,man,ер адам,,noun
+6600003,Kazakh,doctor,дәрігер,,noun
+6600004,Kazakh,car,көлік,,noun
+6600005,Kazakh,red,қызыл,,adjective
+6600006,Kazakh,big,үлкен,,adjective
+6600007,Kazakh,four,төрт,,number
+6600008,Kazakh,He is a doctor.,Ол дәрігер.,,sentence
+6600009,Kazakh,The house is big.,Үй үлкен.,,sentence
+6600010,Kazakh,The car is red.,Көлік қызыл.,,sentence
+6600011,Kazakh,I see the house.,Мен үйді көремін.,,sentence
+6600012,Kazakh,He has a car.,Оның көлігі бар.,,sentence
+6600013,Kazakh,He has a red car.,Оның қызыл көлігі бар.,,sentence
+6600014,Kazakh,I see four cars.,Мен төрт көлік көремін.,,sentence
