@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+6500000,Sinhala,house,නිවස,,noun
+6500001,Sinhala,water,වතුර,,noun
+6500002,Sinhala,man,මිනිසා,,noun
+6500003,Sinhala,doctor,වෛද්‍යවරයා,,noun
+6500004,Sinhala,car,මෝටර් රථය,,noun
+6500005,Sinhala,red,රතු,,adjective
+6500006,Sinhala,big,විශාල,,adjective
+6500007,Sinhala,four,හතර,,number
+6500008,Sinhala,He is a doctor.,ඔහු වෛද්‍යවරයෙකි.,,sentence
+6500009,Sinhala,The house is big.,නිවස විශාලය.,,sentence
+6500010,Sinhala,The car is red.,මෝටර් රථය රතුය.,,sentence
+6500011,Sinhala,I see the house.,මම නිවස දකිමි.,,sentence
+6500012,Sinhala,He has a car.,ඔහුට මෝටර් රථයක් ඇත.,,sentence
+6500013,Sinhala,He has a red car.,ඔහුට රතු මෝටර් රථයක් ඇත.,,sentence
+6500014,Sinhala,I see four cars.,මම මෝටර් රථ හතරක් දකිමි.,,sentence
