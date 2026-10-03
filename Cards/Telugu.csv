@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+7100000,Telugu,house,ఇల్లు,,noun
+7100001,Telugu,water,నీరు,,noun
+7100002,Telugu,man,మనిషి,,noun
+7100003,Telugu,doctor,డాక్టర్,,noun
+7100004,Telugu,car,కారు,,noun
+7100005,Telugu,red,ఎరుపు,,adjective
+7100006,Telugu,big,పెద్ద,,adjective
+7100007,Telugu,four,నాలుగు,,number
+7100008,Telugu,He is a doctor.,అతను డాక్టర్.,,sentence
+7100009,Telugu,The house is big.,ఇల్లు పెద్దది.,,sentence
+7100010,Telugu,The car is red.,కారు ఎరుపు రంగులో ఉంది.,,sentence
+7100011,Telugu,I see the house.,నేను ఇంటిని చూస్తాను.,,sentence
+7100012,Telugu,He has a car.,అతనికి కారు ఉంది.,,sentence
+7100013,Telugu,He has a red car.,అతనికి ఎరుపు కారు ఉంది.,,sentence
+7100014,Telugu,I see four cars.,నేను నాలుగు కార్లను చూస్తాను.,,sentence
