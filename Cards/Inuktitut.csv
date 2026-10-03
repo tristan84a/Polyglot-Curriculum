@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+6900000,Inuktitut,house,ᐃᓪᓗ,illu,noun
+6900001,Inuktitut,water,ᐃᒥᖅ,imiq,noun
+6900002,Inuktitut,man,ᐊᖑᑦ,angut,noun
+6900003,Inuktitut,doctor,ᓘᒃᑖᖅ,luuktaaq,noun
+6900004,Inuktitut,car,ᓄᓇᓯᐅᑦ,nunasiut,noun
+6900005,Inuktitut,red,ᐊᐅᐸᖅᑐᖅ,aupaqtuq,adjective
+6900006,Inuktitut,big,ᐊᖏᔪᖅ,angijuq,adjective
+6900007,Inuktitut,four,ᓯᑕᒪᑦ,sitamat,number
+6900008,Inuktitut,He is a doctor.,ᓘᒃᑖᖑᔪᖅ.,luuktaangujuq,sentence
+6900009,Inuktitut,The house is big.,ᐃᓪᓗ ᐊᖏᔪᖅ.,illu angijuq,sentence
+6900010,Inuktitut,The car is red.,ᓄᓇᓯᐅᑦ ᐊᐅᐸᖅᑐᖅ.,nunasiut aupaqtuq,sentence
+6900011,Inuktitut,I see the house.,ᐃᓪᓗ ᑕᑯᔭᕋ.,illu takujara,sentence
+6900012,Inuktitut,He has a car.,ᓄᓇᓯᐅᑎᓕᒃ.,nunasiutilik,sentence
+6900013,Inuktitut,He has a red car.,ᓄᓇᓯᐅᑎᓕᒃ ᐊᐅᐸᖅᑐᒥᒃ.,nunasiutilik aupaqtumik,sentence
+6900014,Inuktitut,I see four cars.,ᓯᑕᒪᓂᒃ ᓄᓇᓯᐅᑎᓂᒃ ᑕᑯᔪᖓ.,sitamanik nunasiutinik takujunga,sentence
