@@ -14,3 +14,88 @@
 2200012,Finnish,He has a car.,Hänellä on auto.,,sentence
 2200013,Finnish,He has a red car.,Hänellä on punainen auto.,,sentence
 2200014,Finnish,I see four cars.,Näen neljä autoa.,,sentence
+2200015,Finnish,I,minä,,pronoun
+2200016,Finnish,you,sinä,,pronoun
+2200017,Finnish,he,hän,,pronoun
+2200018,Finnish,we,me,,pronoun
+2200019,Finnish,you guys,te,,pronoun
+2200020,Finnish,they,he,,pronoun
+2200021,Finnish,to be,olla,,verb
+2200022,Finnish,I am a doctor.,Olen lääkäri.,,sentence
+2200023,Finnish,You are a doctor.,Olet lääkäri.,,sentence
+2200024,Finnish,We are doctors.,Olemme lääkäreitä.,,sentence
+2200025,Finnish,They are doctors.,He ovat lääkäreitä.,,sentence
+2200026,Finnish,woman,nainen,,noun
+2200027,Finnish,child,lapsi,,noun
+2200028,Finnish,book,kirja,,noun
+2200029,Finnish,school,koulu,,noun
+2200030,Finnish,small,pieni,,adjective
+2200031,Finnish,good,hyvä,,adjective
+2200032,Finnish,new,uusi,,adjective
+2200033,Finnish,old,vanha,,adjective
+2200034,Finnish,The child is small.,Lapsi on pieni.,,sentence
+2200035,Finnish,The book is new.,Kirja on uusi.,,sentence
+2200036,Finnish,a big house,iso talo,,phrase
+2200037,Finnish,a new car,uusi auto,,phrase
+2200038,Finnish,houses,talot,,noun
+2200039,Finnish,cars,autot,,noun
+2200040,Finnish,The houses are big.,Talot ovat isoja.,,sentence
+2200041,Finnish,The cars are red.,Autot ovat punaisia.,,sentence
+2200042,Finnish,to live,asua,,verb
+2200043,Finnish,to read,lukea,,verb
+2200044,Finnish,to write,kirjoittaa,,verb
+2200045,Finnish,to eat,syödä,,verb
+2200046,Finnish,to drink,juoda,,verb
+2200047,Finnish,I live here.,Asun täällä.,,sentence
+2200048,Finnish,You live here.,Asut täällä.,,sentence
+2200049,Finnish,He lives here.,Hän asuu täällä.,,sentence
+2200050,Finnish,We live here.,Asumme täällä.,,sentence
+2200051,Finnish,They live here.,He asuvat täällä.,,sentence
+2200052,Finnish,I read.,Luen.,,sentence
+2200053,Finnish,He reads.,Hän lukee.,,sentence
+2200054,Finnish,We write.,Kirjoitamme.,,sentence
+2200055,Finnish,She drinks water.,Hän juo vettä.,,sentence
+2200056,Finnish,I do not live here.,En asu täällä.,,sentence
+2200057,Finnish,You do not live here.,Et asu täällä.,,sentence
+2200058,Finnish,He does not live here.,Hän ei asu täällä.,,sentence
+2200059,Finnish,We do not live here.,Emme asu täällä.,,sentence
+2200060,Finnish,They do not live here.,He eivät asu täällä.,,sentence
+2200061,Finnish,Do you live here?,Asutko täällä?,,sentence
+2200062,Finnish,Does he live here?,Asuuko hän täällä?,,sentence
+2200063,Finnish,Is the house big?,Onko talo iso?,,sentence
+2200064,Finnish,where,missä,,adverb
+2200065,Finnish,what,mikä,,pronoun
+2200066,Finnish,who,kuka,,pronoun
+2200067,Finnish,why,miksi,,adverb
+2200068,Finnish,how,miten,,adverb
+2200069,Finnish,Where is the car?,Missä auto on?,,sentence
+2200070,Finnish,Who is he?,Kuka hän on?,,sentence
+2200071,Finnish,What is this?,Mikä tämä on?,,sentence
+2200072,Finnish,my book,minun kirjani,,phrase
+2200073,Finnish,the man's car,miehen auto,,phrase
+2200074,Finnish,the child's book,lapsen kirja,,phrase
+2200075,Finnish,I see a car.,Näen auton.,,sentence
+2200076,Finnish,I see the man.,Näen miehen.,,sentence
+2200077,Finnish,I read the book.,Luen kirjan.,,sentence
+2200078,Finnish,I drink water.,Juon vettä.,,sentence
+2200079,Finnish,I eat bread.,Syön leipää.,,sentence
+2200080,Finnish,bread,leipä,,noun
+2200081,Finnish,coffee,kahvi,,noun
+2200082,Finnish,I drink coffee.,Juon kahvia.,,sentence
+2200083,Finnish,two,kaksi,,number
+2200084,Finnish,three,kolme,,number
+2200085,Finnish,five,viisi,,number
+2200086,Finnish,two houses,kaksi taloa,,phrase
+2200087,Finnish,three books,kolme kirjaa,,phrase
+2200088,Finnish,five cars,viisi autoa,,phrase
+2200089,Finnish,I do not see the car.,En näe autoa.,,sentence
+2200090,Finnish,He does not read the book.,Hän ei lue kirjaa.,,sentence
+2200091,Finnish,in the house,talossa,,phrase
+2200092,Finnish,in the car,autossa,,phrase
+2200093,Finnish,at school,koulussa,,phrase
+2200094,Finnish,The man is in the house.,Mies on talossa.,,sentence
+2200095,Finnish,The child is at school.,Lapsi on koulussa.,,sentence
+2200096,Finnish,from the house,talosta,,phrase
+2200097,Finnish,from school,koulusta,,phrase
+2200098,Finnish,He comes from school.,Hän tulee koulusta.,,sentence
+2200099,Finnish,to come,tulla,,verb
