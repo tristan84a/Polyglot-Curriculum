@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+6400000,Malagasy,house,trano,,noun
+6400001,Malagasy,water,rano,,noun
+6400002,Malagasy,man,lehilahy,,noun
+6400003,Malagasy,doctor,dokotera,,noun
+6400004,Malagasy,car,fiara,,noun
+6400005,Malagasy,red,mena,,adjective
+6400006,Malagasy,big,lehibe,,adjective
+6400007,Malagasy,four,efatra,,number
+6400008,Malagasy,He is a doctor.,Dokotera izy.,,sentence
+6400009,Malagasy,The house is big.,Lehibe ny trano.,,sentence
+6400010,Malagasy,The car is red.,Mena ny fiara.,,sentence
+6400011,Malagasy,I see the house.,Mahita ny trano aho.,,sentence
+6400012,Malagasy,He has a car.,Manana fiara izy.,,sentence
+6400013,Malagasy,He has a red car.,Manana fiara mena izy.,,sentence
+6400014,Malagasy,I see four cars.,Mahita fiara efatra aho.,,sentence
