@@ -1,0 +1,358 @@
+POLYGLOT FINNISH SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical introduction path for modern standard Finnish in Polyglot. It follows the Card Generation Protocol v1.0: the existing 15-card micro deck is retained as the opening exposure, then the seed deck develops Finnish through a widening spiral of vocabulary and productive structure. Units are introductions rather than sealed chapters.
+
+Finnish structure is authoritative. Natural Finnish targets should not imitate English merely to make exact matching easier. Standard written Finnish is the unmarked production reference. Ordinary colloquial Finnish is a later explicit strand and should not be silently mixed into the early standard-language course.
+
+CARD-FORM AND MORPHOLOGY CONVENTIONS
+
+Lexical verbs use the first infinitive as the citation form: olla, nähdä, asua, lukea, kirjoittaa, syödä, juoda.
+
+Finnish case morphology should normally be introduced through useful phrases and sentences rather than isolated declension tables. One controlled contrast may be dense when it establishes genuinely new morphology; later nouns should sample established patterns while vocabulary continues to expand.
+
+Consonant gradation, vowel harmony, stem alternations and partitive formation should emerge through real lexical items before being generalized. Do not imply that every Finnish form can be produced by attaching a suffix mechanically to the dictionary form.
+
+Personal pronouns may be taught explicitly. In standard written Finnish, first- and second-person subject pronouns may be omitted when the verb ending identifies the subject; third-person hän/he normally remains overt. Do not force pronoun omission or retention merely to parallel English.
+
+The partitive is a central Finnish system and must not be taught as a single English-equivalent case. Its major functions should be opened progressively and later synthesized.
+
+MICRO DECK AND SEED TRANSITION
+
+Cards 2200000-2200014 form the standardized micro deck. They establish talo, vesi, mies, lääkäri, auto, punainen, iso, neljä and several natural preview sentences. Those previews deliberately expose morphology before explanation: talon, hänellä on and neljä autoa. Preserve them as early footholds; the syllabus below explains and generalizes their structures rather than requiring the micro deck to have derived them.
+
+STAGE 1 — BASIC PREDICATION AND NOMINAL STRUCTURE
+
+FI-01 — Personal pronouns and olla in the present
+OBJECTIVE: Establish minä, sinä, hän, me, te, he and the core present forms of olla through natural nominal and adjectival predicates. Make Finnish's gender-neutral hän explicit. Use pronoun omission naturally for first and second person once forms are clear.
+
+FI-02 — Nominative singular and basic noun phrases
+OBJECTIVE: Establish the unmarked nominative as the citation/basic subject form and reinforce the absence of articles. Do not manufacture Finnish equivalents of English a/the.
+
+FI-03 — Predicative adjectives
+OBJECTIVE: Establish ordinary singular adjective predicates with olla and broaden the adjective lexicon beyond iso and punainen.
+
+FI-04 — Attributive adjectives and agreement preview
+OBJECTIVE: Establish adjective-before-noun order in simple nominative phrases. Full case/number agreement develops longitudinally as cases open.
+
+FI-05 — Basic nominative plural -t
+OBJECTIVE: Introduce common plural subjects and noun phrases. Begin visible stem behavior without attempting an exhaustive noun-class inventory.
+
+FI-06 — Plural predication
+OBJECTIVE: Reuse olla and adjectives with plural subjects and establish plural adjective agreement in natural contexts.
+
+STAGE 2 — PRESENT VERBS AND SIMPLE CLAUSES
+
+FI-07 — First infinitive as lexical citation form
+OBJECTIVE: Introduce a small set of high-frequency verbs in their ordinary infinitive forms while moving quickly into finite use. ANCHORS: olla, nähdä, asua, lukea, kirjoittaa, syödä, juoda.
+
+FI-08 — Present tense: first common verb patterns
+OBJECTIVE: Establish present personal endings through representative verbs. A first productive pattern may receive relatively dense coverage; later verbs should use declining paradigm density.
+
+FI-09 — Subject pronoun omission
+OBJECTIVE: Make natural first/second-person omission visible in standard Finnish while retaining hän/he where ordinary standard usage calls for them.
+
+FI-10 — Basic negation with the negative verb
+OBJECTIVE: Establish en, et, ei, emme, ette, eivät with familiar present clauses. Treat the negative verb as a Finnish conjugational system rather than mapping English not mechanically.
+
+FI-11 — Polar questions with -ko/-kö
+OBJECTIVE: Introduce ordinary yes/no questions and vowel-harmonic question clitic selection through familiar predicates and verbs.
+
+FI-12 — Core interrogatives
+OBJECTIVE: Introduce kuka, mikä, missä, mihin, mistä, milloin, miten, miksi and other high-value interrogatives as prerequisites become available.
+
+STAGE 3 — OBJECTS AND THE PARTITIVE OPENING
+
+FI-13 — Genitive -n
+OBJECTIVE: Establish basic possession and noun modification with -n. Revisit micro-deck talon in a systematic context.
+
+FI-14 — Total-object opening
+OBJECTIVE: Introduce common total-object forms through simple affirmative clauses without prematurely reducing Finnish object case to a single rule. Reuse nähdä and concrete nouns.
+
+FI-15 — Partitive singular: basic forms
+OBJECTIVE: Establish common partitive morphology through high-frequency nouns, including transparent vowel-final forms and selected stem changes. Revisit autoa from the micro deck.
+
+FI-16 — Partitive with numerals greater than one
+OBJECTIVE: Generalize the micro-deck pattern neljä autoa and establish singular partitive after cardinal numerals greater than one in ordinary count phrases.
+
+FI-17 — Partitive with mass and indefinite quantity
+OBJECTIVE: Establish high-value quantity uses with substances and non-bounded amounts, including vesi and food/drink vocabulary.
+
+FI-18 — Partitive objects: ongoing/unbounded activity
+OBJECTIVE: Introduce the central aspectual object contrast through natural pairs where the event is incomplete, ongoing or otherwise unbounded.
+
+FI-19 — Partitive objects under negation
+OBJECTIVE: Establish the strong association between negative object clauses and partitive objects using already familiar verbs.
+
+FI-20 — Total versus partitive object synthesis I
+OBJECTIVE: Contrast bounded/resultative and unbounded/negative object clauses without pretending the entire object system has been exhausted.
+
+STAGE 4 — LOCAL CASES AND EXISTENCE
+
+FI-21 — Inessive -ssa/-ssä
+OBJECTIVE: Establish location inside/in with concrete places while making vowel harmony visible.
+
+FI-22 — Elative -sta/-stä
+OBJECTIVE: Establish movement/source out of/from and pair it with inessive locations.
+
+FI-23 — Illative
+OBJECTIVE: Establish movement into with common illative patterns. Introduce stem-specific forms progressively rather than presenting one misleading universal suffix.
+
+FI-24 — Interior local-case synthesis
+OBJECTIVE: Integrate missä / mistä / mihin with inessive, elative and illative.
+
+FI-25 — Adessive -lla/-llä
+OBJECTIVE: Establish surface/at location and begin its broader relational uses.
+
+FI-26 — Ablative -lta/-ltä and allative -lle
+OBJECTIVE: Complete the external at-from-to local family.
+
+FI-27 — External local-case synthesis
+OBJECTIVE: Integrate external location/direction and contrast it with the interior family through natural place vocabulary.
+
+FI-28 — Possession with adessive + olla
+OBJECTIVE: Generalize the micro-deck Hänellä on auto. Establish Finnish possession as possessor-adessive + olla rather than an English-style have verb.
+
+FI-29 — Existential clauses
+OBJECTIVE: Introduce common Finnish existential word order and the interaction of existence with location and quantity.
+
+STAGE 5 — MORPHOPHONOLOGY AND NOMINAL EXPANSION
+
+FI-30 — Vowel harmony
+OBJECTIVE: Make explicit the front/back harmony already visible in case suffixes and -ko/-kö. Keep practice attached to meaningful words and sentences.
+
+FI-31 — Consonant gradation: first productive contrasts
+OBJECTIVE: Introduce common strong/weak grade alternations through forms already motivated by case or conjugation. Do not teach gradation as an isolated consonant table.
+
+FI-32 — Common noun stem alternations
+OBJECTIVE: Broaden beyond transparent stems: e-type, i-type and other frequent patterns as encountered. Use lexical families rather than exhaustive declension classes.
+
+FI-33 — Adjective case agreement
+OBJECTIVE: Generalize adjective-noun agreement across cases already established.
+
+FI-34 — Partitive plural opening
+OBJECTIVE: Introduce common plural partitives after singular partitive functions are secure.
+
+FI-35 — Genitive plural opening
+OBJECTIVE: Introduce high-frequency plural possession/modification patterns progressively.
+
+FI-36 — Remaining core locative/relational cases
+OBJECTIVE: Add essive -na/-nä, translative -ksi and other high-value cases in communicative contexts.
+
+FI-37 — Abessive and instructive/comitative awareness
+OBJECTIVE: Introduce lower-frequency case functions only when useful; avoid a ceremonial complete-case inventory.
+
+STAGE 6 — POSSESSION, PRONOUNS, AND REFERENCE
+
+FI-38 — Personal pronoun object and case forms
+OBJECTIVE: Introduce high-frequency oblique forms of personal pronouns in contexts supported by established cases.
+
+FI-39 — Possessive suffixes
+OBJECTIVE: Establish common possessive suffixes and their relationship to genitive possessors and ordinary modern usage. Avoid mechanically translating every English possessive with a suffix.
+
+FI-40 — Demonstratives tämä / tuo / se
+OBJECTIVE: Establish core proximal/distal/anaphoric reference and ordinary inflection through already known cases.
+
+FI-41 — tämä / nämä and other demonstrative number contrasts
+OBJECTIVE: Extend demonstratives across number and agreement without a detached full-case table.
+
+FI-42 — Indefinite and negative pronouns
+OBJECTIVE: Introduce joku, jokin, kukaan, mikään and related forms progressively with negation and case morphology.
+
+STAGE 7 — PAST, PERFECT, AND EVENT STRUCTURE
+
+FI-43 — Simple past (imperfect): regular opening
+OBJECTIVE: Establish common past formation and personal endings through familiar verbs.
+
+FI-44 — Past stem alternations
+OBJECTIVE: Add frequent irregular or morphophonologically changing verbs while maintaining lexical growth.
+
+FI-45 — Past negation
+OBJECTIVE: Establish negative past clauses with the negative verb and past participial form.
+
+FI-46 — Perfect with olla + past participle
+OBJECTIVE: Introduce the Finnish perfect through natural experiential/result-relevant contexts rather than English-form matching.
+
+FI-47 — Pluperfect
+OBJECTIVE: Extend the established perfect architecture to anterior past contexts.
+
+FI-48 — Object case across tense/aspect
+OBJECTIVE: Recycle total/partitive object contrasts through present, past and perfect contexts.
+
+STAGE 8 — MODALITY, INFINITIVES, AND IMPERATIVES
+
+FI-49 — High-frequency modal and control verbs
+OBJECTIVE: Establish voida, haluta, osata, saada, pitää and related constructions through natural complements.
+
+FI-50 — Infinitive complements
+OBJECTIVE: Develop first-infinitive complements and introduce other infinitival constructions only when structurally motivated.
+
+FI-51 — Necessity with pitää / täytyy
+OBJECTIVE: Establish Finnish necessity constructions and their subject marking naturally.
+
+FI-52 — Imperative singular and plural
+OBJECTIVE: Introduce common commands and requests with declining paradigm density after the core pattern is clear.
+
+FI-53 — Negative imperative
+OBJECTIVE: Establish älä / älkää and related forms in natural prohibitions.
+
+FI-54 — Conditional -isi-
+OBJECTIVE: Open conditional morphology through wants, politeness, hypotheticals and consequences.
+
+FI-55 — Potential mood awareness and productive core
+OBJECTIVE: Introduce the potential mood after more frequent modality is secure; calibrate coverage to contemporary usefulness.
+
+STAGE 9 — CLAUSE LINKING AND COMPLEX SENTENCES
+
+FI-56 — Coordination
+OBJECTIVE: Establish ja, mutta, tai, vaan and other common coordinators through independent natural sentences.
+
+FI-57 — että complement clauses
+OBJECTIVE: Introduce reporting, thinking and knowing complements with established verbs.
+
+FI-58 — koska and causal clauses
+OBJECTIVE: Establish common reason clauses and ordinary clause order.
+
+FI-59 — jos conditionals
+OBJECTIVE: Combine conditional and indicative resources in natural real and hypothetical conditions.
+
+FI-60 — kun temporal/subordinate clauses
+OBJECTIVE: Develop common temporal and contextual subordination.
+
+FI-61 — Relative pronoun joka
+OBJECTIVE: Introduce relative clauses and progressive case inflection of joka as required by its role inside the relative clause.
+
+FI-62 — mikä and broader relative/reference patterns
+OBJECTIVE: Distinguish common joka/mikä functions through authentic contexts rather than English labels alone.
+
+STAGE 10 — NON-FINITE AND PARTICIPIAL SYSTEMS
+
+FI-63 — Present active participle
+OBJECTIVE: Introduce common adjectival and clause-related uses of -va/-vä forms.
+
+FI-64 — Past active participle
+OBJECTIVE: Extend -nut/-nyt and plural forms beyond their earlier role in negative past/perfect constructions.
+
+FI-65 — Passive participles
+OBJECTIVE: Introduce common -ttu/-tty and related forms in natural lexical and verbal contexts.
+
+FI-66 — Infinitive constructions beyond the first infinitive
+OBJECTIVE: Open high-frequency MA-infinitive and other non-finite constructions gradually through real functions such as movement, location and manner.
+
+FI-67 — Agent participle and advanced nominalization
+OBJECTIVE: Introduce productive advanced participial structures once case and possession systems support them.
+
+STAGE 11 — PASSIVE AND IMPERSONAL EXPRESSION
+
+FI-68 — Finnish passive: present
+OBJECTIVE: Establish the impersonal/passive construction as Finnish uses it rather than forcing an English passive-agent mapping.
+
+FI-69 — Passive past and perfect
+OBJECTIVE: Extend passive morphology across established tense systems.
+
+FI-70 — Passive in ordinary spoken reference preview
+OBJECTIVE: Prepare for the colloquial use of passive forms with first-person plural meaning while keeping standard written Finnish distinct.
+
+STAGE 12 — COMPARISON, QUANTITY, AND NUMERALS
+
+FI-71 — Comparative adjectives
+OBJECTIVE: Establish -mpi comparatives and common stem changes in useful comparisons.
+
+FI-72 — Superlatives
+OBJECTIVE: Establish -in superlatives and frequent irregular forms.
+
+FI-73 — Comparative constructions with kuin and partitive
+OBJECTIVE: Develop natural comparison syntax and case choices.
+
+FI-74 — Numerals and case interaction
+OBJECTIVE: Extend beyond the micro-deck neljä through cardinal numbers, case inflection and noun-number behavior.
+
+FI-75 — Ordinals, dates and time
+OBJECTIVE: Introduce ordinal morphology and everyday calendar/time expressions.
+
+STAGE 13 — DERIVATION AND LEXICAL EXPANSION
+
+FI-76 — Common noun derivation
+OBJECTIVE: Develop productive nominal suffixes through lexical families rather than abstract affix lists.
+
+FI-77 — Common adjective derivation
+OBJECTIVE: Introduce frequent adjective-forming patterns and semantic relationships.
+
+FI-78 — Verb derivation
+OBJECTIVE: Open frequent causative, reflexive/automative and other productive verb-forming patterns as lexical evidence accumulates.
+
+FI-79 — Compound words
+OBJECTIVE: Establish Finnish compounding and ordinary orthographic conventions through high-frequency compounds.
+
+STAGE 14 — INFORMATION STRUCTURE AND CLITICS
+
+FI-80 — Flexible constituent order and neutral order
+OBJECTIVE: Establish Finnish word order as discourse-sensitive while identifying common neutral clause patterns.
+
+FI-81 — Topic, focus and contrast
+OBJECTIVE: Use natural paired contexts to show how constituent order packages given/new and contrastive information.
+
+FI-82 — Clitics -kin and -kaan/-kään
+OBJECTIVE: Establish additive and negative-polarity meanings through natural contexts.
+
+FI-83 — Clitics -han/-hän and -pa/-pä
+OBJECTIVE: Introduce common pragmatic meanings without forcing one-word English equivalents.
+
+FI-84 — Question and discourse clitic synthesis
+OBJECTIVE: Integrate -ko/-kö and other clitics with word order and discourse function.
+
+STAGE 15 — STANDARD AND COLLOQUIAL FINNISH
+
+FI-85 — Colloquial personal pronouns
+OBJECTIVE: Introduce common mä/sä and related spoken forms explicitly as colloquial Finnish after the standard system is secure.
+
+FI-86 — Colloquial verb forms
+OBJECTIVE: Introduce high-frequency spoken reductions and person/number patterns without replacing standard written targets retroactively.
+
+FI-87 — Spoken passive for first-person plural
+OBJECTIVE: Establish the very common colloquial mennään-type first-person plural pattern and contrast it with standard menemme.
+
+FI-88 — Common spoken phonological reductions
+OBJECTIVE: Build recognition and selective production of widespread colloquial forms with regional variation labelled when material.
+
+FI-89 — Register switching
+OBJECTIVE: Develop the ability to choose standard written, neutral spoken and deliberately colloquial forms according to situation.
+
+STAGE 16 — EDUCATED-ADULT EXPANSION
+
+FI-90 — Everyday social and service language
+FI-91 — Work, education and institutions
+FI-92 — Travel, transport and geography
+FI-93 — Health and the body
+FI-94 — Home, food and material culture
+FI-95 — Nature, weather and environment
+FI-96 — Media, technology and communication
+FI-97 — Government, law and civic language
+FI-98 — Economics, commerce and finance
+FI-99 — Science and technical language
+FI-100 — Arts, literature and culture
+FI-101 — Abstract vocabulary and argumentation
+FI-102 — Idiom, collocation and phraseology
+FI-103 — Register, style and semantic precision
+
+For FI-90 onward, each unit opens a longitudinal lexical/domain strand rather than defining a finite vocabulary list. Continue grammar, derivation, collocation and discourse development alongside domain vocabulary.
+
+STAGE 17 — BACKWARD VALIDATION
+
+FI-104 — Authentic contemporary written Finnish
+OBJECTIVE: Sample journalism, nonfiction, fiction, government, professional and other educated-adult writing to identify productive gaps.
+
+FI-105 — Authentic contemporary spoken Finnish
+OBJECTIVE: Sample appropriate conversation, interviews, broadcasts and other speech across registers and identify gaps in colloquial morphology, vocabulary, discourse and listening-oriented structures.
+
+FI-106 — Long-tail productive gap filling
+OBJECTIVE: Continue indefinitely by adding the smallest natural cards or prerequisite-aware families needed to reproduce language encountered in authentic sources.
+
+GOVERNING PRINCIPLE
+
+Teach Finnish as Finnish. Let cases, object marking, consonant gradation, vowel harmony, possession, non-finite constructions and discourse-sensitive word order emerge in prerequisite-aware layers while ordinary vocabulary keeps expanding. Establish representative patterns clearly, then reduce paradigm density and reuse them in increasingly natural language. The goal is not to complete a grammar table but to build an indefinitely extensible productive model of modern Finnish.
