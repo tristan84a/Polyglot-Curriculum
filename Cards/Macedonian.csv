@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+6700000,Macedonian,house,куќа,,noun
+6700001,Macedonian,water,вода,,noun
+6700002,Macedonian,man,маж,,noun
+6700003,Macedonian,doctor,лекар,,noun
+6700004,Macedonian,car,автомобил,,noun
+6700005,Macedonian,red,црвен,,adjective
+6700006,Macedonian,big,голем,,adjective
+6700007,Macedonian,four,четири,,number
+6700008,Macedonian,He is a doctor.,Тој е лекар.,,sentence
+6700009,Macedonian,The house is big.,Куќата е голема.,,sentence
+6700010,Macedonian,The car is red.,Автомобилот е црвен.,,sentence
+6700011,Macedonian,I see the house.,Ја гледам куќата.,,sentence
+6700012,Macedonian,He has a car.,Тој има автомобил.,,sentence
+6700013,Macedonian,He has a red car.,Тој има црвен автомобил.,,sentence
+6700014,Macedonian,I see four cars.,Гледам четири автомобили.,,sentence
