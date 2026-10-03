@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+6800000,Romani,house,kher,,noun
+6800001,Romani,water,paj,,noun
+6800002,Romani,man,murš,,noun
+6800003,Romani,doctor,doktor,,noun
+6800004,Romani,car,mašina,,noun
+6800005,Romani,red,lolo,,adjective
+6800006,Romani,big,baro,,adjective
+6800007,Romani,four,štar,,number
+6800008,Romani,He is a doctor.,Vov si doktor.,,sentence
+6800009,Romani,The house is big.,O kher si baro.,,sentence
+6800010,Romani,The car is red.,E mašina si loli.,,sentence
+6800011,Romani,I see the house.,Dikhav o kher.,,sentence
+6800012,Romani,He has a car.,Les si mašina.,,sentence
+6800013,Romani,He has a red car.,Les si loli mašina.,,sentence
+6800014,Romani,I see four cars.,Dikhav štar mašine.,,sentence
