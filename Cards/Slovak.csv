@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+6200000,Slovak,house,dom,,noun
+6200001,Slovak,water,voda,,noun
+6200002,Slovak,man,muž,,noun
+6200003,Slovak,doctor,lekár,,noun
+6200004,Slovak,car,auto,,noun
+6200005,Slovak,red,červený,,adjective
+6200006,Slovak,big,veľký,,adjective
+6200007,Slovak,four,štyri,,number
+6200008,Slovak,He is a doctor.,Je lekár.,,sentence
+6200009,Slovak,The house is big.,Dom je veľký.,,sentence
+6200010,Slovak,The car is red.,Auto je červené.,,sentence
+6200011,Slovak,I see the house.,Vidím dom.,,sentence
+6200012,Slovak,He has a car.,Má auto.,,sentence
+6200013,Slovak,He has a red car.,Má červené auto.,,sentence
+6200014,Slovak,I see four cars.,Vidím štyri autá.,,sentence
