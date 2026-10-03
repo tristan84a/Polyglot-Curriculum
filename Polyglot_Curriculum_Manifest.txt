@@ -177,9 +177,10 @@ Frontier: IS-14 — Case paradigms by noun class
 Checkpoint: Established deck with V2, case government, noun/adjective agreement, plurals, possession, modals, past, perfect/pluperfect and later previews.
 
 ITALIAN
-Card file: Cards/Italian.csv
+Syllabus: Syllabi/Polyglot_Italian_Syllabus_v0.1.txt
 Cards: 100 | Used IDs: 1600000-1600099
-Checkpoint: Seed deck. No current Italian syllabus file is recorded; audit the seed before substantial expansion.
+Frontier: IT-14 — Regular -ere present
+Checkpoint: Contemporary standard Italian seed. The existing 100 cards establish articles and agreement, pro-drop, essere, avere, negation, regular -are present, questions, direct lexical objects and volere + infinitive. Continue at regular -ere while recycling the established systems and widening vocabulary.
 
 SERBIAN
 Syllabus: Syllabi/Polyglot_Serbian_Syllabus_v0.2.txt
