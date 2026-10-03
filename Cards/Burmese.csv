@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+6300000,Burmese,house,အိမ်,,noun
+6300001,Burmese,water,ရေ,,noun
+6300002,Burmese,man,အမျိုးသား,,noun
+6300003,Burmese,doctor,ဆရာဝန်,,noun
+6300004,Burmese,car,ကား,,noun
+6300005,Burmese,red,အနီရောင်,,adjective
+6300006,Burmese,big,ကြီး,,adjective
+6300007,Burmese,four,လေး,,number
+6300008,Burmese,He is a doctor.,သူက ဆရာဝန်ပါ။,,sentence
+6300009,Burmese,The house is big.,အိမ်က ကြီးတယ်။,,sentence
+6300010,Burmese,The car is red.,ကားက အနီရောင်ပါ။,,sentence
+6300011,Burmese,I see the house.,အိမ်ကို မြင်တယ်။,,sentence
+6300012,Burmese,He has a car.,သူ့မှာ ကားရှိတယ်။,,sentence
+6300013,Burmese,He has a red car.,သူ့မှာ အနီရောင်ကားရှိတယ်။,,sentence
+6300014,Burmese,I see four cars.,ကားလေးစီးကို မြင်တယ်။,,sentence
