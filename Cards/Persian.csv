@@ -14,3 +14,88 @@
 2400012,Persian,He has a car.,او ماشین دارد.,,sentence
 2400013,Persian,He has a red car.,او یک ماشین قرمز دارد.,,sentence
 2400014,Persian,I see four cars.,من چهار ماشین می‌بینم.,,sentence
+2400015,Persian,woman,زن,,noun
+2400016,Persian,child,بچه,,noun
+2400017,Persian,book,کتاب,,noun
+2400018,Persian,city,شهر,,noun
+2400019,Persian,school,مدرسه,,noun
+2400020,Persian,friend,دوست,,noun
+2400021,Persian,good,خوب,,adjective
+2400022,Persian,small,کوچک,,adjective
+2400023,Persian,new,جدید,,adjective
+2400024,Persian,old,قدیمی,,adjective
+2400025,Persian,I,من,,pronoun
+2400026,Persian,you,تو,,pronoun
+2400027,Persian,he,او,,pronoun
+2400028,Persian,she,او,,pronoun
+2400029,Persian,we,ما,,pronoun
+2400030,Persian,you guys,شما,,pronoun
+2400031,Persian,they,آنها,,pronoun
+2400032,Persian,this,این,,pronoun
+2400033,Persian,that,آن,,pronoun
+2400034,Persian,This is a book.,این کتاب است.,,sentence
+2400035,Persian,She is a doctor.,او پزشک است.,,sentence
+2400036,Persian,This is a city.,این شهر است.,,sentence
+2400037,Persian,The book is good.,کتاب خوب است.,,sentence
+2400038,Persian,The city is big.,شهر بزرگ است.,,sentence
+2400039,Persian,The child is small.,بچه کوچک است.,,sentence
+2400040,Persian,a big house,خانهٔ بزرگ,,phrase
+2400041,Persian,a red car,ماشین قرمز,,phrase
+2400042,Persian,a new book,کتاب جدید,,phrase
+2400043,Persian,my book,کتاب من,,phrase
+2400044,Persian,his house,خانهٔ او,,phrase
+2400045,Persian,her car,ماشین او,,phrase
+2400046,Persian,The book is not new.,کتاب جدید نیست.,,sentence
+2400047,Persian,The house is not small.,خانه کوچک نیست.,,sentence
+2400048,Persian,Is this a book?,این کتاب است؟,,sentence
+2400049,Persian,Is the city big?,شهر بزرگ است؟,,sentence
+2400050,Persian,houses,خانه‌ها,,noun
+2400051,Persian,books,کتاب‌ها,,noun
+2400052,Persian,cars,ماشین‌ها,,noun
+2400053,Persian,new houses,خانه‌های جدید,,phrase
+2400054,Persian,big cities,شهرهای بزرگ,,phrase
+2400055,Persian,The houses are big.,خانه‌ها بزرگ هستند.,,sentence
+2400056,Persian,The cars are red.,ماشین‌ها قرمز هستند.,,sentence
+2400057,Persian,one,یک,,number
+2400058,Persian,two,دو,,number
+2400059,Persian,three,سه,,number
+2400060,Persian,five,پنج,,number
+2400061,Persian,two books,دو کتاب,,phrase
+2400062,Persian,three houses,سه خانه,,phrase
+2400063,Persian,five cars,پنج ماشین,,phrase
+2400064,Persian,to read,خواندن,,verb
+2400065,Persian,to work,کار کردن,,verb
+2400066,Persian,to live,زندگی کردن,,verb
+2400067,Persian,to know,دانستن,,verb
+2400068,Persian,to speak,صحبت کردن,,verb
+2400069,Persian,to see,دیدن,,verb
+2400070,Persian,to have,داشتن,,verb
+2400071,Persian,I read.,می‌خوانم.,,sentence
+2400072,Persian,You read.,می‌خوانی.,,sentence
+2400073,Persian,He reads.,می‌خواند.,,sentence
+2400074,Persian,We read.,می‌خوانیم.,,sentence
+2400075,Persian,You guys read.,می‌خوانید.,,sentence
+2400076,Persian,They read.,می‌خوانند.,,sentence
+2400077,Persian,I work.,کار می‌کنم.,,sentence
+2400078,Persian,She works.,کار می‌کند.,,sentence
+2400079,Persian,We work.,کار می‌کنیم.,,sentence
+2400080,Persian,I live here.,اینجا زندگی می‌کنم.,,sentence
+2400081,Persian,He lives here.,اینجا زندگی می‌کند.,,sentence
+2400082,Persian,They live here.,اینجا زندگی می‌کنند.,,sentence
+2400083,Persian,I know.,می‌دانم.,,sentence
+2400084,Persian,She knows.,می‌داند.,,sentence
+2400085,Persian,I do not work.,کار نمی‌کنم.,,sentence
+2400086,Persian,She does not read.,نمی‌خواند.,,sentence
+2400087,Persian,Do you work?,کار می‌کنی؟,,sentence
+2400088,Persian,Does he live here?,اینجا زندگی می‌کند؟,,sentence
+2400089,Persian,who,کی,,pronoun
+2400090,Persian,what,چی,,pronoun
+2400091,Persian,where,کجا,,adverb
+2400092,Persian,when,کی,,adverb
+2400093,Persian,how,چطور,,adverb
+2400094,Persian,why,چرا,,adverb
+2400095,Persian,Who is she?,او کیست؟,,sentence
+2400096,Persian,What is this?,این چیست؟,,sentence
+2400097,Persian,Where is the school?,مدرسه کجاست؟,,sentence
+2400098,Persian,I have a book.,کتاب دارم.,,sentence
+2400099,Persian,We have a house.,خانه داریم.,,sentence
