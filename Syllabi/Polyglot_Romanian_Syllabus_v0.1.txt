@@ -1,0 +1,305 @@
+POLYGLOT ROMANIAN SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for contemporary Romanian in Polyglot. It governs systematic development after the standardized 15-card micro opening. Vocabulary grows continuously while grammar develops in a widening spiral rather than in sealed textbook blocks.
+
+REFERENCE VARIETY AND WRITING
+
+Contemporary standard Romanian as used in Romania is the unmarked reference variety. Targets use current Romanian orthography with diacritics including ă, â, î, ș and ț. InputHint is normally blank.
+
+Moldovan regional usage and the Romanian of the Republic of Moldova belong to later comparison and variation work. They do not require a separate initial curriculum.
+
+COURSE-WIDE CARD PRINCIPLES
+
+1. Write natural ordinary English prompts and natural Romanian Targets. Do not make either language imitate the other for flashcard convenience.
+2. Apply established course defaults silently. Add a qualifier only when the intended Target deliberately departs from a default and the distinction cannot reasonably be inferred from ordinary English or context.
+3. Parenthetical qualifiers are sparse early scaffolding. Prefer natural contextual cues for number, gender, politeness and register.
+4. Exact matching identifies the canonical natural Target selected for a card; it does not claim that no other Romanian wording could express the proposition.
+5. Romanian permits subject pronoun omission. Establish pronouns explicitly early but increasingly prefer natural pro-drop when person is clear from the verb.
+6. The postposed definite article is a central longitudinal system. Teach it through useful noun phrases rather than as a detached ending inventory.
+7. Noun gender and number interact with article and adjective agreement. Romanian's traditional neuter class behaves broadly as masculine in the singular and feminine in the plural; establish this through lexical examples before abstract synthesis.
+8. Direct-object marking with pe and clitic doubling develops progressively. Do not map pe mechanically onto English animacy or definiteness.
+9. Dative and genitive forms overlap substantially but their functions should be introduced separately before synthesis.
+10. The subjunctive with să is central to ordinary Romanian and should appear earlier than a Romance-language template based on infinitival complements might suggest.
+11. Establish representative productive verb patterns clearly; thereafter reduce paradigm density and favor contextualized selective forms while vocabulary keeps expanding.
+12. Avoid commas in card sentences whenever a natural alternative is available because the simple CSV workflow is comma-sensitive.
+13. Check the entire live deck plus every new batch for duplicate IDs and duplicate EnglishPrompt values before committing.
+
+MICRO DECK AND SEED TRANSITION
+
+Cards 2500000-2500014 are the standardized 15-card micro opening. They preview the postposed definite article, adjective agreement, pro-drop, present verbal morphology, indefinite articles and numeral-driven plural forms. Preserve them as footholds rather than treating those syllabus units as complete.
+
+Cards 2500015 onward form the syllabus-governed seed and continuing canonical deck.
+
+STAGE 1 — CORE NOMINAL AND CLAUSAL SYSTEM
+
+RO-01 — Core concrete vocabulary
+OBJECTIVE: Build a varied useful lexical base with noun gender learned as part of lexical knowledge rather than through artificial gender labels in English prompts.
+
+RO-02 — Personal pronouns and pro-drop
+OBJECTIVE: Establish eu, tu, el, ea, noi, voi, ei and ele while showing that subject pronouns are normally omitted when person is clear and no contrast is intended.
+
+RO-03 — Present of a fi
+OBJECTIVE: Establish sunt, e/este, suntem and sunteți in natural identification and description. Introduce both neutral full and common short third-person forms appropriately.
+
+RO-04 — Indefinite articles un and o
+OBJECTIVE: Establish common singular indefinite noun phrases with masculine/neuter un and feminine o.
+
+RO-05 — Noun gender and adjective agreement
+OBJECTIVE: Establish masculine and feminine singular agreement plus representative neuter nouns through natural descriptions.
+
+RO-06 — Postposed definite article: singular
+OBJECTIVE: Establish common singular definite forms such as casa and bărbatul through familiar vocabulary. The micro deck already previews casa and mașina.
+
+RO-07 — Basic negation
+OBJECTIVE: Establish nu with copular and familiar verbal predicates.
+
+RO-08 — Yes/no questions
+OBJECTIVE: Establish ordinary Romanian polar questions without importing English auxiliary structure.
+
+RO-09 — Plural nouns
+OBJECTIVE: Establish representative productive plural patterns through several lexical classes rather than a single artificial rule.
+
+RO-10 — Plural adjective agreement
+OBJECTIVE: Combine plural nouns and adjectives while beginning the characteristic singular/plural behavior of neuter nouns.
+
+RO-11 — Definite article: plural
+OBJECTIVE: Establish common plural definite forms in natural noun phrases and sentences.
+
+RO-12 — Demonstratives and early noun-phrase synthesis
+OBJECTIVE: Introduce acesta/aceasta and common natural demonstrative patterns while recycling article, number and agreement.
+
+STAGE 2 — FIRST VERBAL SYSTEM
+
+RO-13 — Infinitive citation forms
+OBJECTIVE: Establish short infinitive lexical forms such as a vedea, a lucra, a citi and a locui as dictionary anchors.
+
+RO-14 — Present tense: first productive pattern
+OBJECTIVE: Establish one representative regular present pattern with enough person/number coverage to make the system visible.
+
+RO-15 — Additional present conjugation patterns
+OBJECTIVE: Broaden present morphology across -a, -ea, -e and -i/-î verb classes with declining paradigm density.
+
+RO-16 — High-frequency irregular present verbs
+OBJECTIVE: Establish indispensable verbs such as a avea, a vrea, a putea and a merge through natural sentences.
+
+RO-17 — Verbal negation and questions
+OBJECTIVE: Extend nu and natural question formation across familiar present-tense predicates.
+
+RO-18 — Question words
+OBJECTIVE: Establish cine, ce, unde, când, cum, de ce and cât progressively in natural questions.
+
+RO-19 — Present-tense synthesis
+OBJECTIVE: Combine pro-drop, common present verbs, negation, questions and expanding vocabulary.
+
+STAGE 3 — OBJECTS, PREPOSITIONS AND SĂ COMPLEMENTS
+
+RO-20 — Unmarked direct objects
+OBJECTIVE: Establish ordinary inanimate and nonspecific direct objects before marked personal objects.
+
+RO-21 — pe with personal direct objects
+OBJECTIVE: Introduce pe through clear human and personal-reference contexts without reducing the system to a simple animate-object rule.
+
+RO-22 — Accusative clitic pronouns
+OBJECTIVE: Establish mă, te, îl, o, ne, vă, îi and le progressively through useful clauses.
+
+RO-23 — Clitic doubling
+OBJECTIVE: Introduce common doubling patterns once both pe-marking and clitic objects have independent footholds.
+
+RO-24 — Core prepositions
+OBJECTIVE: Establish în, la, din, de, cu, pentru, fără and other high-value prepositions through concrete relations.
+
+RO-25 — Location, destination and source
+OBJECTIVE: Build common place expressions with familiar motion and location verbs.
+
+RO-26 — să + present subjunctive
+OBJECTIVE: Establish the central Romanian complement pattern after wanting, ability/possibility, necessity and related predicates.
+
+RO-27 — a vrea să
+OBJECTIVE: Develop ordinary want constructions through multiple persons and lexical verbs.
+
+RO-28 — trebuie să and modal expressions
+OBJECTIVE: Establish necessity and other high-frequency impersonal/modal constructions.
+
+RO-29 — First object/complement synthesis
+OBJECTIVE: Combine objects, pe, clitics, prepositions and să complements in controlled natural sentences.
+
+STAGE 4 — POSSESSION, DATIVE AND GENITIVE
+
+RO-30 — Possessive adjectives and pronouns
+OBJECTIVE: Establish meu, tău, său and related forms through ordinary noun phrases while respecting article/agreement behavior.
+
+RO-31 — Genitive possession with lui and ei
+OBJECTIVE: Introduce common possessor constructions with personal reference.
+
+RO-32 — Definite genitive/dative singular forms
+OBJECTIVE: Establish common noun forms contextually rather than as detached case tables.
+
+RO-33 — Dative recipients
+OBJECTIVE: Establish recipient and beneficiary functions through natural transfer and communication verbs.
+
+RO-34 — Dative clitic pronouns
+OBJECTIVE: Introduce îmi, îți, îi, ne, vă and le through common constructions.
+
+RO-35 — Dative clitic doubling
+RO-36 — Genitive/dative plural
+RO-37 — al / a / ai / ale possessive-genitival article
+RO-38 — Possession and case synthesis
+
+STAGE 5 — PAST AND FUTURE
+
+RO-39 — Perfectul compus
+OBJECTIVE: Establish the ordinary conversational past with auxiliary avea + past participle.
+
+RO-40 — Past participles
+OBJECTIVE: Broaden regular and high-frequency irregular participles through lexical families.
+
+RO-41 — Perfectul compus negation and questions
+RO-42 — Imperfect
+OBJECTIVE: Establish ongoing, habitual and background past meanings through natural contrasts with perfectul compus.
+
+RO-43 — Perfectul compus versus imperfect
+RO-44 — Future with o să
+RO-45 — Future with voi
+RO-46 — Present forms with future reference
+RO-47 — Past/future synthesis
+
+STAGE 6 — REFLEXIVES, IMPERATIVE AND MODALITY
+
+RO-48 — Reflexive pronouns and reflexive verbs
+RO-49 — Reciprocal and middle-like reflexive uses
+RO-50 — Imperative
+RO-51 — Negative imperative
+RO-52 — Expanded subjunctive
+RO-53 — Conditional present
+RO-54 — Conditional perfect
+RO-55 — Politeness and dumneavoastră
+RO-56 — Modal and directive synthesis
+
+STAGE 7 — NOUN-PHRASE DEPTH
+
+RO-57 — Adjective position and meaning
+RO-58 — Comparative with mai
+RO-59 — Superlative with cel mai
+RO-60 — Numerals and noun agreement
+RO-61 — Ordinals
+RO-62 — Quantifiers and measure expressions
+RO-63 — Indefinite and negative pronouns
+RO-64 — Demonstrative variation and colloquial forms
+RO-65 — Noun-phrase synthesis
+
+STAGE 8 — COMPLEX SENTENCES
+
+RO-66 — Coordination
+RO-67 — că complement clauses
+RO-68 — Relative care
+RO-69 — Other relative and interrogative forms
+RO-70 — Temporal clauses
+RO-71 — Causal clauses
+RO-72 — Conditional dacă
+RO-73 — Purpose and result
+RO-74 — Reported speech and indirect questions
+RO-75 — Clause synthesis
+
+STAGE 9 — ADVANCED VERBAL AND CLITIC SYSTEMS
+
+RO-76 — Multiple clitic combinations
+RO-77 — Clitic placement with finite verbs
+RO-78 — Clitics with imperatives and nonfinite forms
+RO-79 — Passive with a fi + participle
+RO-80 — se passive and impersonal constructions
+RO-81 — Gerund
+RO-82 — Supine
+RO-83 — Participial adjective constructions
+RO-84 — Mai mult ca perfectul
+RO-85 — Perfectul simplu recognition and regional/literary use
+RO-86 — Advanced verbal synthesis
+
+STAGE 10 — WORD FORMATION, ORTHOGRAPHY AND NATURAL USAGE
+
+RO-87 — Productive prefixes and suffixes
+RO-88 — Diminutives and expressive derivation
+RO-89 — Word families and lexical derivation
+RO-90 — ă, â and î orthographic conventions
+RO-91 — ș and ț and standard spelling
+RO-92 — Stress and pronunciation
+RO-93 — Common contractions and spoken reductions
+RO-94 — Discourse particles and conversational responses
+RO-95 — Neutral, informal and formal register
+RO-96 — Orthographic and register synthesis
+
+STAGE 11 — BROAD VOCABULARY EXPANSION
+
+RO-97 — Household and everyday life
+RO-98 — Food and cooking
+RO-99 — Clothing and possessions
+RO-100 — Family and relationships
+RO-101 — Body and health
+RO-102 — Work and occupations
+RO-103 — Education
+RO-104 — Travel and transportation
+RO-105 — Buildings, towns and public places
+RO-106 — Nature, plants and animals
+RO-107 — Weather and environment
+RO-108 — Tools, materials and physical objects
+RO-109 — Technology and communications
+RO-110 — Commerce, money and finance
+RO-111 — Government, law and public institutions
+RO-112 — Science and mathematics
+RO-113 — Arts, literature and culture
+RO-114 — Religion and philosophy
+RO-115 — Emotions, personality and human behaviour
+RO-116 — Abstract concepts and relationships
+
+These are longitudinal lexical domains rather than finite word lists. Useful vocabulary from them should enter much earlier whenever prerequisites permit.
+
+STAGE 12 — VARIATION AND EDUCATED-ADULT USAGE
+
+RO-117 — Romanian of the Republic of Moldova
+RO-118 — Major regional forms encountered in Romania
+RO-119 — Formal and literary constructions still encountered today
+RO-120 — Idioms, collocations and figurative language
+RO-121 — High-frequency words across multiple senses
+RO-122 — Fine semantic distinctions and near-synonyms
+RO-123 — Contemporary media and institutional Romanian
+RO-124 — Academic and professional vocabulary
+RO-125 — Scientific and technical vocabulary of broad relevance
+RO-126 — Political, legal and economic vocabulary
+RO-127 — Cultural and literary vocabulary
+RO-128 — Advanced derivation and word families
+RO-129 — Register and stylistic nuance
+RO-130 — Continuing lexical, grammatical and constructional expansion
+
+Once the syllabus has been substantially traversed, use authentic contemporary Romanian writing and speech for backward validation. Authentic sources diagnose productive gaps; they do not automatically become flashcards.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1. Unit completion establishes canonical coverage rather than learner mastery.
+2. Established vocabulary and grammar become reusable; later cards increasingly combine them in natural sentences.
+3. New structural concepts normally appear first with controlled lexical load while vocabulary continues growing.
+4. Stable live card IDs are not renumbered merely because syllabus organization changes.
+5. Previewing a later construction does not move the Manifest frontier.
+6. Parallel units may interleave once prerequisites are satisfied.
+
+CURRENT SEED ALIGNMENT
+
+The 15-card micro deck previews several later systems. The expanded 100-card seed establishes RO-01 through RO-14: core vocabulary, personal pronouns/pro-drop, a fi, indefinite articles, gender/adjective agreement, singular and plural definite articles, negation/questions, plural nouns/adjectives, demonstratives, infinitive citation forms and the first productive present-tense pattern.
+
+The forward frontier after the 100-card seed is:
+
+RO-15 — Additional present conjugation patterns
+
+AMENDMENT HISTORY
+
+Version 0.1
+- Initial Romanian syllabus under Charter 0.8 and Card Generation Protocol v1.0.
+- Uses contemporary standard Romanian in Romania as the unmarked reference variety.
+- Makes the postposed definite article, noun gender/number, pe and clitic doubling, genitive/dative structure and să complements longitudinal systems.
+- Places perfectul compus before imperfect and treats perfectul simplu later primarily as recognition/regional-literary material.
+- Aligns the 100-card seed through RO-14 and sets the forward frontier at RO-15.
