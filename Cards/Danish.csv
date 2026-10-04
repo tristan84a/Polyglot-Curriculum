@@ -14,3 +14,88 @@
 2600012,Danish,He has a car.,Han har en bil.,,sentence
 2600013,Danish,He has a red car.,Han har en rød bil.,,sentence
 2600014,Danish,I see four cars.,Jeg ser fire biler.,,sentence
+2600015,Danish,woman,kvinde,,noun
+2600016,Danish,child,barn,,noun
+2600017,Danish,book,bog,,noun
+2600018,Danish,city,by,,noun
+2600019,Danish,school,skole,,noun
+2600020,Danish,friend,ven,,noun
+2600021,Danish,good,god,,adjective
+2600022,Danish,small,lille,,adjective
+2600023,Danish,new,ny,,adjective
+2600024,Danish,old,gammel,,adjective
+2600025,Danish,I,jeg,,pronoun
+2600026,Danish,you,du,,pronoun
+2600027,Danish,he,han,,pronoun
+2600028,Danish,she,hun,,pronoun
+2600029,Danish,it (common gender),den,,pronoun
+2600030,Danish,it (neuter),det,,pronoun
+2600031,Danish,we,vi,,pronoun
+2600032,Danish,you guys,I,,pronoun
+2600033,Danish,they,de,,pronoun
+2600034,Danish,I am a doctor.,Jeg er læge.,,sentence
+2600035,Danish,She is a doctor.,Hun er læge.,,sentence
+2600036,Danish,We are doctors.,Vi er læger.,,sentence
+2600037,Danish,They are doctors.,De er læger.,,sentence
+2600038,Danish,a house,et hus,,phrase
+2600039,Danish,a car,en bil,,phrase
+2600040,Danish,a book,en bog,,phrase
+2600041,Danish,a child,et barn,,phrase
+2600042,Danish,a big house,et stort hus,,phrase
+2600043,Danish,a red car,en rød bil,,phrase
+2600044,Danish,a new book,en ny bog,,phrase
+2600045,Danish,a good child,et godt barn,,phrase
+2600046,Danish,The woman is good.,Kvinden er god.,,sentence
+2600047,Danish,The child is good.,Barnet er godt.,,sentence
+2600048,Danish,The houses are big.,Husene er store.,,sentence
+2600049,Danish,The cars are red.,Bilerne er røde.,,sentence
+2600050,Danish,The book is not new.,Bogen er ikke ny.,,sentence
+2600051,Danish,The house is not small.,Huset er ikke lille.,,sentence
+2600052,Danish,Is this a book?,Er det en bog?,,sentence
+2600053,Danish,Is the city big?,Er byen stor?,,sentence
+2600054,Danish,houses,huse,,noun
+2600055,Danish,books,bøger,,noun
+2600056,Danish,cars,biler,,noun
+2600057,Danish,cities,byer,,noun
+2600058,Danish,children,børn,,noun
+2600059,Danish,big houses,store huse,,phrase
+2600060,Danish,new books,nye bøger,,phrase
+2600061,Danish,red cars,røde biler,,phrase
+2600062,Danish,the houses,husene,,noun
+2600063,Danish,the books,bøgerne,,noun
+2600064,Danish,the cars,bilerne,,noun
+2600065,Danish,the children,børnene,,noun
+2600066,Danish,this,denne,,pronoun
+2600067,Danish,that,den,,pronoun
+2600068,Danish,this house,dette hus,,phrase
+2600069,Danish,this car,denne bil,,phrase
+2600070,Danish,to work,at arbejde,,verb
+2600071,Danish,to read,at læse,,verb
+2600072,Danish,to live,at bo,,verb
+2600073,Danish,to speak,at tale,,verb
+2600074,Danish,to know,at vide,,verb
+2600075,Danish,to see,at se,,verb
+2600076,Danish,to have,at have,,verb
+2600077,Danish,to want,at ville,,verb
+2600078,Danish,I work.,Jeg arbejder.,,sentence
+2600079,Danish,You work.,Du arbejder.,,sentence
+2600080,Danish,He works.,Han arbejder.,,sentence
+2600081,Danish,We work.,Vi arbejder.,,sentence
+2600082,Danish,You guys work.,I arbejder.,,sentence
+2600083,Danish,They work.,De arbejder.,,sentence
+2600084,Danish,I read.,Jeg læser.,,sentence
+2600085,Danish,She reads.,Hun læser.,,sentence
+2600086,Danish,I live here.,Jeg bor her.,,sentence
+2600087,Danish,He lives here.,Han bor her.,,sentence
+2600088,Danish,I do not work.,Jeg arbejder ikke.,,sentence
+2600089,Danish,She does not read.,Hun læser ikke.,,sentence
+2600090,Danish,Do you work?,Arbejder du?,,sentence
+2600091,Danish,Does he live here?,Bor han her?,,sentence
+2600092,Danish,who,hvem,,pronoun
+2600093,Danish,what,hvad,,pronoun
+2600094,Danish,where,hvor,,adverb
+2600095,Danish,when,hvornår,,adverb
+2600096,Danish,how,hvordan,,adverb
+2600097,Danish,why,hvorfor,,adverb
+2600098,Danish,Who is she?,Hvem er hun?,,sentence
+2600099,Danish,Where is the school?,Hvor er skolen?,,sentence
