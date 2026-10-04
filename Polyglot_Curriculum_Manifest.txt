@@ -41,7 +41,7 @@ Punjabi      1900000-1999999         1900000-1900099        100
 Portuguese   2000000-2099999         2000000-2000099        100
 Korean       2100000-2199999         2100000-2100099        100
 Finnish      2200000-2299999         2200000-2200099        100
-Ukrainian    2300000-2399999         2300000-2300014        15
+Ukrainian    2300000-2399999         2300000-2300099        100
 Persian      2400000-2499999         2400000-2400014        15
 Romanian     2500000-2599999         2500000-2500014        15
 Danish       2600000-2699999         2600000-2600014        15
@@ -180,7 +180,7 @@ ITALIAN
 Syllabus: Syllabi/Polyglot_Italian_Syllabus_v0.1.txt
 Cards: 100 | Used IDs: 1600000-1600099
 Frontier: IT-14 — Regular -ere present
-Checkpoint: Contemporary standard Italian seed. The existing 100 cards establish articles and agreement, pro-drop, essere, avere, negation, regular -are present, questions, direct lexical objects and volere + infinitive. Continue at regular -ere while recycling the established systems and widening vocabulary.
+Checkpoint: Contemporary standard Italian seed. The existing 100 cards establish articles and agreement, pro-drop, essere, avere, negation, regular -are present, questions, direct lexical objects and volere + infinitive. Continue at regular -ere while recycling established systems and widening vocabulary.
 
 SERBIAN
 Syllabus: Syllabi/Polyglot_Serbian_Syllabus_v0.2.txt
@@ -215,11 +215,16 @@ Cards: 100 | Used IDs: 2200000-2200099
 Frontier: FI-23 — Illative
 Checkpoint: Cards 2200000-2200014 remain the standardized micro opening. Cards 2200015-2200099 form the seed, establishing pronouns/olla, predication, plurals, common present verbs, subject omission, the negative verb, -ko/-kö questions, interrogatives, genitive possession, first total/partitive contrasts, numeral + partitive, inessive and elative. Continue by completing the interior local-case family with the illative.
 
+UKRAINIAN
+Syllabus: Syllabi/Polyglot_Ukrainian_Syllabus_v0.2.txt
+Cards: 100 | Used IDs: 2300000-2300099
+Frontier: UK-15 — Accusative singular: inanimate direct objects
+Checkpoint: Cards 2300000-2300014 remain the standardized micro opening. Cards 2300015-2300099 form the seed and establish UK-01 through UK-14: core vocabulary, personal reference, zero-copula predicates, gender/agreement, negation/questions, existence/possession, present verb patterns, interrogatives, verbal negation, early infinitive complements and nominative plural agreement. Earlier micro cards preview later accusative, possession and numeral morphology without moving the frontier.
+
 4. MICRO-DECK CHECKPOINTS
 
 Unless noted otherwise, each entry below is a standardized 15-card semantic bootstrap with natural target-language preview sentences. These decks have no active syllabus frontier. Language-specific systematic development begins only when a deck deliberately graduates into a seed deck.
 
-UKRAINIAN — Cards/Ukrainian.csv — 15 cards — 2300000-2300014
 PERSIAN — Cards/Persian.csv — 15 cards — 2400000-2400014
 ROMANIAN — Cards/Romanian.csv — 15 cards — 2500000-2500014
 DANISH — Cards/Danish.csv — 15 cards — 2600000-2600014
@@ -267,4 +272,4 @@ MACEDONIAN — Cards/Macedonian.csv — 15 cards — 6700000-6700014
 ROMANI — Cards/Romani.csv — 15 cards — 6800000-6800014. Vlax Romani is the initial reference variety.
 INUKTITUT — Cards/Inuktitut.csv — 15 cards — 6900000-6900014. Eastern Canadian/Nunavut-oriented Inuktitut in Unicode syllabics with Roman InputHint.
 QUECHUA — Cards/Quechua.csv — 15 cards — 7000000-7000014. Southern Quechua is the initial reference variety.
-TELUGU — Cards/Telugu.csv — 15 cards — 7100000-7100014
+TELUGU — Cards/Telugu.csv — 15 cards — 7100000-7100014. 
