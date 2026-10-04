@@ -14,3 +14,88 @@
 2300012,Ukrainian,He has a car.,У нього є машина.,,sentence
 2300013,Ukrainian,He has a red car.,У нього є червона машина.,,sentence
 2300014,Ukrainian,I see four cars.,Я бачу чотири машини.,,sentence
+2300015,Ukrainian,woman,жінка,,noun
+2300016,Ukrainian,child,дитина,,noun
+2300017,Ukrainian,book,книга,,noun
+2300018,Ukrainian,city,місто,,noun
+2300019,Ukrainian,table,стіл,,noun
+2300020,Ukrainian,school,школа,,noun
+2300021,Ukrainian,good,добрий,,adjective
+2300022,Ukrainian,small,маленький,,adjective
+2300023,Ukrainian,new,новий,,adjective
+2300024,Ukrainian,old,старий,,adjective
+2300025,Ukrainian,I,я,,pronoun
+2300026,Ukrainian,you,ти,,pronoun
+2300027,Ukrainian,he,він,,pronoun
+2300028,Ukrainian,she,вона,,pronoun
+2300029,Ukrainian,it,воно,,pronoun
+2300030,Ukrainian,we,ми,,pronoun
+2300031,Ukrainian,you guys,ви,,pronoun
+2300032,Ukrainian,they,вони,,pronoun
+2300033,Ukrainian,this,це,,pronoun
+2300034,Ukrainian,This is a book.,Це книга.,,sentence
+2300035,Ukrainian,She is a doctor.,Вона лікарка.,,sentence
+2300036,Ukrainian,This is a city.,Це місто.,,sentence
+2300037,Ukrainian,The woman is good.,Жінка добра.,,sentence
+2300038,Ukrainian,The city is big.,Місто велике.,,sentence
+2300039,Ukrainian,The child is small.,Дитина маленька.,,sentence
+2300040,Ukrainian,a new book,нова книга,,phrase
+2300041,Ukrainian,a new city,нове місто,,phrase
+2300042,Ukrainian,The book is not new.,Книга не нова.,,sentence
+2300043,Ukrainian,The house is not small.,Будинок не маленький.,,sentence
+2300044,Ukrainian,Is this a book?,Це книга?,,sentence
+2300045,Ukrainian,Is the city big?,Місто велике?,,sentence
+2300046,Ukrainian,I have a book.,У мене є книга.,,sentence
+2300047,Ukrainian,You have a car.,У тебе є машина.,,sentence
+2300048,Ukrainian,She has a book.,У неї є книга.,,sentence
+2300049,Ukrainian,We have a house.,У нас є будинок.,,sentence
+2300050,Ukrainian,They have a car.,У них є машина.,,sentence
+2300051,Ukrainian,I do not have a car.,У мене немає машини.,,sentence
+2300052,Ukrainian,She does not have a book.,У неї немає книги.,,sentence
+2300053,Ukrainian,to read,читати,,verb
+2300054,Ukrainian,to work,працювати,,verb
+2300055,Ukrainian,to live,жити,,verb
+2300056,Ukrainian,to know,знати,,verb
+2300057,Ukrainian,to speak,говорити,,verb
+2300058,Ukrainian,to see,бачити,,verb
+2300059,Ukrainian,to want,хотіти,,verb
+2300060,Ukrainian,I read.,Я читаю.,,sentence
+2300061,Ukrainian,You read.,Ти читаєш.,,sentence
+2300062,Ukrainian,He reads.,Він читає.,,sentence
+2300063,Ukrainian,We read.,Ми читаємо.,,sentence
+2300064,Ukrainian,You guys read.,Ви читаєте.,,sentence
+2300065,Ukrainian,They read.,Вони читають.,,sentence
+2300066,Ukrainian,I work.,Я працюю.,,sentence
+2300067,Ukrainian,She works.,Вона працює.,,sentence
+2300068,Ukrainian,We work.,Ми працюємо.,,sentence
+2300069,Ukrainian,I live here.,Я живу тут.,,sentence
+2300070,Ukrainian,He lives here.,Він живе тут.,,sentence
+2300071,Ukrainian,They live here.,Вони живуть тут.,,sentence
+2300072,Ukrainian,I know.,Я знаю.,,sentence
+2300073,Ukrainian,She knows.,Вона знає.,,sentence
+2300074,Ukrainian,I speak Ukrainian.,Я говорю українською.,,sentence
+2300075,Ukrainian,He speaks Ukrainian.,Він говорить українською.,,sentence
+2300076,Ukrainian,I do not work.,Я не працюю.,,sentence
+2300077,Ukrainian,She does not read.,Вона не читає.,,sentence
+2300078,Ukrainian,Do you work?,Ти працюєш?,,sentence
+2300079,Ukrainian,Does he live here?,Він живе тут?,,sentence
+2300080,Ukrainian,who,хто,,pronoun
+2300081,Ukrainian,what,що,,pronoun
+2300082,Ukrainian,where,де,,adverb
+2300083,Ukrainian,when,коли,,adverb
+2300084,Ukrainian,how,як,,adverb
+2300085,Ukrainian,why,чому,,adverb
+2300086,Ukrainian,Who is she?,Хто вона?,,sentence
+2300087,Ukrainian,What is this?,Що це?,,sentence
+2300088,Ukrainian,Where is the school?,Де школа?,,sentence
+2300089,Ukrainian,Where do you live?,Де ти живеш?,,sentence
+2300090,Ukrainian,I want to read.,Я хочу читати.,,sentence
+2300091,Ukrainian,She wants to work.,Вона хоче працювати.,,sentence
+2300092,Ukrainian,We want to live here.,Ми хочемо жити тут.,,sentence
+2300093,Ukrainian,houses,будинки,,noun
+2300094,Ukrainian,books,книги,,noun
+2300095,Ukrainian,cars,машини,,noun
+2300096,Ukrainian,new houses,нові будинки,,phrase
+2300097,Ukrainian,big cities,великі міста,,phrase
+2300098,Ukrainian,The houses are new.,Будинки нові.,,sentence
+2300099,Ukrainian,The cities are big.,Міста великі.,,sentence
