@@ -1,0 +1,302 @@
+POLYGLOT PERSIAN SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for modern Persian in Polyglot. It governs systematic development after the standardized 15-card micro opening. Vocabulary grows continuously and grammar develops in a widening spiral rather than in sealed paradigm blocks.
+
+REFERENCE VARIETY AND WRITING
+
+Contemporary standard Iranian Persian is the unmarked reference variety. Targets use ordinary contemporary Persian script and normal written orthography. InputHint is normally blank. Transliteration is not a parallel target system.
+
+The curriculum begins with broadly neutral standard Persian while progressively teaching the relationship between formal written forms and very common spoken Iranian forms. Spoken reductions and colloquial forms are introduced explicitly rather than silently substituted for written-standard forms. Dari and Tajik are later comparison strands and do not displace Iranian Persian as the initial reference variety.
+
+COURSE-WIDE CARD PRINCIPLES
+
+1. Write natural ordinary English prompts and natural Persian Targets. Do not force Persian to mirror English structure.
+2. Apply established course defaults silently. Add qualifiers only when the intended Target deliberately departs from a default and the distinction cannot reasonably be inferred from ordinary English or context.
+3. Parenthetical qualifiers are sparse early scaffolding. Prefer natural situational cues.
+4. Exact matching identifies the canonical natural Target selected for the card; it does not imply that no alternative Persian wording exists.
+5. Persian normally omits subject pronouns when person is clear from the verb. Establish explicit pronouns early but increasingly use natural pro-drop.
+6. The ezafe construction is a central longitudinal system. Introduce it early through natural noun phrases and expand it across adjectives, possession and longer noun phrases.
+7. Persian has no grammatical gender. Do not invent gender distinctions where Persian does not make them.
+8. Indefiniteness, specificity and definite direct-object marking with را develop through contextual contrasts rather than a mechanical English article mapping.
+9. Compound verbs are central to Persian verbal vocabulary. Treat light-verb constructions as lexical units while also developing their productive patterns.
+10. Present stems and past stems are both fundamental. Infinitive cards remain useful lexical anchors, but finite forms should increasingly be learned in natural sentences.
+11. Establish one representative productive pattern clearly; thereafter reduce paradigm density and continue lexical expansion.
+12. Avoid commas in card sentences whenever a natural alternative is available because the simple CSV workflow is comma-sensitive.
+13. Check the entire live deck plus every new batch for duplicate IDs and duplicate EnglishPrompt values before committing.
+
+MICRO DECK AND SEED TRANSITION
+
+Cards 2400000-2400014 are the standardized 15-card micro opening. They preview را, present verbal morphology, possession, adjective placement and numeral noun phrases before those systems are formally established. Preserve them as useful footholds rather than treating the corresponding syllabus units as complete.
+
+Cards 2400015 onward form the syllabus-governed seed and continuing canonical deck.
+
+STAGE 1 — SCRIPT, CORE LEXICON AND SIMPLE PREDICATION
+
+FA-01 — Core concrete vocabulary in Persian script
+OBJECTIVE: Build useful nouns in ordinary Persian spelling without an alphabet-name or transliteration bootstrap.
+
+FA-02 — Personal pronouns and reference
+OBJECTIVE: Establish من, تو, او, ما, شما, آنها and useful demonstratives while preparing for natural subject omission.
+
+FA-03 — Copular predication with بودن
+OBJECTIVE: Establish ordinary present nominal and adjectival predicates and the common enclitic copula forms in neutral written Persian.
+
+FA-04 — Basic negation and yes/no questions
+OBJECTIVE: Establish negative copular predicates and natural polar questions without importing English auxiliary structure.
+
+FA-05 — Ezafe with adjectives
+OBJECTIVE: Establish noun + adjective phrases such as خانهٔ بزرگ and ماشین قرمز as a productive Persian noun-phrase pattern.
+
+FA-06 — Ezafe possession
+OBJECTIVE: Extend ezafe to possessors such as کتاب من and خانهٔ او before longer chains.
+
+FA-07 — Demonstratives and basic noun phrases
+OBJECTIVE: Establish این and آن with familiar nouns and descriptions in natural phrases and clauses.
+
+FA-08 — Plural with ها
+OBJECTIVE: Establish common productive plural formation while leaving lexical plurals and Arabic plural patterns for later treatment.
+
+FA-09 — Numbers and noun phrases
+OBJECTIVE: Establish basic numeral + singular-noun behavior with familiar vocabulary. The micro card چهار ماشین is an early preview.
+
+FA-10 — Early nominal synthesis
+OBJECTIVE: Combine pronouns, copular predicates, ezafe, demonstratives, adjectives, possession, plurals and numbers with expanding vocabulary.
+
+STAGE 2 — FIRST VERBAL SYSTEM
+
+FA-11 — Infinitives, past stems and present stems
+OBJECTIVE: Establish that Persian verbal morphology draws on both past and present stems. Introduce this relationship through high-frequency verbs rather than detached stem tables.
+
+FA-12 — Present indicative with می‌
+OBJECTIVE: Establish the ordinary present indicative across a representative verb with person endings and correct نیم‌فاصله orthography where appropriate.
+
+FA-13 — Additional present verbs and declining paradigm density
+OBJECTIVE: Expand present morphology through high-frequency simple and compound verbs while moving rapidly from paradigm establishment to contextual use.
+
+FA-14 — Verbal negation
+OBJECTIVE: Establish نـ / نمی‌ patterns in natural present clauses.
+
+FA-15 — Question words
+OBJECTIVE: Establish کی, چی/چه, کجا, کی/چه وقت, چرا, چطور and other high-value interrogatives in natural questions. Neutral written forms precede explicitly colloquial alternatives where they differ materially.
+
+FA-16 — داشتن and possession
+OBJECTIVE: Establish داشتن as the ordinary have construction across useful persons and contexts.
+
+FA-17 — Definite direct objects with را
+OBJECTIVE: Establish را with contextually definite or specific direct objects. Avoid teaching it as a mechanical equivalent of English the.
+
+FA-18 — Bare and indefinite direct objects
+OBJECTIVE: Contrast ordinary objects without را and begin the interaction of indefiniteness and specificity.
+
+FA-19 — Indefinite marker ی and یک
+OBJECTIVE: Establish common indefinite noun phrases and the relationship between یک and enclitic -ی without claiming a one-to-one English article system.
+
+FA-20 — Early verbal synthesis
+OBJECTIVE: Combine present verbs, negation, questions, possession and direct-object marking with a widening lexicon.
+
+STAGE 3 — COMPLEMENTS, PREPOSITIONS AND COMPOUND VERBS
+
+FA-21 — Common prepositions
+OBJECTIVE: Establish در, به, از, با, برای and other high-value prepositions in concrete contexts.
+
+FA-22 — Location and direction
+OBJECTIVE: Contrast location, destination and source through familiar places and motion verbs.
+
+FA-23 — Object pronouns and enclitic pronouns
+OBJECTIVE: Introduce common independent and enclitic object/possessive forms progressively and contextually.
+
+FA-24 — خواستن and infinitival complements
+OBJECTIVE: Establish ordinary want constructions and first subordinate infinitival relationships.
+
+FA-25 — توانستن and ability
+OBJECTIVE: Establish common ability constructions and their verbal complement behavior.
+
+FA-26 — باید and necessity
+OBJECTIVE: Establish necessity/obligation with باید in natural clauses.
+
+FA-27 — First compound verbs
+OBJECTIVE: Establish high-frequency light-verb combinations with کردن, شدن, دادن, زدن and گرفتن as lexical units.
+
+FA-28 — Compound-verb productivity
+OBJECTIVE: Broaden familiar light verbs across new nominal elements while respecting lexicalized meanings.
+
+FA-29 — Separable elements and word order in compound verbs
+OBJECTIVE: Develop the placement of objects, adverbs, negation and other material around compound predicates.
+
+FA-30 — Stage synthesis
+OBJECTIVE: Combine prepositions, complements, object marking and compound verbs in natural everyday sentences.
+
+STAGE 4 — PAST, PERFECT AND FUTURE
+
+FA-31 — Simple past
+OBJECTIVE: Establish past-stem + personal-ending morphology across high-frequency verbs.
+
+FA-32 — Past negation and questions
+FA-33 — Imperfective past with می‌
+FA-34 — Present perfect
+FA-35 — Pluperfect
+FA-36 — Future with خواستن
+FA-37 — Natural present forms with future reference
+FA-38 — Tense and aspect synthesis
+
+OBJECTIVE FOR STAGE: Build Persian tense/aspect contrasts through contextualized events rather than English tense labels alone. The formal future belongs to the system but should not crowd out ordinary present forms where contemporary Persian naturally uses them for future reference.
+
+STAGE 5 — SUBJUNCTIVE, IMPERATIVE AND MODAL STRUCTURE
+
+FA-39 — Present subjunctive with بـ
+FA-40 — Subjunctive after wanting and preference
+FA-41 — Subjunctive after possibility, necessity and evaluation
+FA-42 — Imperative
+FA-43 — Negative imperative
+FA-44 — بودن and irregular/high-frequency subjunctives
+FA-45 — Modal and subjunctive synthesis
+
+STAGE 6 — NOUN-PHRASE DEVELOPMENT
+
+FA-46 — Longer ezafe chains
+FA-47 — Possessive enclitics
+FA-48 — Comparative with تر
+FA-49 — Superlative with ترین
+FA-50 — Quantifiers and measure expressions
+FA-51 — Numerals, counters and classifiers where idiomatic
+FA-52 — Arabic-origin plural patterns of ordinary frequency
+FA-53 — Indefiniteness, specificity and را at greater depth
+FA-54 — Noun-phrase synthesis
+
+STAGE 7 — COMPLEX SENTENCES
+
+FA-55 — Coordination
+FA-56 — که complement clauses
+FA-57 — Relative clauses with که
+FA-58 — Temporal clauses
+FA-59 — Causal clauses
+FA-60 — Conditional اگر
+FA-61 — Purpose and result
+FA-62 — Reported speech and indirect questions
+FA-63 — Complex-clause synthesis
+
+STAGE 8 — VERBAL DEPTH AND DERIVATION
+
+FA-64 — Expanded compound-verb families
+FA-65 — Causative meanings and ساختن / کردن patterns
+FA-66 — Passive with شدن
+FA-67 — Participles and verbal adjectives
+FA-68 — Progressive constructions
+FA-69 — Resultative and state constructions
+FA-70 — Verbal nouns and infinitival nominalization
+FA-71 — Advanced tense/aspect/modal combinations
+FA-72 — Verbal-system synthesis
+
+STAGE 9 — SPOKEN IRANIAN PERSIAN AND REGISTER
+
+FA-73 — Written versus ordinary spoken copula forms
+FA-74 — Common spoken pronoun and demonstrative forms
+FA-75 — Spoken verb reductions and contractions
+FA-76 — Colloquial را → رو
+FA-77 — Common colloquial preposition and complement patterns
+FA-78 — Spoken word order and discourse particles
+FA-79 — Politeness and address
+FA-80 — Formal written Persian versus neutral conversation
+FA-81 — Register synthesis
+
+Written-standard targets remain unmarked until spoken variants are deliberately introduced. Once a colloquial pattern is introduced, use natural contextual prompts rather than repeatedly labelling every conversational sentence.
+
+STAGE 10 — WORD FORMATION, ORTHOGRAPHY AND LITERACY
+
+FA-82 — نیم‌فاصله and standard spacing conventions
+FA-83 — Prefixes and suffixes
+FA-84 — Arabic-origin vocabulary and Persian morphology
+FA-85 — Homographs and context-dependent reading
+FA-86 — Common spelling conventions
+FA-87 — Punctuation and contemporary written style
+FA-88 — Formal vocabulary and nominal style
+FA-89 — Literacy synthesis
+
+STAGE 11 — BROAD VOCABULARY EXPANSION
+
+FA-90 — Household and everyday life
+FA-91 — Food and cooking
+FA-92 — Clothing and possessions
+FA-93 — Family and relationships
+FA-94 — Body and health
+FA-95 — Work and occupations
+FA-96 — Education
+FA-97 — Travel and transportation
+FA-98 — Buildings, towns and public places
+FA-99 — Nature, plants and animals
+FA-100 — Weather and environment
+FA-101 — Tools, materials and physical objects
+FA-102 — Technology and communications
+FA-103 — Commerce, money and finance
+FA-104 — Government, law and public institutions
+FA-105 — Science and mathematics
+FA-106 — Arts, literature and culture
+FA-107 — Religion and philosophy
+FA-108 — Emotions, personality and human behaviour
+FA-109 — Abstract concepts and relationships
+
+These domains are longitudinal rather than finite word lists. Useful vocabulary from them should enter much earlier whenever prerequisites permit.
+
+STAGE 12 — PERSIAN ACROSS VARIETIES AND EDUCATED-ADULT USAGE
+
+FA-110 — Common literary and formal constructions encountered today
+FA-111 — Idioms, collocations and figurative language
+FA-112 — High-frequency words across multiple senses
+FA-113 — Fine semantic distinctions and near-synonyms
+FA-114 — Contemporary media and institutional Persian
+FA-115 — Dari comparison
+FA-116 — Tajik comparison and Cyrillic orientation
+FA-117 — Regional Iranian variation of broad relevance
+FA-118 — Historical/literary vocabulary encountered in modern educated reading
+FA-119 — Arabic-Persian stylistic alternatives
+FA-120 — Educated-adult lexical expansion
+
+STAGE 13 — MATURE LANGUAGE COMPETENCE / LONG TAIL
+
+FA-121 — Lower-frequency verbs and compound-verb families
+FA-122 — Lower-frequency concrete and descriptive vocabulary
+FA-123 — Academic and professional vocabulary
+FA-124 — Scientific and technical vocabulary of broad relevance
+FA-125 — Political, legal and economic vocabulary
+FA-126 — Cultural and literary vocabulary
+FA-127 — Advanced derivation and word families
+FA-128 — Less-common idioms and collocations
+FA-129 — Register and stylistic nuance
+FA-130 — Continuing lexical, grammatical and constructional expansion
+
+Once the syllabus has been substantially traversed, use authentic contemporary Persian writing and speech for backward validation. Authentic sources diagnose productive gaps; they do not automatically become flashcards.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1. Unit completion establishes canonical coverage rather than learner mastery.
+2. Established vocabulary and grammar become reusable; later cards increasingly combine them in natural sentences.
+3. New structural concepts normally appear first with controlled lexical load while vocabulary continues growing.
+4. Stable live card IDs are not renumbered merely because syllabus organization changes.
+5. Previewing a later construction does not move the Manifest frontier.
+6. Parallel units may interleave once prerequisites are satisfied.
+
+CURRENT SEED ALIGNMENT
+
+The 15-card micro deck previews several later systems. The expanded 100-card seed establishes FA-01 through FA-10 and begins the first verbal system through FA-16: Persian-script core vocabulary, pronouns, copular predication, negation/questions, ezafe adjective and possession patterns, demonstratives, productive ها plurals, basic number phrases, present indicative morphology, verbal negation, interrogatives and داشتن possession.
+
+The forward frontier after the 100-card seed is:
+
+FA-17 — Definite direct objects with را
+
+The original micro card من خانه را می‌بینم is a preview and does not by itself establish FA-17.
+
+AMENDMENT HISTORY
+
+Version 0.1
+- Initial Persian syllabus under Charter 0.8 and Card Generation Protocol v1.0.
+- Uses contemporary standard Iranian Persian as the unmarked reference variety.
+- Makes ezafe, specificity/را, compound verbs, stem relationships and written/spoken register longitudinal systems.
+- Reserves Dari and Tajik for later explicit comparison strands.
+- Aligns the 100-card seed with FA-01 through FA-16 and sets the forward frontier at FA-17.
