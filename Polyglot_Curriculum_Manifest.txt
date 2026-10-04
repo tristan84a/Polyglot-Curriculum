@@ -42,7 +42,7 @@ Portuguese   2000000-2099999         2000000-2000099        100
 Korean       2100000-2199999         2100000-2100099        100
 Finnish      2200000-2299999         2200000-2200099        100
 Ukrainian    2300000-2399999         2300000-2300099        100
-Persian      2400000-2499999         2400000-2400014        15
+Persian      2400000-2499999         2400000-2400099        100
 Romanian     2500000-2599999         2500000-2500014        15
 Danish       2600000-2699999         2600000-2600014        15
 Czech        2700000-2799999         2700000-2700014        15
@@ -221,11 +221,16 @@ Cards: 100 | Used IDs: 2300000-2300099
 Frontier: UK-15 — Accusative singular: inanimate direct objects
 Checkpoint: Cards 2300000-2300014 remain the standardized micro opening. Cards 2300015-2300099 form the seed and establish UK-01 through UK-14: core vocabulary, personal reference, zero-copula predicates, gender/agreement, negation/questions, existence/possession, present verb patterns, interrogatives, verbal negation, early infinitive complements and nominative plural agreement. Earlier micro cards preview later accusative, possession and numeral morphology without moving the frontier.
 
+PERSIAN
+Syllabus: Syllabi/Polyglot_Persian_Syllabus_v0.1.txt
+Cards: 100 | Used IDs: 2400000-2400099
+Frontier: FA-17 — Definite direct objects with را
+Checkpoint: Cards 2400000-2400014 remain the standardized micro opening. Cards 2400015-2400099 form the seed and establish Persian-script core vocabulary, pronouns, copular predication, negation/questions, ezafe adjective and possession patterns, demonstratives, productive ها plurals, basic number phrases, present indicative morphology, verbal negation, interrogatives and داشتن possession. The micro card with را remains a preview and does not move the frontier.
+
 4. MICRO-DECK CHECKPOINTS
 
 Unless noted otherwise, each entry below is a standardized 15-card semantic bootstrap with natural target-language preview sentences. These decks have no active syllabus frontier. Language-specific systematic development begins only when a deck deliberately graduates into a seed deck.
 
-PERSIAN — Cards/Persian.csv — 15 cards — 2400000-2400014
 ROMANIAN — Cards/Romanian.csv — 15 cards — 2500000-2500014
 DANISH — Cards/Danish.csv — 15 cards — 2600000-2600014
 CZECH — Cards/Czech.csv — 15 cards — 2700000-2700014. A historical Czech syllabus v0.2 exists, but the live deck remains micro-only and has no active frontier until graduation.
@@ -272,4 +277,4 @@ MACEDONIAN — Cards/Macedonian.csv — 15 cards — 6700000-6700014
 ROMANI — Cards/Romani.csv — 15 cards — 6800000-6800014. Vlax Romani is the initial reference variety.
 INUKTITUT — Cards/Inuktitut.csv — 15 cards — 6900000-6900014. Eastern Canadian/Nunavut-oriented Inuktitut in Unicode syllabics with Roman InputHint.
 QUECHUA — Cards/Quechua.csv — 15 cards — 7000000-7000014. Southern Quechua is the initial reference variety.
-TELUGU — Cards/Telugu.csv — 15 cards — 7100000-7100014. 
+TELUGU — Cards/Telugu.csv — 15 cards — 7100000-7100014.
