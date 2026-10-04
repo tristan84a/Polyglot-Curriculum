@@ -1,0 +1,303 @@
+POLYGLOT DANISH SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for contemporary Danish in Polyglot. It governs systematic development after the standardized 15-card micro opening. Vocabulary grows continuously while grammar develops in a widening spiral rather than in sealed textbook blocks.
+
+REFERENCE VARIETY AND WRITING
+
+Contemporary standard Danish as used in Denmark is the unmarked reference variety. Targets use ordinary modern Danish orthography including æ, ø and å. InputHint is normally blank.
+
+The curriculum initially uses broadly neutral written and spoken-standard Danish. Pronunciation receives explicit longitudinal treatment because the relationship between Danish spelling and ordinary speech cannot be inferred reliably from orthography alone. Regional varieties belong to later comparison work.
+
+COURSE-WIDE CARD PRINCIPLES
+
+1. Write natural ordinary English prompts and natural Danish Targets. Do not make either language imitate the other for flashcard convenience.
+2. Apply established course defaults silently. Add a qualifier only when the intended Target deliberately departs from a default and the distinction cannot reasonably be inferred from ordinary English or context.
+3. Parenthetical qualifiers are sparse early scaffolding. Prefer natural contextual cues.
+4. Exact matching identifies the canonical natural Target selected for a card; it does not claim that no other Danish wording could express the proposition.
+5. Noun gender is lexical. Learn common-gender en and neuter et through noun phrases rather than English-side gender labels.
+6. Definiteness is expressed both by suffixed articles and by the preposed definite article in modified noun phrases. Treat this as a longitudinal noun-phrase system.
+7. Adjective forms interact with gender, definiteness and number. Establish contrasts through useful phrases before broad paradigm synthesis.
+8. Danish finite verbs do not agree with person or number. Establish this economy early rather than repeating artificial person paradigms.
+9. Main-clause V2 word order is central. Teach it first in neutral subject-initial clauses and then through fronted adverbials and other first-position constituents.
+10. Negation with ikke interacts with clause type and word order. Its placement should develop together with V2 and later subordinate-clause structure.
+11. Stød and reduced spoken forms matter for listening and pronunciation but should not be represented by artificial target spelling. Teach pronunciation through explicit pronunciation-oriented cards or explanatory contrasts where useful.
+12. Establish representative productive patterns clearly; thereafter reduce paradigm density and continue lexical expansion.
+13. Avoid commas in card sentences whenever a natural alternative is available because the simple CSV workflow is comma-sensitive.
+14. Check the entire live deck plus every new batch for duplicate IDs and duplicate EnglishPrompt values before committing.
+
+MICRO DECK AND SEED TRANSITION
+
+Cards 2600000-2600014 are the standardized 15-card micro opening. They preview suffixed definiteness, en gender, neuter adjective agreement, present verbal morphology and plural nouns before those systems are formally established. Preserve them as footholds rather than treating those syllabus units as complete.
+
+Cards 2600015 onward form the syllabus-governed seed and continuing canonical deck.
+
+STAGE 1 — CORE NOUN PHRASES AND SIMPLE CLAUSES
+
+DA-01 — Core concrete vocabulary
+OBJECTIVE: Build varied high-value nouns, adjectives and basic lexical items in ordinary Danish spelling.
+
+DA-02 — Personal pronouns
+OBJECTIVE: Establish jeg, du, han, hun, den, det, vi, I and de in natural use.
+
+DA-03 — Present of være
+OBJECTIVE: Establish er in identification and description while showing that finite verbs do not change by grammatical person.
+
+DA-04 — Indefinite articles en and et
+OBJECTIVE: Establish common versus neuter gender through useful noun phrases.
+
+DA-05 — Predicative adjective agreement
+OBJECTIVE: Establish common singular, neuter singular and plural adjective forms in natural predicates.
+
+DA-06 — Attributive adjective agreement
+OBJECTIVE: Establish adjective forms inside indefinite noun phrases.
+
+DA-07 — Suffixed definite article: singular
+OBJECTIVE: Establish common -en and neuter -et definite nouns through familiar vocabulary. The micro cards huset and bilen are previews.
+
+DA-08 — Basic negation with ikke
+OBJECTIVE: Establish ikke in simple main clauses with familiar predicates.
+
+DA-09 — Yes/no questions and inversion
+OBJECTIVE: Establish finite-verb-first polar questions and contrast them with declarative V2 clauses.
+
+DA-10 — Plural nouns
+OBJECTIVE: Establish representative productive plural patterns including -er, -e and zero plurals through lexical examples.
+
+DA-11 — Plural adjective agreement
+OBJECTIVE: Combine plural noun phrases and predicates with adjective -e.
+
+DA-12 — Suffixed definite article: plural
+OBJECTIVE: Establish common plural definite forms in natural noun phrases and sentences.
+
+DA-13 — Demonstratives and definiteness
+OBJECTIVE: Establish den, det, de and common demonstrative noun phrases while preparing for preposed definiteness with modifiers.
+
+DA-14 — Early noun-phrase and clause synthesis
+OBJECTIVE: Combine gender, articles, adjective agreement, definiteness, plurals, pronouns, negation and questions with expanding vocabulary.
+
+STAGE 2 — FIRST VERBAL SYSTEM AND V2
+
+DA-15 — Infinitives with at
+OBJECTIVE: Establish lexical verb forms with at as useful dictionary/citation anchors.
+
+DA-16 — Present tense with -r and common irregulars
+OBJECTIVE: Establish ordinary present formation across representative verbs while emphasizing the absence of person/number agreement.
+
+DA-17 — High-frequency verbs
+OBJECTIVE: Expand være, have, gøre, gå, komme, se, vide, ville, kunne and related verbs through natural clauses.
+
+DA-18 — Verbal negation and questions
+OBJECTIVE: Extend ikke and inversion across familiar present verbs.
+
+DA-19 — Question words
+OBJECTIVE: Establish hvem, hvad, hvor, hvornår, hvordan, hvorfor and hvor meget/mange progressively in natural questions.
+
+DA-20 — Main-clause V2 after fronted adverbials
+OBJECTIVE: Establish inversion after sentence-initial time, place and other adverbials.
+
+DA-21 — Other first-position constituents and V2
+OBJECTIVE: Broaden the first-position slot beyond subjects and adverbials without treating word order as arbitrary.
+
+DA-22 — Present/V2 synthesis
+OBJECTIVE: Combine lexical expansion, finite verbs, questions, negation and V2 in varied everyday clauses.
+
+STAGE 3 — DEFINITE MODIFIED NOUN PHRASES, POSSESSION AND OBJECTS
+
+DA-23 — Preposed definite article + adjective
+OBJECTIVE: Establish den/det/de + adjective + noun as in det store hus and den røde bil and contrast it with suffixed definiteness.
+
+DA-24 — Possessive determiners
+OBJECTIVE: Establish min/mit/mine, din/dit/dine, hans, hendes, vores, jeres and deres through natural noun phrases.
+
+DA-25 — Possession with genitive -s
+OBJECTIVE: Establish productive possessor constructions with names and nouns.
+
+DA-26 — Direct and indirect object pronouns
+OBJECTIVE: Introduce mig, dig, ham, hende, den, det, os, jer and dem in ordinary clauses.
+
+DA-27 — Object position and pronoun placement
+OBJECTIVE: Develop ordinary object placement relative to finite verbs, adverbs and other constituents.
+
+DA-28 — Core prepositions
+OBJECTIVE: Establish i, på, til, fra, med, for, af and other high-value prepositions in concrete contexts.
+
+DA-29 — Location, direction and source
+OBJECTIVE: Develop place relations through common verbs and prepositions.
+
+DA-30 — Stage synthesis
+OBJECTIVE: Combine modified noun phrases, possession, objects, prepositions and V2 with expanding vocabulary.
+
+STAGE 4 — PAST, PERFECT AND FUTURE
+
+DA-31 — Weak preterite
+OBJECTIVE: Establish representative -ede and -te/-de past patterns through common verbs.
+
+DA-32 — Strong and irregular preterite
+DA-33 — Preterite negation and questions
+DA-34 — Present perfect with har
+DA-35 — Past participles
+DA-36 — Preterite versus present perfect
+DA-37 — Pluperfect
+DA-38 — Future with vil
+DA-39 — Future with skal
+DA-40 — Present forms with future reference
+DA-41 — Tense synthesis
+
+STAGE 5 — MODALS, INFINITIVES AND IMPERATIVES
+
+DA-42 — Modal verbs and bare infinitives
+OBJECTIVE: Establish kunne, skulle, ville, måtte, burde and related patterns without unnecessary at.
+
+DA-43 — at-infinitive complements
+DA-44 — Infinitive negation
+DA-45 — Imperative
+DA-46 — Negative imperative
+DA-47 — Reflexive pronouns and verbs
+DA-48 — Modal meaning and politeness
+DA-49 — Verbal-complement synthesis
+
+STAGE 6 — SUBORDINATE CLAUSES AND WORD ORDER
+
+DA-50 — at complement clauses
+DA-51 — fordi and causal clauses
+DA-52 — hvis and conditional clauses
+DA-53 — når and da in temporal clauses
+DA-54 — Subordinate-clause word order
+OBJECTIVE: Establish the characteristic placement of subject and sentence adverbs including ikke in subordinate clauses and contrast it with main-clause V2.
+
+DA-55 — Embedded questions
+DA-56 — Relative som and der
+DA-57 — Other relative constructions
+DA-58 — Clause synthesis
+
+STAGE 7 — ADJECTIVES, COMPARISON AND QUANTIFICATION
+
+DA-59 — Definite adjective forms
+DA-60 — Comparative adjectives
+DA-61 — Superlatives
+DA-62 — Irregular comparison
+DA-63 — Cardinal numbers in time, prices and measurements
+DA-64 — Ordinals and dates
+DA-65 — Quantifiers and meget/mange
+DA-66 — Indefinite and negative pronouns
+DA-67 — Noun-phrase synthesis
+
+STAGE 8 — VOICE, PARTICLES AND ADVANCED VERBAL STRUCTURE
+
+DA-68 — s-passive
+DA-69 — blive-passive
+DA-70 — Passive choice and meaning
+DA-71 — Particle verbs
+DA-72 — Directional and aspect-like particles
+DA-73 — Present participles
+DA-74 — Past participles as adjectives
+DA-75 — Advanced modal and tense combinations
+DA-76 — Verbal-system synthesis
+
+STAGE 9 — PRONUNCIATION AND SPOKEN DANISH
+
+DA-77 — Long and short vowel contrasts
+DA-78 — Soft d
+DA-79 — Stød
+DA-80 — Reduced schwa and syllables
+DA-81 — Common consonant reductions
+DA-82 — Pronoun and function-word reductions
+DA-83 — Spoken rhythm and linking
+DA-84 — Common conversational contractions and discourse forms
+DA-85 — Spelling-to-speech contrasts
+DA-86 — Spoken comprehension synthesis
+
+Pronunciation work should teach recognition and production without replacing standard written Target forms with phonetic respellings.
+
+STAGE 10 — WORD FORMATION, REGISTER AND NATURAL USAGE
+
+DA-87 — Productive compounds
+DA-88 — Derivational prefixes and suffixes
+DA-89 — Common verb-noun and adjective-noun collocations
+DA-90 — Modal particles and stance
+DA-91 — Conversational responses and ellipsis
+DA-92 — Politeness and forms of address
+DA-93 — Neutral, informal and formal written choices
+DA-94 — Orthographic conventions and punctuation
+DA-95 — Register and usage synthesis
+
+STAGE 11 — BROAD VOCABULARY EXPANSION
+
+DA-96 — Household and everyday life
+DA-97 — Food and cooking
+DA-98 — Clothing and possessions
+DA-99 — Family and relationships
+DA-100 — Body and health
+DA-101 — Work and occupations
+DA-102 — Education
+DA-103 — Travel and transportation
+DA-104 — Buildings, towns and public places
+DA-105 — Nature, plants and animals
+DA-106 — Weather and environment
+DA-107 — Tools, materials and physical objects
+DA-108 — Technology and communications
+DA-109 — Commerce, money and finance
+DA-110 — Government, law and public institutions
+DA-111 — Science and mathematics
+DA-112 — Arts, literature and culture
+DA-113 — Religion and philosophy
+DA-114 — Emotions, personality and human behaviour
+DA-115 — Abstract concepts and relationships
+
+These are longitudinal lexical domains rather than finite word lists. Useful vocabulary from them should enter much earlier whenever prerequisites permit.
+
+STAGE 12 — SCANDINAVIAN RELATIONSHIPS, VARIATION AND EDUCATED-ADULT USAGE
+
+DA-116 — Major regional Danish variation
+DA-117 — Formal and literary constructions still encountered today
+DA-118 — Swedish comparison and receptive correspondences
+DA-119 — Norwegian comparison and receptive correspondences
+DA-120 — False friends and cross-Scandinavian lexical distinctions
+DA-121 — Idioms, collocations and figurative language
+DA-122 — High-frequency words across multiple senses
+DA-123 — Fine semantic distinctions and near-synonyms
+DA-124 — Contemporary media and institutional Danish
+DA-125 — Academic and professional vocabulary
+DA-126 — Scientific and technical vocabulary of broad relevance
+DA-127 — Political, legal and economic vocabulary
+DA-128 — Cultural and literary vocabulary
+DA-129 — Advanced derivation and word families
+DA-130 — Continuing lexical, grammatical and constructional expansion
+
+Norwegian remains a separate Polyglot language curriculum. Cross-Scandinavian comparison here is for receptive competence and contrast rather than a substitute for Norwegian or Swedish instruction.
+
+Once the syllabus has been substantially traversed, use authentic contemporary Danish writing and speech for backward validation. Authentic sources diagnose productive gaps; they do not automatically become flashcards.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1. Unit completion establishes canonical coverage rather than learner mastery.
+2. Established vocabulary and grammar become reusable; later cards increasingly combine them in natural sentences.
+3. New structural concepts normally appear first with controlled lexical load while vocabulary continues growing.
+4. Stable live card IDs are not renumbered merely because syllabus organization changes.
+5. Previewing a later construction does not move the Manifest frontier.
+6. Parallel units may interleave once prerequisites are satisfied.
+
+CURRENT SEED ALIGNMENT
+
+The 15-card micro deck previews several later systems. The expanded 100-card seed establishes DA-01 through DA-16: core vocabulary, personal pronouns, være, en/et gender, predicative and attributive adjective agreement, singular suffixed definiteness, negation, yes/no questions and inversion, representative plurals, plural adjective agreement, plural definiteness, demonstratives, infinitive citation forms and the productive present-tense pattern.
+
+The forward frontier after the 100-card seed is:
+
+DA-17 — High-frequency verbs
+
+AMENDMENT HISTORY
+
+Version 0.1
+- Initial Danish syllabus under Charter 0.8 and Card Generation Protocol v1.0.
+- Uses contemporary standard Danish in Denmark as the unmarked reference variety.
+- Makes en/et gender, suffixed/preposed definiteness, adjective agreement, V2, subordinate-clause word order and pronunciation longitudinal systems.
+- Treats stød and spoken reductions explicitly without phonetic respelling of standard Targets.
+- Reserves Swedish/Norwegian comparison for later receptive/contrastive work while retaining them as separate curricula.
+- Aligns the 100-card seed through DA-16 and sets the forward frontier at DA-17.
