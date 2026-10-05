@@ -1,0 +1,345 @@
+POLYGLOT GEORGIAN SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+Language: Georgian
+Reference variety: contemporary standard Georgian
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for contemporary Georgian in Polyglot. It governs systematic development after the standardized 15-card micro opening. Vocabulary grows continuously while grammar develops in a widening spiral.
+
+REFERENCE VARIETY AND WRITING
+
+Contemporary standard Georgian is the unmarked reference variety. Targets use modern Mkhedruli script from the first card. Georgian spelling is learned directly; transliteration is not part of the ordinary target and InputHint normally remains blank.
+
+COURSE-WIDE CARD PRINCIPLES
+
+1. Write natural ordinary English prompts and natural Georgian Targets. Do not make either language imitate the other for flashcard convenience.
+2. Apply established course defaults silently. Parenthetical qualifiers are sparse early scaffolding and should not merely reveal the target construction.
+3. Exact matching identifies the canonical natural Target selected for a card; it does not assert that no alternative Georgian expression exists.
+4. Georgian allows extensive subject omission because verbal morphology often identifies participants. Establish independent pronouns early but increasingly prefer natural omission when no contrast is intended.
+5. Georgian verb morphology is structurally central but should not be introduced as giant isolated tables. Establish representative verbs and person patterns clearly; thereafter reduce paradigm density and develop preverbs, version, screeves and argument marking longitudinally.
+6. Case marking and verbal argument structure interact. Do not teach the seven cases as if they were a simple one-to-one equivalent of Indo-European case systems.
+7. Georgian alignment changes across screeve series. Nominative, dative and ergative-pattern argument marking must be built progressively from actual verb classes and tense/aspect forms rather than reduced to a single permanent subject/object rule.
+8. The language has no grammatical gender and no articles. Do not manufacture English-side cues for categories Georgian does not encode.
+9. Georgian postpositions and case forms should be taught through useful spatial, temporal and relational expressions.
+10. Establish natural word order as discourse-sensitive rather than mechanically fixed while giving learners neutral patterns first.
+11. Avoid commas in card sentences whenever a natural alternative is available because the simple CSV workflow is comma-sensitive.
+12. Check the entire live deck plus each new batch for duplicate IDs and duplicate EnglishPrompt values before committing.
+
+MICRO DECK AND SEED TRANSITION
+
+Cards 2800000-2800014 are the standardized 15-card micro opening. They preview predicative copular forms, dative-marked direct objects with ხედვა, dative experiencer-like possession with აქვს and numeral noun phrases. Preserve them as footholds rather than treating those later systems as complete.
+
+Cards 2800015 onward form the syllabus-governed seed and continuing canonical deck.
+
+STAGE 1 — CORE CLAUSES AND NOMINAL FOUNDATIONS
+
+KA-01 — Core concrete vocabulary
+OBJECTIVE: Build reusable people, objects, places and everyday nouns in authentic Mkhedruli.
+
+KA-02 — Core adjectives
+OBJECTIVE: Establish common qualities and colours and their ordinary attributive/predicative use.
+
+KA-03 — Personal pronouns
+OBJECTIVE: Establish მე, შენ, ის, ჩვენ, თქვენ and ისინი while preparing for natural subject omission.
+
+KA-04 — Present copular predication
+OBJECTIVE: Establish ვარ, ხარ, არის/ა, ვართ, ხართ and არიან in identity and description while exposing common enclitic third-person forms naturally.
+
+KA-05 — No articles and basic noun phrases
+OBJECTIVE: Establish that bare Georgian nouns may correspond to English definite or indefinite noun phrases according to context.
+
+KA-06 — Basic adjective + noun phrases
+OBJECTIVE: Establish ordinary adjective placement and reusable descriptive noun phrases without inventing gender agreement.
+
+KA-07 — Basic negation
+OBJECTIVE: Establish არ with familiar copular and verbal predicates.
+
+KA-08 — Yes/no questions
+OBJECTIVE: Establish ordinary polar questions through intonation/punctuation and context rather than importing English auxiliary structure.
+
+KA-09 — Plural nouns
+OBJECTIVE: Establish productive -ები plurals and several common lexical examples.
+
+KA-10 — Demonstratives
+OBJECTIVE: Establish ეს, ეგ and ის progressively with natural proximity/discourse distinctions.
+
+KA-11 — Numbers and basic numeral noun phrases
+OBJECTIVE: Establish a useful initial number set and the characteristic singular-form noun after numerals.
+
+KA-12 — Early noun-phrase and clause synthesis
+OBJECTIVE: Combine vocabulary, pronouns, copular predication, negation, questions, plurals, demonstratives and numbers.
+
+STAGE 2 — FIRST VERBAL SYSTEM
+
+KA-13 — Verbal citation forms and lexical anchors
+OBJECTIVE: Establish common verbs using practical Georgian lexical forms while recognizing that Georgian does not map neatly onto an English infinitive-based dictionary system.
+
+KA-14 — Present series: first representative verb
+OBJECTIVE: Establish a high-frequency Class I verb across enough persons to make subject/object person marking visible.
+
+KA-15 — Additional present-series verbs
+OBJECTIVE: Broaden present morphology with declining paradigm density across useful lexical verbs.
+
+KA-16 — Subject omission
+OBJECTIVE: Prefer natural clauses without overt pronouns when verbal morphology makes the subject recoverable.
+
+KA-17 — Direct-object marking with familiar verbs
+OBJECTIVE: Develop object case and agreement through actual verb frames including ხედვა rather than a universal English-style transitive template.
+
+KA-18 — Verbal negation and questions
+OBJECTIVE: Extend არ and question formation across familiar verbs.
+
+KA-19 — Question words
+OBJECTIVE: Establish ვინ, რა, სად, როდის, როგორ, რატომ, რამდენი and related forms progressively.
+
+KA-20 — Present-series synthesis
+OBJECTIVE: Combine person marking, omission, objects, negation and questions with expanding vocabulary.
+
+STAGE 3 — CASE SYSTEM FOUNDATIONS
+
+KA-21 — Nominative
+OBJECTIVE: Consolidate citation/nominative forms and their major syntactic roles.
+
+KA-22 — Dative
+OBJECTIVE: Establish common dative forms through direct objects, possession and other high-frequency frames.
+
+KA-23 — Genitive
+OBJECTIVE: Establish possession and noun-to-noun relationships.
+
+KA-24 — Instrumental
+OBJECTIVE: Establish means, accompaniment-related and lexical uses.
+
+KA-25 — Adverbial case
+OBJECTIVE: Establish productive adverbial roles and common lexicalized uses.
+
+KA-26 — Ergative case: first exposure
+OBJECTIVE: Introduce ergative marking only with appropriate aorist-series verb frames and contrast it with present-series alignment.
+
+KA-27 — Vocative
+OBJECTIVE: Establish productive direct-address forms and common names/social nouns.
+
+KA-28 — Case synthesis I
+OBJECTIVE: Mix established case functions in short natural sentences without naming the required case in the prompt.
+
+STAGE 4 — POSSESSION, POSTPOSITIONS AND PARTICIPANTS
+
+KA-29 — Possession with აქვს
+OBJECTIVE: Develop the dative possessor construction already previewed in the micro deck.
+
+KA-30 — Possession with ჰყავს
+OBJECTIVE: Introduce possession/relationship with animate referents and contrast it naturally with აქვს.
+
+KA-31 — Genitive possession
+OBJECTIVE: Develop attributive possessive relations alongside verbal possession.
+
+KA-32 — Core postpositions
+OBJECTIVE: Establish high-value postpositions with their required case forms.
+
+KA-33 — Location and direction
+OBJECTIVE: Build common place, destination and source expressions.
+
+KA-34 — Personal pronouns across cases
+OBJECTIVE: Establish frequent oblique forms contextually.
+
+KA-35 — Participant synthesis
+OBJECTIVE: Combine possession, case forms, postpositions and verbal argument structure.
+
+STAGE 5 — PREVERBS, FUTURE AND AORIST
+
+KA-36 — Preverbs: spatial meanings
+OBJECTIVE: Introduce common preverbs first through transparent directional/spatial contrasts.
+
+KA-37 — Preverbs and lexical/aspectual meaning
+OBJECTIVE: Show that preverbs also participate in lexical and aspectual distinctions and are not mechanically predictable.
+
+KA-38 — Future series foundations
+OBJECTIVE: Establish common future forms through familiar verbs and their preverbs.
+
+KA-39 — Aorist series foundations
+OBJECTIVE: Establish common completed past forms while introducing the associated argument-marking changes carefully.
+
+KA-40 — Ergative alignment in the aorist
+OBJECTIVE: Develop Class I/II aorist argument patterns through repeated natural examples rather than abstract labels alone.
+
+KA-41 — Aorist of intransitive verbs
+KA-42 — Aorist negation and questions
+KA-43 — Future/aorist synthesis
+
+STAGE 6 — PERFECT SERIES AND INVERSION
+
+KA-44 — Perfect-series foundations
+OBJECTIVE: Introduce resultative/evidential perfect meanings through high-frequency verbs.
+
+KA-45 — Perfect-series participant marking
+OBJECTIVE: Establish characteristic inversion patterns in which experiencer-like subjects may be dative-marked.
+
+KA-46 — Pluperfect and related perfect forms
+KA-47 — Evidential/resultative meanings
+KA-48 — Series I/II/III alignment synthesis
+OBJECTIVE: Contrast participant marking across present/future, aorist and perfect series without pretending Georgian has one fixed alignment rule.
+
+STAGE 7 — VERB CLASSES AND VERSION
+
+KA-49 — Class I transitive verbs
+KA-50 — Class II intransitive verbs
+KA-51 — Class III medial verbs
+KA-52 — Class IV indirect/experiencer verbs
+KA-53 — Version vowels: first productive contrasts
+KA-54 — Subjective/objective/neutral version
+KA-55 — Person markers and agreement hierarchy
+KA-56 — Irregular high-frequency verbs
+KA-57 — Verb-class synthesis
+
+STAGE 8 — SCREEVES AND MOOD
+
+KA-58 — Present screeve family consolidation
+KA-59 — Imperfect
+KA-60 — Present subjunctive
+KA-61 — Future subjunctive
+KA-62 — Aorist subjunctive / optative functions
+KA-63 — Imperative
+KA-64 — Negative commands
+KA-65 — Conditional meanings
+KA-66 — Screeve/mood synthesis
+
+STAGE 9 — NONFINITE AND DERIVED VERBAL FORMS
+
+KA-67 — Masdar/verbal noun
+KA-68 — Participles
+KA-69 — Agent and result nouns
+KA-70 — Causatives
+KA-71 — Passives and inchoatives
+KA-72 — Reflexive and reciprocal meanings
+KA-73 — Productive verbal derivation
+KA-74 — Nonfinite/derivational synthesis
+
+STAGE 10 — COMPLEX NOUN PHRASES AND QUANTIFICATION
+
+KA-75 — Adjective and noun modification depth
+KA-76 — Genitive chains
+KA-77 — Cardinal numbers beyond the seed
+OBJECTIVE: Develop the Georgian vigesimal number system and high-frequency compound numerals.
+
+KA-78 — Ordinals
+KA-79 — Quantifiers
+KA-80 — Indefinite and negative pronouns
+KA-81 — Comparative constructions
+KA-82 — Superlative and degree
+KA-83 — Noun-phrase synthesis
+
+STAGE 11 — COMPLEX SENTENCES
+
+KA-84 — Coordination
+KA-85 — Complement clauses
+KA-86 — Relative clauses
+KA-87 — Temporal clauses
+KA-88 — Causal clauses
+KA-89 — Conditional clauses
+KA-90 — Purpose and result
+KA-91 — Reported speech
+KA-92 — Complex-clause synthesis
+
+STAGE 12 — WORD ORDER, INFORMATION STRUCTURE AND PRAGMATICS
+
+KA-93 — Neutral constituent order
+OBJECTIVE: Establish common neutral patterns while recognizing Georgian's discourse-sensitive flexibility.
+
+KA-94 — Topic and focus
+KA-95 — Pronoun omission and discourse reference
+KA-96 — Emphasis and marked ordering
+KA-97 — Discourse particles and connectors
+KA-98 — Politeness and forms of address
+KA-99 — Conversational responses and ellipsis
+KA-100 — Information-structure synthesis
+
+STAGE 13 — WORD FORMATION AND LEXICAL STRUCTURE
+
+KA-101 — Productive noun derivation
+KA-102 — Productive adjective derivation
+KA-103 — Compound and complex lexical formations
+KA-104 — Verb families organized by preverb and root
+KA-105 — Loanwords and adaptation
+KA-106 — Collocations
+KA-107 — Polysemy and lexical boundaries
+KA-108 — Word-family synthesis
+
+STAGE 14 — REGISTER, VARIATION AND SPOKEN GEORGIAN
+
+KA-109 — Neutral written versus ordinary spoken Georgian
+KA-110 — Common reductions and conversational forms
+KA-111 — Formal and institutional Georgian
+KA-112 — Regional variation of broad recognition
+KA-113 — Idioms and fixed expressions
+KA-114 — Proverbs and culturally common expressions
+KA-115 — Register synthesis
+
+STAGE 15 — BROAD VOCABULARY EXPANSION
+
+KA-116 — Household and everyday life
+KA-117 — Food and cooking
+KA-118 — Clothing and possessions
+KA-119 — Family and relationships
+KA-120 — Body and health
+KA-121 — Work and occupations
+KA-122 — Education
+KA-123 — Travel and transportation
+KA-124 — Buildings, towns and public places
+KA-125 — Nature, plants and animals
+KA-126 — Weather and environment
+KA-127 — Tools, materials and physical objects
+KA-128 — Technology and communications
+KA-129 — Commerce, money and finance
+KA-130 — Government, law and public institutions
+KA-131 — Science and mathematics
+KA-132 — Arts, literature and culture
+KA-133 — Religion and philosophy
+KA-134 — Emotions, personality and human behaviour
+KA-135 — Abstract concepts and relationships
+
+These are longitudinal lexical domains rather than finite word lists. Useful vocabulary from them should enter much earlier whenever prerequisites permit.
+
+STAGE 16 — EDUCATED-ADULT AND LONG-TAIL GEORGIAN
+
+KA-136 — Academic and professional vocabulary
+KA-137 — Scientific and technical vocabulary of broad relevance
+KA-138 — Political, legal and economic vocabulary
+KA-139 — Historical and cultural vocabulary
+KA-140 — Literary vocabulary and constructions still encountered today
+KA-141 — Fine semantic distinctions and near-synonyms
+KA-142 — High-frequency words across multiple senses
+KA-143 — Advanced idiom and phraseology
+KA-144 — Advanced derivational families
+KA-145 — Continuing lexical, grammatical and constructional expansion
+
+Once the syllabus has been substantially traversed, use authentic contemporary Georgian writing and speech for backward validation. Authentic sources diagnose productive gaps; they do not automatically become flashcards.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1. Unit completion establishes canonical coverage rather than learner mastery.
+2. Established vocabulary and grammar become reusable; later cards increasingly combine them in natural sentences.
+3. New structural concepts normally appear first with controlled lexical load while vocabulary continues growing.
+4. Stable live card IDs are not renumbered merely because syllabus organization changes.
+5. Previewing a later construction does not move the Manifest frontier.
+6. Parallel units may interleave once prerequisites are satisfied.
+
+CURRENT SEED ALIGNMENT
+
+The expanded 100-card seed establishes KA-01 through KA-12 and opens KA-13 through KA-15 with a small set of lexical and present-series verbs. The original micro cards სახლს ვხედავ., მას მანქანა აქვს. and ოთხ მანქანას ვხედავ. remain previews of later object marking, possession and numeral syntax rather than moving those frontiers.
+
+The forward frontier after the 100-card seed is:
+
+KA-16 — Subject omission
+
+AMENDMENT HISTORY
+
+Version 0.1
+- Initial Georgian syllabus under Charter 0.8 and Card Generation Protocol v1.0.
+- Uses contemporary standard Georgian in Mkhedruli as the unmarked baseline.
+- Treats case, verbal person marking, preverbs, version, screeves, verb classes and changing alignment as longitudinal systems.
+- Avoids imposing Indo-European infinitive, case or subject/object templates on Georgian.
+- Aligns the 100-card seed through the first present-series material and sets the forward frontier at KA-16.
