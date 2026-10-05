@@ -14,3 +14,88 @@
 2800012,Georgian,He has a car.,მას მანქანა აქვს.,,sentence
 2800013,Georgian,He has a red car.,მას წითელი მანქანა აქვს.,,sentence
 2800014,Georgian,I see four cars.,ოთხ მანქანას ვხედავ.,,sentence
+2800015,Georgian,woman,ქალი,,noun
+2800016,Georgian,child,ბავშვი,,noun
+2800017,Georgian,book,წიგნი,,noun
+2800018,Georgian,city,ქალაქი,,noun
+2800019,Georgian,school,სკოლა,,noun
+2800020,Georgian,friend,მეგობარი,,noun
+2800021,Georgian,good,კარგი,,adjective
+2800022,Georgian,small,პატარა,,adjective
+2800023,Georgian,new,ახალი,,adjective
+2800024,Georgian,old,ძველი,,adjective
+2800025,Georgian,I,მე,,pronoun
+2800026,Georgian,you,შენ,,pronoun
+2800027,Georgian,he,ის,,pronoun
+2800028,Georgian,she,ის,,pronoun
+2800029,Georgian,we,ჩვენ,,pronoun
+2800030,Georgian,you guys,თქვენ,,pronoun
+2800031,Georgian,they,ისინი,,pronoun
+2800032,Georgian,I am a doctor.,მე ექიმი ვარ.,,sentence
+2800033,Georgian,You are a doctor.,შენ ექიმი ხარ.,,sentence
+2800034,Georgian,She is a doctor.,ის ექიმია.,,sentence
+2800035,Georgian,We are doctors.,ჩვენ ექიმები ვართ.,,sentence
+2800036,Georgian,You guys are doctors.,თქვენ ექიმები ხართ.,,sentence
+2800037,Georgian,They are doctors.,ისინი ექიმები არიან.,,sentence
+2800038,Georgian,a big house,დიდი სახლი,,phrase
+2800039,Georgian,a red car,წითელი მანქანა,,phrase
+2800040,Georgian,a new book,ახალი წიგნი,,phrase
+2800041,Georgian,a good friend,კარგი მეგობარი,,phrase
+2800042,Georgian,The woman is good.,ქალი კარგია.,,sentence
+2800043,Georgian,The child is small.,ბავშვი პატარაა.,,sentence
+2800044,Georgian,The city is big.,ქალაქი დიდია.,,sentence
+2800045,Georgian,The book is old.,წიგნი ძველია.,,sentence
+2800046,Georgian,The book is not new.,წიგნი ახალი არ არის.,,sentence
+2800047,Georgian,The house is not small.,სახლი პატარა არ არის.,,sentence
+2800048,Georgian,Is this a book?,ეს წიგნია?,,sentence
+2800049,Georgian,Is the city big?,ქალაქი დიდია?,,sentence
+2800050,Georgian,houses,სახლები,,noun
+2800051,Georgian,books,წიგნები,,noun
+2800052,Georgian,cars,მანქანები,,noun
+2800053,Georgian,cities,ქალაქები,,noun
+2800054,Georgian,children,ბავშვები,,noun
+2800055,Georgian,big houses,დიდი სახლები,,phrase
+2800056,Georgian,new books,ახალი წიგნები,,phrase
+2800057,Georgian,red cars,წითელი მანქანები,,phrase
+2800058,Georgian,this,ეს,,pronoun
+2800059,Georgian,that,ის,,pronoun
+2800060,Georgian,this house,ეს სახლი,,phrase
+2800061,Georgian,that city,ის ქალაქი,,phrase
+2800062,Georgian,one,ერთი,,number
+2800063,Georgian,two,ორი,,number
+2800064,Georgian,three,სამი,,number
+2800065,Georgian,five,ხუთი,,number
+2800066,Georgian,two books,ორი წიგნი,,phrase
+2800067,Georgian,three houses,სამი სახლი,,phrase
+2800068,Georgian,five cars,ხუთი მანქანა,,phrase
+2800069,Georgian,to work,მუშაობა,,verb
+2800070,Georgian,to read,კითხვა,,verb
+2800071,Georgian,to live,ცხოვრება,,verb
+2800072,Georgian,to speak,ლაპარაკი,,verb
+2800073,Georgian,to know,ცოდნა,,verb
+2800074,Georgian,to see,ნახვა,,verb
+2800075,Georgian,to have,ქონა,,verb
+2800076,Georgian,to want,ნდომა,,verb
+2800077,Georgian,I work.,მე ვმუშაობ.,,sentence
+2800078,Georgian,You work.,შენ მუშაობ.,,sentence
+2800079,Georgian,He works.,ის მუშაობს.,,sentence
+2800080,Georgian,We work.,ჩვენ ვმუშაობთ.,,sentence
+2800081,Georgian,You guys work.,თქვენ მუშაობთ.,,sentence
+2800082,Georgian,They work.,ისინი მუშაობენ.,,sentence
+2800083,Georgian,I read.,მე ვკითხულობ.,,sentence
+2800084,Georgian,She reads.,ის კითხულობს.,,sentence
+2800085,Georgian,I live here.,მე აქ ვცხოვრობ.,,sentence
+2800086,Georgian,He lives here.,ის აქ ცხოვრობს.,,sentence
+2800087,Georgian,I speak Georgian.,მე ქართულად ვლაპარაკობ.,,sentence
+2800088,Georgian,I do not work.,მე არ ვმუშაობ.,,sentence
+2800089,Georgian,She does not read.,ის არ კითხულობს.,,sentence
+2800090,Georgian,Do you work?,შენ მუშაობ?,,sentence
+2800091,Georgian,Does he live here?,ის აქ ცხოვრობს?,,sentence
+2800092,Georgian,who,ვინ,,pronoun
+2800093,Georgian,what,რა,,pronoun
+2800094,Georgian,where,სად,,adverb
+2800095,Georgian,when,როდის,,adverb
+2800096,Georgian,how,როგორ,,adverb
+2800097,Georgian,why,რატომ,,adverb
+2800098,Georgian,Who is she?,ის ვინ არის?,,sentence
+2800099,Georgian,Where is the school?,სკოლა სად არის?,,sentence
