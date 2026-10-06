@@ -14,3 +14,88 @@
 2900012,Swahili,He has a car.,Ana gari.,,sentence
 2900013,Swahili,He has a red car.,Ana gari jekundu.,,sentence
 2900014,Swahili,I see four cars.,Ninaona magari manne.,,sentence
+2900015,Swahili,woman,mwanamke,,noun
+2900016,Swahili,child,mtoto,,noun
+2900017,Swahili,book,kitabu,,noun
+2900018,Swahili,city,mji,,noun
+2900019,Swahili,school,shule,,noun
+2900020,Swahili,friend,rafiki,,noun
+2900021,Swahili,good,zuri,,adjective
+2900022,Swahili,small,dogo,,adjective
+2900023,Swahili,new,pya,,adjective
+2900024,Swahili,old,zee,,adjective
+2900025,Swahili,I,mimi,,pronoun
+2900026,Swahili,you,wewe,,pronoun
+2900027,Swahili,he,yeye,,pronoun
+2900028,Swahili,she,yeye,,pronoun
+2900029,Swahili,we,sisi,,pronoun
+2900030,Swahili,you guys,ninyi,,pronoun
+2900031,Swahili,they,wao,,pronoun
+2900032,Swahili,I am a doctor.,Mimi ni daktari.,,sentence
+2900033,Swahili,You are a doctor.,Wewe ni daktari.,,sentence
+2900034,Swahili,She is a doctor.,Yeye ni daktari.,,sentence
+2900035,Swahili,We are doctors.,Sisi ni madaktari.,,sentence
+2900036,Swahili,They are doctors.,Wao ni madaktari.,,sentence
+2900037,Swahili,The woman is good.,Mwanamke ni mzuri.,,sentence
+2900038,Swahili,The child is small.,Mtoto ni mdogo.,,sentence
+2900039,Swahili,The book is new.,Kitabu ni kipya.,,sentence
+2900040,Swahili,The city is big.,Mji ni mkubwa.,,sentence
+2900041,Swahili,a good man,mwanamume mzuri,,phrase
+2900042,Swahili,a small child,mtoto mdogo,,phrase
+2900043,Swahili,a new book,kitabu kipya,,phrase
+2900044,Swahili,a big city,mji mkubwa,,phrase
+2900045,Swahili,The man is not a doctor.,Mwanamume si daktari.,,sentence
+2900046,Swahili,The book is not new.,Kitabu si kipya.,,sentence
+2900047,Swahili,Is she a doctor?,Yeye ni daktari?,,sentence
+2900048,Swahili,Is the city big?,Mji ni mkubwa?,,sentence
+2900049,Swahili,men,wanaume,,noun
+2900050,Swahili,women,wanawake,,noun
+2900051,Swahili,children,watoto,,noun
+2900052,Swahili,books,vitabu,,noun
+2900053,Swahili,cities,miji,,noun
+2900054,Swahili,schools,shule,,noun
+2900055,Swahili,big houses,nyumba kubwa,,phrase
+2900056,Swahili,new books,vitabu vipya,,phrase
+2900057,Swahili,good children,watoto wazuri,,phrase
+2900058,Swahili,red cars,magari mekundu,,phrase
+2900059,Swahili,The children are small.,Watoto ni wadogo.,,sentence
+2900060,Swahili,The books are new.,Vitabu ni vipya.,,sentence
+2900061,Swahili,The cities are big.,Miji ni mikubwa.,,sentence
+2900062,Swahili,The cars are red.,Magari ni mekundu.,,sentence
+2900063,Swahili,to work,kufanya kazi,,verb
+2900064,Swahili,to read,kusoma,,verb
+2900065,Swahili,to live,kuishi,,verb
+2900066,Swahili,to speak,kuzungumza,,verb
+2900067,Swahili,to know,kujua,,verb
+2900068,Swahili,to see,kuona,,verb
+2900069,Swahili,to have,kuwa na,,verb
+2900070,Swahili,to want,kutaka,,verb
+2900071,Swahili,I work.,Ninafanya kazi.,,sentence
+2900072,Swahili,You work.,Unafanya kazi.,,sentence
+2900073,Swahili,He works.,Anafanya kazi.,,sentence
+2900074,Swahili,We work.,Tunafanya kazi.,,sentence
+2900075,Swahili,You guys work.,Mnafanya kazi.,,sentence
+2900076,Swahili,They work.,Wanafanya kazi.,,sentence
+2900077,Swahili,I read.,Ninasoma.,,sentence
+2900078,Swahili,She reads.,Anasoma.,,sentence
+2900079,Swahili,I live here.,Ninaishi hapa.,,sentence
+2900080,Swahili,He lives here.,Anaishi hapa.,,sentence
+2900081,Swahili,I speak Swahili.,Ninazungumza Kiswahili.,,sentence
+2900082,Swahili,We speak Swahili.,Tunazungumza Kiswahili.,,sentence
+2900083,Swahili,I see the book.,Ninaona kitabu.,,sentence
+2900084,Swahili,She sees the car.,Anaona gari.,,sentence
+2900085,Swahili,I have a book.,Nina kitabu.,,sentence
+2900086,Swahili,We have a house.,Tuna nyumba.,,sentence
+2900087,Swahili,I do not work.,Sifanyi kazi.,,sentence
+2900088,Swahili,She does not read.,Hasomi.,,sentence
+2900089,Swahili,Do you work?,Unafanya kazi?,,sentence
+2900090,Swahili,Does he live here?,Anaishi hapa?,,sentence
+2900091,Swahili,who,nani,,pronoun
+2900092,Swahili,what,nini,,pronoun
+2900093,Swahili,where,wapi,,adverb
+2900094,Swahili,when,lini,,adverb
+2900095,Swahili,how,vipi,,adverb
+2900096,Swahili,why,kwa nini,,adverb
+2900097,Swahili,Who is she?,Yeye ni nani?,,sentence
+2900098,Swahili,What is this?,Hiki ni nini?,,sentence
+2900099,Swahili,Where is the school?,Shule iko wapi?,,sentence
