@@ -47,7 +47,7 @@ Romanian     2500000-2599999         2500000-2500014        15
 Danish       2600000-2699999         2600000-2600014        15
 Czech        2700000-2799999         2700000-2700099        100
 Georgian     2800000-2899999         2800000-2800099        100
-Swahili      2900000-2999999         2900000-2900014        15
+Swahili      2900000-2999999         2900000-2900099        100
 Albanian     3000000-3099999         3000000-3000014        15
 Cantonese    3100000-3199999         3100000-3100014        15
 Dutch        3200000-3299999         3200000-3200014        15
@@ -239,13 +239,18 @@ Cards: 100 | Used IDs: 2800000-2800099
 Frontier: KA-16 — Subject omission
 Checkpoint: Cards 2800000-2800014 remain the standardized micro opening. Cards 2800015-2800099 form the seed, establishing Mkhedruli core vocabulary, personal pronouns, copular predication, adjective+noun phrases, negation/questions, productive -ები plurals, demonstratives, basic numeral noun phrases and initial present-series verbs. Earlier micro cards preview later object marking, possession and numeral syntax without moving the frontier.
 
+SWAHILI
+Syllabus: Syllabi/Polyglot_Swahili_Syllabus_v0.1.txt
+Cards: 100 | Used IDs: 2900000-2900099
+Frontier: SW-18 — Subject pronoun omission
+Checkpoint: Cards 2900000-2900014 remain the standardized micro opening. Cards 2900015-2900099 form the seed, establishing core vocabulary, personal pronouns, ni identification, descriptive predication, representative M-WA, KI-VI, N and JI-MA noun-class behavior, plurals, adjective agreement, basic negation/questions, ku- infinitives, present -na- and subject markers. Earlier cards preview possession, direct objects and interrogatives without moving the frontier.
+
 4. MICRO-DECK CHECKPOINTS
 
 Unless noted otherwise, each entry below is a standardized 15-card semantic bootstrap with natural target-language preview sentences. These decks have no active syllabus frontier. Language-specific systematic development begins only when a deck deliberately graduates into a seed deck.
 
 ROMANIAN — Cards/Romanian.csv — 15 cards — 2500000-2500014
 DANISH — Cards/Danish.csv — 15 cards — 2600000-2600014
-SWAHILI — Cards/Swahili.csv — 15 cards — 2900000-2900014
 ALBANIAN — Cards/Albanian.csv — 15 cards — 3000000-3000014
 CANTONESE — Cards/Cantonese.csv — 15 cards — 3100000-3100014. Spoken Hong Kong Cantonese; Traditional characters with Jyutping InputHint.
 DUTCH — Cards/Dutch.csv — 15 cards — 3200000-3200014
