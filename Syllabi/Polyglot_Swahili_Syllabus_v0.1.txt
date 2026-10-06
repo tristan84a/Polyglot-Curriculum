@@ -1,0 +1,351 @@
+POLYGLOT SWAHILI SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+Language: Swahili
+Reference variety: contemporary Standard Swahili (Kiswahili Sanifu)
+
+PURPOSE
+
+This syllabus defines the canonical pedagogical path for contemporary Standard Swahili in Polyglot. It governs systematic development after the standardized 15-card micro opening. Vocabulary, noun-class morphology and verbal structure develop together in a widening spiral rather than in isolated tables.
+
+REFERENCE VARIETY AND WRITING
+
+Contemporary Standard Swahili (Kiswahili Sanifu) is the unmarked reference variety. Targets use ordinary Latin-script Swahili orthography. InputHint is normally blank. Widely encountered East African regional and colloquial variation belongs to later comparison work rather than the initial production baseline.
+
+COURSE-WIDE CARD PRINCIPLES
+
+1. Write natural ordinary English prompts and natural Swahili Targets. Do not make either language imitate the other for flashcard convenience.
+2. Apply established course defaults silently. Parenthetical qualifiers are sparse early scaffolding and should not merely reveal the target construction.
+3. Exact matching identifies the canonical natural Target selected for a card; it does not assert that no alternative Swahili expression exists.
+4. Noun class is a central longitudinal system. Learn nouns together with enough agreement behavior to make their class productive; do not turn the curriculum into a detached noun-class chart.
+5. Agreement extends across adjectives, demonstratives, possessives, subject markers, object markers and other modifiers. Introduce these systems progressively through reusable lexical material.
+6. Swahili verbs package subject, tense/aspect, object and derivational information inside the verbal word. Build this template one slot at a time rather than presenting a giant formula before its parts are meaningful.
+7. Independent subject pronouns are often unnecessary because subject markers identify participants. Establish pronouns early but increasingly prefer natural omission when no contrast is intended.
+8. Infinitives with ku- are useful lexical anchors and also belong to noun class 15. Treat both facts naturally rather than forcing an English infinitive model onto every verbal construction.
+9. Standard Swahili has no grammatical gender distinction corresponding to English he/she in ordinary third-person singular agreement. Use natural English prompts and context rather than manufacturing gender in the Target.
+10. Adjectival agreement is lexical and class-sensitive; not every English adjective maps to a simple agreeing adjective stem. Prefer natural Swahili constructions.
+11. Establish representative paradigms clearly at first; thereafter reduce paradigm density and favor selective contextual forms while vocabulary continues to expand.
+12. Avoid commas in card sentences whenever a natural alternative is available because the simple CSV workflow is comma-sensitive.
+13. Check the entire live deck plus each new batch for duplicate IDs and duplicate EnglishPrompt values before committing.
+
+MICRO DECK AND SEED TRANSITION
+
+Cards 2900000-2900014 are the standardized 15-card micro opening. They preview noun-class agreement in nyumba kubwa, gari jekundu and magari manne; present subject/tense marking in ninaona; and possession with ana. Preserve them as footholds rather than treating those systems as complete.
+
+Cards 2900015 onward form the syllabus-governed seed and continuing canonical deck.
+
+STAGE 1 — CORE CLAUSES AND FIRST NOUN CLASSES
+
+SW-01 — Core concrete vocabulary
+OBJECTIVE: Build reusable people, objects, places and everyday nouns while exposing several high-frequency noun classes naturally.
+
+SW-02 — Core descriptive vocabulary
+OBJECTIVE: Establish common qualities and colours through natural adjective or predicate constructions.
+
+SW-03 — Personal pronouns
+OBJECTIVE: Establish mimi, wewe, yeye, sisi, ninyi and wao while preparing for natural omission.
+
+SW-04 — Copular identification with ni
+OBJECTIVE: Establish identity and class-membership predicates with ni without importing English person agreement.
+
+SW-05 — Adjectival predication
+OBJECTIVE: Establish natural descriptive predicates and their noun-class agreement.
+
+SW-06 — M-WA class: people
+OBJECTIVE: Establish representative class 1/2 nouns, singular/plural relations and agreement through people vocabulary.
+
+SW-07 — KI-VI class
+OBJECTIVE: Establish representative class 7/8 nouns and agreement.
+
+SW-08 — N class
+OBJECTIVE: Establish representative class 9/10 nouns including common singular/plural identity of the noun form and class-sensitive agreement.
+
+SW-09 — JI-MA class
+OBJECTIVE: Establish representative class 5/6 nouns including gari/magari and agreement.
+
+SW-10 — Basic plurals across established classes
+OBJECTIVE: Contrast productive singular/plural pairings without implying every noun is predictable from form alone.
+
+SW-11 — Basic adjective agreement
+OBJECTIVE: Develop adjective prefixes across established noun classes using familiar adjective stems.
+
+SW-12 — Basic negation of ni and simple predicates
+OBJECTIVE: Establish si and other immediately useful negative predicate patterns.
+
+SW-13 — Yes/no questions
+OBJECTIVE: Establish ordinary polar questions through natural Swahili structure and intonation/punctuation rather than English auxiliary inversion.
+
+SW-14 — Early noun-class synthesis
+OBJECTIVE: Combine established classes, plurals, agreement, copular identification, description, negation and questions.
+
+STAGE 2 — FIRST VERBAL TEMPLATE
+
+SW-15 — Infinitives with ku-
+OBJECTIVE: Establish useful lexical verbs in their ordinary ku- forms and recognize class-15 nominal behavior later.
+
+SW-16 — Present tense with -na-
+OBJECTIVE: Establish the subject-marker + na + verb-stem pattern clearly across a representative verb.
+
+SW-17 — Subject markers
+OBJECTIVE: Consolidate ni-, u-, a-, tu-, m- and wa- with declining paradigm density after the first pattern.
+
+SW-18 — Subject pronoun omission
+OBJECTIVE: Prefer natural clauses without independent pronouns when subject marking makes reference clear.
+
+SW-19 — Additional present-tense verbs
+OBJECTIVE: Expand common actions with selective person coverage rather than full paradigms for every verb.
+
+SW-20 — Present-tense negation
+OBJECTIVE: Establish negative subject forms and present negative morphology through familiar verbs.
+
+SW-21 — Verbal questions
+OBJECTIVE: Extend polar and information questions across familiar verbs.
+
+SW-22 — Question words
+OBJECTIVE: Establish nani, nini, wapi, lini, kwa nini, vipi and kiasi/idadi expressions progressively in natural questions.
+
+SW-23 — Present-series synthesis
+OBJECTIVE: Combine subject markers, omission, negation, questions and expanding vocabulary.
+
+STAGE 3 — AGREEMENT BEYOND ADJECTIVES
+
+SW-24 — Demonstratives: proximal
+OBJECTIVE: Establish class-sensitive equivalents of this/these.
+
+SW-25 — Demonstratives: medial and distal
+OBJECTIVE: Develop the Swahili three-way demonstrative system progressively.
+
+SW-26 — Possessive stems
+OBJECTIVE: Establish -angu, -ako, -ake, -etu, -enu and -ao with class agreement.
+
+SW-27 — Associative -a
+OBJECTIVE: Establish class-sensitive associative constructions for possession, type and relation.
+
+SW-28 — Numbers and class agreement
+OBJECTIVE: Develop class-sensitive numerals where agreement applies and invariant numerals where it does not.
+
+SW-29 — Quantifiers
+OBJECTIVE: Establish -ote, -ingi, -chache and other high-value quantifiers with noun-class agreement.
+
+SW-30 — Agreement synthesis
+OBJECTIVE: Combine nouns, adjectives, demonstratives, possessives, numerals and quantifiers across established classes.
+
+STAGE 4 — OBJECTS AND VERBAL PARTICIPANTS
+
+SW-31 — Direct lexical objects
+OBJECTIVE: Establish ordinary transitive clauses before object-marker substitution.
+
+SW-32 — Object markers: people
+OBJECTIVE: Introduce ni-, ku-, m-, tu-, wa- and related person object marking through natural contexts.
+
+SW-33 — Object markers: noun classes
+OBJECTIVE: Extend object marking to familiar nonhuman noun classes.
+
+SW-34 — Object marker versus overt noun phrase
+OBJECTIVE: Develop discourse conditions and natural combinations rather than treating object markers as simple English pronouns.
+
+SW-35 — Reflexive -ji-
+OBJECTIVE: Establish reflexive object marking and common lexicalized uses.
+
+SW-36 — Participant synthesis
+OBJECTIVE: Combine subject markers, tense, object markers and lexical objects in controlled natural clauses.
+
+STAGE 5 — PAST, FUTURE AND PERFECT
+
+SW-37 — Past with -li-
+SW-38 — Future with -ta-
+SW-39 — Perfect with -me-
+SW-40 — Negative past
+SW-41 — Negative future
+SW-42 — Perfect and result/state meanings
+SW-43 — Tense/aspect synthesis
+OBJECTIVE: Contrast present, past, future and perfect meanings with familiar verbs and expanding vocabulary.
+
+STAGE 6 — LOCATIVES, EXISTENCE AND POSSESSION
+
+SW-44 — Locative -ni
+OBJECTIVE: Establish productive locative formation on appropriate nouns and common lexicalized locations.
+
+SW-45 — PA class and specific location
+SW-46 — KU class and general location
+SW-47 — MU class and interior location
+SW-48 — Locative agreement
+SW-49 — Kuna and existence
+SW-50 — Possession with kuwa na
+OBJECTIVE: Develop tense and person in possession beyond the seed's ana preview.
+
+SW-51 — Location/existence/possession synthesis
+
+STAGE 7 — ADDITIONAL NOUN CLASSES
+
+SW-52 — U class and common plurals
+SW-53 — Abstract U nouns
+SW-54 — Class 11/14 agreement patterns
+SW-55 — Infinitive/class 15 nominal uses
+SW-56 — Less transparent class membership
+SW-57 — Borrowed nouns and class assignment
+SW-58 — Noun-class synthesis II
+
+STAGE 8 — SUBJUNCTIVE, IMPERATIVE AND MODALITY
+
+SW-59 — Imperative singular and plural
+SW-60 — Present subjunctive
+SW-61 — Negative subjunctive
+SW-62 — Commands and polite requests
+SW-63 — kutaka + complement patterns
+SW-64 — kuweza and ability
+SW-65 — lazima and necessity
+SW-66 — Modal synthesis
+
+STAGE 9 — RELATIVES
+
+SW-67 — Relative agreement foundations
+OBJECTIVE: Establish class-sensitive relative markers with familiar nouns.
+
+SW-68 — Present relative constructions
+SW-69 — Relative amba-
+SW-70 — Object relatives
+SW-71 — Locative relatives
+SW-72 — Relative constructions across tenses
+SW-73 — Relative synthesis
+
+STAGE 10 — VERBAL DERIVATION
+
+SW-74 — Applicative extension
+OBJECTIVE: Establish beneficiary, location and related valency changes through common verbs.
+
+SW-75 — Causative extension
+SW-76 — Passive extension
+SW-77 — Reciprocal extension
+SW-78 — Stative/potential extension
+SW-79 — Extension combinations
+SW-80 — Argument structure after derivation
+SW-81 — Verbal-extension synthesis
+
+STAGE 11 — CONDITIONALS AND ADDITIONAL TAM
+
+SW-82 — Habitual hu-
+SW-83 — Conditional -ki-
+SW-84 — Negative conditional and bila constructions
+SW-85 — -nge- hypothetical
+SW-86 — -ngali- counterfactual
+SW-87 — Consecutive -ka-
+SW-88 — Narrative tense sequencing
+SW-89 — TAM synthesis
+
+STAGE 12 — COMPLEX SENTENCES
+
+SW-90 — Coordination
+SW-91 — kwamba complement clauses
+SW-92 — kwa sababu and causal relations
+SW-93 — wakati and temporal clauses
+SW-94 — ili and purpose
+SW-95 — ikiwa and condition
+SW-96 — Indirect questions
+SW-97 — Reported speech
+SW-98 — Complex-clause synthesis
+
+STAGE 13 — INFORMATION STRUCTURE AND PRAGMATICS
+
+SW-99 — Neutral word order
+OBJECTIVE: Establish common SVO patterns while recognizing the information supplied by verbal agreement.
+
+SW-100 — Topic and focus
+SW-101 — Independent pronouns for contrast/emphasis
+SW-102 — ndiyo/siyo focus and identification patterns
+SW-103 — Discourse particles and connectors
+SW-104 — Politeness and forms of address
+SW-105 — Conversational responses and ellipsis
+SW-106 — Pragmatic synthesis
+
+STAGE 14 — WORD FORMATION AND LEXICAL STRUCTURE
+
+SW-107 — Human nouns and profession derivation
+SW-108 — Abstract nouns
+SW-109 — Verb/noun/adjective families
+SW-110 — Borrowing from Arabic and other languages
+SW-111 — Modern international vocabulary
+SW-112 — Compound and multiword lexical expressions
+SW-113 — Polysemy and lexical boundaries
+SW-114 — Collocations
+
+STAGE 15 — STANDARD, REGIONAL AND SPOKEN SWAHILI
+
+SW-115 — Standard written versus ordinary spoken Swahili
+SW-116 — Tanzania and Kenya: broadly encountered lexical/usage differences
+SW-117 — Coastal and Zanzibar forms of broad recognition
+SW-118 — Common reductions and conversational forms
+SW-119 — Formal and institutional Swahili
+SW-120 — Youth and contemporary informal vocabulary of broad recognition
+SW-121 — Register synthesis
+
+Regional material should broaden comprehension without treating every East African contact variety as interchangeable with Standard Swahili.
+
+STAGE 16 — BROAD VOCABULARY EXPANSION
+
+SW-122 — Household and everyday life
+SW-123 — Food and cooking
+SW-124 — Clothing and possessions
+SW-125 — Family and relationships
+SW-126 — Body and health
+SW-127 — Work and occupations
+SW-128 — Education
+SW-129 — Travel and transportation
+SW-130 — Buildings, towns and public places
+SW-131 — Nature, plants and animals
+SW-132 — Weather and environment
+SW-133 — Tools, materials and physical objects
+SW-134 — Technology and communications
+SW-135 — Commerce, money and finance
+SW-136 — Government, law and public institutions
+SW-137 — Science and mathematics
+SW-138 — Arts, literature and culture
+SW-139 — Religion and philosophy
+SW-140 — Emotions, personality and human behaviour
+SW-141 — Abstract concepts and relationships
+
+These are longitudinal lexical domains rather than finite word lists. Useful vocabulary from them should enter much earlier whenever prerequisites permit.
+
+STAGE 17 — EDUCATED-ADULT AND LONG-TAIL SWAHILI
+
+SW-142 — Academic and professional vocabulary
+SW-143 — Scientific and technical vocabulary of broad relevance
+SW-144 — Political, legal and economic vocabulary
+SW-145 — Historical and cultural vocabulary
+SW-146 — Literary vocabulary and constructions still encountered today
+SW-147 — Fine semantic distinctions and near-synonyms
+SW-148 — High-frequency words across multiple senses
+SW-149 — Idioms and phraseology
+SW-150 — Advanced derivational families
+SW-151 — Continuing lexical, grammatical and constructional expansion
+
+Once the syllabus has been substantially traversed, use authentic contemporary Swahili writing and speech for backward validation. Authentic sources diagnose productive gaps; they do not automatically become flashcards.
+
+GLOBAL COMPLETION AND REUSE RULES
+
+1. Unit completion establishes canonical coverage rather than learner mastery.
+2. Established vocabulary and grammar become reusable; later cards increasingly combine them in natural sentences.
+3. New structural concepts normally appear first with controlled lexical load while vocabulary continues growing.
+4. Stable live card IDs are not renumbered merely because syllabus organization changes.
+5. Previewing a later construction does not move the Manifest frontier.
+6. Parallel units may interleave once prerequisites are satisfied.
+
+CURRENT SEED ALIGNMENT
+
+The expanded 100-card seed establishes SW-01 through SW-17: core vocabulary, pronouns, ni identification, descriptive predication, representative M-WA, KI-VI, N and JI-MA noun-class behavior, plurals, adjective agreement, basic negation/questions, infinitive ku- forms, present -na- and subject markers. Several cards also preview later possession, direct objects and interrogatives without moving the main frontier.
+
+The forward frontier after the 100-card seed is:
+
+SW-18 — Subject pronoun omission
+
+AMENDMENT HISTORY
+
+Version 0.1
+- Initial Swahili syllabus under Charter 0.8 and Card Generation Protocol v1.0.
+- Uses contemporary Standard Swahili (Kiswahili Sanifu) as the unmarked baseline.
+- Treats noun classes, agreement, the verbal template, object marking, locatives, relatives and verbal derivation as longitudinal systems.
+- Avoids reducing noun classes to detached memorized tables or Swahili verbs to an English-style conjugation model.
+- Aligns the 100-card seed through subject markers and sets the forward frontier at SW-18.
