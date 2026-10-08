@@ -14,3 +14,88 @@
 3000012,Albanian,He has a car.,Ai ka një makinë.,,sentence
 3000013,Albanian,He has a red car.,Ai ka një makinë të kuqe.,,sentence
 3000014,Albanian,I see four cars.,Shoh katër makina.,,sentence
+3000015,Albanian,woman,grua,,noun
+3000016,Albanian,child,fëmijë,,noun
+3000017,Albanian,book,libër,,noun
+3000018,Albanian,city,qytet,,noun
+3000019,Albanian,school,shkollë,,noun
+3000020,Albanian,friend,mik,,noun
+3000021,Albanian,good,i mirë,,adjective
+3000022,Albanian,small,i vogël,,adjective
+3000023,Albanian,new,i ri,,adjective
+3000024,Albanian,old,i vjetër,,adjective
+3000025,Albanian,I,unë,,pronoun
+3000026,Albanian,you,ti,,pronoun
+3000027,Albanian,he,ai,,pronoun
+3000028,Albanian,she,ajo,,pronoun
+3000029,Albanian,we,ne,,pronoun
+3000030,Albanian,you guys,ju,,pronoun
+3000031,Albanian,they,ata,,pronoun
+3000032,Albanian,I am a doctor.,Jam mjek.,,sentence
+3000033,Albanian,You are a doctor.,Je mjek.,,sentence
+3000034,Albanian,She is a doctor.,Ajo është mjeke.,,sentence
+3000035,Albanian,We are doctors.,Jemi mjekë.,,sentence
+3000036,Albanian,You guys are doctors.,Jeni mjekë.,,sentence
+3000037,Albanian,They are doctors.,Ata janë mjekë.,,sentence
+3000038,Albanian,The woman is good.,Gruaja është e mirë.,,sentence
+3000039,Albanian,The child is small.,Fëmija është i vogël.,,sentence
+3000040,Albanian,The city is big.,Qyteti është i madh.,,sentence
+3000041,Albanian,The book is new.,Libri është i ri.,,sentence
+3000042,Albanian,a good man,një burrë i mirë,,phrase
+3000043,Albanian,a good woman,një grua e mirë,,phrase
+3000044,Albanian,a small child,një fëmijë i vogël,,phrase
+3000045,Albanian,a new book,një libër i ri,,phrase
+3000046,Albanian,a big city,një qytet i madh,,phrase
+3000047,Albanian,a red book,një libër i kuq,,phrase
+3000048,Albanian,the man,burri,,noun
+3000049,Albanian,the woman,gruaja,,noun
+3000050,Albanian,the child,fëmija,,noun
+3000051,Albanian,the book,libri,,noun
+3000052,Albanian,the city,qyteti,,noun
+3000053,Albanian,the school,shkolla,,noun
+3000054,Albanian,a house,një shtëpi,,phrase
+3000055,Albanian,a car,një makinë,,phrase
+3000056,Albanian,The house is not big.,Shtëpia nuk është e madhe.,,sentence
+3000057,Albanian,The car is not new.,Makina nuk është e re.,,sentence
+3000058,Albanian,Is this a book?,A është ky një libër?,,sentence
+3000059,Albanian,Is the house big?,A është shtëpia e madhe?,,sentence
+3000060,Albanian,books,libra,,noun
+3000061,Albanian,houses,shtëpi,,noun
+3000062,Albanian,cars,makina,,noun
+3000063,Albanian,cities,qytete,,noun
+3000064,Albanian,children,fëmijë,,noun
+3000065,Albanian,the books,librat,,noun
+3000066,Albanian,the houses,shtëpitë,,noun
+3000067,Albanian,the cars,makinat,,noun
+3000068,Albanian,the cities,qytetet,,noun
+3000069,Albanian,The books are new.,Librat janë të rinj.,,sentence
+3000070,Albanian,The houses are big.,Shtëpitë janë të mëdha.,,sentence
+3000071,Albanian,The cars are red.,Makinat janë të kuqe.,,sentence
+3000072,Albanian,The children are small.,Fëmijët janë të vegjël.,,sentence
+3000073,Albanian,this,ky,,pronoun
+3000074,Albanian,that,ai,,pronoun
+3000075,Albanian,this house,kjo shtëpi,,phrase
+3000076,Albanian,this book,ky libër,,phrase
+3000077,Albanian,one,një,,number
+3000078,Albanian,two,dy,,number
+3000079,Albanian,three,tre,,number
+3000080,Albanian,five,pesë,,number
+3000081,Albanian,two books,dy libra,,phrase
+3000082,Albanian,three houses,tre shtëpi,,phrase
+3000083,Albanian,five cars,pesë makina,,phrase
+3000084,Albanian,to work,punoj,,verb
+3000085,Albanian,to read,lexoj,,verb
+3000086,Albanian,to live,jetoj,,verb
+3000087,Albanian,to speak,flas,,verb
+3000088,Albanian,to know,di,,verb
+3000089,Albanian,to see,shoh,,verb
+3000090,Albanian,to have,kam,,verb
+3000091,Albanian,to want,dua,,verb
+3000092,Albanian,I work.,Punoj.,,sentence
+3000093,Albanian,You work.,Punon.,,sentence
+3000094,Albanian,He works.,Punon.,,sentence
+3000095,Albanian,We work.,Punojmë.,,sentence
+3000096,Albanian,You guys work.,Punoni.,,sentence
+3000097,Albanian,They work.,Punojnë.,,sentence
+3000098,Albanian,I read.,Lexoj.,,sentence
+3000099,Albanian,She reads.,Lexon.,,sentence
