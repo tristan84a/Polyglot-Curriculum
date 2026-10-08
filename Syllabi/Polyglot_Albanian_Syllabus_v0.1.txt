@@ -1,0 +1,111 @@
+POLYGLOT ALBANIAN SYLLABUS
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Card Generation Protocol: 1.0
+Encoding: UTF-8
+Language: Albanian
+Reference variety: contemporary Standard Albanian (Tosk-based standard)
+
+PURPOSE
+A prerequisite-aware introduction sequence for modern Albanian. The first 15 standardized micro cards remain unchanged. The 100-card seed establishes the core of ordinary clauses and noun phrases. Vocabulary and grammar grow in a widening spiral, with declining paradigm density.
+
+REFERENCE AND AUTHORING
+Use contemporary standard spelling with ë and ç. Ordinary spoken standard Albanian is the initial production baseline. Gheg, Kosovo Albanian and regional variation enter later as recognizable varieties rather than being silently mixed into targets.
+Write idiomatic English prompts and natural Albanian answers. Defaults are silent; parenthetical scaffolding is rare, especially beyond the opening. English he/she does not need extra gender labels when context supplies the distinction. Albanian normally allows subject omission; introduce independent pronouns but increasingly prefer natural omitted subjects. Preserve stable IDs. Avoid commas in example sentences where practical. Audit all EnglishPrompt values and IDs across the full CSV.
+
+Albanian nominal morphology must be taught through actual nouns: suffixal definiteness, number and case interact. Adjectives normally follow nouns and many require linking articles i/e/të/së. Distinguish these articles from the definite noun suffix. Verbs are ordinarily cited in their present first-person singular form (punoj, lexoj, flas), not an invented English-style infinitive. Use one representative present paradigm then progressively more contextual forms. Treat active/nonactive, clitic placement, past tenses, subjunctive, admirative and Gheg infinitival variation longitudinally.
+
+MICRO TO SEED
+Cards 3000000–3000014: standardized micro opening. The original object clitic in E shoh shtëpinë. and accusative shtëpinë are previews of later systems.
+Cards 3000015–3000099: syllabus-governed seed.
+A later preview does not advance the forward frontier.
+
+INTRODUCTION SEQUENCE
+SQ-01 — Everyday concrete nouns and gender
+SQ-02 — Basic adjectives and their linking articles
+SQ-03 — Independent personal pronouns
+SQ-04 — Present jam and identification
+SQ-05 — Predicative adjective agreement
+SQ-06 — Indefinite noun phrases with një and bare nouns
+SQ-07 — Definite nominative singular suffixes
+SQ-08 — Attributive adjective agreement
+SQ-09 — Basic negation with nuk
+SQ-10 — Polar questions with a and intonation
+SQ-11 — Productive plural nouns
+SQ-12 — Definite plurals and plural adjective agreement
+SQ-13 — Demonstratives and numeral phrases
+SQ-14 — Present verbs: first representative -oj pattern
+SQ-15 — Other high-frequency present verbs and irregulars
+SQ-16 — Natural subject omission
+SQ-17 — Present kam and possession
+SQ-18 — Content questions and interrogatives
+SQ-19 — Accusative singular definite nouns
+SQ-20 — Accusative plural and indefinite objects
+SQ-21 — Object clitics e/i and direct-object reference
+SQ-22 — Dative pronouns and indirect-object clitics
+SQ-23 — Genitive constructions and linking articles
+SQ-24 — Dative noun phrases and recipients
+SQ-25 — Ablative noun forms and core uses
+SQ-26 — Noun-class and case synthesis
+SQ-27 — Prepositions of place and direction
+SQ-28 — Possessives and agreement
+SQ-29 — Demonstrative case forms
+SQ-30 — Clitic placement with negation and questions
+SQ-31 — Imperfect past
+SQ-32 — Simple past (aorist) and common irregular stems
+SQ-33 — Present perfect with kam and participles
+SQ-34 — Present perfect with jam and nonactive/intransitive patterns
+SQ-35 — Past tense and aspect contrasts
+SQ-36 — Future with do të
+SQ-37 — Subjunctive with të
+SQ-38 — Wanting, needing and modal complements
+SQ-39 — Imperatives and polite requests
+SQ-40 — Negative commands
+SQ-41 — Reflexive and nonactive present forms
+SQ-42 — Nonactive past and compound forms
+SQ-43 — Clitic clusters and ordering
+SQ-44 — More verbal conjugation classes
+SQ-45 — Participles and compound tenses
+SQ-46 — Pluperfect and anterior relationships
+SQ-47 — Conditional mood
+SQ-48 — Admirative mood: recognition then productive uses
+SQ-49 — Optative and formulaic expressions
+SQ-50 — Passive, middle and reflexive meanings
+SQ-51 — Verbal noun and për të constructions
+SQ-52 — Relative clauses with që and i cili
+SQ-53 — Complement clauses with se/që
+SQ-54 — Coordination and contrast
+SQ-55 — Temporal and causal clauses
+SQ-56 — Conditional and concessive clauses
+SQ-57 — Comparison and superlatives
+SQ-58 — Numbers, dates, time and measurement
+SQ-59 — Word order, topic and focus
+SQ-60 — Discourse particles and pragmatics
+SQ-61 — Possession, kinship and social relations
+SQ-62 — Home, food, clothing and shopping
+SQ-63 — Work, education and transport
+SQ-64 — Body, health and emotions
+SQ-65 — Nature, weather and geography
+SQ-66 — Technology and communication
+SQ-67 — Government, law and public life
+SQ-68 — Science, mathematics and abstract concepts
+SQ-69 — Literature, arts and culture
+SQ-70 — Formal, informal and institutional register
+SQ-71 — Regional and Gheg/Tosk comparisons
+SQ-72 — Kosovo and diaspora usage of broad recognition
+SQ-73 — Lexical derivation and word families
+SQ-74 — Collocations, idioms and semantic distinctions
+SQ-75 — Advanced syntax and discourse
+SQ-76 — Educated-adult lexical expansion
+SQ-77 — Authentic-text backward validation
+
+DEVELOPMENT POLICY
+A unit represents introduction, not exhaustive mastery. Recycle earlier patterns with new vocabulary and combine them with newly introduced grammar. Initial paradigms may be dense if they teach genuine contrasts; subsequent verb families should be sampled selectively. Noun-case forms should appear through natural useful phrases before abstract full tables. Lexical expansion is continuous across all stages.
+
+SEED ALIGNMENT
+The 100-card seed establishes SQ-01 through SQ-14, with first examples of other present verbs and a preview of SQ-17 possession and SQ-18 questions. Original micro accusative/clitic material remains a later preview. 
+Forward frontier: SQ-15 — Other high-frequency present verbs and irregulars.
+
+AMENDMENT HISTORY
+v0.1 — First systematic syllabus following the 15-card micro opening and 100-card seed.
