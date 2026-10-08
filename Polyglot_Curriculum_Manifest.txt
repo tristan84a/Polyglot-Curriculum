@@ -30,7 +30,7 @@ Ojibwe       800000-899999           800000-800098          99
 Spanish      900000-999999           900000-900360          361
 Russian      1000000-1099999         1000000-1000452        453
 Greek        1100000-1199999         1100000-1100099        100
-Hindi        1200000-1299999         1200000-1200099        100
+Hindi        1200000-1299999         1200000-1200319        320
 Hebrew       1300000-1399999         1300000-1300099        100
 Mandarin     1400000-1499999         1400000-1400099        100
 Icelandic    1500000-1599999         1500000-1500519        520
@@ -157,8 +157,9 @@ Checkpoint: Seed deck in ordinary monotonic Greek with agreement, articles, pro-
 
 HINDI
 Syllabus: Syllabi/Polyglot_Hindi_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 1200000-1200099
-Checkpoint: Devanagari seed with agreement, pronoun/register distinctions, होना, habitual predicates, negation/questions, possession, first को contrasts and want constructions.
+Cards: 320 | Used IDs: 1200000-1200319
+Frontier: HI-31 — देना, लेना and light verbs
+Checkpoint: Widening spiral extends the seed through plurals, oblique noun forms, में/पर/से, possessive का/की/के, direct and recipient को, present progressive, perfective and ergative ने, imperfective past, future, सकना, necessity, imperatives and expanded everyday vocabulary. Later previews do not move the main frontier.
 
 HEBREW
 Syllabus: Syllabi/Polyglot_Hebrew_Syllabus_v0.1.txt
