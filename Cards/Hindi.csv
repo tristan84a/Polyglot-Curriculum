@@ -99,3 +99,223 @@
 1200097,Hindi,The book is good.,किताब अच्छी है।,,
 1200098,Hindi,The car is new.,गाड़ी नई है।,,
 1200099,Hindi,Where is the book?,किताब कहाँ है?,,
+1200100,Hindi,boy,लड़का,,noun
+1200101,Hindi,boys,लड़के,,noun
+1200102,Hindi,girls,लड़कियाँ,,noun
+1200103,Hindi,houses,घर,,noun
+1200104,Hindi,books,किताबें,,noun
+1200105,Hindi,cars,गाड़ियाँ,,noun
+1200106,Hindi,women,औरतें,,noun
+1200107,Hindi,children,बच्चे,,noun
+1200108,Hindi,rooms,कमरे,,noun
+1200109,Hindi,room,कमरा,,noun
+1200110,Hindi,table,मेज़,,noun
+1200111,Hindi,chair,कुर्सी,,noun
+1200112,Hindi,door,दरवाज़ा,,noun
+1200113,Hindi,window,खिड़की,,noun
+1200114,Hindi,road,सड़क,,noun
+1200115,Hindi,market,बाज़ार,,noun
+1200116,Hindi,school,स्कूल,,noun
+1200117,Hindi,office,दफ़्तर,,noun
+1200118,Hindi,city,शहर,,noun
+1200119,Hindi,village,गाँव,,noun
+1200120,Hindi,mother,माँ,,noun
+1200121,Hindi,father,पिता,,noun
+1200122,Hindi,brother,भाई,,noun
+1200123,Hindi,sister,बहन,,noun
+1200124,Hindi,friend,दोस्त,,noun
+1200125,Hindi,teacher,शिक्षक,,noun
+1200126,Hindi,food,खाना,,noun
+1200127,Hindi,tea,चाय,,noun
+1200128,Hindi,milk,दूध,,noun
+1200129,Hindi,bread,रोटी,,noun
+1200130,Hindi,rice,चावल,,noun
+1200131,Hindi,morning,सुबह,,noun
+1200132,Hindi,evening,शाम,,noun
+1200133,Hindi,today,आज,,adverb
+1200134,Hindi,tomorrow,कल,,adverb
+1200135,Hindi,yesterday,बीते कल,,phrase
+1200136,Hindi,now,अभी,,adverb
+1200137,Hindi,always,हमेशा,,adverb
+1200138,Hindi,sometimes,कभी-कभी,,adverb
+1200139,Hindi,quickly,जल्दी,,adverb
+1200140,Hindi,slowly,धीरे,,adverb
+1200141,Hindi,beautiful,सुंदर,,adjective
+1200142,Hindi,clean,साफ़,,adjective
+1200143,Hindi,cold,ठंडा,,adjective
+1200144,Hindi,hot,गरम,,adjective
+1200145,Hindi,happy,खुश,,adjective
+1200146,Hindi,tired,थका हुआ,,adjective
+1200147,Hindi,very,बहुत,,adverb
+1200148,Hindi,also,भी,,adverb
+1200149,Hindi,and,और,,conjunction
+1200150,Hindi,The boys are here.,लड़के यहाँ हैं।,,sentence
+1200151,Hindi,The girls are there.,लड़कियाँ वहाँ हैं।,,sentence
+1200152,Hindi,The books are new.,किताबें नई हैं।,,sentence
+1200153,Hindi,The cars are old.,गाड़ियाँ पुरानी हैं।,,sentence
+1200154,Hindi,The rooms are small.,कमरे छोटे हैं।,,sentence
+1200155,Hindi,The house has two rooms.,घर में दो कमरे हैं।,,sentence
+1200156,Hindi,The woman is in the room.,औरत कमरे में है।,,sentence
+1200157,Hindi,The book is on the table.,किताब मेज़ पर है।,,sentence
+1200158,Hindi,The child is at school.,बच्चा स्कूल में है।,,sentence
+1200159,Hindi,The man is in the market.,आदमी बाज़ार में है।,,sentence
+1200160,Hindi,The car is on the road.,गाड़ी सड़क पर है।,,sentence
+1200161,Hindi,The children are at home.,बच्चे घर पर हैं।,,sentence
+1200162,Hindi,The water is cold.,पानी ठंडा है।,,sentence
+1200163,Hindi,The tea is hot.,चाय गरम है।,,sentence
+1200164,Hindi,The room is clean.,कमरा साफ़ है।,,sentence
+1200165,Hindi,The girls are happy.,लड़कियाँ खुश हैं।,,sentence
+1200166,Hindi,The boys are tired.,लड़के थके हुए हैं।,,sentence
+1200167,Hindi,I am at home.,मैं घर पर हूँ।,,sentence
+1200168,Hindi,She is in the office.,वह दफ़्तर में है।,,sentence
+1200169,Hindi,Where are the children?,बच्चे कहाँ हैं?,,sentence
+1200170,Hindi,Who is in the room?,कमरे में कौन है?,,sentence
+1200171,Hindi,There is water in the glass.,गिलास में पानी है।,,sentence
+1200172,Hindi,The market is near the school.,बाज़ार स्कूल के पास है।,,sentence
+1200173,Hindi,The school is far from here.,स्कूल यहाँ से दूर है।,,sentence
+1200174,Hindi,I am coming from the market.,मैं बाज़ार से आ रहा हूँ।,,sentence
+1200175,Hindi,She is coming from school.,वह स्कूल से आ रही है।,,sentence
+1200176,Hindi,The boy is going to school.,लड़का स्कूल जा रहा है।,,sentence
+1200177,Hindi,The girl is going to the market.,लड़की बाज़ार जा रही है।,,sentence
+1200178,Hindi,I am sitting on the chair.,मैं कुर्सी पर बैठा हूँ।,,sentence
+1200179,Hindi,The teacher is standing near the door.,शिक्षक दरवाज़े के पास खड़ा है।,,sentence
+1200180,Hindi,This is my book.,यह मेरी किताब है।,,sentence
+1200181,Hindi,That is your house.,वह तुम्हारा घर है।,,sentence
+1200182,Hindi,This is his car.,यह उसकी गाड़ी है।,,sentence
+1200183,Hindi,Our school is big.,हमारा स्कूल बड़ा है।,,sentence
+1200184,Hindi,Her sister is here.,उसकी बहन यहाँ है।,,sentence
+1200185,Hindi,My brother is a teacher.,मेरा भाई शिक्षक है।,,sentence
+1200186,Hindi,The woman's book is new.,औरत की किताब नई है।,,sentence
+1200187,Hindi,The children's room is clean.,बच्चों का कमरा साफ़ है।,,sentence
+1200188,Hindi,I am going with my friend.,मैं अपने दोस्त के साथ जा रहा हूँ।,,sentence
+1200189,Hindi,She is going with her mother.,वह अपनी माँ के साथ जा रही है।,,sentence
+1200190,Hindi,This tea is for you.,यह चाय तुम्हारे लिए है।,,sentence
+1200191,Hindi,I am waiting for my brother.,मैं अपने भाई का इंतज़ार कर रहा हूँ।,,sentence
+1200192,Hindi,The girl gives water to the child.,लड़की बच्चे को पानी देती है।,,sentence
+1200193,Hindi,The teacher gives the boy a book.,शिक्षक लड़के को किताब देता है।,,sentence
+1200194,Hindi,I am writing with a pen.,मैं कलम से लिख रहा हूँ।,,sentence
+1200195,Hindi,The girl opens the door.,लड़की दरवाज़ा खोलती है।,,sentence
+1200196,Hindi,The boy closes the window.,लड़का खिड़की बंद करता है।,,sentence
+1200197,Hindi,The woman buys vegetables.,औरत सब्ज़ियाँ खरीदती है।,,sentence
+1200198,Hindi,I drink tea every morning.,मैं हर सुबह चाय पीता हूँ।,,sentence
+1200199,Hindi,She drinks milk every morning.,वह हर सुबह दूध पीती है।,,sentence
+1200200,Hindi,to go,जाना,,verb
+1200201,Hindi,to come,आना,,verb
+1200202,Hindi,to eat,खाना,,verb
+1200203,Hindi,to drink,पीना,,verb
+1200204,Hindi,to write,लिखना,,verb
+1200205,Hindi,to buy,खरीदना,,verb
+1200206,Hindi,to give,देना,,verb
+1200207,Hindi,to take,लेना,,verb
+1200208,Hindi,to open,खोलना,,verb
+1200209,Hindi,to close,बंद करना,,verb
+1200210,Hindi,to sit,बैठना,,verb
+1200211,Hindi,to stand,खड़ा होना,,verb
+1200212,Hindi,to sleep,सोना,,verb
+1200213,Hindi,to wake up,जागना,,verb
+1200214,Hindi,to play,खेलना,,verb
+1200215,Hindi,to walk,चलना,,verb
+1200216,Hindi,to learn,सीखना,,verb
+1200217,Hindi,to teach,सिखाना,,verb
+1200218,Hindi,to understand,समझना,,verb
+1200219,Hindi,to listen,सुनना,,verb
+1200220,Hindi,to wait,इंतज़ार करना,,verb
+1200221,Hindi,to meet,मिलना,,verb
+1200222,Hindi,to arrive,पहुँचना,,verb
+1200223,Hindi,to leave,निकलना,,verb
+1200224,Hindi,to cook,पकाना,,verb
+1200225,Hindi,to wash,धोना,,verb
+1200226,Hindi,to wear,पहनना,,verb
+1200227,Hindi,to find,ढूँढ़ना,,verb
+1200228,Hindi,to ask,पूछना,,verb
+1200229,Hindi,to answer,जवाब देना,,verb
+1200230,Hindi,I am reading a book.,मैं किताब पढ़ रहा हूँ।,,sentence
+1200231,Hindi,She is reading a book.,वह किताब पढ़ रही है।,,sentence
+1200232,Hindi,We are working now.,हम अभी काम कर रहे हैं।,,sentence
+1200233,Hindi,The children are playing.,बच्चे खेल रहे हैं।,,sentence
+1200234,Hindi,My mother is cooking.,मेरी माँ खाना पका रही है।,,sentence
+1200235,Hindi,The teacher is writing.,शिक्षक लिख रहा है।,,sentence
+1200236,Hindi,I am learning Hindi.,मैं हिंदी सीख रहा हूँ।,,sentence
+1200237,Hindi,She is listening to music.,वह संगीत सुन रही है।,,sentence
+1200238,Hindi,They are waiting outside.,वे बाहर इंतज़ार कर रहे हैं।,,sentence
+1200239,Hindi,Are you coming today?,क्या तुम आज आ रहे हो?,,sentence
+1200240,Hindi,What are you doing?,तुम क्या कर रहे हो?,,sentence
+1200241,Hindi,Where is she going?,वह कहाँ जा रही है?,,sentence
+1200242,Hindi,I am not sleeping.,मैं सो नहीं रहा हूँ।,,sentence
+1200243,Hindi,He is not working today.,वह आज काम नहीं कर रहा है।,,sentence
+1200244,Hindi,The boy is playing outside.,लड़का बाहर खेल रहा है।,,sentence
+1200245,Hindi,The girl is washing her hands.,लड़की अपने हाथ धो रही है।,,sentence
+1200246,Hindi,I go to school every day.,मैं हर दिन स्कूल जाता हूँ।,,sentence
+1200247,Hindi,She works in the city.,वह शहर में काम करती है।,,sentence
+1200248,Hindi,We drink water with our meals.,हम खाने के साथ पानी पीते हैं।,,sentence
+1200249,Hindi,My father reads the newspaper.,मेरे पिता अख़बार पढ़ते हैं।,,sentence
+1200250,Hindi,The boy goes home after school.,लड़का स्कूल के बाद घर जाता है।,,sentence
+1200251,Hindi,The woman comes here every morning.,औरत हर सुबह यहाँ आती है।,,sentence
+1200252,Hindi,I often eat rice.,मैं अक्सर चावल खाता हूँ।,,sentence
+1200253,Hindi,She sometimes drinks tea.,वह कभी-कभी चाय पीती है।,,sentence
+1200254,Hindi,Do you understand Hindi?,क्या तुम हिंदी समझते हो?,,sentence
+1200255,Hindi,I understand a little Hindi.,मैं थोड़ी हिंदी समझता हूँ।,,sentence
+1200256,Hindi,She does not understand this word.,वह यह शब्द नहीं समझती है।,,sentence
+1200257,Hindi,I want to learn Hindi.,मैं हिंदी सीखना चाहता हूँ।,,sentence
+1200258,Hindi,She wants to buy a book.,वह किताब खरीदना चाहती है।,,sentence
+1200259,Hindi,We need more water.,हमें और पानी चाहिए।,,sentence
+1200260,Hindi,The boy came yesterday.,लड़का कल आया।,,sentence
+1200261,Hindi,The girl came yesterday.,लड़की कल आई।,,sentence
+1200262,Hindi,My father went to the market.,मेरे पिता बाज़ार गए।,,sentence
+1200263,Hindi,My mother went home.,मेरी माँ घर गई।,,sentence
+1200264,Hindi,The children played outside.,बच्चे बाहर खेले।,,sentence
+1200265,Hindi,The train arrived late.,रेलगाड़ी देर से पहुँची।,,sentence
+1200266,Hindi,I slept well last night.,मैं कल रात अच्छी तरह सोया।,,sentence
+1200267,Hindi,She woke up early.,वह जल्दी जागी।,,sentence
+1200268,Hindi,We stayed at home.,हम घर पर रहे।,,sentence
+1200269,Hindi,The boy fell.,लड़का गिर गया।,,sentence
+1200270,Hindi,I bought a book.,मैंने किताब खरीदी।,,sentence
+1200271,Hindi,She bought a car.,उसने गाड़ी खरीदी।,,sentence
+1200272,Hindi,The man opened the door.,आदमी ने दरवाज़ा खोला।,,sentence
+1200273,Hindi,The girl closed the window.,लड़की ने खिड़की बंद की।,,sentence
+1200274,Hindi,I drank water.,मैंने पानी पिया।,,sentence
+1200275,Hindi,She drank tea.,उसने चाय पी।,,sentence
+1200276,Hindi,The boy ate bread.,लड़के ने रोटी खाई।,,sentence
+1200277,Hindi,The woman ate rice.,औरत ने चावल खाए।,,sentence
+1200278,Hindi,The teacher wrote a letter.,शिक्षक ने चिट्ठी लिखी।,,sentence
+1200279,Hindi,I read the newspaper yesterday.,मैंने कल अख़बार पढ़ा।,,sentence
+1200280,Hindi,He saw the boy.,उसने लड़के को देखा।,,sentence
+1200281,Hindi,She saw the woman.,उसने औरत को देखा।,,sentence
+1200282,Hindi,I called my friend.,मैंने अपने दोस्त को फ़ोन किया।,,sentence
+1200283,Hindi,The boy helped his mother.,लड़के ने अपनी माँ की मदद की।,,sentence
+1200284,Hindi,She gave the child water.,उसने बच्चे को पानी दिया।,,sentence
+1200285,Hindi,I took the book.,मैंने किताब ली।,,sentence
+1200286,Hindi,The woman cooked food.,औरत ने खाना पकाया।,,sentence
+1200287,Hindi,We bought vegetables.,हमने सब्ज़ियाँ खरीदीं।,,sentence
+1200288,Hindi,He opened the books.,उसने किताबें खोलीं।,,sentence
+1200289,Hindi,She washed the clothes.,उसने कपड़े धोए।,,sentence
+1200290,Hindi,The book was new.,किताब नई थी।,,sentence
+1200291,Hindi,The house was big.,घर बड़ा था।,,sentence
+1200292,Hindi,The children were happy.,बच्चे खुश थे।,,sentence
+1200293,Hindi,I was at home.,मैं घर पर था।,,sentence
+1200294,Hindi,She was at school.,वह स्कूल में थी।,,sentence
+1200295,Hindi,We were tired.,हम थके हुए थे।,,sentence
+1200296,Hindi,I used to work here.,मैं यहाँ काम करता था।,,sentence
+1200297,Hindi,She used to read every evening.,वह हर शाम पढ़ती थी।,,sentence
+1200298,Hindi,The children used to play outside.,बच्चे बाहर खेलते थे।,,sentence
+1200299,Hindi,I was reading when he arrived.,जब वह आया तब मैं पढ़ रहा था।,,sentence
+1200300,Hindi,I will come tomorrow.,मैं कल आऊँगा।,,sentence
+1200301,Hindi,She will go to school tomorrow.,वह कल स्कूल जाएगी।,,sentence
+1200302,Hindi,We will work tomorrow.,हम कल काम करेंगे।,,sentence
+1200303,Hindi,The children will play tomorrow.,बच्चे कल खेलेंगे।,,sentence
+1200304,Hindi,Will you come tomorrow?,क्या तुम कल आओगे?,,sentence
+1200305,Hindi,I will not go today.,मैं आज नहीं जाऊँगा।,,sentence
+1200306,Hindi,She will buy a book.,वह किताब खरीदेगी।,,sentence
+1200307,Hindi,We will meet tomorrow.,हम कल मिलेंगे।,,sentence
+1200308,Hindi,I can read Hindi.,मैं हिंदी पढ़ सकता हूँ।,,sentence
+1200309,Hindi,She can speak Hindi.,वह हिंदी बोल सकती है।,,sentence
+1200310,Hindi,We can go now.,हम अभी जा सकते हैं।,,sentence
+1200311,Hindi,I cannot come today.,मैं आज नहीं आ सकता।,,sentence
+1200312,Hindi,She must go home.,उसे घर जाना पड़ेगा।,,sentence
+1200313,Hindi,I have to work tomorrow.,मुझे कल काम करना पड़ेगा।,,sentence
+1200314,Hindi,Please sit down.,कृपया बैठिए।,,sentence
+1200315,Hindi,Please come inside.,कृपया अंदर आइए।,,sentence
+1200316,Hindi,Open the door.,दरवाज़ा खोलो।,,sentence
+1200317,Hindi,Do not go there.,वहाँ मत जाओ।,,sentence
+1200318,Hindi,Give me the book.,मुझे किताब दो।,,sentence
+1200319,Hindi,Please tell me.,कृपया मुझे बताइए।,,sentence
