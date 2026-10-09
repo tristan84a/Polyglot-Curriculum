@@ -119,9 +119,9 @@ Checkpoint: Present verbs, first case functions, motion, possession, numbers and
 
 HUNGARIAN
 Syllabus: Syllabi/Polyglot_Hungarian_Syllabus_v0.2.txt
-Cards: 312 | Used IDs: 500000-500311
-Frontier: HU-96 — Present participial/adjectival forms
-Checkpoint: Definite/indefinite conjugation, suffixal morphology, possession, tense/mood and later previews are active. Lexical verbs use -ni infinitives.
+Cards: 600 | Used IDs: 500000-500599
+Frontier: HU-74 — Comparative adjectives (continued systematic development)
+Checkpoint: The expansion adds everyday vocabulary, natural location and direction, lexical verbs in -ni, case-governed constructions, definite/indefinite verb contrasts, questions, possession, quantity and temporal expressions. Earlier cards preview comparatives and later grammar; the main frontier remains in Stage 10.
 
 TURKISH
 Syllabus: Syllabi/Polyglot_Turkish_Syllabus_v0.1.txt
