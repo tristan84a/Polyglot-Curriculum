@@ -23,7 +23,7 @@ French       100000-199999           100000-100599          600
 German       200000-299999           200000-200749          750
 Japanese     300000-399999           300000-300499          500
 Polish       400000-499999           400000-400249          250
-Hungarian    500000-599999           500000-500311          312
+Hungarian    500000-599999           500000-500599          600
 Turkish      600000-699999           600000-600249          250
 Arabic       700000-799999           700000-700499          500
 Ojibwe       800000-899999           800000-800098          99
@@ -120,7 +120,7 @@ Checkpoint: Present verbs, first case functions, motion, possession, numbers and
 HUNGARIAN
 Syllabus: Syllabi/Polyglot_Hungarian_Syllabus_v0.2.txt
 Cards: 312 | Used IDs: 500000-500311
-Frontier: HU-55 — Topic-comment organization
+Frontier: HU-96 — Present participial/adjectival forms
 Checkpoint: Definite/indefinite conjugation, suffixal morphology, possession, tense/mood and later previews are active. Lexical verbs use -ni infinitives.
 
 TURKISH
