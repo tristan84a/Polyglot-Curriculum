@@ -311,3 +311,291 @@
 500309,Hungarian,That car is smaller.,Az az autó kisebb.,,sentence
 500310,Hungarian,The train is faster than the car.,A vonat gyorsabb az autónál.,,sentence
 500311,Hungarian,This book is better.,Ez a könyv jobb.,,sentence
+500312,Hungarian,mother,anya,,noun
+500313,Hungarian,father,apa,,noun
+500314,Hungarian,daughter,lány,,noun
+500315,Hungarian,son,fiú,,noun
+500316,Hungarian,parent,szülő,,noun
+500317,Hungarian,grandmother,nagymama,,noun
+500318,Hungarian,grandfather,nagypapa,,noun
+500319,Hungarian,husband,férj,,noun
+500320,Hungarian,wife,feleség,,noun
+500321,Hungarian,neighbour,szomszéd,,noun
+500322,Hungarian,teacher,tanár,,noun
+500323,Hungarian,student,diák,,noun
+500324,Hungarian,engineer,mérnök,,noun
+500325,Hungarian,driver,sofőr,,noun
+500326,Hungarian,nurse,ápoló,,noun
+500327,Hungarian,worker,munkás,,noun
+500328,Hungarian,colleague,kolléga,,noun
+500329,Hungarian,customer,vásárló,,noun
+500330,Hungarian,visitor,látogató,,noun
+500331,Hungarian,guest,vendég,,noun
+500332,Hungarian,kitchen,konyha,,noun
+500333,Hungarian,bathroom,fürdőszoba,,noun
+500334,Hungarian,bedroom,hálószoba,,noun
+500335,Hungarian,door,ajtó,,noun
+500336,Hungarian,window,ablak,,noun
+500337,Hungarian,floor,padló,,noun
+500338,Hungarian,wall,fal,,noun
+500339,Hungarian,roof,tető,,noun
+500340,Hungarian,key,kulcs,,noun
+500341,Hungarian,bed,ágy,,noun
+500342,Hungarian,lamp,lámpa,,noun
+500343,Hungarian,computer,számítógép,,noun
+500344,Hungarian,telephone,telefon,,noun
+500345,Hungarian,newspaper,újság,,noun
+500346,Hungarian,picture,kép,,noun
+500347,Hungarian,map,térkép,,noun
+500348,Hungarian,bag,táska,,noun
+500349,Hungarian,coat,kabát,,noun
+500350,Hungarian,shoes,cipő,,noun
+500351,Hungarian,shirt,ing,,noun
+500352,Hungarian,trousers,nadrág,,noun
+500353,Hungarian,milk,tej,,noun
+500354,Hungarian,cheese,sajt,,noun
+500355,Hungarian,egg,tojás,,noun
+500356,Hungarian,meat,hús,,noun
+500357,Hungarian,fish,hal,,noun
+500358,Hungarian,vegetable,zöldség,,noun
+500359,Hungarian,fruit,gyümölcs,,noun
+500360,Hungarian,potato,burgonya,,noun
+500361,Hungarian,soup,leves,,noun
+500362,Hungarian,sugar,cukor,,noun
+500363,Hungarian,salt,só,,noun
+500364,Hungarian,breakfast,reggeli,,noun
+500365,Hungarian,lunch,ebéd,,noun
+500366,Hungarian,dinner,vacsora,,noun
+500367,Hungarian,restaurant,étterem,,noun
+500368,Hungarian,hospital,kórház,,noun
+500369,Hungarian,library,könyvtár,,noun
+500370,Hungarian,museum,múzeum,,noun
+500371,Hungarian,park,park,,noun
+500372,Hungarian,river,folyó,,noun
+500373,Hungarian,lake,tó,,noun
+500374,Hungarian,mountain,hegy,,noun
+500375,Hungarian,forest,erdő,,noun
+500376,Hungarian,tree,fa,,noun
+500377,Hungarian,flower,virág,,noun
+500378,Hungarian,bird,madár,,noun
+500379,Hungarian,horse,ló,,noun
+500380,Hungarian,rain,eső,,noun
+500381,Hungarian,snow,hó,,noun
+500382,Hungarian,wind,szél,,noun
+500383,Hungarian,sun,nap,,noun
+500384,Hungarian,moon,hold,,noun
+500385,Hungarian,weather,időjárás,,noun
+500386,Hungarian,summer,nyár,,noun
+500387,Hungarian,winter,tél,,noun
+500388,Hungarian,spring (season),tavasz,,noun
+500389,Hungarian,autumn,ősz,,noun
+500390,Hungarian,happy,boldog,,adjective
+500391,Hungarian,sad,szomorú,,adjective
+500392,Hungarian,tired,fáradt,,adjective
+500393,Hungarian,hungry,éhes,,adjective
+500394,Hungarian,thirsty,szomjas,,adjective
+500395,Hungarian,warm,meleg,,adjective
+500396,Hungarian,cold,hideg,,adjective
+500397,Hungarian,clean,tiszta,,adjective
+500398,Hungarian,dirty,piszkos,,adjective
+500399,Hungarian,expensive,drága,,adjective
+500400,Hungarian,cheap,olcsó,,adjective
+500401,Hungarian,easy,könnyű,,adjective
+500402,Hungarian,difficult,nehéz,,adjective
+500403,Hungarian,important,fontos,,adjective
+500404,Hungarian,interesting,érdekes,,adjective
+500405,Hungarian,necessary,szükséges,,adjective
+500406,Hungarian,possible,lehetséges,,adjective
+500407,Hungarian,ready,kész,,adjective
+500408,Hungarian,open (adjective),nyitva,,adverb
+500409,Hungarian,closed (adjective),zárva,,adverb
+500410,Hungarian,early,korán,,adverb
+500411,Hungarian,late,későn,,adverb
+500412,Hungarian,often,gyakran,,adverb
+500413,Hungarian,sometimes,néha,,adverb
+500414,Hungarian,always,mindig,,adverb
+500415,Hungarian,never,soha,,adverb
+500416,Hungarian,already,már,,adverb
+500417,Hungarian,still,még,,adverb
+500418,Hungarian,together,együtt,,adverb
+500419,Hungarian,alone,egyedül,,adverb
+500420,Hungarian,slowly,lassan,,adverb
+500421,Hungarian,quickly,gyorsan,,adverb
+500422,Hungarian,carefully,óvatosan,,adverb
+500423,Hungarian,immediately,azonnal,,adverb
+500424,Hungarian,outside,kint,,adverb
+500425,Hungarian,inside,bent,,adverb
+500426,Hungarian,nearby,közel,,adverb
+500427,Hungarian,far away,messze,,adverb
+500428,Hungarian,The teacher is in the library.,A tanár a könyvtárban van.,,sentence
+500429,Hungarian,The student is in the classroom.,A diák a tanteremben van.,,sentence
+500430,Hungarian,My mother is in the kitchen.,Anyám a konyhában van.,,sentence
+500431,Hungarian,My father is in the garden.,Apám a kertben van.,,sentence
+500432,Hungarian,The guest is at the door.,A vendég az ajtónál van.,,sentence
+500433,Hungarian,The key is in the bag.,A kulcs a táskában van.,,sentence
+500434,Hungarian,The lamp is above the table.,A lámpa az asztal fölött van.,,sentence
+500435,Hungarian,The picture is on the wall.,A kép a falon van.,,sentence
+500436,Hungarian,The dog is under the bed.,A kutya az ágy alatt van.,,sentence
+500437,Hungarian,The car is in front of the house.,Az autó a ház előtt van.,,sentence
+500438,Hungarian,The park is near the river.,A park a folyó közelében van.,,sentence
+500439,Hungarian,The museum is next to the library.,A múzeum a könyvtár mellett van.,,sentence
+500440,Hungarian,The hospital is far from here.,A kórház messze van innen.,,sentence
+500441,Hungarian,The school is between the park and the museum.,Az iskola a park és a múzeum között van.,,sentence
+500442,Hungarian,The train is coming from Budapest.,A vonat Budapestről jön.,,sentence
+500443,Hungarian,I am going to Budapest.,Budapestre megyek.,,sentence
+500444,Hungarian,She lives in Budapest.,Budapesten lakik.,,sentence
+500445,Hungarian,I am going to the library.,A könyvtárba megyek.,,sentence
+500446,Hungarian,We are coming out of the restaurant.,Kijövünk az étteremből.,,sentence
+500447,Hungarian,The children are playing in the park.,A gyerekek a parkban játszanak.,,sentence
+500448,Hungarian,I am walking along the river.,A folyó mentén sétálok.,,sentence
+500449,Hungarian,The bird is flying over the house.,A madár a ház fölött repül.,,sentence
+500450,Hungarian,The cat is sitting on the chair.,A macska a széken ül.,,sentence
+500451,Hungarian,The teacher is standing in front of the school.,A tanár az iskola előtt áll.,,sentence
+500452,Hungarian,My friend is waiting at the station.,A barátom az állomáson vár.,,sentence
+500453,Hungarian,I am walking toward the station.,Az állomás felé sétálok.,,sentence
+500454,Hungarian,We are going across the bridge.,Átmegyünk a hídon.,,sentence
+500455,Hungarian,The child is running into the garden.,A gyerek befut a kertbe.,,sentence
+500456,Hungarian,The dog is running out of the house.,A kutya kifut a házból.,,sentence
+500457,Hungarian,I am putting the key into the bag.,Beteszem a kulcsot a táskába.,,sentence
+500458,Hungarian,She takes the coat out of the bag.,Kiveszi a kabátot a táskából.,,sentence
+500459,Hungarian,I put the book next to the lamp.,A lámpa mellé teszem a könyvet.,,sentence
+500460,Hungarian,The picture is above the bed.,A kép az ágy fölött van.,,sentence
+500461,Hungarian,The bag is behind the chair.,A táska a szék mögött van.,,sentence
+500462,Hungarian,The shoes are under the bed.,A cipők az ágy alatt vannak.,,sentence
+500463,Hungarian,The river flows through the city.,A folyó átfolyik a városon.,,sentence
+500464,Hungarian,I am coming home from work.,Hazajövök a munkából.,,sentence
+500465,Hungarian,The children are going home.,A gyerekek hazamennek.,,sentence
+500466,Hungarian,I am going upstairs.,Felmegyek az emeletre.,,sentence
+500467,Hungarian,She is coming downstairs.,Lejön az emeletről.,,sentence
+500468,Hungarian,to wait,várni,,verb
+500469,Hungarian,to ask,kérdezni,,verb
+500470,Hungarian,to answer,válaszolni,,verb
+500471,Hungarian,to speak,beszélni,,verb
+500472,Hungarian,to say,mondani,,verb
+500473,Hungarian,to tell,elmondani,,verb
+500474,Hungarian,to listen,hallgatni,,verb
+500475,Hungarian,to hear,hallani,,verb
+500476,Hungarian,to look,nézni,,verb
+500477,Hungarian,to find,találni,,verb
+500478,Hungarian,to search,keresni,,verb
+500479,Hungarian,to open,kinyitni,,verb
+500480,Hungarian,to close,becsukni,,verb
+500481,Hungarian,to start,kezdeni,,verb
+500482,Hungarian,to finish,befejezni,,verb
+500483,Hungarian,to cook,főzni,,verb
+500484,Hungarian,to wash,mosni,,verb
+500485,Hungarian,to clean,takarítani,,verb
+500486,Hungarian,to drive,vezetni,,verb
+500487,Hungarian,to walk,sétálni,,verb
+500488,Hungarian,to run,futni,,verb
+500489,Hungarian,to play,játszani,,verb
+500490,Hungarian,to swim,úszni,,verb
+500491,Hungarian,to travel,utazni,,verb
+500492,Hungarian,to visit,meglátogatni,,verb
+500493,Hungarian,to meet,találkozni,,verb
+500494,Hungarian,to remember,emlékezni,,verb
+500495,Hungarian,to forget,elfelejteni,,verb
+500496,Hungarian,to think,gondolni,,verb
+500497,Hungarian,to believe,hinni,,verb
+500498,Hungarian,to hope,remélni,,verb
+500499,Hungarian,to need,szüksége van valamire,,phrase
+500500,Hungarian,to choose,választani,,verb
+500501,Hungarian,to pay,fizetni,,verb
+500502,Hungarian,to sell,eladni,,verb
+500503,Hungarian,to send,küldeni,,verb
+500504,Hungarian,to receive,kapni,,verb
+500505,Hungarian,to build,építeni,,verb
+500506,Hungarian,to repair,megjavítani,,verb
+500507,Hungarian,to change,változtatni,,verb
+500508,Hungarian,I am waiting for the train.,A vonatra várok.,,sentence
+500509,Hungarian,She is looking for her keys.,A kulcsait keresi.,,sentence
+500510,Hungarian,We are talking about the weather.,Az időjárásról beszélgetünk.,,sentence
+500511,Hungarian,The teacher asks a question.,A tanár feltesz egy kérdést.,,sentence
+500512,Hungarian,The student answers the question.,A diák válaszol a kérdésre.,,sentence
+500513,Hungarian,I am listening to music.,Zenét hallgatok.,,sentence
+500514,Hungarian,She hears the birds.,Hallja a madarakat.,,sentence
+500515,Hungarian,We are watching a film.,Filmet nézünk.,,sentence
+500516,Hungarian,I found the key.,Megtaláltam a kulcsot.,,sentence
+500517,Hungarian,The child is looking at the picture.,A gyerek a képet nézi.,,sentence
+500518,Hungarian,I open the window.,Kinyitom az ablakot.,,sentence
+500519,Hungarian,She closes the door.,Becsukja az ajtót.,,sentence
+500520,Hungarian,We start work at eight.,Nyolckor kezdünk dolgozni.,,sentence
+500521,Hungarian,I finish work at five.,Ötkor fejezem be a munkát.,,sentence
+500522,Hungarian,My father cooks dinner.,Apám vacsorát főz.,,sentence
+500523,Hungarian,My mother is washing the clothes.,Anyám ruhát mos.,,sentence
+500524,Hungarian,We clean the kitchen.,Kitakarítjuk a konyhát.,,sentence
+500525,Hungarian,The driver drives carefully.,A sofőr óvatosan vezet.,,sentence
+500526,Hungarian,I walk in the park every morning.,Minden reggel a parkban sétálok.,,sentence
+500527,Hungarian,The children run quickly.,A gyerekek gyorsan futnak.,,sentence
+500528,Hungarian,We play football on Saturday.,Szombaton focizunk.,,sentence
+500529,Hungarian,I swim in the lake in summer.,Nyáron a tóban úszom.,,sentence
+500530,Hungarian,She travels by train.,Vonattal utazik.,,sentence
+500531,Hungarian,We visit our grandmother on Sunday.,Vasárnap meglátogatjuk a nagymamánkat.,,sentence
+500532,Hungarian,I meet my friend at the station.,Az állomáson találkozom a barátommal.,,sentence
+500533,Hungarian,I remember this house.,Emlékszem erre a házra.,,sentence
+500534,Hungarian,I forgot the address.,Elfelejtettem a címet.,,sentence
+500535,Hungarian,I think about the problem.,A problémán gondolkodom.,,sentence
+500536,Hungarian,I believe you.,Hiszek neked.,,sentence
+500537,Hungarian,I hope you come tomorrow.,Remélem hogy holnap jössz.,,sentence
+500538,Hungarian,I need water.,Vízre van szükségem.,,sentence
+500539,Hungarian,She needs a new coat.,Új kabátra van szüksége.,,sentence
+500540,Hungarian,We choose the red car.,A piros autót választjuk.,,sentence
+500541,Hungarian,I pay by card.,Kártyával fizetek.,,sentence
+500542,Hungarian,The shop sells bread.,A bolt kenyeret árul.,,sentence
+500543,Hungarian,I send a letter to my friend.,Levelet küldök a barátomnak.,,sentence
+500544,Hungarian,She receives a letter.,Kap egy levelet.,,sentence
+500545,Hungarian,They are building a house.,Házat építenek.,,sentence
+500546,Hungarian,I repair the bicycle.,Megjavítom a kerékpárt.,,sentence
+500547,Hungarian,We change the plan.,Megváltoztatjuk a tervet.,,sentence
+500548,Hungarian,I bought the red coat.,Megvettem a piros kabátot.,,sentence
+500549,Hungarian,I bought a red coat.,Vettem egy piros kabátot.,,sentence
+500550,Hungarian,She reads the newspaper.,Elolvassa az újságot.,,sentence
+500551,Hungarian,She reads newspapers.,Újságokat olvas.,,sentence
+500552,Hungarian,We are looking for the doctor.,Az orvost keressük.,,sentence
+500553,Hungarian,We are looking for a doctor.,Orvost keresünk.,,sentence
+500554,Hungarian,I know the answer.,Tudom a választ.,,sentence
+500555,Hungarian,I know a good restaurant.,Ismerek egy jó éttermet.,,sentence
+500556,Hungarian,He knows the teacher.,Ismeri a tanárt.,,sentence
+500557,Hungarian,I understand the question.,Értem a kérdést.,,sentence
+500558,Hungarian,I understand a question.,Értek egy kérdést.,,sentence
+500559,Hungarian,We like this city.,Szeretjük ezt a várost.,,sentence
+500560,Hungarian,They like old houses.,Szeretik a régi házakat.,,sentence
+500561,Hungarian,I do not want the coffee.,Nem kérem a kávét.,,sentence
+500562,Hungarian,I want some coffee.,Kérek egy kis kávét.,,sentence
+500563,Hungarian,The child does not want to sleep.,A gyerek nem akar aludni.,,sentence
+500564,Hungarian,We cannot open the door.,Nem tudjuk kinyitni az ajtót.,,sentence
+500565,Hungarian,I can drive.,Tudok vezetni.,,sentence
+500566,Hungarian,She can swim.,Tud úszni.,,sentence
+500567,Hungarian,Can you hear me? (singular informal),Hallasz engem?,,sentence
+500568,Hungarian,Can you see the river? (singular informal),Látod a folyót?,,sentence
+500569,Hungarian,I am not buying this book.,Nem veszem meg ezt a könyvet.,,sentence
+500570,Hungarian,I did not find the key.,Nem találtam meg a kulcsot.,,sentence
+500571,Hungarian,Why did you leave? (singular informal),Miért mentél el?,,sentence
+500572,Hungarian,Where did you put the bag? (singular informal),Hová tetted a táskát?,,sentence
+500573,Hungarian,What are you looking for? (singular informal),Mit keresel?,,sentence
+500574,Hungarian,Who did you meet? (singular informal),Kivel találkoztál?,,sentence
+500575,Hungarian,Which book did you read? (singular informal),Melyik könyvet olvastad?,,sentence
+500576,Hungarian,When will you arrive? (singular informal),Mikor érkezel?,,sentence
+500577,Hungarian,How much does this cost?,Mennyibe kerül ez?,,sentence
+500578,Hungarian,How many children are here?,Hány gyerek van itt?,,sentence
+500579,Hungarian,How many books do you have? (singular informal),Hány könyved van?,,sentence
+500580,Hungarian,Which car is yours? (singular informal),Melyik autó a tiéd?,,sentence
+500581,Hungarian,Where is your coat? (singular informal),Hol van a kabátod?,,sentence
+500582,Hungarian,Whose bag is this?,Kié ez a táska?,,sentence
+500583,Hungarian,This is my mother's car.,Ez anyám autója.,,sentence
+500584,Hungarian,That is my father's house.,Az apám háza.,,sentence
+500585,Hungarian,My sister's friend is a nurse.,A nővérem barátja ápoló.,,sentence
+500586,Hungarian,My friend's child is at school.,A barátom gyereke az iskolában van.,,sentence
+500587,Hungarian,The teacher's book is on the table.,A tanár könyve az asztalon van.,,sentence
+500588,Hungarian,The red car is faster than the blue car.,A piros autó gyorsabb mint a kék autó.,,sentence
+500589,Hungarian,This house is smaller than that house.,Ez a ház kisebb mint az a ház.,,sentence
+500590,Hungarian,The train is slower than the car.,A vonat lassabb mint az autó.,,sentence
+500591,Hungarian,This book is more interesting.,Ez a könyv érdekesebb.,,sentence
+500592,Hungarian,This is the biggest house.,Ez a legnagyobb ház.,,sentence
+500593,Hungarian,She is the youngest child.,Ő a legfiatalabb gyerek.,,sentence
+500594,Hungarian,This is the cheapest coat.,Ez a legolcsóbb kabát.,,sentence
+500595,Hungarian,The weather is better today.,Ma jobb az idő.,,sentence
+500596,Hungarian,Today is colder than yesterday.,Ma hidegebb van mint tegnap.,,sentence
+500597,Hungarian,I have more time today.,Ma több időm van.,,sentence
+500598,Hungarian,I have less money now.,Most kevesebb pénzem van.,,sentence
+500599,Hungarian,I drink a little water.,Iszom egy kis vizet.,,sentence
