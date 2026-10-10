@@ -103,9 +103,9 @@ Checkpoint: Cards 100600-100999 replace the earlier template-based vocabulary ex
 
 GERMAN
 Syllabus: Syllabi/Polyglot_German_Syllabus_v0.3.txt
-Cards: 750 | Used IDs: 200000-200749
-Frontier: DE-71 — Strong-verb Präteritum
-Checkpoint: Established widening-spiral deck with Perfekt, case/adjective systems and initial Präteritum active longitudinally.
+Cards: 1000 | Used IDs: 200000-200999
+Frontier: DE-81 — Other common subordinating conjunctions
+Checkpoint: Established DE-71–DE-80 through 250 new cards (200750–200999), with 15–50 cards per unit. Strong Präteritum, register contrasts, Plusquamperfekt, past narration, coordination, dass, weil, wenn, als and obwohl introduced with varied lexical contexts. Continue verb-final subordinate clause patterns at DE-81.
 
 JAPANESE
 Syllabus: Syllabi/Polyglot_Japanese_Syllabus_v0.4.txt
