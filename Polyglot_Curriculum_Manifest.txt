@@ -19,7 +19,7 @@ Polyglot_Card_Generation_Protocol_v1.0.txt
 Polyglot uses integer language blocks of 100,000 IDs.
 
 Language     Reserved ID range       Current used IDs       Current cards
-French       100000-199999           100000-100599          600
+French       100000-199999           100000-100999          1000
 German       200000-299999           200000-200749          750
 Japanese     300000-399999           300000-300499          500
 Polish       400000-499999           400000-400249          250
@@ -97,7 +97,7 @@ These ranges are reservations, not curriculum-size targets. Stable live IDs are 
 
 FRENCH
 Syllabus: Syllabi/Polyglot_French_Syllabus_v0.3.txt
-Cards: 600 | Used IDs: 100000-100599
+Cards: 1000 | Used IDs: 100000-100999
 Checkpoint: Established canonical deck. Continue from the current CSV and syllabus v0.3.
 
 GERMAN
