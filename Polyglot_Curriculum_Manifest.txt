@@ -98,7 +98,8 @@ These ranges are reservations, not curriculum-size targets. Stable live IDs are 
 FRENCH
 Syllabus: Syllabi/Polyglot_French_Syllabus_v0.3.txt
 Cards: 1000 | Used IDs: 100000-100999
-Checkpoint: Established canonical deck. Continue from the current CSV and syllabus v0.3.
+Frontier: FR-58 — Passé composé versus imparfait
+Checkpoint: Cards 100600-100999 replace the earlier template-based vocabulary expansion. Eight 50-card sequences establish FR-50 through FR-57: pronominal verbs in the passé composé, compound-past questions and negation, preceding-object participle agreement, past synthesis, imparfait formation, past states, habitual past and background description. Broader everyday vocabulary is embedded in controlled example sentences. Next: FR-58 aspectual contrasts.
 
 GERMAN
 Syllabus: Syllabi/Polyglot_German_Syllabus_v0.3.txt
