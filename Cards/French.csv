@@ -599,3 +599,403 @@
 100597,French,My friend came yesterday. (male),Mon ami est venu hier.,,
 100598,French,My friend came this morning. (female),Mon amie est venue ce matin.,,
 100599,French,Who came yesterday?,Qui est venu hier ?,,
+100600,French,I am looking for the bakery.,Je cherche la boulangerie.,,sentence
+100601,French,I found the bakery.,J'ai trouvé la boulangerie.,,sentence
+100602,French,We talked about the bakery.,Nous avons parlé de la boulangerie.,,sentence
+100603,French,Do you know anything about the bakery?,Est-ce que tu sais quelque chose sur la boulangerie ?,,sentence
+100604,French,I am looking for the cheese.,Je cherche le fromage.,,sentence
+100605,French,I found the cheese.,J'ai trouvé le fromage.,,sentence
+100606,French,We talked about the cheese.,Nous avons parlé de le fromage.,,sentence
+100607,French,Do you know anything about the cheese?,Est-ce que tu sais quelque chose sur le fromage ?,,sentence
+100608,French,I am looking for the vegetables.,Je cherche les légumes.,,sentence
+100609,French,I found the vegetables.,J'ai trouvé les légumes.,,sentence
+100610,French,We talked about the vegetables.,Nous avons parlé de les légumes.,,sentence
+100611,French,Do you know anything about the vegetables?,Est-ce que tu sais quelque chose sur les légumes ?,,sentence
+100612,French,I am looking for the recipe.,Je cherche la recette.,,sentence
+100613,French,I found the recipe.,J'ai trouvé la recette.,,sentence
+100614,French,We talked about the recipe.,Nous avons parlé de la recette.,,sentence
+100615,French,Do you know anything about the recipe?,Est-ce que tu sais quelque chose sur la recette ?,,sentence
+100616,French,I am looking for the oven.,Je cherche le four.,,sentence
+100617,French,I found the oven.,J'ai trouvé le four.,,sentence
+100618,French,We talked about the oven.,Nous avons parlé de le four.,,sentence
+100619,French,Do you know anything about the oven?,Est-ce que tu sais quelque chose sur le four ?,,sentence
+100620,French,I am looking for the plate.,Je cherche l'assiette.,,sentence
+100621,French,I found the plate.,J'ai trouvé l'assiette.,,sentence
+100622,French,We talked about the plate.,Nous avons parlé de l'assiette.,,sentence
+100623,French,Do you know anything about the plate?,Est-ce que tu sais quelque chose sur l'assiette ?,,sentence
+100624,French,I am looking for the knife.,Je cherche le couteau.,,sentence
+100625,French,I found the knife.,J'ai trouvé le couteau.,,sentence
+100626,French,We talked about the knife.,Nous avons parlé de le couteau.,,sentence
+100627,French,Do you know anything about the knife?,Est-ce que tu sais quelque chose sur le couteau ?,,sentence
+100628,French,I am looking for the fork.,Je cherche la fourchette.,,sentence
+100629,French,I found the fork.,J'ai trouvé la fourchette.,,sentence
+100630,French,We talked about the fork.,Nous avons parlé de la fourchette.,,sentence
+100631,French,Do you know anything about the fork?,Est-ce que tu sais quelque chose sur la fourchette ?,,sentence
+100632,French,I am looking for the strawberries.,Je cherche les fraises.,,sentence
+100633,French,I found the strawberries.,J'ai trouvé les fraises.,,sentence
+100634,French,We talked about the strawberries.,Nous avons parlé de les fraises.,,sentence
+100635,French,Do you know anything about the strawberries?,Est-ce que tu sais quelque chose sur les fraises ?,,sentence
+100636,French,I am looking for the potatoes.,Je cherche les pommes de terre.,,sentence
+100637,French,I found the potatoes.,J'ai trouvé les pommes de terre.,,sentence
+100638,French,We talked about the potatoes.,Nous avons parlé de les pommes de terre.,,sentence
+100639,French,Do you know anything about the potatoes?,Est-ce que tu sais quelque chose sur les pommes de terre ?,,sentence
+100640,French,I am looking for the restaurant.,Je cherche le restaurant.,,sentence
+100641,French,I found the restaurant.,J'ai trouvé le restaurant.,,sentence
+100642,French,We talked about the restaurant.,Nous avons parlé de le restaurant.,,sentence
+100643,French,Do you know anything about the restaurant?,Est-ce que tu sais quelque chose sur le restaurant ?,,sentence
+100644,French,I am looking for the menu.,Je cherche le menu.,,sentence
+100645,French,I found the menu.,J'ai trouvé le menu.,,sentence
+100646,French,We talked about the menu.,Nous avons parlé de le menu.,,sentence
+100647,French,Do you know anything about the menu?,Est-ce que tu sais quelque chose sur le menu ?,,sentence
+100648,French,I am looking for the bill.,Je cherche l'addition.,,sentence
+100649,French,I found the bill.,J'ai trouvé l'addition.,,sentence
+100650,French,We talked about the bill.,Nous avons parlé de l'addition.,,sentence
+100651,French,Do you know anything about the bill?,Est-ce que tu sais quelque chose sur l'addition ?,,sentence
+100652,French,I am looking for the balcony.,Je cherche le balcon.,,sentence
+100653,French,I found the balcony.,J'ai trouvé le balcon.,,sentence
+100654,French,We talked about the balcony.,Nous avons parlé de le balcon.,,sentence
+100655,French,Do you know anything about the balcony?,Est-ce que tu sais quelque chose sur le balcon ?,,sentence
+100656,French,I am looking for the rent.,Je cherche le loyer.,,sentence
+100657,French,I found the rent.,J'ai trouvé le loyer.,,sentence
+100658,French,We talked about the rent.,Nous avons parlé de le loyer.,,sentence
+100659,French,Do you know anything about the rent?,Est-ce que tu sais quelque chose sur le loyer ?,,sentence
+100660,French,I am looking for the landlord.,Je cherche le propriétaire.,,sentence
+100661,French,I found the landlord.,J'ai trouvé le propriétaire.,,sentence
+100662,French,We talked about the landlord.,Nous avons parlé de le propriétaire.,,sentence
+100663,French,Do you know anything about the landlord?,Est-ce que tu sais quelque chose sur le propriétaire ?,,sentence
+100664,French,I am looking for the ceiling.,Je cherche le plafond.,,sentence
+100665,French,I found the ceiling.,J'ai trouvé le plafond.,,sentence
+100666,French,We talked about the ceiling.,Nous avons parlé de le plafond.,,sentence
+100667,French,Do you know anything about the ceiling?,Est-ce que tu sais quelque chose sur le plafond ?,,sentence
+100668,French,I am looking for the stairs.,Je cherche l'escalier.,,sentence
+100669,French,I found the stairs.,J'ai trouvé l'escalier.,,sentence
+100670,French,We talked about the stairs.,Nous avons parlé de l'escalier.,,sentence
+100671,French,Do you know anything about the stairs?,Est-ce que tu sais quelque chose sur l'escalier ?,,sentence
+100672,French,I am looking for the curtains.,Je cherche les rideaux.,,sentence
+100673,French,I found the curtains.,J'ai trouvé les rideaux.,,sentence
+100674,French,We talked about the curtains.,Nous avons parlé de les rideaux.,,sentence
+100675,French,Do you know anything about the curtains?,Est-ce que tu sais quelque chose sur les rideaux ?,,sentence
+100676,French,I am looking for the lock.,Je cherche la serrure.,,sentence
+100677,French,I found the lock.,J'ai trouvé la serrure.,,sentence
+100678,French,We talked about the lock.,Nous avons parlé de la serrure.,,sentence
+100679,French,Do you know anything about the lock?,Est-ce que tu sais quelque chose sur la serrure ?,,sentence
+100680,French,I am looking for the carpet.,Je cherche la moquette.,,sentence
+100681,French,I found the carpet.,J'ai trouvé la moquette.,,sentence
+100682,French,We talked about the carpet.,Nous avons parlé de la moquette.,,sentence
+100683,French,Do you know anything about the carpet?,Est-ce que tu sais quelque chose sur la moquette ?,,sentence
+100684,French,I am looking for the lamp.,Je cherche la lampe.,,sentence
+100685,French,I found the lamp.,J'ai trouvé la lampe.,,sentence
+100686,French,We talked about the lamp.,Nous avons parlé de la lampe.,,sentence
+100687,French,Do you know anything about the lamp?,Est-ce que tu sais quelque chose sur la lampe ?,,sentence
+100688,French,I am looking for the towel.,Je cherche la serviette.,,sentence
+100689,French,I found the towel.,J'ai trouvé la serviette.,,sentence
+100690,French,We talked about the towel.,Nous avons parlé de la serviette.,,sentence
+100691,French,Do you know anything about the towel?,Est-ce que tu sais quelque chose sur la serviette ?,,sentence
+100692,French,I am looking for the drawer.,Je cherche le tiroir.,,sentence
+100693,French,I found the drawer.,J'ai trouvé le tiroir.,,sentence
+100694,French,We talked about the drawer.,Nous avons parlé de le tiroir.,,sentence
+100695,French,Do you know anything about the drawer?,Est-ce que tu sais quelque chose sur le tiroir ?,,sentence
+100696,French,I am looking for the umbrella.,Je cherche le parapluie.,,sentence
+100697,French,I found the umbrella.,J'ai trouvé le parapluie.,,sentence
+100698,French,We talked about the umbrella.,Nous avons parlé de le parapluie.,,sentence
+100699,French,Do you know anything about the umbrella?,Est-ce que tu sais quelque chose sur le parapluie ?,,sentence
+100700,French,I am looking for the suitcase.,Je cherche la valise.,,sentence
+100701,French,I found the suitcase.,J'ai trouvé la valise.,,sentence
+100702,French,We talked about the suitcase.,Nous avons parlé de la valise.,,sentence
+100703,French,Do you know anything about the suitcase?,Est-ce que tu sais quelque chose sur la valise ?,,sentence
+100704,French,I am looking for the shelf.,Je cherche l'étagère.,,sentence
+100705,French,I found the shelf.,J'ai trouvé l'étagère.,,sentence
+100706,French,We talked about the shelf.,Nous avons parlé de l'étagère.,,sentence
+100707,French,Do you know anything about the shelf?,Est-ce que tu sais quelque chose sur l'étagère ?,,sentence
+100708,French,I am looking for the mattress.,Je cherche le matelas.,,sentence
+100709,French,I found the mattress.,J'ai trouvé le matelas.,,sentence
+100710,French,We talked about the mattress.,Nous avons parlé de le matelas.,,sentence
+100711,French,Do you know anything about the mattress?,Est-ce que tu sais quelque chose sur le matelas ?,,sentence
+100712,French,I am looking for the cousin.,Je cherche le cousin.,,sentence
+100713,French,I found the cousin.,J'ai trouvé le cousin.,,sentence
+100714,French,We talked about the cousin.,Nous avons parlé de le cousin.,,sentence
+100715,French,Do you know anything about the cousin?,Est-ce que tu sais quelque chose sur le cousin ?,,sentence
+100716,French,I am looking for the aunt.,Je cherche la tante.,,sentence
+100717,French,I found the aunt.,J'ai trouvé la tante.,,sentence
+100718,French,We talked about the aunt.,Nous avons parlé de la tante.,,sentence
+100719,French,Do you know anything about the aunt?,Est-ce que tu sais quelque chose sur la tante ?,,sentence
+100720,French,I am looking for the grandparents.,Je cherche les grands-parents.,,sentence
+100721,French,I found the grandparents.,J'ai trouvé les grands-parents.,,sentence
+100722,French,We talked about the grandparents.,Nous avons parlé de les grands-parents.,,sentence
+100723,French,Do you know anything about the grandparents?,Est-ce que tu sais quelque chose sur les grands-parents ?,,sentence
+100724,French,I am looking for the baby.,Je cherche le bébé.,,sentence
+100725,French,I found the baby.,J'ai trouvé le bébé.,,sentence
+100726,French,We talked about the baby.,Nous avons parlé de le bébé.,,sentence
+100727,French,Do you know anything about the baby?,Est-ce que tu sais quelque chose sur le bébé ?,,sentence
+100728,French,I am looking for the teenagers.,Je cherche les adolescents.,,sentence
+100729,French,I found the teenagers.,J'ai trouvé les adolescents.,,sentence
+100730,French,We talked about the teenagers.,Nous avons parlé de les adolescents.,,sentence
+100731,French,Do you know anything about the teenagers?,Est-ce que tu sais quelque chose sur les adolescents ?,,sentence
+100732,French,I am looking for the neighbours.,Je cherche les voisins.,,sentence
+100733,French,I found the neighbours.,J'ai trouvé les voisins.,,sentence
+100734,French,We talked about the neighbours.,Nous avons parlé de les voisins.,,sentence
+100735,French,Do you know anything about the neighbours?,Est-ce que tu sais quelque chose sur les voisins ?,,sentence
+100736,French,I am looking for the colleague.,Je cherche le collègue.,,sentence
+100737,French,I found the colleague.,J'ai trouvé le collègue.,,sentence
+100738,French,We talked about the colleague.,Nous avons parlé de le collègue.,,sentence
+100739,French,Do you know anything about the colleague?,Est-ce que tu sais quelque chose sur le collègue ?,,sentence
+100740,French,I am looking for the birthday.,Je cherche l'anniversaire.,,sentence
+100741,French,I found the birthday.,J'ai trouvé l'anniversaire.,,sentence
+100742,French,We talked about the birthday.,Nous avons parlé de l'anniversaire.,,sentence
+100743,French,Do you know anything about the birthday?,Est-ce que tu sais quelque chose sur l'anniversaire ?,,sentence
+100744,French,I am looking for the gift.,Je cherche le cadeau.,,sentence
+100745,French,I found the gift.,J'ai trouvé le cadeau.,,sentence
+100746,French,We talked about the gift.,Nous avons parlé de le cadeau.,,sentence
+100747,French,Do you know anything about the gift?,Est-ce que tu sais quelque chose sur le cadeau ?,,sentence
+100748,French,I am looking for the volunteers.,Je cherche les bénévoles.,,sentence
+100749,French,I found the volunteers.,J'ai trouvé les bénévoles.,,sentence
+100750,French,We talked about the volunteers.,Nous avons parlé de les bénévoles.,,sentence
+100751,French,Do you know anything about the volunteers?,Est-ce que tu sais quelque chose sur les bénévoles ?,,sentence
+100752,French,I am looking for the guests.,Je cherche les invités.,,sentence
+100753,French,I found the guests.,J'ai trouvé les invités.,,sentence
+100754,French,We talked about the guests.,Nous avons parlé de les invités.,,sentence
+100755,French,Do you know anything about the guests?,Est-ce que tu sais quelque chose sur les invités ?,,sentence
+100756,French,I am looking for the knee.,Je cherche le genou.,,sentence
+100757,French,I found the knee.,J'ai trouvé le genou.,,sentence
+100758,French,We talked about the knee.,Nous avons parlé de le genou.,,sentence
+100759,French,Do you know anything about the knee?,Est-ce que tu sais quelque chose sur le genou ?,,sentence
+100760,French,I am looking for the throat.,Je cherche la gorge.,,sentence
+100761,French,I found the throat.,J'ai trouvé la gorge.,,sentence
+100762,French,We talked about the throat.,Nous avons parlé de la gorge.,,sentence
+100763,French,Do you know anything about the throat?,Est-ce que tu sais quelque chose sur la gorge ?,,sentence
+100764,French,I am looking for the temperature.,Je cherche la température.,,sentence
+100765,French,I found the temperature.,J'ai trouvé la température.,,sentence
+100766,French,We talked about the temperature.,Nous avons parlé de la température.,,sentence
+100767,French,Do you know anything about the temperature?,Est-ce que tu sais quelque chose sur la température ?,,sentence
+100768,French,I am looking for the dentist.,Je cherche le dentiste.,,sentence
+100769,French,I found the dentist.,J'ai trouvé le dentiste.,,sentence
+100770,French,We talked about the dentist.,Nous avons parlé de le dentiste.,,sentence
+100771,French,Do you know anything about the dentist?,Est-ce que tu sais quelque chose sur le dentiste ?,,sentence
+100772,French,I am looking for the pharmacy.,Je cherche la pharmacie.,,sentence
+100773,French,I found the pharmacy.,J'ai trouvé la pharmacie.,,sentence
+100774,French,We talked about the pharmacy.,Nous avons parlé de la pharmacie.,,sentence
+100775,French,Do you know anything about the pharmacy?,Est-ce que tu sais quelque chose sur la pharmacie ?,,sentence
+100776,French,I am looking for the prescription.,Je cherche l'ordonnance.,,sentence
+100777,French,I found the prescription.,J'ai trouvé l'ordonnance.,,sentence
+100778,French,We talked about the prescription.,Nous avons parlé de l'ordonnance.,,sentence
+100779,French,Do you know anything about the prescription?,Est-ce que tu sais quelque chose sur l'ordonnance ?,,sentence
+100780,French,I am looking for the wrist.,Je cherche le poignet.,,sentence
+100781,French,I found the wrist.,J'ai trouvé le poignet.,,sentence
+100782,French,We talked about the wrist.,Nous avons parlé de le poignet.,,sentence
+100783,French,Do you know anything about the wrist?,Est-ce que tu sais quelque chose sur le poignet ?,,sentence
+100784,French,I am looking for the ankle.,Je cherche la cheville.,,sentence
+100785,French,I found the ankle.,J'ai trouvé la cheville.,,sentence
+100786,French,We talked about the ankle.,Nous avons parlé de la cheville.,,sentence
+100787,French,Do you know anything about the ankle?,Est-ce que tu sais quelque chose sur la cheville ?,,sentence
+100788,French,I am looking for the wound.,Je cherche la blessure.,,sentence
+100789,French,I found the wound.,J'ai trouvé la blessure.,,sentence
+100790,French,We talked about the wound.,Nous avons parlé de la blessure.,,sentence
+100791,French,Do you know anything about the wound?,Est-ce que tu sais quelque chose sur la blessure ?,,sentence
+100792,French,I am looking for the results.,Je cherche les résultats.,,sentence
+100793,French,I found the results.,J'ai trouvé les résultats.,,sentence
+100794,French,We talked about the results.,Nous avons parlé de les résultats.,,sentence
+100795,French,Do you know anything about the results?,Est-ce que tu sais quelque chose sur les résultats ?,,sentence
+100796,French,I am looking for the appointment.,Je cherche le rendez-vous.,,sentence
+100797,French,I found the appointment.,J'ai trouvé le rendez-vous.,,sentence
+100798,French,We talked about the appointment.,Nous avons parlé de le rendez-vous.,,sentence
+100799,French,Do you know anything about the appointment?,Est-ce que tu sais quelque chose sur le rendez-vous ?,,sentence
+100800,French,I am looking for the ambulance.,Je cherche l'ambulance.,,sentence
+100801,French,I found the ambulance.,J'ai trouvé l'ambulance.,,sentence
+100802,French,We talked about the ambulance.,Nous avons parlé de l'ambulance.,,sentence
+100803,French,Do you know anything about the ambulance?,Est-ce que tu sais quelque chose sur l'ambulance ?,,sentence
+100804,French,I am looking for the platform.,Je cherche le quai.,,sentence
+100805,French,I found the platform.,J'ai trouvé le quai.,,sentence
+100806,French,We talked about the platform.,Nous avons parlé de le quai.,,sentence
+100807,French,Do you know anything about the platform?,Est-ce que tu sais quelque chose sur le quai ?,,sentence
+100808,French,I am looking for the station.,Je cherche la gare.,,sentence
+100809,French,I found the station.,J'ai trouvé la gare.,,sentence
+100810,French,We talked about the station.,Nous avons parlé de la gare.,,sentence
+100811,French,Do you know anything about the station?,Est-ce que tu sais quelque chose sur la gare ?,,sentence
+100812,French,I am looking for the flight.,Je cherche le vol.,,sentence
+100813,French,I found the flight.,J'ai trouvé le vol.,,sentence
+100814,French,We talked about the flight.,Nous avons parlé de le vol.,,sentence
+100815,French,Do you know anything about the flight?,Est-ce que tu sais quelque chose sur le vol ?,,sentence
+100816,French,I am looking for the luggage.,Je cherche les bagages.,,sentence
+100817,French,I found the luggage.,J'ai trouvé les bagages.,,sentence
+100818,French,We talked about the luggage.,Nous avons parlé de les bagages.,,sentence
+100819,French,Do you know anything about the luggage?,Est-ce que tu sais quelque chose sur les bagages ?,,sentence
+100820,French,I am looking for the airport.,Je cherche l'aéroport.,,sentence
+100821,French,I found the airport.,J'ai trouvé l'aéroport.,,sentence
+100822,French,We talked about the airport.,Nous avons parlé de l'aéroport.,,sentence
+100823,French,Do you know anything about the airport?,Est-ce que tu sais quelque chose sur l'aéroport ?,,sentence
+100824,French,I am looking for the traffic.,Je cherche la circulation.,,sentence
+100825,French,I found the traffic.,J'ai trouvé la circulation.,,sentence
+100826,French,We talked about the traffic.,Nous avons parlé de la circulation.,,sentence
+100827,French,Do you know anything about the traffic?,Est-ce que tu sais quelque chose sur la circulation ?,,sentence
+100828,French,I am looking for the bridge.,Je cherche le pont.,,sentence
+100829,French,I found the bridge.,J'ai trouvé le pont.,,sentence
+100830,French,We talked about the bridge.,Nous avons parlé de le pont.,,sentence
+100831,French,Do you know anything about the bridge?,Est-ce que tu sais quelque chose sur le pont ?,,sentence
+100832,French,I am looking for the passport.,Je cherche le passeport.,,sentence
+100833,French,I found the passport.,J'ai trouvé le passeport.,,sentence
+100834,French,We talked about the passport.,Nous avons parlé de le passeport.,,sentence
+100835,French,Do you know anything about the passport?,Est-ce que tu sais quelque chose sur le passeport ?,,sentence
+100836,French,I am looking for the receptionist.,Je cherche la réceptionniste.,,sentence
+100837,French,I found the receptionist.,J'ai trouvé la réceptionniste.,,sentence
+100838,French,We talked about the receptionist.,Nous avons parlé de la réceptionniste.,,sentence
+100839,French,Do you know anything about the receptionist?,Est-ce que tu sais quelque chose sur la réceptionniste ?,,sentence
+100840,French,I am looking for the elevator.,Je cherche l'ascenseur.,,sentence
+100841,French,I found the elevator.,J'ai trouvé l'ascenseur.,,sentence
+100842,French,We talked about the elevator.,Nous avons parlé de l'ascenseur.,,sentence
+100843,French,Do you know anything about the elevator?,Est-ce que tu sais quelque chose sur l'ascenseur ?,,sentence
+100844,French,I am looking for the trail.,Je cherche le sentier.,,sentence
+100845,French,I found the trail.,J'ai trouvé le sentier.,,sentence
+100846,French,We talked about the trail.,Nous avons parlé de le sentier.,,sentence
+100847,French,Do you know anything about the trail?,Est-ce que tu sais quelque chose sur le sentier ?,,sentence
+100848,French,I am looking for the waterfall.,Je cherche la cascade.,,sentence
+100849,French,I found the waterfall.,J'ai trouvé la cascade.,,sentence
+100850,French,We talked about the waterfall.,Nous avons parlé de la cascade.,,sentence
+100851,French,Do you know anything about the waterfall?,Est-ce que tu sais quelque chose sur la cascade ?,,sentence
+100852,French,I am looking for the ferry.,Je cherche le traversier.,,sentence
+100853,French,I found the ferry.,J'ai trouvé le traversier.,,sentence
+100854,French,We talked about the ferry.,Nous avons parlé de le traversier.,,sentence
+100855,French,Do you know anything about the ferry?,Est-ce que tu sais quelque chose sur le traversier ?,,sentence
+100856,French,I am looking for the meeting.,Je cherche la réunion.,,sentence
+100857,French,I found the meeting.,J'ai trouvé la réunion.,,sentence
+100858,French,We talked about the meeting.,Nous avons parlé de la réunion.,,sentence
+100859,French,Do you know anything about the meeting?,Est-ce que tu sais quelque chose sur la réunion ?,,sentence
+100860,French,I am looking for the proposal.,Je cherche la proposition.,,sentence
+100861,French,I found the proposal.,J'ai trouvé la proposition.,,sentence
+100862,French,We talked about the proposal.,Nous avons parlé de la proposition.,,sentence
+100863,French,Do you know anything about the proposal?,Est-ce que tu sais quelque chose sur la proposition ?,,sentence
+100864,French,I am looking for the deadline.,Je cherche la date limite.,,sentence
+100865,French,I found the deadline.,J'ai trouvé la date limite.,,sentence
+100866,French,We talked about the deadline.,Nous avons parlé de la date limite.,,sentence
+100867,French,Do you know anything about the deadline?,Est-ce que tu sais quelque chose sur la date limite ?,,sentence
+100868,French,I am looking for the project.,Je cherche le projet.,,sentence
+100869,French,I found the project.,J'ai trouvé le projet.,,sentence
+100870,French,We talked about the project.,Nous avons parlé de le projet.,,sentence
+100871,French,Do you know anything about the project?,Est-ce que tu sais quelque chose sur le projet ?,,sentence
+100872,French,I am looking for the employee.,Je cherche l'employé.,,sentence
+100873,French,I found the employee.,J'ai trouvé l'employé.,,sentence
+100874,French,We talked about the employee.,Nous avons parlé de l'employé.,,sentence
+100875,French,Do you know anything about the employee?,Est-ce que tu sais quelque chose sur l'employé ?,,sentence
+100876,French,I am looking for the contract.,Je cherche le contrat.,,sentence
+100877,French,I found the contract.,J'ai trouvé le contrat.,,sentence
+100878,French,We talked about the contract.,Nous avons parlé de le contrat.,,sentence
+100879,French,Do you know anything about the contract?,Est-ce que tu sais quelque chose sur le contrat ?,,sentence
+100880,French,I am looking for the invoice.,Je cherche la facture.,,sentence
+100881,French,I found the invoice.,J'ai trouvé la facture.,,sentence
+100882,French,We talked about the invoice.,Nous avons parlé de la facture.,,sentence
+100883,French,Do you know anything about the invoice?,Est-ce que tu sais quelque chose sur la facture ?,,sentence
+100884,French,I am looking for the budget.,Je cherche le budget.,,sentence
+100885,French,I found the budget.,J'ai trouvé le budget.,,sentence
+100886,French,We talked about the budget.,Nous avons parlé de le budget.,,sentence
+100887,French,Do you know anything about the budget?,Est-ce que tu sais quelque chose sur le budget ?,,sentence
+100888,French,I am looking for the factory.,Je cherche l'usine.,,sentence
+100889,French,I found the factory.,J'ai trouvé l'usine.,,sentence
+100890,French,We talked about the factory.,Nous avons parlé de l'usine.,,sentence
+100891,French,Do you know anything about the factory?,Est-ce que tu sais quelque chose sur l'usine ?,,sentence
+100892,French,I am looking for the machine.,Je cherche la machine.,,sentence
+100893,French,I found the machine.,J'ai trouvé la machine.,,sentence
+100894,French,We talked about the machine.,Nous avons parlé de la machine.,,sentence
+100895,French,Do you know anything about the machine?,Est-ce que tu sais quelque chose sur la machine ?,,sentence
+100896,French,I am looking for the pipe.,Je cherche le tuyau.,,sentence
+100897,French,I found the pipe.,J'ai trouvé le tuyau.,,sentence
+100898,French,We talked about the pipe.,Nous avons parlé de le tuyau.,,sentence
+100899,French,Do you know anything about the pipe?,Est-ce que tu sais quelque chose sur le tuyau ?,,sentence
+100900,French,I am looking for the pump.,Je cherche la pompe.,,sentence
+100901,French,I found the pump.,J'ai trouvé la pompe.,,sentence
+100902,French,We talked about the pump.,Nous avons parlé de la pompe.,,sentence
+100903,French,Do you know anything about the pump?,Est-ce que tu sais quelque chose sur la pompe ?,,sentence
+100904,French,I am looking for the valve.,Je cherche la vanne.,,sentence
+100905,French,I found the valve.,J'ai trouvé la vanne.,,sentence
+100906,French,We talked about the valve.,Nous avons parlé de la vanne.,,sentence
+100907,French,Do you know anything about the valve?,Est-ce que tu sais quelque chose sur la vanne ?,,sentence
+100908,French,I am looking for the cable.,Je cherche le câble.,,sentence
+100909,French,I found the cable.,J'ai trouvé le câble.,,sentence
+100910,French,We talked about the cable.,Nous avons parlé de le câble.,,sentence
+100911,French,Do you know anything about the cable?,Est-ce que tu sais quelque chose sur le câble ?,,sentence
+100912,French,I am looking for the dimensions.,Je cherche les dimensions.,,sentence
+100913,French,I found the dimensions.,J'ai trouvé les dimensions.,,sentence
+100914,French,We talked about the dimensions.,Nous avons parlé de les dimensions.,,sentence
+100915,French,Do you know anything about the dimensions?,Est-ce que tu sais quelque chose sur les dimensions ?,,sentence
+100916,French,I am looking for the maintenance.,Je cherche l'entretien.,,sentence
+100917,French,I found the maintenance.,J'ai trouvé l'entretien.,,sentence
+100918,French,We talked about the maintenance.,Nous avons parlé de l'entretien.,,sentence
+100919,French,Do you know anything about the maintenance?,Est-ce que tu sais quelque chose sur l'entretien ?,,sentence
+100920,French,I am looking for the experiment.,Je cherche l'expérience.,,sentence
+100921,French,I found the experiment.,J'ai trouvé l'expérience.,,sentence
+100922,French,We talked about the experiment.,Nous avons parlé de l'expérience.,,sentence
+100923,French,Do you know anything about the experiment?,Est-ce que tu sais quelque chose sur l'expérience ?,,sentence
+100924,French,I am looking for the hypothesis.,Je cherche l'hypothèse.,,sentence
+100925,French,I found the hypothesis.,J'ai trouvé l'hypothèse.,,sentence
+100926,French,We talked about the hypothesis.,Nous avons parlé de l'hypothèse.,,sentence
+100927,French,Do you know anything about the hypothesis?,Est-ce que tu sais quelque chose sur l'hypothèse ?,,sentence
+100928,French,I am looking for the sample.,Je cherche l'échantillon.,,sentence
+100929,French,I found the sample.,J'ai trouvé l'échantillon.,,sentence
+100930,French,We talked about the sample.,Nous avons parlé de l'échantillon.,,sentence
+100931,French,Do you know anything about the sample?,Est-ce que tu sais quelque chose sur l'échantillon ?,,sentence
+100932,French,I am looking for the pressure.,Je cherche la pression.,,sentence
+100933,French,I found the pressure.,J'ai trouvé la pression.,,sentence
+100934,French,We talked about the pressure.,Nous avons parlé de la pression.,,sentence
+100935,French,Do you know anything about the pressure?,Est-ce que tu sais quelque chose sur la pression ?,,sentence
+100936,French,I am looking for the battery.,Je cherche la batterie.,,sentence
+100937,French,I found the battery.,J'ai trouvé la batterie.,,sentence
+100938,French,We talked about the battery.,Nous avons parlé de la batterie.,,sentence
+100939,French,Do you know anything about the battery?,Est-ce que tu sais quelque chose sur la batterie ?,,sentence
+100940,French,I am looking for the software.,Je cherche le logiciel.,,sentence
+100941,French,I found the software.,J'ai trouvé le logiciel.,,sentence
+100942,French,We talked about the software.,Nous avons parlé de le logiciel.,,sentence
+100943,French,Do you know anything about the software?,Est-ce que tu sais quelque chose sur le logiciel ?,,sentence
+100944,French,I am looking for the password.,Je cherche le mot de passe.,,sentence
+100945,French,I found the password.,J'ai trouvé le mot de passe.,,sentence
+100946,French,We talked about the password.,Nous avons parlé de le mot de passe.,,sentence
+100947,French,Do you know anything about the password?,Est-ce que tu sais quelque chose sur le mot de passe ?,,sentence
+100948,French,I am looking for the printer.,Je cherche l'imprimante.,,sentence
+100949,French,I found the printer.,J'ai trouvé l'imprimante.,,sentence
+100950,French,We talked about the printer.,Nous avons parlé de l'imprimante.,,sentence
+100951,French,Do you know anything about the printer?,Est-ce que tu sais quelque chose sur l'imprimante ?,,sentence
+100952,French,I am looking for the folder.,Je cherche le dossier.,,sentence
+100953,French,I found the folder.,J'ai trouvé le dossier.,,sentence
+100954,French,We talked about the folder.,Nous avons parlé de le dossier.,,sentence
+100955,French,Do you know anything about the folder?,Est-ce que tu sais quelque chose sur le dossier ?,,sentence
+100956,French,I am looking for the network.,Je cherche le réseau.,,sentence
+100957,French,I found the network.,J'ai trouvé le réseau.,,sentence
+100958,French,We talked about the network.,Nous avons parlé de le réseau.,,sentence
+100959,French,Do you know anything about the network?,Est-ce que tu sais quelque chose sur le réseau ?,,sentence
+100960,French,I am looking for the mayor.,Je cherche le maire.,,sentence
+100961,French,I found the mayor.,J'ai trouvé le maire.,,sentence
+100962,French,We talked about the mayor.,Nous avons parlé de le maire.,,sentence
+100963,French,Do you know anything about the mayor?,Est-ce que tu sais quelque chose sur le maire ?,,sentence
+100964,French,I am looking for the election.,Je cherche l'élection.,,sentence
+100965,French,I found the election.,J'ai trouvé l'élection.,,sentence
+100966,French,We talked about the election.,Nous avons parlé de l'élection.,,sentence
+100967,French,Do you know anything about the election?,Est-ce que tu sais quelque chose sur l'élection ?,,sentence
+100968,French,I am looking for the court.,Je cherche le tribunal.,,sentence
+100969,French,I found the court.,J'ai trouvé le tribunal.,,sentence
+100970,French,We talked about the court.,Nous avons parlé de le tribunal.,,sentence
+100971,French,Do you know anything about the court?,Est-ce que tu sais quelque chose sur le tribunal ?,,sentence
+100972,French,I am looking for the witness.,Je cherche le témoin.,,sentence
+100973,French,I found the witness.,J'ai trouvé le témoin.,,sentence
+100974,French,We talked about the witness.,Nous avons parlé de le témoin.,,sentence
+100975,French,Do you know anything about the witness?,Est-ce que tu sais quelque chose sur le témoin ?,,sentence
+100976,French,I am looking for the journalist.,Je cherche le journaliste.,,sentence
+100977,French,I found the journalist.,J'ai trouvé le journaliste.,,sentence
+100978,French,We talked about the journalist.,Nous avons parlé de le journaliste.,,sentence
+100979,French,Do you know anything about the journalist?,Est-ce que tu sais quelque chose sur le journaliste ?,,sentence
+100980,French,I am looking for the inflation.,Je cherche l'inflation.,,sentence
+100981,French,I found the inflation.,J'ai trouvé l'inflation.,,sentence
+100982,French,We talked about the inflation.,Nous avons parlé de l'inflation.,,sentence
+100983,French,Do you know anything about the inflation?,Est-ce que tu sais quelque chose sur l'inflation ?,,sentence
+100984,French,I am looking for the insurance.,Je cherche l'assurance.,,sentence
+100985,French,I found the insurance.,J'ai trouvé l'assurance.,,sentence
+100986,French,We talked about the insurance.,Nous avons parlé de l'assurance.,,sentence
+100987,French,Do you know anything about the insurance?,Est-ce que tu sais quelque chose sur l'assurance ?,,sentence
+100988,French,I am looking for the warranty.,Je cherche la garantie.,,sentence
+100989,French,I found the warranty.,J'ai trouvé la garantie.,,sentence
+100990,French,We talked about the warranty.,Nous avons parlé de la garantie.,,sentence
+100991,French,Do you know anything about the warranty?,Est-ce que tu sais quelque chose sur la garantie ?,,sentence
+100992,French,I am looking for the supplier.,Je cherche le fournisseur.,,sentence
+100993,French,I found the supplier.,J'ai trouvé le fournisseur.,,sentence
+100994,French,We talked about the supplier.,Nous avons parlé de le fournisseur.,,sentence
+100995,French,Do you know anything about the supplier?,Est-ce que tu sais quelque chose sur le fournisseur ?,,sentence
+100996,French,I am looking for the delivery.,Je cherche la livraison.,,sentence
+100997,French,I found the delivery.,J'ai trouvé la livraison.,,sentence
+100998,French,We talked about the delivery.,Nous avons parlé de la livraison.,,sentence
+100999,French,Do you know anything about the delivery?,Est-ce que tu sais quelque chose sur la livraison ?,,sentence
