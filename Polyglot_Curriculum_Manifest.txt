@@ -54,7 +54,7 @@ Dutch        3200000-3299999         3200000-3200014        15
 Thai         3300000-3399999         3300000-3300014        15
 Armenian     3400000-3499999         3400000-3400014        15
 Tamil        3500000-3599999         3500000-3500014        15
-Norwegian    3600000-3699999         3600000-3600014        15
+Norwegian    3600000-3699999         3600000-3600111        112
 Latin        3700000-3799999         3700000-3700014        15
 Vietnamese   3800000-3899999         3800000-3800014        15
 Basque       3900000-3999999         3900000-3900014        15
@@ -295,3 +295,9 @@ ROMANI — Cards/Romani.csv — 15 cards — 6800000-6800014. Vlax Romani is the
 INUKTITUT — Cards/Inuktitut.csv — 15 cards — 6900000-6900014. Eastern Canadian/Nunavut-oriented Inuktitut in Unicode syllabics with Roman InputHint.
 QUECHUA — Cards/Quechua.csv — 15 cards — 7000000-7000014. Southern Quechua is the initial reference variety.
 TELUGU — Cards/Telugu.csv — 15 cards — 7100000-7100014.
+NORWEGIAN
+Syllabus: Syllabi/Polyglot_Norwegian_Syllabus_v0.1.txt
+Cards: 112 | Used IDs: 3600000-3600111
+Frontier: NO-15 — Infinitives with å
+Checkpoint: Original 15-card micro deck preserved; 97 Bokmål seed cards introduce core pronouns, noun gender, suffixed definiteness, adjective agreement, plurals, present verbs, negation, questions and V2. The 130-unit syllabus explicitly covers Bokmål variation, Nynorsk and dialects later.
+
