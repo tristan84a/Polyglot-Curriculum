@@ -1,0 +1,453 @@
+POLYGLOT NORWEGIAN SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+This syllabus defines the canonical progression for contemporary Norwegian in Polyglot. The reference production variety is standard written Bokmål; Nynorsk and spoken dialects are treated explicitly as legitimate Norwegian varieties and later receptive/comparative strands. Norwegian has no single nationwide standard spoken pronunciation. The default seed uses ordinary broadly neutral Bokmål and familiar spoken-compatible constructions.
+
+REFERENCE AND WRITING
+
+Use standard Bokmål spelling with æ, ø and å. The seed uses feminine -a forms in a small set of very common nouns (jenta, boka, avisa, elva), while retaining en in indefinite contexts; this is grammatical Bokmål, not a claim that all Bokmål speakers choose these forms. The feminine indefinite article ei is introduced as a legitimate option in NO-04 and systematically revisited in the variation stage. Do not require one-to-one mapping between Danish and Norwegian forms. InputHint is normally blank.
+
+COURSE-WIDE CARD PRINCIPLES
+
+1. Natural English prompts and natural Bokmål Targets, with one canonical answer per card.
+2. The syllabus governs the order in which new patterns open, not the order of exhaustive completion. Previously opened branches remain available in a widening spiral.
+3. Introduce a representative contrast clearly, then broaden vocabulary through meaningful sentences. Avoid mechanical paradigms for every new lexical verb.
+4. Norwegian finite verbs do not inflect for person or number; do not invent person paradigms.
+5. Common/neuter gender, optional feminine forms, suffixed definiteness, double definiteness and adjective agreement are taught through noun phrases and sentences.
+6. V2 in main clauses, verb-first yes/no questions, and subordinate clause placement of ikke require distinct controlled examples.
+7. Pronunciation including pitch accent and dialect diversity needs dedicated treatment; do not encode invented phonetic spelling in Target.
+8. Norwegian Bokmål and Nynorsk are two written standards, not two separate languages in the curriculum's conceptual model; preserve variety labels in later comparisons.
+9. Each card stands independently after shuffling. Check unique EnglishPrompt, unique ID, monotonic IDs and UTF-8 CSV structure before writing.
+10. Expand lexical range across everyday life, culture, institutions and educated-adult domains from early stages; do not wait for the lexical stages.
+
+MICRO DECK AND SEED TRANSITION
+
+Cards 3600000–3600014 are the original 15-card micro deck and remain unchanged. Cards 3600015–3600111 are the 97-card syllabus-governed seed expansion. Early noun phrases, gender, plural/definite forms, simple clauses, questions, negation, lexical present and V2 have been introduced. These are openings, not exhaustive mastery of the units. The next active frontier is NO-15 (infinitives with å); reinforce earlier noun-phrase systems longitudinally.
+
+STAGE 1 — CORE NOUN PHRASES AND SIMPLE CLAUSES
+
+NO-01 — Core concrete vocabulary
+OBJECTIVE: Introduce core concrete vocabulary through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-02 — Personal pronouns
+OBJECTIVE: Introduce personal pronouns through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-03 — Present of være
+OBJECTIVE: Introduce present of være through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-04 — Indefinite articles en and et; feminine ei as a variant
+OBJECTIVE: Introduce indefinite articles en and et; feminine ei as a variant through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-05 — Predicative adjective agreement
+OBJECTIVE: Introduce predicative adjective agreement through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-06 — Attributive adjective agreement
+OBJECTIVE: Introduce attributive adjective agreement through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-07 — Suffixed definite singular
+OBJECTIVE: Introduce suffixed definite singular through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-08 — Negation with ikke
+OBJECTIVE: Introduce negation with ikke through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-09 — Yes/no questions
+OBJECTIVE: Introduce yes/no questions through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-10 — Plural nouns
+OBJECTIVE: Introduce plural nouns through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-11 — Plural adjective agreement
+OBJECTIVE: Introduce plural adjective agreement through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-12 — Suffixed definite plural
+OBJECTIVE: Introduce suffixed definite plural through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-13 — Demonstratives
+OBJECTIVE: Introduce demonstratives through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-14 — Early noun-phrase synthesis
+OBJECTIVE: Introduce early noun-phrase synthesis through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+STAGE 2 — VERBS AND V2
+
+NO-15 — Infinitives with å
+OBJECTIVE: Introduce infinitives with å through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-16 — Present tense: regular and irregular verbs
+OBJECTIVE: Introduce present tense: regular and irregular verbs through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-17 — High-frequency verbs and arguments
+OBJECTIVE: Introduce high-frequency verbs and arguments through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-18 — Verbal negation and polar questions
+OBJECTIVE: Introduce verbal negation and polar questions through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-19 — Question words
+OBJECTIVE: Introduce question words through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-20 — V2 with initial time and place
+OBJECTIVE: Introduce v2 with initial time and place through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-21 — Other topicalized constituents
+OBJECTIVE: Introduce other topicalized constituents through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-22 — Present-tense synthesis
+OBJECTIVE: Introduce present-tense synthesis through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+STAGE 3 — MODIFIED DEFINITES AND POSSESSION
+
+NO-23 — Double definiteness: den/det/de + adjective + suffixed noun
+OBJECTIVE: Introduce double definiteness: den/det/de + adjective + suffixed noun through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-24 — Possessives after nouns
+OBJECTIVE: Introduce possessives after nouns through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-25 — Possessives before nouns
+OBJECTIVE: Introduce possessives before nouns through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-26 — Genitive -s
+OBJECTIVE: Introduce genitive -s through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-27 — Object pronouns
+OBJECTIVE: Introduce object pronouns through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-28 — Object position and pronoun placement
+OBJECTIVE: Introduce object position and pronoun placement through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-29 — Core prepositions
+OBJECTIVE: Introduce core prepositions through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-30 — Location, direction and source
+OBJECTIVE: Introduce location, direction and source through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-31 — Stage synthesis
+OBJECTIVE: Introduce stage synthesis through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+STAGE 4 — PAST AND PERFECT
+
+NO-32 — Weak preterite -et
+OBJECTIVE: Introduce weak preterite -et through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-33 — Weak preterite -te/-de
+OBJECTIVE: Introduce weak preterite -te/-de through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-34 — Strong and irregular preterite
+OBJECTIVE: Introduce strong and irregular preterite through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-35 — Past negation and questions
+OBJECTIVE: Introduce past negation and questions through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-36 — Perfect with har
+OBJECTIVE: Introduce perfect with har through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-37 — Past participles
+OBJECTIVE: Introduce past participles through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-38 — Preterite versus perfect
+OBJECTIVE: Introduce preterite versus perfect through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-39 — Pluperfect
+OBJECTIVE: Introduce pluperfect through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-40 — Future with skal and vil
+OBJECTIVE: Introduce future with skal and vil through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-41 — Present with future reference
+OBJECTIVE: Introduce present with future reference through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-42 — Past/future synthesis
+OBJECTIVE: Introduce past/future synthesis through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+STAGE 5 — MODALS AND VERBAL COMPLEMENTS
+
+NO-43 — Modal verbs and bare infinitives
+OBJECTIVE: Introduce modal verbs and bare infinitives through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-44 — Å-infinitive complements
+OBJECTIVE: Introduce å-infinitive complements through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-45 — Infinitival negation
+OBJECTIVE: Introduce infinitival negation through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-46 — Imperative
+OBJECTIVE: Introduce imperative through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-47 — Negative imperative
+OBJECTIVE: Introduce negative imperative through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-48 — Reflexive pronouns and verbs
+OBJECTIVE: Introduce reflexive pronouns and verbs through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-49 — Modal nuance and politeness
+OBJECTIVE: Introduce modal nuance and politeness through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-50 — Verbal synthesis
+OBJECTIVE: Introduce verbal synthesis through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+STAGE 6 — SUBORDINATE CLAUSES
+
+NO-51 — At complement clauses
+OBJECTIVE: Introduce at complement clauses through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-52 — Fordi and causal clauses
+OBJECTIVE: Introduce fordi and causal clauses through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-53 — Hvis and conditional clauses
+OBJECTIVE: Introduce hvis and conditional clauses through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-54 — Når and da temporal clauses
+OBJECTIVE: Introduce når and da temporal clauses through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-55 — Subordinate clause placement of ikke
+OBJECTIVE: Introduce subordinate clause placement of ikke through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-56 — Embedded questions
+OBJECTIVE: Introduce embedded questions through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-57 — Relative som
+OBJECTIVE: Introduce relative som through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-58 — Relative der and omission patterns
+OBJECTIVE: Introduce relative der and omission patterns through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-59 — Clause synthesis
+OBJECTIVE: Introduce clause synthesis through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+STAGE 7 — ADJECTIVES AND QUANTITY
+
+NO-60 — Definite adjective forms
+OBJECTIVE: Introduce definite adjective forms through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-61 — Comparatives
+OBJECTIVE: Introduce comparatives through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-62 — Superlatives
+OBJECTIVE: Introduce superlatives through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-63 — Irregular comparison
+OBJECTIVE: Introduce irregular comparison through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-64 — Cardinal numbers in practical contexts
+OBJECTIVE: Introduce cardinal numbers in practical contexts through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-65 — Ordinals and dates
+OBJECTIVE: Introduce ordinals and dates through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-66 — Quantifiers mye/mange/lite/få
+OBJECTIVE: Introduce quantifiers mye/mange/lite/få through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-67 — Indefinite and negative pronouns
+OBJECTIVE: Introduce indefinite and negative pronouns through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-68 — Noun-phrase synthesis
+OBJECTIVE: Introduce noun-phrase synthesis through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+STAGE 8 — VOICE AND VERB PARTICLES
+
+NO-69 — -s passive
+OBJECTIVE: Introduce -s passive through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-70 — Bli passive
+OBJECTIVE: Introduce bli passive through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-71 — Passive choice and agent phrases
+OBJECTIVE: Introduce passive choice and agent phrases through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-72 — Particle verbs
+OBJECTIVE: Introduce particle verbs through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-73 — Direction and result particles
+OBJECTIVE: Introduce direction and result particles through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-74 — Present participles
+OBJECTIVE: Introduce present participles through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-75 — Past participles as adjectives
+OBJECTIVE: Introduce past participles as adjectives through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-76 — Advanced modal and tense combinations
+OBJECTIVE: Introduce advanced modal and tense combinations through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-77 — Verbal synthesis
+OBJECTIVE: Introduce verbal synthesis through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+STAGE 9 — PRONUNCIATION AND ORTHOGRAPHY
+
+NO-78 — Vowel length and consonant doubling
+OBJECTIVE: Introduce vowel length and consonant doubling through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-79 — Rounded front vowels y/ø
+OBJECTIVE: Introduce rounded front vowels y/ø through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-80 — Vowel å and diphthongs
+OBJECTIVE: Introduce vowel å and diphthongs through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-81 — Pitch accent and lexical contrasts
+OBJECTIVE: Introduce pitch accent and lexical contrasts through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-82 — Retroflex consonants
+OBJECTIVE: Introduce retroflex consonants through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-83 — Consonant clusters and silent letters
+OBJECTIVE: Introduce consonant clusters and silent letters through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-84 — Spoken reductions
+OBJECTIVE: Introduce spoken reductions through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-85 — Stress and sentence rhythm
+OBJECTIVE: Introduce stress and sentence rhythm through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-86 — Pronunciation synthesis
+OBJECTIVE: Introduce pronunciation synthesis through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+STAGE 10 — WORD FORMATION AND USAGE
+
+NO-87 — Compound nouns
+OBJECTIVE: Introduce compound nouns through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-88 — Linking elements in compounds
+OBJECTIVE: Introduce linking elements in compounds through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-89 — Productive derivational suffixes
+OBJECTIVE: Introduce productive derivational suffixes through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-90 — Verb prefixes and particle distinctions
+OBJECTIVE: Introduce verb prefixes and particle distinctions through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-91 — Common collocations
+OBJECTIVE: Introduce common collocations through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-92 — Modal and discourse particles
+OBJECTIVE: Introduce modal and discourse particles through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-93 — Conversational ellipsis
+OBJECTIVE: Introduce conversational ellipsis through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-94 — Politeness and register
+OBJECTIVE: Introduce politeness and register through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-95 — Formal written Bokmål
+OBJECTIVE: Introduce formal written bokmål through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-96 — Register synthesis
+OBJECTIVE: Introduce register synthesis through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+STAGE 11 — BROAD LEXICAL DOMAINS
+
+NO-97 — Household and everyday life
+OBJECTIVE: Introduce household and everyday life through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-98 — Food and cooking
+OBJECTIVE: Introduce food and cooking through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-99 — Clothing and possessions
+OBJECTIVE: Introduce clothing and possessions through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-100 — Family and relationships
+OBJECTIVE: Introduce family and relationships through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-101 — Body and health
+OBJECTIVE: Introduce body and health through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-102 — Work and occupations
+OBJECTIVE: Introduce work and occupations through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-103 — Education
+OBJECTIVE: Introduce education through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-104 — Travel and transportation
+OBJECTIVE: Introduce travel and transportation through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-105 — Buildings and public places
+OBJECTIVE: Introduce buildings and public places through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-106 — Nature, plants and animals
+OBJECTIVE: Introduce nature, plants and animals through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-107 — Weather and environment
+OBJECTIVE: Introduce weather and environment through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-108 — Tools and materials
+OBJECTIVE: Introduce tools and materials through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-109 — Technology and communications
+OBJECTIVE: Introduce technology and communications through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-110 — Commerce and finance
+OBJECTIVE: Introduce commerce and finance through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-111 — Government and law
+OBJECTIVE: Introduce government and law through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-112 — Science and mathematics
+OBJECTIVE: Introduce science and mathematics through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-113 — Arts and culture
+OBJECTIVE: Introduce arts and culture through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-114 — Religion and philosophy
+OBJECTIVE: Introduce religion and philosophy through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-115 — Emotions and behaviour
+OBJECTIVE: Introduce emotions and behaviour through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-116 — Abstract concepts
+OBJECTIVE: Introduce abstract concepts through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+STAGE 12 — NORWEGIAN VARIATION AND EDUCATED USAGE
+
+NO-117 — Bokmål feminine forms: ei and -a
+OBJECTIVE: Introduce bokmål feminine forms: ei and -a through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-118 — Conservative versus moderate Bokmål variants
+OBJECTIVE: Introduce conservative versus moderate bokmål variants through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-119 — Nynorsk: core contrasts and receptive reading
+OBJECTIVE: Introduce nynorsk: core contrasts and receptive reading through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-120 — Dialect diversity and spoken norms
+OBJECTIVE: Introduce dialect diversity and spoken norms through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-121 — Norwegian compared with Danish
+OBJECTIVE: Introduce norwegian compared with danish through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-122 — Norwegian compared with Swedish
+OBJECTIVE: Introduce norwegian compared with swedish through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-123 — False friends across Scandinavian languages
+OBJECTIVE: Introduce false friends across scandinavian languages through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-124 — Idioms and figurative expressions
+OBJECTIVE: Introduce idioms and figurative expressions through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-125 — Fine semantic distinctions
+OBJECTIVE: Introduce fine semantic distinctions through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-126 — Media and institutional vocabulary
+OBJECTIVE: Introduce media and institutional vocabulary through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-127 — Academic and professional vocabulary
+OBJECTIVE: Introduce academic and professional vocabulary through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-128 — Scientific and technical general vocabulary
+OBJECTIVE: Introduce scientific and technical general vocabulary through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-129 — Contemporary language change
+OBJECTIVE: Introduce contemporary language change through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+NO-130 — Long-tail educated-adult vocabulary
+OBJECTIVE: Introduce long-tail educated-adult vocabulary through controlled natural Bokmål contrasts and practical example sentences. CARD STRATEGY: Give enough representative examples for the new pattern to become recognizable; then combine it with previously introduced grammar and fresh useful vocabulary. COMPLETION STANDARD: The core contrast is established for longitudinal reuse without requiring exhaustive paradigm coverage.
+
+IMPLEMENTATION NOTES
+
+Early lexical verbs should be introduced with their infinitives and selected finite uses, not as long disconnected verb lists. Bokmål has regular weak-verb past patterns as well as strong verbs; avoid treating one weak class as universal. Introduce preposed definiteness in modified definite noun phrases separately from suffixed definiteness. Show gender variation as variation rather than correcting one accepted Bokmål form into another. The written/spoken relationship and dialects are revisited progressively; do not teach one Oslo accent as the sole correct spoken Norwegian.
+
+AMENDMENT HISTORY
+
+Version 0.1 — First Norwegian canonical syllabus after graduation of the 15-card micro deck to 112 cards. Adopts the widening spiral and establishes 130 units.
