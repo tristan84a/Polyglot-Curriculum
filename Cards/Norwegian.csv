@@ -14,3 +14,100 @@
 3600012,Norwegian,He has a car.,Han har en bil.,,sentence
 3600013,Norwegian,He has a red car.,Han har en rød bil.,,sentence
 3600014,Norwegian,I see four cars.,Jeg ser fire biler.,,sentence
+3600015,Norwegian,woman,kvinne,,noun
+3600016,Norwegian,child,barn,,noun
+3600017,Norwegian,girl,jente,,noun
+3600018,Norwegian,book,bok,,noun
+3600019,Norwegian,school,skole,,noun
+3600020,Norwegian,city,by,,noun
+3600021,Norwegian,road,vei,,noun
+3600022,Norwegian,train,tog,,noun
+3600023,Norwegian,table,bord,,noun
+3600024,Norwegian,window,vindu,,noun
+3600025,Norwegian,apple,eple,,noun
+3600026,Norwegian,coffee,kaffe,,noun
+3600027,Norwegian,bread,brød,,noun
+3600028,Norwegian,friend,venn,,noun
+3600029,Norwegian,teacher,lærer,,noun
+3600030,Norwegian,small,liten,,adjective
+3600031,Norwegian,new,ny,,adjective
+3600032,Norwegian,old,gammel,,adjective
+3600033,Norwegian,green,grønn,,adjective
+3600034,Norwegian,good,god,,adjective
+3600035,Norwegian,I,jeg,,pronoun
+3600036,Norwegian,you (singular),du,,pronoun
+3600037,Norwegian,he,han,,pronoun
+3600038,Norwegian,she,hun,,pronoun
+3600039,Norwegian,we,vi,,pronoun
+3600040,Norwegian,you (plural),dere,,pronoun
+3600041,Norwegian,they,de,,pronoun
+3600042,Norwegian,I am a teacher.,Jeg er lærer.,,sentence
+3600043,Norwegian,She is a doctor.,Hun er lege.,,sentence
+3600044,Norwegian,We are friends.,Vi er venner.,,sentence
+3600045,Norwegian,They are students.,De er studenter.,,sentence
+3600046,Norwegian,You are a teacher. (singular),Du er lærer.,,sentence
+3600047,Norwegian,It is a house.,Det er et hus.,,sentence
+3600048,Norwegian,It is a book.,Det er en bok.,,sentence
+3600049,Norwegian,I have a book.,Jeg har en bok.,,sentence
+3600050,Norwegian,She has an apple.,Hun har et eple.,,sentence
+3600051,Norwegian,We have a table.,Vi har et bord.,,sentence
+3600052,Norwegian,The child is small.,Barnet er lite.,,sentence
+3600053,Norwegian,The window is new.,Vinduet er nytt.,,sentence
+3600054,Norwegian,The girl is young.,Jenta er ung.,,sentence
+3600055,Norwegian,The book is old.,Boka er gammel.,,sentence
+3600056,Norwegian,The teacher is good.,Læreren er god.,,sentence
+3600057,Norwegian,The school is big.,Skolen er stor.,,sentence
+3600058,Norwegian,The train is new.,Toget er nytt.,,sentence
+3600059,Norwegian,The apple is green.,Eplet er grønt.,,sentence
+3600060,Norwegian,A small house.,Et lite hus.,,phrase
+3600061,Norwegian,A new book.,En ny bok.,,phrase
+3600062,Norwegian,A green apple.,Et grønt eple.,,phrase
+3600063,Norwegian,A big city.,En stor by.,,phrase
+3600064,Norwegian,The books are new.,Bøkene er nye.,,sentence
+3600065,Norwegian,The cars are red.,Bilene er røde.,,sentence
+3600066,Norwegian,The children are small.,Barna er små.,,sentence
+3600067,Norwegian,The houses are big.,Husene er store.,,sentence
+3600068,Norwegian,The girls are happy.,Jentene er glade.,,sentence
+3600069,Norwegian,I am not a doctor.,Jeg er ikke lege.,,sentence
+3600070,Norwegian,The train is not old.,Toget er ikke gammelt.,,sentence
+3600071,Norwegian,She does not have a car.,Hun har ikke bil.,,sentence
+3600072,Norwegian,We are not tired.,Vi er ikke trøtte.,,sentence
+3600073,Norwegian,Are you a teacher? (singular),Er du lærer?,,sentence
+3600074,Norwegian,Is the book new?,Er boka ny?,,sentence
+3600075,Norwegian,Is the train late?,Er toget forsinket?,,sentence
+3600076,Norwegian,Are the children at school?,Er barna på skolen?,,sentence
+3600077,Norwegian,Do you have a bicycle? (singular),Har du en sykkel?,,sentence
+3600078,Norwegian,Who is that?,Hvem er det?,,sentence
+3600079,Norwegian,What is this?,Hva er dette?,,sentence
+3600080,Norwegian,Where is the station?,Hvor er stasjonen?,,sentence
+3600081,Norwegian,Where do you live? (singular),Hvor bor du?,,sentence
+3600082,Norwegian,I live in Oslo.,Jeg bor i Oslo.,,sentence
+3600083,Norwegian,She works at the hospital.,Hun jobber på sykehuset.,,sentence
+3600084,Norwegian,We speak Norwegian.,Vi snakker norsk.,,sentence
+3600085,Norwegian,They drink coffee.,De drikker kaffe.,,sentence
+3600086,Norwegian,He eats bread.,Han spiser brød.,,sentence
+3600087,Norwegian,I read the newspaper.,Jeg leser avisa.,,sentence
+3600088,Norwegian,She writes a letter.,Hun skriver et brev.,,sentence
+3600089,Norwegian,The child sleeps.,Barnet sover.,,sentence
+3600090,Norwegian,We travel by train.,Vi reiser med tog.,,sentence
+3600091,Norwegian,He goes to school.,Han går på skolen.,,sentence
+3600092,Norwegian,Today I work at home.,I dag jobber jeg hjemme.,,sentence
+3600093,Norwegian,Tomorrow we travel to Bergen.,I morgen reiser vi til Bergen.,,sentence
+3600094,Norwegian,In the evening she reads.,Om kvelden leser hun.,,sentence
+3600095,Norwegian,Now the children are sleeping.,Nå sover barna.,,sentence
+3600096,Norwegian,I do not understand.,Jeg forstår ikke.,,sentence
+3600097,Norwegian,She does not speak English.,Hun snakker ikke engelsk.,,sentence
+3600098,Norwegian,Do you speak Norwegian? (singular),Snakker du norsk?,,sentence
+3600099,Norwegian,Do they work here?,Jobber de her?,,sentence
+3600100,Norwegian,What are you reading? (singular),Hva leser du?,,sentence
+3600101,Norwegian,When does the train leave?,Når går toget?,,sentence
+3600102,Norwegian,Why are you tired? (singular),Hvorfor er du trøtt?,,sentence
+3600103,Norwegian,How do you travel to work? (singular),Hvordan reiser du til jobb?,,sentence
+3600104,Norwegian,The woman buys vegetables.,Kvinnen kjøper grønnsaker.,,sentence
+3600105,Norwegian,The doctor helps the patient.,Legen hjelper pasienten.,,sentence
+3600106,Norwegian,The students study at the library.,Studentene studerer på biblioteket.,,sentence
+3600107,Norwegian,The shop opens at nine.,Butikken åpner klokka ni.,,sentence
+3600108,Norwegian,The museum is closed today.,Museet er stengt i dag.,,sentence
+3600109,Norwegian,The river is cold.,Elva er kald.,,sentence
+3600110,Norwegian,The mountain is high.,Fjellet er høyt.,,sentence
+3600111,Norwegian,The weather is good.,Været er bra.,,sentence
