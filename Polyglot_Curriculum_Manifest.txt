@@ -50,7 +50,7 @@ Georgian     2800000-2899999         2800000-2800099        100
 Swahili      2900000-2999999         2900000-2900099        100
 Albanian     3000000-3099999         3000000-3000014        15
 Cantonese    3100000-3199999         3100000-3100014        15
-Dutch        3200000-3299999         3200000-3200014        15
+Dutch        3200000-3299999         3200000-3200108        109
 Thai         3300000-3399999         3300000-3300014        15
 Armenian     3400000-3499999         3400000-3400014        15
 Tamil        3500000-3599999         3500000-3500014        15
@@ -255,7 +255,7 @@ ROMANIAN — Cards/Romanian.csv — 15 cards — 2500000-2500014
 DANISH — Cards/Danish.csv — 15 cards — 2600000-2600014
 ALBANIAN — Cards/Albanian.csv — 15 cards — 3000000-3000014
 CANTONESE — Cards/Cantonese.csv — 15 cards — 3100000-3100014. Spoken Hong Kong Cantonese; Traditional characters with Jyutping InputHint.
-DUTCH — Cards/Dutch.csv — 15 cards — 3200000-3200014
+DUTCH — Cards/Dutch.csv — 109 cards — 3200000-3200108. Syllabus: Syllabi/Polyglot_Dutch_Syllabus_v0.1.txt. Frontier: NL-15 — Infinitives and citation forms.
 THAI — Cards/Thai.csv — 15 cards — 3300000-3300014
 ARMENIAN — Cards/Armenian.csv — 15 cards — 3400000-3400014
 TAMIL — Cards/Tamil.csv — 15 cards — 3500000-3500014
