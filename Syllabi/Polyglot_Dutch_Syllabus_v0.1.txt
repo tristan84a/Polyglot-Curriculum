@@ -1,0 +1,470 @@
+POLYGLOT DUTCH SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE AND REFERENCE VARIETY
+
+Canonical syllabus for contemporary Standard Dutch (Nederlands). Use broadly neutral Netherlands Standard Dutch for initial productive Targets, with Belgian Standard Dutch (including Flemish usage) and regional varieties introduced as legitimate later comparisons. Use ordinary modern Dutch spelling and punctuation. InputHint is normally blank.
+
+COURSE-WIDE RULES
+
+1. Follow the Card Generation Protocol v1.0 and Charter v0.8. Syllabus units are introduction points, not sealed chapters; reinforce earlier grammar with new vocabulary in a widening spiral.
+2. Preserve one natural exact-match Target per unique EnglishPrompt. Add qualifiers only where needed to distinguish register, meaning or variant.
+3. Establish de versus het as lexical noun gender, and the attributive adjective -e rule with the neuter indefinite singular exception. Predicative adjectives do not take -e.
+4. Distinguish niet (clausal or constituent negation) from geen (negating indefinite nouns). Do not present either as a universal English 'not'.
+5. Finite Dutch verbs agree with person and number, unlike Norwegian and Danish. Present tense also has stem spelling adjustments; establish meaningful contrasts before reducing paradigm density.
+6. Main-clause V2, yes/no inversion, subordinate verb-final clauses and separable verb placement are separate core systems and must receive controlled examples.
+7. Introduce strong and weak past forms, hebben/zijn perfect selection, and the placement of past participles and infinitives cumulatively.
+8. Standard Netherlands Dutch is the production baseline, not a claim that Belgian Dutch or other accents are incorrect.
+9. Broaden vocabulary aggressively in example phrases and sentences while maintaining recognizable grammatical patterns.
+10. Audit all IDs, EnglishPrompt uniqueness, spelling, Target naturalness and UTF-8 CSV formatting before committing.
+
+MICRO DECK AND SEED
+
+The original 15 micro cards 3200000–3200014 are preserved. The 94 added cards 3200015–3200108 open pronouns, zijn, de/het, adjective -e, plurals, negation, questions, present verbs and initial V2, with useful new vocabulary. The next active frontier is NL-15 (infinitives and citation forms); micro cards preview later grammar without marking it established.
+
+STAGE 1 — NOMINAL FOUNDATIONS
+
+NL-01 — Concrete vocabulary and useful lexical contrasts
+OBJECTIVE: Establish concrete vocabulary and useful lexical contrasts with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-02 — Personal pronouns and stressed versus reduced forms
+OBJECTIVE: Establish personal pronouns and stressed versus reduced forms with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-03 — Present of zijn
+OBJECTIVE: Establish present of zijn with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-04 — Indefinite article een and de/het noun gender
+OBJECTIVE: Establish indefinite article een and de/het noun gender with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-05 — Predicative adjectives
+OBJECTIVE: Establish predicative adjectives with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-06 — Attributive adjective -e: common gender and neuter indefinite exception
+OBJECTIVE: Establish attributive adjective -e: common gender and neuter indefinite exception with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-07 — Definite singular articles de and het
+OBJECTIVE: Establish definite singular articles de and het with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-08 — Negation niet versus geen
+OBJECTIVE: Establish negation niet versus geen with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-09 — Polar questions and subject–verb inversion
+OBJECTIVE: Establish polar questions and subject–verb inversion with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-10 — Plural nouns: -en and -s
+OBJECTIVE: Establish plural nouns: -en and -s with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-11 — Plural adjective patterns and predicates
+OBJECTIVE: Establish plural adjective patterns and predicates with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-12 — Definite plural de
+OBJECTIVE: Establish definite plural de with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-13 — Demonstratives dit/deze and dat/die
+OBJECTIVE: Establish demonstratives dit/deze and dat/die with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-14 — Core noun-phrase synthesis
+OBJECTIVE: Establish core noun-phrase synthesis with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+STAGE 2 — VERBS AND MAIN CLAUSES
+
+NL-15 — Infinitives and citation forms
+OBJECTIVE: Establish infinitives and citation forms with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-16 — Regular present tense: singular and plural
+OBJECTIVE: Establish regular present tense: singular and plural with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-17 — Present stem spelling and final devoicing
+OBJECTIVE: Establish present stem spelling and final devoicing with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-18 — Common irregular present verbs
+OBJECTIVE: Establish common irregular present verbs with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-19 — Present negation and yes/no questions
+OBJECTIVE: Establish present negation and yes/no questions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-20 — Question words
+OBJECTIVE: Establish question words with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-21 — Main-clause V2 after fronted time and place
+OBJECTIVE: Establish main-clause v2 after fronted time and place with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-22 — Other fronted constituents and inversion
+OBJECTIVE: Establish other fronted constituents and inversion with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-23 — Present-tense synthesis
+OBJECTIVE: Establish present-tense synthesis with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+STAGE 3 — OBJECTS AND POSSESSION
+
+NL-24 — Object pronouns
+OBJECTIVE: Establish object pronouns with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-25 — Possessive determiners
+OBJECTIVE: Establish possessive determiners with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-26 — Possession with van
+OBJECTIVE: Establish possession with van with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-27 — Possessive -s and named possessors
+OBJECTIVE: Establish possessive -s and named possessors with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-28 — Direct and indirect objects
+OBJECTIVE: Establish direct and indirect objects with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-29 — Object placement and adverb position
+OBJECTIVE: Establish object placement and adverb position with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-30 — Core prepositions
+OBJECTIVE: Establish core prepositions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-31 — Location and direction
+OBJECTIVE: Establish location and direction with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-32 — Stage synthesis
+OBJECTIVE: Establish stage synthesis with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+STAGE 4 — PAST AND PERFECT
+
+NL-33 — Weak past tense -de/-te and 't kofschip
+OBJECTIVE: Establish weak past tense -de/-te and 't kofschip with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-34 — Strong past tense and ablaut
+OBJECTIVE: Establish strong past tense and ablaut with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-35 — Irregular past of zijn and hebben
+OBJECTIVE: Establish irregular past of zijn and hebben with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-36 — Past negation and questions
+OBJECTIVE: Establish past negation and questions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-37 — Perfect with hebben
+OBJECTIVE: Establish perfect with hebben with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-38 — Perfect with zijn
+OBJECTIVE: Establish perfect with zijn with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-39 — Past participles ge- and irregulars
+OBJECTIVE: Establish past participles ge- and irregulars with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-40 — Separable verbs in the perfect
+OBJECTIVE: Establish separable verbs in the perfect with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-41 — Past versus perfect in Dutch usage
+OBJECTIVE: Establish past versus perfect in dutch usage with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-42 — Pluperfect
+OBJECTIVE: Establish pluperfect with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-43 — Future with zullen and gaan
+OBJECTIVE: Establish future with zullen and gaan with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-44 — Present with future reference
+OBJECTIVE: Establish present with future reference with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-45 — Tense synthesis
+OBJECTIVE: Establish tense synthesis with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+STAGE 5 — MODALS AND VERBAL COMPLEMENTS
+
+NL-46 — Modal verbs and bare infinitives
+OBJECTIVE: Establish modal verbs and bare infinitives with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-47 — Infinitives with te
+OBJECTIVE: Establish infinitives with te with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-48 — Infinitival negation
+OBJECTIVE: Establish infinitival negation with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-49 — Imperatives
+OBJECTIVE: Establish imperatives with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-50 — Polite requests
+OBJECTIVE: Establish polite requests with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-51 — Reflexive pronouns and verbs
+OBJECTIVE: Establish reflexive pronouns and verbs with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-52 — Verb clusters and end position
+OBJECTIVE: Establish verb clusters and end position with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-53 — Modal meaning and register
+OBJECTIVE: Establish modal meaning and register with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-54 — Stage synthesis
+OBJECTIVE: Establish stage synthesis with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+STAGE 6 — SUBORDINATION
+
+NL-55 — Dat complement clauses
+OBJECTIVE: Establish dat complement clauses with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-56 — Omdat and causal clauses
+OBJECTIVE: Establish omdat and causal clauses with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-57 — Als conditional clauses
+OBJECTIVE: Establish als conditional clauses with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-58 — Wanneer and toen temporal clauses
+OBJECTIVE: Establish wanneer and toen temporal clauses with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-59 — Subordinate verb-final order
+OBJECTIVE: Establish subordinate verb-final order with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-60 — Niet/geen in subordinate clauses
+OBJECTIVE: Establish niet/geen in subordinate clauses with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-61 — Embedded questions
+OBJECTIVE: Establish embedded questions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-62 — Relative die and dat
+OBJECTIVE: Establish relative die and dat with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-63 — Relative pronouns with prepositions
+OBJECTIVE: Establish relative pronouns with prepositions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-64 — Clause synthesis
+OBJECTIVE: Establish clause synthesis with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+STAGE 7 — ADJECTIVES AND QUANTITY
+
+NL-65 — Definite attributive adjectives
+OBJECTIVE: Establish definite attributive adjectives with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-66 — Comparatives
+OBJECTIVE: Establish comparatives with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-67 — Superlatives
+OBJECTIVE: Establish superlatives with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-68 — Irregular comparison
+OBJECTIVE: Establish irregular comparison with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-69 — Numerals in practical contexts
+OBJECTIVE: Establish numerals in practical contexts with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-70 — Ordinals and dates
+OBJECTIVE: Establish ordinals and dates with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-71 — Veel/weinig and other quantifiers
+OBJECTIVE: Establish veel/weinig and other quantifiers with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-72 — Indefinite and negative pronouns
+OBJECTIVE: Establish indefinite and negative pronouns with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-73 — Er as existential subject
+OBJECTIVE: Establish er as existential subject with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-74 — Er with quantity and prepositions
+OBJECTIVE: Establish er with quantity and prepositions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-75 — Noun-phrase synthesis
+OBJECTIVE: Establish noun-phrase synthesis with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+STAGE 8 — ADVANCED VERBAL STRUCTURE
+
+NL-76 — Separable prefixes in main clauses
+OBJECTIVE: Establish separable prefixes in main clauses with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-77 — Inseparable prefixes
+OBJECTIVE: Establish inseparable prefixes with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-78 — Separable versus inseparable meaning
+OBJECTIVE: Establish separable versus inseparable meaning with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-79 — Passive with worden
+OBJECTIVE: Establish passive with worden with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-80 — Passive with zijn
+OBJECTIVE: Establish passive with zijn with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-81 — Passive in different tenses
+OBJECTIVE: Establish passive in different tenses with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-82 — Ongoing actions with aan het
+OBJECTIVE: Establish ongoing actions with aan het with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-83 — Durative and posture verb constructions
+OBJECTIVE: Establish durative and posture verb constructions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-84 — Advanced verb clusters
+OBJECTIVE: Establish advanced verb clusters with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-85 — Infinitive-perfect and double infinitive
+OBJECTIVE: Establish infinitive-perfect and double infinitive with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-86 — Verbal synthesis
+OBJECTIVE: Establish verbal synthesis with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+STAGE 9 — PRONUNCIATION AND SPELLING
+
+NL-87 — Long versus short vowels and spelling
+OBJECTIVE: Establish long versus short vowels and spelling with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-88 — Diphthongs ij/ei and ui
+OBJECTIVE: Establish diphthongs ij/ei and ui with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-89 — Dutch g/ch and regional realization
+OBJECTIVE: Establish dutch g/ch and regional realization with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-90 — Final devoicing and consonant alternations
+OBJECTIVE: Establish final devoicing and consonant alternations with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-91 — Schwa and unstressed syllables
+OBJECTIVE: Establish schwa and unstressed syllables with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-92 — Word stress
+OBJECTIVE: Establish word stress with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-93 — Connected speech and reductions
+OBJECTIVE: Establish connected speech and reductions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-94 — Spelling changes in inflection
+OBJECTIVE: Establish spelling changes in inflection with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-95 — Pronunciation synthesis
+OBJECTIVE: Establish pronunciation synthesis with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+STAGE 10 — USAGE AND WORD FORMATION
+
+NL-96 — Compound nouns and linking elements
+OBJECTIVE: Establish compound nouns and linking elements with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-97 — Productive prefixes and suffixes
+OBJECTIVE: Establish productive prefixes and suffixes with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-98 — Common collocations
+OBJECTIVE: Establish common collocations with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-99 — Modal particles: maar, toch, eens
+OBJECTIVE: Establish modal particles: maar, toch, eens with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-100 — Word order of time, manner and place
+OBJECTIVE: Establish word order of time, manner and place with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-101 — Topic and information structure
+OBJECTIVE: Establish topic and information structure with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-102 — Conversational ellipsis
+OBJECTIVE: Establish conversational ellipsis with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-103 — Politeness and address: je/jij versus u
+OBJECTIVE: Establish politeness and address: je/jij versus u with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-104 — Written formal style
+OBJECTIVE: Establish written formal style with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-105 — Register synthesis
+OBJECTIVE: Establish register synthesis with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+STAGE 11 — BROAD VOCABULARY
+
+NL-106 — Home and daily routines
+OBJECTIVE: Establish home and daily routines with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-107 — Food and cooking
+OBJECTIVE: Establish food and cooking with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-108 — Clothing and possessions
+OBJECTIVE: Establish clothing and possessions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-109 — Family and relationships
+OBJECTIVE: Establish family and relationships with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-110 — Body and health
+OBJECTIVE: Establish body and health with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-111 — Work and professions
+OBJECTIVE: Establish work and professions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-112 — Education
+OBJECTIVE: Establish education with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-113 — Travel and transportation
+OBJECTIVE: Establish travel and transportation with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-114 — Buildings and public spaces
+OBJECTIVE: Establish buildings and public spaces with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-115 — Nature and animals
+OBJECTIVE: Establish nature and animals with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-116 — Weather and environment
+OBJECTIVE: Establish weather and environment with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-117 — Tools and materials
+OBJECTIVE: Establish tools and materials with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-118 — Technology and communication
+OBJECTIVE: Establish technology and communication with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-119 — Commerce and finance
+OBJECTIVE: Establish commerce and finance with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-120 — Government and law
+OBJECTIVE: Establish government and law with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-121 — Science and mathematics
+OBJECTIVE: Establish science and mathematics with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-122 — Arts and literature
+OBJECTIVE: Establish arts and literature with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-123 — Religion and philosophy
+OBJECTIVE: Establish religion and philosophy with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-124 — Emotions and behaviour
+OBJECTIVE: Establish emotions and behaviour with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-125 — Abstract concepts
+OBJECTIVE: Establish abstract concepts with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+STAGE 12 — VARIETIES AND ADVANCED USAGE
+
+NL-126 — Netherlands versus Belgian standard Dutch
+OBJECTIVE: Establish netherlands versus belgian standard dutch with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-127 — Flemish usage and receptive distinctions
+OBJECTIVE: Establish flemish usage and receptive distinctions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-128 — Regional and dialectal variation
+OBJECTIVE: Establish regional and dialectal variation with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-129 — Common false friends with German
+OBJECTIVE: Establish common false friends with german with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-130 — Dutch compared with Afrikaans
+OBJECTIVE: Establish dutch compared with afrikaans with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-131 — Idioms and figurative language
+OBJECTIVE: Establish idioms and figurative language with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-132 — Fine semantic distinctions
+OBJECTIVE: Establish fine semantic distinctions with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-133 — Institutional and media Dutch
+OBJECTIVE: Establish institutional and media dutch with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-134 — Academic and professional Dutch
+OBJECTIVE: Establish academic and professional dutch with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-135 — Technical and scientific Dutch
+OBJECTIVE: Establish technical and scientific dutch with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-136 — Authentic-text backward validation
+OBJECTIVE: Establish authentic-text backward validation with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+NL-137 — Long-tail educated-adult vocabulary
+OBJECTIVE: Establish long-tail educated-adult vocabulary with a small, intelligible set of contrasting natural Dutch examples. DEVELOPMENT: Introduce the productive rule and representative exceptions only when necessary; then reinforce it with new everyday and educated-adult vocabulary in subsequent units. Treat the unit as an opening for longitudinal reuse, not exhaustive coverage.
+
+DUTCH-SPECIFIC IMPLEMENTATION NOTES
+
+De/het and adjective endings: de groene auto, het groene huis, een groene auto, een groen huis. Predicates: de auto is groen, het huis is groen. Negation: ik ben geen arts versus de trein is niet nieuw. V2: vandaag werk ik thuis. Present verbs: ik werk, jij werkt, hij werkt, wij werken; in yes/no questions with jij, the -t is normally absent (werk jij?). Use examples before abstract rule memorization.
+
+In later stages, contrast finite main-clause placement with the verb-final subordinate clause, e.g. ik weet dat hij morgen komt. Teach separable verbs through meaningful clauses rather than treating a prefix as a freely detachable preposition. Use Dutch orthographic conventions including apostrophe plurals such as auto's and open/closed syllable changes such as stad/steden and huis/huizen. Treat lexical expansion as concurrent with grammar from the outset.
+
+Version 0.1 — Initial canonical syllabus with 137 units; graduates the 15-card micro deck to 109 cards.
