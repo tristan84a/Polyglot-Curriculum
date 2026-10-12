@@ -1,0 +1,305 @@
+POLYGLOT LITHUANIAN SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE AND REFERENCE VARIETY
+
+Canonical introduction map for contemporary Standard Lithuanian (bendrinė lietuvių kalba), in ordinary Lithuanian orthography. The initial production standard is broadly neutral modern Lithuanian. Regional dialects and historical variation may enter later as comparisons. Lithuanian letters and diacritics (ą, č, ę, ė, į, š, ų, ū, ž) are required in Targets. InputHint normally remains blank.
+
+COURSE-WIDE RULES
+
+1. Follow the Card Generation Protocol v1.0 and Charter. Syllabus units open branches; they are not closed chapters or fixed-size blocks.
+2. Introduce noun and adjective declension as productive form-and-function contrasts, not as hundreds of isolated case tables.
+3. Lithuanian has seven traditional nominal cases: nominative, genitive, dative, accusative, instrumental, locative and vocative. Some historical or dialectal locative variants belong to later comparison, not the first productive paradigm.
+4. Nouns have masculine or feminine grammatical gender. Adjectives agree in gender, number and case; definite/pronominal adjectives receive separate treatment.
+5. Establish the most common present tense classes with meaningful person/number contrasts, then widen lexical verbs through natural sentences.
+6. Distinguish simple past, habitual past and future, and do not mechanically transfer English progressive/perfect categories into Lithuanian.
+7. Pay special attention to genitive under negation and with quantity, absence, prepositions and verbal government.
+8. Allow omitted subject pronouns where natural. Keep English prompts idiomatic and distinguish register only when needed for exact-match Targets.
+9. Build a widening spiral: reuse known morphology in varied contexts while adding new vocabulary at a fairly aggressive but intelligible rate.
+10. Avoid repeated mechanical sentence frames and duplicate English prompts. Check grammar, diacritics, UTF-8 and ID uniqueness before commits.
+
+MICRO DECK AND INITIAL SEED
+
+The existing 15 micro cards (4500000–4500014) are preserved. Added cards 4500015–4500127 develop pronouns, būti, gender, adjective agreement, direct-object accusative, possession, questions, negation, locative, motion and previews of genitive, dative, instrumental and tense. Later previews do not mean their units have been fully established.
+
+CURRENT FORWARD FRONTIER
+
+LT-18 — Genitive under negation and absence. Earlier cases and verb patterns remain active for longitudinal reinforcement. Continue by reinforcing the genitive/accusative contrast with natural new lexical material before widening prepositional government.
+
+TERMINOLOGY
+
+INTRODUCED: First shown in the canonical sequence.
+ESTABLISHED: Demonstrated sufficiently for later reuse, not a claim about learner mastery.
+REUSABLE: May appear in later cards even when not the main novelty.
+COMPLETION STANDARD: Enough meaningful contrasts for a productive pattern to be recognizable; never a fixed card quota.
+DELIBERATELY EXCLUDED: Material postponed because its dependencies or complexity would obscure the current contrast.
+
+CANONICAL INTRODUCTION MAP
+
+LT-01 — Concrete vocabulary and lexical anchors
+OBJECTIVE: Basic nouns of both genders and concrete adjectives; natural nominal forms.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-02 — Personal pronouns and optional subjects
+OBJECTIVE: aš, tu, jis, ji, mes, jūs, jie, jos; Lithuanian can omit subject pronouns.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-03 — Present of būti and nominal predicates
+OBJECTIVE: esu, esi, yra, esame, esate, yra; professional and identity predicates.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-04 — Noun gender and nominative endings
+OBJECTIVE: Masculine -as/-is/-us and feminine -a/-ė/-is; lexical exceptions later.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-05 — Predicative adjective agreement
+OBJECTIVE: Masculine and feminine singular, with visible gender contrasts.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-06 — Attributive adjective agreement
+OBJECTIVE: Adjectives preceding nouns; nominative gender and number contrasts.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-07 — Accusative singular: direct objects
+OBJECTIVE: Common -as→-ą, -a→-ą, -ė→-ę, -is→-į and other classes.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-08 — Present of turėti and possession
+OBJECTIVE: Personal present forms; direct-object accusative.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-09 — Present of matyti and regular verb patterns
+OBJECTIVE: Representative -yti, -ti and -ėti patterns; controlled paradigms.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-10 — Plural nominative nouns and adjectives
+OBJECTIVE: Masculine and feminine plural; lexical variation.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-11 — Accusative plural and quantities
+OBJECTIVE: Direct objects and cardinal number agreement; animate/inanimate.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-12 — Present of skaityti, gerti and valgyti
+OBJECTIVE: Everyday verbs with selected person/number contrasts.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-13 — Questions with ar and question words
+OBJECTIVE: Yes/no and kas, ką, kur, kodėl, kada; natural word order.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-14 — Negation with ne-
+OBJECTIVE: Verb negation and predicate negation; distinguish negated-object genitive.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-15 — Locative singular
+OBJECTIVE: -e, -je and lexical noun-class differences; location.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-16 — Present of gyventi, dirbti and eiti
+OBJECTIVE: Residence, work and motion in context.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-17 — Genitive singular
+OBJECTIVE: Possession, origin and governed objects; major declension classes.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-18 — Genitive under negation and absence
+OBJECTIVE: Neturiu, nėra, nereikia and semantic contrast with accusative.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-19 — Prepositions and governed cases
+OBJECTIVE: į + accusative, iš + genitive, ant + genitive, po + instrumental/other uses.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-20 — Dative singular
+OBJECTIVE: Recipients, beneficiaries, age and impersonal necessity.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-21 — Instrumental singular
+OBJECTIVE: Means, accompaniment with su, professions and noun-class endings.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-22 — Vocabulary widening: home, food and shopping
+OBJECTIVE: New words through already introduced grammar.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-23 — Vocabulary widening: travel, city and transport
+OBJECTIVE: Tickets, stations, routes, direction and time.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-24 — Vocative and address
+OBJECTIVE: Names, common nouns, politeness and lexical irregularity.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-25 — Cardinal numbers and noun government
+OBJECTIVE: One through twenty, higher numerals and governed forms.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-26 — Possessive pronouns and reflexive savo
+OBJECTIVE: mano, tavo, jo, jos, mūsų, jūsų, jų; subject-coreferential savo.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-27 — Demonstratives and interrogative determiners
+OBJECTIVE: šis, tas, kuris, koks with gender, number and case.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-28 — Adjective declension: singular cases
+OBJECTIVE: Productive adjective–noun agreement across cases.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-29 — Adjective declension: plural cases
+OBJECTIVE: Productive plural agreement and irregular stems.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-30 — Present verb conjugation classes
+OBJECTIVE: -a, -i and -o presents; first representative full paradigms.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-31 — Reflexive verbs and -si-
+OBJECTIVE: Natural verbs such as mokytis, klausytis and reng(t)is.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-32 — Prepositions, spatial adverbs and motion
+OBJECTIVE: Near, between, across, into, out of; contrast destination/location.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-33 — Past simple: regular patterns
+OBJECTIVE: Lithuanian būtojo kartinio forms; past stems and person endings.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-34 — Past simple: common irregulars
+OBJECTIVE: High-frequency suppletive and stem-changing verbs.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-35 — Past habitual
+OBJECTIVE: Būtojo dažninio -dav- forms; repeated past versus single events.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-36 — Future: regular forms
+OBJECTIVE: Būsimasis laikas -s- patterns and person endings.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-37 — Future: phonological alternations
+OBJECTIVE: Future stems, consonant changes and common irregular forms.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-38 — Imperatives
+OBJECTIVE: Second-person and plural commands; negative imperatives.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-39 — Conditional mood
+OBJECTIVE: Tariamoji nuosaka for wishes, polite requests and hypotheticals.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-40 — Infinitives and modal constructions
+OBJECTIVE: galėti, norėti, turėti, reikėti and complement structure.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-41 — Comparative and superlative adjectives
+OBJECTIVE: -esnis and -iausias; natural comparisons.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-42 — Definite/pronominal adjectives
+OBJECTIVE: Long forms -asis, -oji etc.; definite, contrastive and conventional usage.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-43 — Participles: present active
+OBJECTIVE: Agreement and attributive usage; relative-clause alternatives.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-44 — Participles: past active
+OBJECTIVE: Event sequencing and agent reference.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-45 — Participles: passive and necessity
+OBJECTIVE: Present and past passive participles and impersonal uses.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-46 — Compound tenses and resultative states
+OBJECTIVE: Auxiliary būti with participles; aspectual meaning.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-47 — Passive constructions
+OBJECTIVE: Agents, patient focus and register.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-48 — Relative clauses
+OBJECTIVE: kuris and subordinate clauses with case agreement.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-49 — Coordination and common conjunctions
+OBJECTIVE: ir, bet, arba, nes, todėl and clause sequencing.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-50 — Subordination and reported statements
+OBJECTIVE: kad, jog, kai, kol, jeigu, nors; tense and clause order.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-51 — Time, dates and schedules
+OBJECTIVE: Days, months, clock time, duration and deadlines.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-52 — Motion prefixes and aspectual nuances
+OBJECTIVE: at-, iš-, į-, nu-, pa-, per- and lexicalized meaning.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-53 — Verb prefix systems and lexical aspect
+OBJECTIVE: Perfective-like event construal without importing Slavic aspect categories.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-54 — Numeral syntax beyond twenty
+OBJECTIVE: Collective numerals, genitive plural and quantity expressions.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-55 — Pronoun declension and clitics
+OBJECTIVE: Personal, reflexive, demonstrative and relative paradigms.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-56 — Indefinite and negative pronouns
+OBJECTIVE: kažkas, niekas, kas nors and genitive negation.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-57 — Word order, topic and focus
+OBJECTIVE: Neutral SVO, scrambling, emphasis and information structure.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-58 — Verbal government and valency
+OBJECTIVE: Lexically governed genitive, dative, instrumental and prepositions.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-59 — Adverbs, particles and discourse
+OBJECTIVE: tik, jau, dar, net, gal, turbūt and pragmatic placement.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-60 — Idioms, collocations and everyday register
+OBJECTIVE: Natural conversation, institutional language and figurative expressions.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-61 — Scientific, professional and civic vocabulary
+OBJECTIVE: Broad educated-adult production with earlier grammar recycled.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-62 — Complex participial and adverbial constructions
+OBJECTIVE: Pusdalyvis, padalyvis and advanced non-finite syntax.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-63 — Advanced clause linkage and evidentiality
+OBJECTIVE: Reported information, indirect mood and register-sensitive constructions.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-64 — Style, variation and standard usage
+OBJECTIVE: Formal/informal address, regional variation and normative choices.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+LT-65 — Longitudinal authentic-language validation
+OBJECTIVE: Test the deck against speech, writing and varied educated-adult contexts.
+DEVELOPMENT: Introduce a small controlled contrast and productive generalization where applicable, then use varied natural phrases and sentences with growing vocabulary. Retain this branch for subsequent longitudinal reinforcement. Do not pad the unit with mechanical substitutions.
+
+VALIDATION AND CONTINUATION
+
+Each future batch should read the current CSV and Manifest, check the next syllabus introduction point, and deliberately combine newly opened grammar with established constructions and new vocabulary. Preserve existing IDs and the single-target exact-match convention. Update the Manifest frontier only when warranted by actual card coverage. Advanced structures and lexical breadth remain open-ended.
