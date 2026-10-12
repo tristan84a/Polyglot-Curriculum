@@ -14,3 +14,116 @@
 4500012,Lithuanian,He has a car.,Jis turi automobilį.,,sentence
 4500013,Lithuanian,He has a red car.,Jis turi raudoną automobilį.,,sentence
 4500014,Lithuanian,I see four cars.,Matau keturis automobilius.,,sentence
+4500015,Lithuanian,woman,moteris,,noun
+4500016,Lithuanian,child,vaikas,,noun
+4500017,Lithuanian,girl,mergaitė,,noun
+4500018,Lithuanian,book,knyga,,noun
+4500019,Lithuanian,school,mokykla,,noun
+4500020,Lithuanian,city,miestas,,noun
+4500021,Lithuanian,train,traukinys,,noun
+4500022,Lithuanian,table,stalas,,noun
+4500023,Lithuanian,window,langas,,noun
+4500024,Lithuanian,apple,obuolys,,noun
+4500025,Lithuanian,bread,duona,,noun
+4500026,Lithuanian,coffee,kava,,noun
+4500027,Lithuanian,teacher,mokytojas,,noun
+4500028,Lithuanian,student,studentas,,noun
+4500029,Lithuanian,friend,draugas,,noun
+4500030,Lithuanian,small,mažas,,adjective
+4500031,Lithuanian,new,naujas,,adjective
+4500032,Lithuanian,old,senas,,adjective
+4500033,Lithuanian,green,žalias,,adjective
+4500034,Lithuanian,good,geras,,adjective
+4500035,Lithuanian,I,aš,,pronoun
+4500036,Lithuanian,you (informal singular),tu,,pronoun
+4500037,Lithuanian,he,jis,,pronoun
+4500038,Lithuanian,she,ji,,pronoun
+4500039,Lithuanian,we,mes,,pronoun
+4500040,Lithuanian,you (plural),jūs,,pronoun
+4500041,Lithuanian,they (masculine or mixed group),jie,,pronoun
+4500042,Lithuanian,they (feminine group),jos,,pronoun
+4500043,Lithuanian,This is a book.,Tai knyga.,,sentence
+4500044,Lithuanian,This is a school.,Tai mokykla.,,sentence
+4500045,Lithuanian,This is a city.,Tai miestas.,,sentence
+4500046,Lithuanian,I am a student.,Aš esu studentas.,,sentence
+4500047,Lithuanian,You are a teacher. (informal singular),Tu esi mokytojas.,,sentence
+4500048,Lithuanian,She is a doctor.,Ji yra gydytoja.,,sentence
+4500049,Lithuanian,We are friends.,Mes esame draugai.,,sentence
+4500050,Lithuanian,You are students. (plural),Jūs esate studentai.,,sentence
+4500051,Lithuanian,They are teachers. (masculine or mixed group),Jie yra mokytojai.,,sentence
+4500052,Lithuanian,The child is small.,Vaikas yra mažas.,,sentence
+4500053,Lithuanian,The window is new.,Langas yra naujas.,,sentence
+4500054,Lithuanian,The school is big.,Mokykla yra didelė.,,sentence
+4500055,Lithuanian,The apple is green.,Obuolys yra žalias.,,sentence
+4500056,Lithuanian,The book is old.,Knyga yra sena.,,sentence
+4500057,Lithuanian,The coffee is good.,Kava yra gera.,,sentence
+4500058,Lithuanian,The girl is small.,Mergaitė yra maža.,,sentence
+4500059,Lithuanian,The table is new.,Stalas yra naujas.,,sentence
+4500060,Lithuanian,The woman is a teacher.,Moteris yra mokytoja.,,sentence
+4500061,Lithuanian,a new book,nauja knyga,,phrase
+4500062,Lithuanian,a small city,mažas miestas,,phrase
+4500063,Lithuanian,a green apple,žalias obuolys,,phrase
+4500064,Lithuanian,a big school,didelė mokykla,,phrase
+4500065,Lithuanian,an old house,senas namas,,phrase
+4500066,Lithuanian,I have a book.,Aš turiu knygą.,,sentence
+4500067,Lithuanian,She has an apple.,Ji turi obuolį.,,sentence
+4500068,Lithuanian,We have a car.,Mes turime automobilį.,,sentence
+4500069,Lithuanian,They have a house.,Jie turi namą.,,sentence
+4500070,Lithuanian,Do you have a ticket? (informal singular),Ar tu turi bilietą?,,sentence
+4500071,Lithuanian,I see the girl.,Matau mergaitę.,,sentence
+4500072,Lithuanian,I see the train.,Matau traukinį.,,sentence
+4500073,Lithuanian,She sees the doctor.,Ji mato gydytoją.,,sentence
+4500074,Lithuanian,We see the city.,Mes matome miestą.,,sentence
+4500075,Lithuanian,The child sees an apple.,Vaikas mato obuolį.,,sentence
+4500076,Lithuanian,I read a book.,Skaitau knygą.,,sentence
+4500077,Lithuanian,She reads a newspaper.,Ji skaito laikraštį.,,sentence
+4500078,Lithuanian,We read a letter.,Skaitome laišką.,,sentence
+4500079,Lithuanian,He drinks water.,Jis geria vandenį.,,sentence
+4500080,Lithuanian,I drink coffee.,Geriu kavą.,,sentence
+4500081,Lithuanian,The girl eats bread.,Mergaitė valgo duoną.,,sentence
+4500082,Lithuanian,We eat apples.,Valgome obuolius.,,sentence
+4500083,Lithuanian,I live in Vilnius.,Gyvenu Vilniuje.,,sentence
+4500084,Lithuanian,She lives in a village.,Ji gyvena kaime.,,sentence
+4500085,Lithuanian,We live in Lithuania.,Gyvename Lietuvoje.,,sentence
+4500086,Lithuanian,He works in a hospital.,Jis dirba ligoninėje.,,sentence
+4500087,Lithuanian,I study at university.,Studijuoju universitete.,,sentence
+4500088,Lithuanian,The children are at school.,Vaikai yra mokykloje.,,sentence
+4500089,Lithuanian,The book is on the table.,Knyga yra ant stalo.,,sentence
+4500090,Lithuanian,The cat is under the table.,Katė yra po stalu.,,sentence
+4500091,Lithuanian,I am going to the station.,Einu į stotį.,,sentence
+4500092,Lithuanian,She is going to the library.,Ji eina į biblioteką.,,sentence
+4500093,Lithuanian,We are going to the market.,Einame į turgų.,,sentence
+4500094,Lithuanian,I come from Lithuania.,Esu iš Lietuvos.,,sentence
+4500095,Lithuanian,He comes from the city.,Jis atvyksta iš miesto.,,sentence
+4500096,Lithuanian,I don't have a car.,Neturiu automobilio.,,sentence
+4500097,Lithuanian,She doesn't have a ticket.,Ji neturi bilieto.,,sentence
+4500098,Lithuanian,We don't have time.,Neturime laiko.,,sentence
+4500099,Lithuanian,There is no water.,Nėra vandens.,,sentence
+4500100,Lithuanian,This is not my book.,Tai ne mano knyga.,,sentence
+4500101,Lithuanian,Is this your bag? (informal singular),Ar tai tavo krepšys?,,sentence
+4500102,Lithuanian,Where is the station?,Kur yra stotis?,,sentence
+4500103,Lithuanian,Where do you live? (informal singular),Kur tu gyveni?,,sentence
+4500104,Lithuanian,What are you reading? (informal singular),Ką tu skaitai?,,sentence
+4500105,Lithuanian,Who is that woman?,Kas ta moteris?,,sentence
+4500106,Lithuanian,Why are you waiting? (informal singular),Kodėl tu lauki?,,sentence
+4500107,Lithuanian,The train is late.,Traukinys vėluoja.,,sentence
+4500108,Lithuanian,The weather is cold.,Oras yra šaltas.,,sentence
+4500109,Lithuanian,The street is quiet.,Gatvė yra rami.,,sentence
+4500110,Lithuanian,The river is wide.,Upė yra plati.,,sentence
+4500111,Lithuanian,The museum is open.,Muziejus yra atidarytas.,,sentence
+4500112,Lithuanian,I am writing a letter.,Rašau laišką.,,sentence
+4500113,Lithuanian,She is listening to music.,Ji klausosi muzikos.,,sentence
+4500114,Lithuanian,We are waiting for the bus.,Laukiame autobuso.,,sentence
+4500115,Lithuanian,The teacher speaks Lithuanian.,Mokytojas kalba lietuviškai.,,sentence
+4500116,Lithuanian,I understand the question.,Suprantu klausimą.,,sentence
+4500117,Lithuanian,We need a map.,Mums reikia žemėlapio.,,sentence
+4500118,Lithuanian,The doctor is helping the child.,Gydytojas padeda vaikui.,,sentence
+4500119,Lithuanian,I give the book to my friend.,Duodu knygą draugui.,,sentence
+4500120,Lithuanian,She writes to her sister.,Ji rašo seseriai.,,sentence
+4500121,Lithuanian,We travel by train.,Keliaujame traukiniu.,,sentence
+4500122,Lithuanian,He writes with a pencil.,Jis rašo pieštuku.,,sentence
+4500123,Lithuanian,I am talking with a neighbour.,Kalbuosi su kaimynu.,,sentence
+4500124,Lithuanian,The keys are in the bag.,Raktai yra krepšyje.,,sentence
+4500125,Lithuanian,I bought some bread.,Nusipirkau duonos.,,sentence
+4500126,Lithuanian,Yesterday I visited the museum.,Vakar aplankiau muziejų.,,sentence
+4500127,Lithuanian,Tomorrow we will travel to Kaunas.,Rytoj keliausime į Kauną.,,sentence
