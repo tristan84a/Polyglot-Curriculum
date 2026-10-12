@@ -63,7 +63,7 @@ Uzbek        4100000-4199999         4100000-4100014        15
 Hausa        4200000-4299999         4200000-4200014        15
 Catalan      4300000-4399999         4300000-4300014        15
 Tagalog      4400000-4499999         4400000-4400014        15
-Lithuanian   4500000-4599999         4500000-4500014        15
+Lithuanian   4500000-4599999         4500000-4500127       128
 Welsh        4600000-4699999         4600000-4600014        15
 Bulgarian    4700000-4799999         4700000-4700014        15
 Indonesian   4800000-4899999         4800000-4800014        15
@@ -301,3 +301,9 @@ Cards: 112 | Used IDs: 3600000-3600111
 Frontier: NO-15 — Infinitives with å
 Checkpoint: Original 15-card micro deck preserved; 97 Bokmål seed cards introduce core pronouns, noun gender, suffixed definiteness, adjective agreement, plurals, present verbs, negation, questions and V2. The 130-unit syllabus explicitly covers Bokmål variation, Nynorsk and dialects later.
 
+
+LITHUANIAN
+Syllabus: Syllabi/Polyglot_Lithuanian_Syllabus_v0.1.txt
+Cards: 128 | Used IDs: 4500000-4500127
+Frontier: LT-18 — Genitive under negation and absence
+Checkpoint: Expanded original 15-card micro deck with 113 cards.
