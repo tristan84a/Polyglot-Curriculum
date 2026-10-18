@@ -1,0 +1,181 @@
+POLYGLOT INDONESIAN SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Card Generation Protocol: 1.0
+Encoding: UTF-8
+Language: Indonesian (Bahasa Indonesia)
+Reference variety: contemporary standard Indonesian as used in Indonesia
+
+PURPOSE
+
+This syllabus establishes the canonical introduction route for Indonesian, retaining the 15-card standardized micro opening and building productive ordinary language with a small reusable seed. Numbered units open branches rather than seal chapters. Previously introduced vocabulary, grammar and discourse patterns continue to recur in the widening spiral.
+
+REFERENCE VARIETY AND CARD CONVENTIONS
+
+Use contemporary standard Indonesian in ordinary modern writing and broadly natural speech. The early register uses saya and Anda as stable learner anchors, while recognizing that Anda can sound formal or impersonal in many actual conversations. Broaden aku, kamu, kalian, Bapak, Ibu and context-sensitive address later, and do not silently blend colloquial Jakartan forms with the standard in early Targets.
+
+Write natural idiomatic English prompts and one natural Indonesian Target for exact-match practice. Other translations may be valid; the Target is a canonical instructional choice, not an assertion of uniqueness. Keep standard spelling and punctuation. Indonesian uses Latin script; InputHint remains blank. Use the six-column curriculum schema. ID block: 4800000–4899999.
+
+Indonesian is predominantly analytic, without grammatical gender, articles like English a/the, agreement of adjectives with noun gender/number, or person/tense inflection on ordinary verbs. Avoid teaching nonexistent conjugation paradigms. Word order, aspect markers, voice, affixation, reduplication and pragmatic context require sustained attention.
+
+EARLY LANGUAGE-SPECIFIC DECISIONS
+
+1. Ordinary nominal identity and adjective predicates usually need no English-style 'be': Dia dokter; Rumah itu besar. Later introduce adalah/merupakan in the contexts where they are natural and ada/berada for existence/location.
+2. Basic noun modifiers normally follow the noun: mobil merah, rumah besar. ini and itu follow the noun in definite demonstrative noun phrases; contrast the independent pronouns Ini/Itu.
+3. Establish tidak for verbal/adjectival negation versus bukan for nominal identification and classification. Expand to belum and jangan when ready.
+4. Indonesian pronouns encode an important inclusive/exclusive contrast: kita includes the addressee, kami excludes the addressee. Dia is not gender-marked.
+5. Possession and attribution can be expressed by juxtaposition (buku saya), the suffix -nya, punya and milik; develop their use through natural contexts rather than a single English 'of' pattern.
+6. Establish locative di, directional ke and source dari as separate prepositions. Distinguish these free forms from affixal di- in passive constructions.
+7. Use natural spoken and written interrogative options progressively: apakah, intonation, apa, siapa, di mana, ke mana, kapan, bagaimana, mengapa/kenapa.
+8. Introduce meN- verb formations only as needed alongside common verbs; do not imply all lexical verbs require meN-. Explain assimilation and nasal allomorphy systematically once examples make it meaningful.
+9. 'Plural' need not be explicitly marked where a numeral, quantifier or context suffices. Noun reduplication and classifier-like orang/ekor/buah are useful later branches, not obligatory word-for-word English plural markers.
+10. Tense is normally inferred from context or signalled by time expressions and aspect/modality markers such as sudah, sedang, akan, belum, masih, pernah. Do not build present/past/future conjugation tables.
+11. Voice and valency are central to mature Indonesian: meN- active, di- passive, bare passive constructions with agents, ber-, ter-, -kan, -i, peN-, per- and nominalizing -an/ke-...-an each deserve controlled treatment.
+12. Register is a core longitudinal strand: colloquial nggak/gak, enggak, udah, mau, aku/kamu, speech particles and Jakarta-influenced usage should later be identified explicitly without treating them as universal replacements for the standard.
+
+MICRO DECK AND SYSTEMATIC SEED
+
+Cards 4800000–4800014 are the existing standardized micro opening; preserve all fifteen cards and their IDs. They preview demonstratives, invariant verbal predicates, meN- (melihat), punya possession, number phrases and noun modification. A preview does not automatically move the forward syllabus frontier.
+
+Cards 4800015–4800099 extend this to a 100-card systematic seed. They develop familiar pronouns, identity and adjectival predication, nominal and verbal negation, polar and content questions, locations, possession and several high-frequency verbs. The aim is a readable productive opening, not exhaustive command of any branch.
+
+INTRODUCTION MAP — EARLY GRAMMAR
+
+ID-01 — Core concrete nouns and descriptive vocabulary
+ID-02 — Noun-adjective word order and first nominal phrases
+ID-03 — Independent pronouns: saya, Anda, dia, mereka
+ID-04 — Zero-copula identity and adjectival predicates
+ID-05 — Proximal and distal demonstratives: ini, itu
+ID-06 — Inclusive kita versus exclusive kami
+ID-07 — Negation of nominal predicates with bukan
+ID-08 — Verbal and adjective negation with tidak
+ID-09 — Polar questions with apakah and ordinary intonation
+ID-10 — Content questions: apa and siapa
+ID-11 — Di mana and prepositional di for location
+ID-12 — Possession and availability with punya
+ID-13 — Noun-possessor word order, -nya and milik
+ID-14 — Common everyday lexical verbs and invariant person marking
+ID-15 — Direct-object clauses and basic SVO order
+ID-16 — Verbal negation and polar questions
+ID-17 — What and where questions with ordinary question-word position
+ID-18 — Location versus direction: di, ke and dari
+ID-19 — Additional verbs and meN- introduction
+ID-20 — Early synthesis: identity, location, possession and action
+
+INTRODUCTION MAP — CORE NOUN PHRASES AND DAILY COMMUNICATION
+
+ID-21 — Demonstrative and article-free reference in discourse
+ID-22 — Numerals and bare counted nouns
+ID-23 — Quantifiers and general number expressions
+ID-24 — Plural interpretation and noun reduplication
+ID-25 — Human and animal counting expressions; orang and ekor
+ID-26 — Common classifier-like measures and satu buah
+ID-27 — More possessive expressions and -nya in discourse
+ID-28 — Adjective intensification, sangat and sekali
+ID-29 — Comparatives with lebih ... daripada
+ID-30 — Superlatives with paling and ter-
+ID-31 — Personal names, titles and social address
+ID-32 — Family relationships and kinship terms
+ID-33 — Greetings, thanks, apologies and requests
+ID-34 — Polite vs familiar pronouns and address choices
+ID-35 — Basic imperatives and prohibitions with jangan
+ID-36 — Time words, calendar and clock time
+ID-37 — Frequency and everyday routines
+ID-38 — Date, age and duration expressions
+ID-39 — Places, movement and directions
+ID-40 — Adverbs, manner and degree
+
+INTRODUCTION MAP — ASPECT, MODALITY AND PREDICATION
+
+ID-41 — Sudah for completion and resultant status
+ID-42 — Belum and 'not yet'
+ID-43 — Sedang for ongoing events
+ID-44 — Akan for prospective/future events
+ID-45 — Masih for continued state or activity
+ID-46 — Pernah for experience
+ID-47 — Aspect and temporal contrasts in context
+ID-48 — Mau and ingin for wanting
+ID-49 — Bisa and dapat for ability and possibility
+ID-50 — Harus, perlu and boleh for obligation and permission
+ID-51 — Ada: existence and availability
+ID-52 — Berada and location/presence
+ID-53 — Adalah and merupakan in formal identification
+ID-54 — Questions and answers with aspect and modality
+ID-55 — Negation scope across aspect, modality and predicates
+
+INTRODUCTION MAP — WORD FORMATION AND VOICE
+
+ID-56 — MeN- verbs and nasal assimilation
+ID-57 — Basic ber- predicates and verbs
+ID-58 — The di- passive and overt agents
+ID-59 — First- and second-person passive constructions
+ID-60 — Active/passive information structure and topic choice
+ID-61 — Ter- states, accidental events and ability uses
+ID-62 — -kan and causative/applicative meaning
+ID-63 — -i and locative/repetitive/applicative meaning
+ID-64 — Valency contrasts and lexicalized derivations
+ID-65 — PeN- agent and instrument nouns
+ID-66 — -an and derived nominal meanings
+ID-67 — Ke-...-an nominalizations and states
+ID-68 — Per- family and additional derivational patterns
+ID-69 — Reduplication beyond plurality
+ID-70 — Compounds and productive word families
+
+INTRODUCTION MAP — COMPOUND SYNTAX AND DISCOURSE
+
+ID-71 — Coordination with dan, atau and tetapi
+ID-72 — Negated alternatives and contrasts
+ID-73 — Basic complement clauses with bahwa
+ID-74 — Relative clauses and modifiers with yang
+ID-75 — Nominalization of clauses using yang
+ID-76 — Reason and consequence: karena, sehingga
+ID-77 — Purpose: untuk, agar, supaya
+ID-78 — Conditional clauses: kalau and jika
+ID-79 — Temporal clauses: ketika, saat and setelah
+ID-80 — Concession: meskipun, walaupun
+ID-81 — Comparison of propositions and hypothetical meaning
+ID-82 — Topic, focus and word-order variation
+ID-83 — Ellipsis of recoverable arguments
+ID-84 — Questions, emphasis and pragmatic particles
+ID-85 — Reported speech and quotation
+ID-86 — Discourse connectors and paragraph cohesion
+ID-87 — Spoken interaction and conversational repair
+ID-88 — Formal written prose and institutional register
+ID-89 — Colloquial Indonesian and Jakarta-influenced variants
+ID-90 — Regional variation and contact with local languages
+
+INTRODUCTION MAP — EDUCATED-ADULT LEXICAL BREADTH
+
+ID-91 — Food, cooking and household work
+ID-92 — Health, body and healthcare
+ID-93 — Schools, study and professional life
+ID-94 — Housing, cities and transportation
+ID-95 — Weather, geography, nature and environment
+ID-96 — Technology, media and communications
+ID-97 — Commerce, money and finance
+ID-98 — Government, law and public administration
+ID-99 — History, society and Indonesian cultural life
+ID-100 — Arts, literature, religion and philosophy
+ID-101 — Science, mathematics and engineering
+ID-102 — Opinions, emotion and interpersonal nuance
+ID-103 — Abstract and academic argument
+ID-104 — Collocations, idioms and polysemy
+ID-105 — Formality, borrowing and linguistic variation
+ID-106 — Advanced syntax, rhetoric and discourse
+ID-107 — Specialist/professional productive vocabulary
+ID-108 — Contemporary educated-adult long tail
+ID-109 — Authentic-language gap diagnosis and backward validation
+
+LONGITUDINAL DEVELOPMENT
+
+The numbered units mark the introduction frontier; they are not mastery gates. The first 100 cards deliberately preview several later units. Extend vocabulary while cycling established predication, question forms and common verbs. Broaden colloquial and formal usage with explicit control over register. After the main branches have been meaningfully introduced, use authentic contemporary Indonesian to identify remaining productive gaps indefinitely.
+
+NEXT FRONTIER
+
+ID-18 — Location versus direction: di, ke and dari. The seed already introduces di and ke, so next establish dari with clear location/source contrasts, and broaden ordinary motion sentences. Then develop demonstrative noun phrases, counting, noun reduplication and early temporal expression while reusing previous structures. The meN- pattern is previewed in melihat, membaca and menulis; systematic explanation belongs to ID-56.
+
+AMENDMENT NOTE
+
+Version 0.1 graduates Indonesian from the micro deck to the 100-card seed while preserving the original 15 cards.

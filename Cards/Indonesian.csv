@@ -14,3 +14,88 @@
 4800012,Indonesian,He has a car.,Dia punya mobil.,,sentence
 4800013,Indonesian,He has a red car.,Dia punya mobil merah.,,sentence
 4800014,Indonesian,I see four cars.,Saya melihat empat mobil.,,sentence
+4800015,Indonesian,woman,wanita,,noun
+4800016,Indonesian,child,anak,,noun
+4800017,Indonesian,small,kecil,,adjective
+4800018,Indonesian,good,baik,,adjective
+4800019,Indonesian,bad,buruk,,adjective
+4800020,Indonesian,book,buku,,noun
+4800021,Indonesian,school,sekolah,,noun
+4800022,Indonesian,teacher,guru,,noun
+4800023,Indonesian,I,saya,,pronoun
+4800024,Indonesian,you,Anda,,pronoun
+4800025,Indonesian,he,dia,,pronoun
+4800026,Indonesian,we (including the listener),kita,,pronoun
+4800027,Indonesian,we (excluding the listener),kami,,pronoun
+4800028,Indonesian,they,mereka,,pronoun
+4800029,Indonesian,This is a house.,Ini rumah.,,sentence
+4800030,Indonesian,That is a car.,Itu mobil.,,sentence
+4800031,Indonesian,She is a teacher.,Dia guru.,,sentence
+4800032,Indonesian,I am a doctor.,Saya dokter.,,sentence
+4800033,Indonesian,You are a teacher.,Anda guru.,,sentence
+4800034,Indonesian,The child is small.,Anak itu kecil.,,sentence
+4800035,Indonesian,The book is good.,Buku itu bagus.,,sentence
+4800036,Indonesian,The car is big.,Mobil itu besar.,,sentence
+4800037,Indonesian,a big house,rumah besar,,phrase
+4800038,Indonesian,a red car,mobil merah,,phrase
+4800039,Indonesian,a small book,buku kecil,,phrase
+4800040,Indonesian,This book is big.,Buku ini besar.,,sentence
+4800041,Indonesian,That house is small.,Rumah itu kecil.,,sentence
+4800042,Indonesian,The woman is a doctor.,Wanita itu dokter.,,sentence
+4800043,Indonesian,I am not a doctor.,Saya bukan dokter.,,sentence
+4800044,Indonesian,He is not a teacher.,Dia bukan guru.,,sentence
+4800045,Indonesian,This is not a car.,Ini bukan mobil.,,sentence
+4800046,Indonesian,The house is not big.,Rumah itu tidak besar.,,sentence
+4800047,Indonesian,The car is not red.,Mobil itu tidak merah.,,sentence
+4800048,Indonesian,The book is not good.,Buku itu tidak bagus.,,sentence
+4800049,Indonesian,Is this a house?,Apakah ini rumah?,,sentence
+4800050,Indonesian,Is he a doctor?,Apakah dia dokter?,,sentence
+4800051,Indonesian,Is the house big?,Apakah rumah itu besar?,,sentence
+4800052,Indonesian,Is the car red?,Apakah mobil itu merah?,,sentence
+4800053,Indonesian,What is this?,Ini apa?,,sentence
+4800054,Indonesian,Who is that?,Itu siapa?,,sentence
+4800055,Indonesian,Where is the house?,Di mana rumah itu?,,sentence
+4800056,Indonesian,where,di mana,,adverb
+4800057,Indonesian,what,apa,,pronoun
+4800058,Indonesian,who,siapa,,pronoun
+4800059,Indonesian,in the house,di rumah,,phrase
+4800060,Indonesian,at school,di sekolah,,phrase
+4800061,Indonesian,The doctor is at school.,Dokter itu di sekolah.,,sentence
+4800062,Indonesian,The child is in the house.,Anak itu di rumah.,,sentence
+4800063,Indonesian,The book is in the car.,Buku itu di mobil.,,sentence
+4800064,Indonesian,I have a book.,Saya punya buku.,,sentence
+4800065,Indonesian,You have a car.,Anda punya mobil.,,sentence
+4800066,Indonesian,We have a house.,Kami punya rumah.,,sentence
+4800067,Indonesian,They have a car.,Mereka punya mobil.,,sentence
+4800068,Indonesian,Do you have a book?,Apakah Anda punya buku?,,sentence
+4800069,Indonesian,He does not have a car.,Dia tidak punya mobil.,,sentence
+4800070,Indonesian,my book,buku saya,,phrase
+4800071,Indonesian,your car,mobil Anda,,phrase
+4800072,Indonesian,his house,rumahnya,,phrase
+4800073,Indonesian,the teacher's book,buku guru itu,,phrase
+4800074,Indonesian,This is my book.,Ini buku saya.,,sentence
+4800075,Indonesian,That is your car.,Itu mobil Anda.,,sentence
+4800076,Indonesian,The book is mine.,Buku itu milik saya.,,sentence
+4800077,Indonesian,to eat,makan,,verb
+4800078,Indonesian,to drink,minum,,verb
+4800079,Indonesian,to read,membaca,,verb
+4800080,Indonesian,to write,menulis,,verb
+4800081,Indonesian,to go,pergi,,verb
+4800082,Indonesian,to come,datang,,verb
+4800083,Indonesian,rice (cooked),nasi,,noun
+4800084,Indonesian,coffee,kopi,,noun
+4800085,Indonesian,tea,teh,,noun
+4800086,Indonesian,I eat rice.,Saya makan nasi.,,sentence
+4800087,Indonesian,He drinks coffee.,Dia minum kopi.,,sentence
+4800088,Indonesian,She reads a book.,Dia membaca buku.,,sentence
+4800089,Indonesian,I write.,Saya menulis.,,sentence
+4800090,Indonesian,We go to school.,Kami pergi ke sekolah.,,sentence
+4800091,Indonesian,They come here.,Mereka datang ke sini.,,sentence
+4800092,Indonesian,I do not eat rice.,Saya tidak makan nasi.,,sentence
+4800093,Indonesian,He does not drink tea.,Dia tidak minum teh.,,sentence
+4800094,Indonesian,Do you read books?,Apakah Anda membaca buku?,,sentence
+4800095,Indonesian,What do you eat?,Anda makan apa?,,sentence
+4800096,Indonesian,What does he drink?,Dia minum apa?,,sentence
+4800097,Indonesian,Where are you going?,Anda pergi ke mana?,,sentence
+4800098,Indonesian,here,di sini,,adverb
+4800099,Indonesian,there,di sana,,adverb
