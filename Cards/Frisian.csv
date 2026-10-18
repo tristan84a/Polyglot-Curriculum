@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+8200000,Frisian,house,hûs,,noun
+8200001,Frisian,water,wetter,,noun
+8200002,Frisian,man,man,,noun
+8200003,Frisian,woman,frou,,noun
+8200004,Frisian,child,bern,,noun
+8200005,Frisian,dog,hûn,,noun
+8200006,Frisian,cat,kat,,noun
+8200007,Frisian,sun,sinne,,noun
+8200008,Frisian,moon,moanne,,noun
+8200009,Frisian,book,boek,,noun
+8200010,Frisian,one,ien,,number
+8200011,Frisian,two,twa,,number
+8200012,Frisian,three,trije,,number
+8200013,Frisian,Good morning.,Goeiemoarn.,,sentence
+8200014,Frisian,Thank you.,Tankewol.,,sentence
