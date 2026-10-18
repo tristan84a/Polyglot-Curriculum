@@ -1,7 +1,7 @@
 ﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
 7500000,Nahuatl,water,atl,,noun
 7500001,Nahuatl,house,kalli,,noun
-7500002,Nahuatl,sun,tonalli,,noun
+7500002,Nahuatl,day; heat,tonalli,,noun
 7500003,Nahuatl,moon,metstli,,noun
 7500004,Nahuatl,man,tlakatl,,noun
 7500005,Nahuatl,woman,siwatl,,noun
