@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+7900000,Greenlandic,house,illu,,noun
+7900001,Greenlandic,water,imeq,,noun
+7900002,Greenlandic,man,angut,,noun
+7900003,Greenlandic,woman,arnaq,,noun
+7900004,Greenlandic,child,meeraq,,noun
+7900005,Greenlandic,dog,qimmeq,,noun
+7900006,Greenlandic,sun,seqineq,,noun
+7900007,Greenlandic,moon,qaammat,,noun
+7900008,Greenlandic,land; country,nuna,,noun
+7900009,Greenlandic,ice,siku,,noun
+7900010,Greenlandic,one,ataaseq,,number
+7900011,Greenlandic,two,marluk,,number
+7900012,Greenlandic,three,pingasut,,number
+7900013,Greenlandic,yes,aap,,noun
+7900014,Greenlandic,no,naamik,,noun
