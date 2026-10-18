@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+8400000,Sardinian,I,deo,,noun
+8400001,Sardinian,you (singular),tue,,noun
+8400002,Sardinian,he,issu,,noun
+8400003,Sardinian,we,nois,,noun
+8400004,Sardinian,you (plural),bois,,noun
+8400005,Sardinian,house,domo,,noun
+8400006,Sardinian,water,abba,,noun
+8400007,Sardinian,sun,sole,,noun
+8400008,Sardinian,moon,luna,,noun
+8400009,Sardinian,man,òmine,,noun
+8400010,Sardinian,woman,fèmina,,noun
+8400011,Sardinian,dog,cane,,noun
+8400012,Sardinian,bread,pane,,noun
+8400013,Sardinian,one,unu,,number
+8400014,Sardinian,two,duos,,number
