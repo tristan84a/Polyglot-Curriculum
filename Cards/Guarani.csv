@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+7200000,Guarani,water,y,,noun
+7200001,Guarani,house,óga,,noun
+7200002,Guarani,sun,kuarahy,,noun
+7200003,Guarani,moon,jasy,,noun
+7200004,Guarani,earth; land,yvy,,noun
+7200005,Guarani,man,kuimba'e,,noun
+7200006,Guarani,woman,kuña,,noun
+7200007,Guarani,child,mitã,,noun
+7200008,Guarani,dog,jagua,,noun
+7200009,Guarani,tree,yvyra,,noun
+7200010,Guarani,one,peteĩ,,number
+7200011,Guarani,two,mokõi,,number
+7200012,Guarani,hello,mba'éichapa,,noun
+7200013,Guarani,thank you,aguyje,,noun
+7200014,Guarani,I am well.,Aime porã.,,sentence
