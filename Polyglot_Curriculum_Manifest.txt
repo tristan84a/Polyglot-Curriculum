@@ -91,6 +91,19 @@ Inuktitut    6900000-6999999         6900000-6900014        15
 Quechua      7000000-7099999         7000000-7000014        15
 Telugu       7100000-7199999         7100000-7100014        15
 
+Guarani        7200000-7299999         7200000-7200014        15
+Haitian Creole 7300000-7399999         7300000-7300014        15
+Yucatec Maya   7400000-7499999         7400000-7400014        15
+Nahuatl        7500000-7599999         7500000-7500014        15
+Lakota         7600000-7699999         7600000-7600014        15
+Cherokee       7700000-7799999         7700000-7700014        15
+Plains Cree    7800000-7899999         7800000-7800014        15
+Greenlandic    7900000-7999999         7900000-7900014        15
+Faroese        8000000-8099999         8000000-8000014        15
+Luxembourgish  8100000-8199999         8100000-8100014        15
+Frisian        8200000-8299999         8200000-8200014        15
+Galician       8300000-8399999         8300000-8300014        15
+Sardinian      8400000-8499999         8400000-8400014        15
 These ranges are reservations, not curriculum-size targets. Stable live IDs are not renumbered merely because curriculum organization later changes.
 
 3. ESTABLISHED AND SEED-DECK CHECKPOINTS
@@ -307,3 +320,47 @@ Syllabus: Syllabi/Polyglot_Lithuanian_Syllabus_v0.1.txt
 Cards: 128 | Used IDs: 4500000-4500127
 Frontier: LT-18 — Genitive under negation and absence
 Checkpoint: Expanded original 15-card micro deck with 113 cards.
+
+
+4. NEW EXPLORATORY MICRO DECKS — 2026-10-18
+
+GUARANI
+Cards: 15 | Used IDs: 7200000-7200014
+Status: Exploratory micro deck; no syllabus or frontier.
+HAITIAN CREOLE
+Cards: 15 | Used IDs: 7300000-7300014
+Status: Exploratory micro deck; no syllabus or frontier.
+YUCATEC MAYA
+Cards: 15 | Used IDs: 7400000-7400014
+Status: Exploratory micro deck; no syllabus or frontier.
+NAHUATL
+Cards: 15 | Used IDs: 7500000-7500014
+Status: Exploratory micro deck; no syllabus or frontier.
+LAKOTA
+Cards: 15 | Used IDs: 7600000-7600014
+Status: Exploratory micro deck; no syllabus or frontier.
+CHEROKEE
+Cards: 15 | Used IDs: 7700000-7700014
+Status: Exploratory micro deck; no syllabus or frontier.
+PLAINS CREE
+Cards: 15 | Used IDs: 7800000-7800014
+Status: Exploratory micro deck; no syllabus or frontier.
+GREENLANDIC
+Cards: 15 | Used IDs: 7900000-7900014
+Status: Exploratory micro deck; no syllabus or frontier.
+FAROESE
+Cards: 15 | Used IDs: 8000000-8000014
+Status: Exploratory micro deck; no syllabus or frontier.
+LUXEMBOURGISH
+Cards: 15 | Used IDs: 8100000-8100014
+Status: Exploratory micro deck; no syllabus or frontier.
+FRISIAN
+Cards: 15 | Used IDs: 8200000-8200014
+Status: Exploratory micro deck; no syllabus or frontier.
+GALICIAN
+Cards: 15 | Used IDs: 8300000-8300014
+Status: Exploratory micro deck; no syllabus or frontier.
+SARDINIAN
+Cards: 15 | Used IDs: 8400000-8400014
+Status: Exploratory micro deck; no syllabus or frontier.
+Reference varieties: Guarani—Paraguayan; Haitian Creole—standard; Yucatec Maya—contemporary Yucatec; Nahuatl—provisional modern Central variety (forms require variety audit); Lakota—standard orthography; Cherokee—contemporary syllabary; Plains Cree—SRO macrons; Greenlandic—West Greenlandic; Faroese—standard; Luxembourgish—standard; Frisian—West Frisian; Galician—RAG standard; Sardinian—Logudorese. Verify dialect-sensitive and less-supported cards before substantial expansion.
