@@ -66,7 +66,7 @@ Tagalog      4400000-4499999         4400000-4400014        15
 Lithuanian   4500000-4599999         4500000-4500127       128
 Welsh        4600000-4699999         4600000-4600014        15
 Bulgarian    4700000-4799999         4700000-4700014        15
-Indonesian   4800000-4899999         4800000-4800014        15
+Indonesian   4800000-4899999         4800000-4800099       100
 Yoruba       4900000-4999999         4900000-4900014        15
 Tibetan      5000000-5099999         5000000-5000014        15
 Estonian     5100000-5199999         5100000-5100014        15
@@ -284,7 +284,7 @@ TAGALOG — Cards/Tagalog.csv — 15 cards — 4400000-4400014
 LITHUANIAN — Cards/Lithuanian.csv — 15 cards — 4500000-4500014
 WELSH — Cards/Welsh.csv — 15 cards — 4600000-4600014
 BULGARIAN — Cards/Bulgarian.csv — 15 cards — 4700000-4700014
-INDONESIAN — Cards/Indonesian.csv — 15 cards — 4800000-4800014
+INDONESIAN — Cards/Indonesian.csv — 100 cards — 4800000-4800099 — Syllabus: Syllabi/Polyglot_Indonesian_Syllabus_v0.1.txt. Frontier: ID-18 — Location versus direction (di, ke, dari). The original 15 micro cards are preserved; seed adds predicates, pronouns, tidak/bukan, questions, location, possession and simple verbs.
 YORUBA — Cards/Yoruba.csv — 15 cards — 4900000-4900014
 TIBETAN — Cards/Tibetan.csv — 15 cards — 5000000-5000014
 ESTONIAN — Cards/Estonian.csv — 15 cards — 5100000-5100014
