@@ -14,3 +14,88 @@
 3300012,Thai,He has a car.,เขามีรถ,,sentence
 3300013,Thai,He has a red car.,เขามีรถสีแดง,,sentence
 3300014,Thai,I see four cars.,ฉันเห็นรถสี่คัน,,sentence
+3300015,Thai,woman,ผู้หญิง,,noun
+3300016,Thai,child,เด็ก,,noun
+3300017,Thai,small,เล็ก,,adjective
+3300018,Thai,good,ดี,,adjective
+3300019,Thai,bad,ไม่ดี,,adjective
+3300020,Thai,The child is small.,เด็กตัวเล็ก,,sentence
+3300021,Thai,The woman is a doctor.,ผู้หญิงเป็นหมอ,,sentence
+3300022,Thai,The man is a doctor.,ผู้ชายเป็นหมอ,,sentence
+3300023,Thai,I,ฉัน,,pronoun
+3300024,Thai,you,คุณ,,pronoun
+3300025,Thai,he / she,เขา,,pronoun
+3300026,Thai,we,เรา,,pronoun
+3300027,Thai,they,พวกเขา,,pronoun
+3300028,Thai,I am a doctor.,ฉันเป็นหมอ,,sentence
+3300029,Thai,You are a doctor.,คุณเป็นหมอ,,sentence
+3300030,Thai,We are doctors.,เราเป็นหมอ,,sentence
+3300031,Thai,They are doctors.,พวกเขาเป็นหมอ,,sentence
+3300032,Thai,I have water.,ฉันมีน้ำ,,sentence
+3300033,Thai,You have a car.,คุณมีรถ,,sentence
+3300034,Thai,We have a house.,เรามีบ้าน,,sentence
+3300035,Thai,They have water.,พวกเขามีน้ำ,,sentence
+3300036,Thai,to see,เห็น,,verb
+3300037,Thai,to have,มี,,verb
+3300038,Thai,to be (identity or occupation),เป็น,,verb
+3300039,Thai,to go,ไป,,verb
+3300040,Thai,to come,มา,,verb
+3300041,Thai,to eat,กิน,,verb
+3300042,Thai,to drink,ดื่ม,,verb
+3300043,Thai,I see the man.,ฉันเห็นผู้ชาย,,sentence
+3300044,Thai,You see the woman.,คุณเห็นผู้หญิง,,sentence
+3300045,Thai,He sees the child.,เขาเห็นเด็ก,,sentence
+3300046,Thai,We see the car.,เราเห็นรถ,,sentence
+3300047,Thai,I eat.,ฉันกิน,,sentence
+3300048,Thai,You eat.,คุณกิน,,sentence
+3300049,Thai,He drinks water.,เขาดื่มน้ำ,,sentence
+3300050,Thai,We drink water.,เราดื่มน้ำ,,sentence
+3300051,Thai,to speak,พูด,,verb
+3300052,Thai,Thai (language),ภาษาไทย,,noun
+3300053,Thai,I speak Thai.,ฉันพูดภาษาไทย,,sentence
+3300054,Thai,You speak Thai.,คุณพูดภาษาไทย,,sentence
+3300055,Thai,They speak Thai.,พวกเขาพูดภาษาไทย,,sentence
+3300056,Thai,not (verbal negation),ไม่,,particle
+3300057,Thai,I do not eat.,ฉันไม่กิน,,sentence
+3300058,Thai,I do not have a car.,ฉันไม่มีรถ,,sentence
+3300059,Thai,The house is not big.,บ้านไม่ใหญ่,,sentence
+3300060,Thai,The water is not good.,น้ำไม่ดี,,sentence
+3300061,Thai,question particle (yes/no),ไหม,,particle
+3300062,Thai,Do you speak Thai?,คุณพูดภาษาไทยไหม,,sentence
+3300063,Thai,Do you have water?,คุณมีน้ำไหม,,sentence
+3300064,Thai,Is the house big?,บ้านใหญ่ไหม,,sentence
+3300065,Thai,Is he a doctor?,เขาเป็นหมอไหม,,sentence
+3300066,Thai,what,อะไร,,pronoun
+3300067,Thai,who,ใคร,,pronoun
+3300068,Thai,where,ที่ไหน,,pronoun
+3300069,Thai,What is this?,นี่คืออะไร,,sentence
+3300070,Thai,Who is that?,นั่นคือใคร,,sentence
+3300071,Thai,Where is the house?,บ้านอยู่ที่ไหน,,sentence
+3300072,Thai,this,นี่,,pronoun
+3300073,Thai,that,นั่น,,pronoun
+3300074,Thai,to be located; live,อยู่,,verb
+3300075,Thai,The car is here.,รถอยู่ที่นี่,,sentence
+3300076,Thai,The doctor is here.,หมออยู่ที่นี่,,sentence
+3300077,Thai,Where is the doctor?,หมออยู่ที่ไหน,,sentence
+3300078,Thai,here,ที่นี่,,adverb
+3300079,Thai,there,ที่นั่น,,adverb
+3300080,Thai,The woman is there.,ผู้หญิงอยู่ที่นั่น,,sentence
+3300081,Thai,one,หนึ่ง,,number
+3300082,Thai,two,สอง,,number
+3300083,Thai,three,สาม,,number
+3300084,Thai,four cars,รถสี่คัน,,phrase
+3300085,Thai,one car,รถหนึ่งคัน,,phrase
+3300086,Thai,two cars,รถสองคัน,,phrase
+3300087,Thai,three cars,รถสามคัน,,phrase
+3300088,Thai,one house,บ้านหนึ่งหลัง,,phrase
+3300089,Thai,two houses,บ้านสองหลัง,,phrase
+3300090,Thai,one person,คนหนึ่งคน,,phrase
+3300091,Thai,two people,คนสองคน,,phrase
+3300092,Thai,car classifier,คัน,,classifier
+3300093,Thai,house classifier,หลัง,,classifier
+3300094,Thai,person classifier,คน,,classifier
+3300095,Thai,I have two cars.,ฉันมีรถสองคัน,,sentence
+3300096,Thai,She has one house.,เขามีบ้านหนึ่งหลัง,,sentence
+3300097,Thai,I see three people.,ฉันเห็นคนสามคน,,sentence
+3300098,Thai,We have two houses.,เรามีบ้านสองหลัง,,sentence
+3300099,Thai,The child is here.,เด็กอยู่ที่นี่,,sentence
