@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+8300000,Galician,house,casa,,noun
+8300001,Galician,water,auga,,noun
+8300002,Galician,man,home,,noun
+8300003,Galician,woman,muller,,noun
+8300004,Galician,child,neno,,noun
+8300005,Galician,dog,can,,noun
+8300006,Galician,cat,gato,,noun
+8300007,Galician,sun,sol,,noun
+8300008,Galician,moon,lúa,,noun
+8300009,Galician,book,libro,,noun
+8300010,Galician,one,un,,number
+8300011,Galician,two,dous,,number
+8300012,Galician,three,tres,,number
+8300013,Galician,Good morning.,Bos días.,,sentence
+8300014,Galician,Thank you.,Grazas.,,sentence
