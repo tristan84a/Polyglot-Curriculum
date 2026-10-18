@@ -1,9 +1,9 @@
 ﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
-8400000,Sardinian,I,deo,,noun
-8400001,Sardinian,you (singular),tue,,noun
-8400002,Sardinian,he,issu,,noun
-8400003,Sardinian,we,nois,,noun
-8400004,Sardinian,you (plural),bois,,noun
+8400000,Sardinian,I,deo,,pronoun
+8400001,Sardinian,you (singular),tue,,pronoun
+8400002,Sardinian,he,issu,,pronoun
+8400003,Sardinian,we,nois,,pronoun
+8400004,Sardinian,you (plural),bois,,pronoun
 8400005,Sardinian,house,domo,,noun
 8400006,Sardinian,water,abba,,noun
 8400007,Sardinian,sun,sole,,noun
