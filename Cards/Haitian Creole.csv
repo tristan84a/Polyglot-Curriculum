@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+7300000,Haitian Creole,house,kay,,noun
+7300001,Haitian Creole,water,dlo,,noun
+7300002,Haitian Creole,man,gason,,noun
+7300003,Haitian Creole,woman,fanm,,noun
+7300004,Haitian Creole,child,timoun,,noun
+7300005,Haitian Creole,dog,chen,,noun
+7300006,Haitian Creole,cat,chat,,noun
+7300007,Haitian Creole,sun,solèy,,noun
+7300008,Haitian Creole,moon,lalin,,noun
+7300009,Haitian Creole,book,liv,,noun
+7300010,Haitian Creole,one,youn,,number
+7300011,Haitian Creole,two,de,,number
+7300012,Haitian Creole,Hello!,Bonjou!,,sentence
+7300013,Haitian Creole,Thank you.,Mèsi.,,sentence
+7300014,Haitian Creole,I am here.,Mwen la.,,sentence
