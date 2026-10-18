@@ -220,7 +220,7 @@ CARD RULES
 - Keep EnglishPrompt unique within Thai and avoid exact duplicate cards.
 - Use standard Thai spelling, normal spacing and appropriate tone marks.
 - Do not require romanized Target answers.
-- Use InputHint only where it genuinely helps input or pronunciation.
+- InputHint is not used for Thai.
 - Avoid commas in prompts and Targets when natural alternatives exist.
 - Distinguish person/social register where it changes the correct answer.
 - Do not mechanically translate English articles, copulas or tense forms.
