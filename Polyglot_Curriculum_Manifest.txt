@@ -51,7 +51,7 @@ Swahili      2900000-2999999         2900000-2900099        100
 Albanian     3000000-3099999         3000000-3000014        15
 Cantonese    3100000-3199999         3100000-3100014        15
 Dutch        3200000-3299999         3200000-3200108        109
-Thai         3300000-3399999         3300000-3300014        15
+Thai         3300000-3399999         3300000-3300099       100
 Armenian     3400000-3499999         3400000-3400014        15
 Tamil        3500000-3599999         3500000-3500014        15
 Norwegian    3600000-3699999         3600000-3600111        112
@@ -269,7 +269,7 @@ DANISH — Cards/Danish.csv — 15 cards — 2600000-2600014
 ALBANIAN — Cards/Albanian.csv — 15 cards — 3000000-3000014
 CANTONESE — Cards/Cantonese.csv — 15 cards — 3100000-3100014. Spoken Hong Kong Cantonese; Traditional characters with Jyutping InputHint.
 DUTCH — Cards/Dutch.csv — 109 cards — 3200000-3200108. Syllabus: Syllabi/Polyglot_Dutch_Syllabus_v0.1.txt. Frontier: NL-15 — Infinitives and citation forms.
-THAI — Cards/Thai.csv — 15 cards — 3300000-3300014
+THAI — Cards/Thai.csv — 100 cards — 3300000-3300099 — Syllabus: Syllabi/Polyglot_Thai_Syllabus_v0.1.txt. Frontier: TH-12 — Classifier extension and noun-phrase order.
 ARMENIAN — Cards/Armenian.csv — 15 cards — 3400000-3400014
 TAMIL — Cards/Tamil.csv — 15 cards — 3500000-3500014
 NORWEGIAN — Cards/Norwegian.csv — 15 cards — 3600000-3600014
@@ -364,3 +364,13 @@ SARDINIAN
 Cards: 15 | Used IDs: 8400000-8400014
 Status: Exploratory micro deck; no syllabus or frontier.
 Reference varieties: Guarani—Paraguayan; Haitian Creole—standard; Yucatec Maya—contemporary Yucatec; Nahuatl—provisional modern Central variety (forms require variety audit); Lakota—standard orthography; Cherokee—contemporary syllabary; Plains Cree—SRO macrons; Greenlandic—West Greenlandic; Faroese—standard; Luxembourgish—standard; Frisian—West Frisian; Galician—RAG standard; Sardinian—Logudorese. Verify dialect-sensitive and less-supported cards before substantial expansion.
+
+THAI
+Cards: 100 | Used IDs: 3300000-3300099
+Syllabus: Syllabi/Polyglot_Thai_Syllabus_v0.1.txt
+Frontier: TH-12 — Classifier extension and noun-phrase order
+Checkpoint: Preserved the original 15 live micro-deck cards verbatim and
+added 85 Thai-script seed cards. Introduced pronouns, nominal identity,
+adjectival predicates, invariant verbs, possession, negation, questions,
+location, numbers and the คัน/หลัง/คน classifier families. Standard Thai
+is the default; tone, script and politeness develop longitudinally.
