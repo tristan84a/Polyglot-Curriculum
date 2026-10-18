@@ -1,0 +1,246 @@
+POLYGLOT THAI SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+
+PURPOSE AND BASELINE
+
+This syllabus governs a modern Standard Thai course using ordinary Thai
+script as the canonical production target. Contemporary educated Bangkok/
+Central Thai is the unqualified initial reference. Other Thai regional
+varieties and related Tai languages are not silently substituted for it.
+
+The initial 100-card seed grows from an existing 15-card micro deck.
+Those first 15 cards were already in the live app and are preserved without
+renumbering. The seed tests short SVO clauses, nominal identity with เป็น,
+bare adjectival predicates, มี possession, เห็น perception, อยู่ location,
+ไม่ negation, ไหม polar questions and early numeral classifiers.
+
+Thai is a tonal, largely analytic language. It does not use person or
+number conjugation of verbs, grammatical gender agreement, or a European-
+style article system. The curriculum should make productive Thai clauses
+possible early without inventing inflectional paradigms.
+
+WRITING SYSTEM AND INPUT
+
+Use standard Thai spelling from the beginning. Do not require romanized
+answers and do not replace written Thai with a phonetic transcription.
+InputHint normally remains blank in the early deck; targeted reading and
+pronunciation cards may later use carefully identified romanization or
+pronunciation guidance when useful. Distinguish Thai letters, vowels,
+consonant classes, syllable-final consonants, live/dead syllables, tone
+marks and their combined role in tone realization. Tone marks alone do not
+determine the spoken tone.
+
+Thai words are generally written without spaces between words. Spaces
+often separate clauses or larger units. Preserve natural Thai spacing
+rather than inserting artificial English-style word boundaries.
+Thai writing does not normally use a question mark in ordinary text;
+unmarked Thai questions are acceptable canonical Targets.
+
+The keyboard and exact-match app require special care with vowel signs,
+tone marks and combining marks. Never normalize away linguistically
+significant orthographic distinctions. Teach spelling and keyboard entry
+longitudinally using actual familiar words rather than postponing useful
+Thai until every consonant is memorized.
+
+PRINCIPLES
+
+1. Start with a small useful lexicon and rapidly reuse it in short clauses.
+2. Use naturally selected personal pronouns; Thai pronoun choice is
+   sensitive to relationship, status, gender, politeness and context.
+   ฉัน and คุณ are introductory anchors, not universal translations of
+   English I and you. Broaden ผม, ดิฉัน, เรา, เธอ and other common forms
+   with explicit social context.
+3. เขา is not grammatically gendered; English he or she may serve as an
+   example prompt when the target form is shared.
+4. Distinguish เป็น for identity/classification, อยู่ for location,
+   and bare adjective predicates such as บ้านใหญ่. Do not mechanically
+   translate every English 'is' with เป็น.
+5. Teach คือ as an identificational/explanatory construction in context.
+6. Verbs do not inflect for person or number. Once demonstrated, do not
+   fill redundant subject paradigms.
+7. Teach ไม่ in ordinary negation and expand its scope and interactions
+   with auxiliaries and aspect markers.
+8. Teach ไหม questions early, followed by natural alternative polar
+   question patterns and short-answer constructions.
+9. Question words generally remain in the position corresponding to
+   their role; do not impose obligatory English-style wh-fronting.
+10. Teach มี for possession and existence; distinguish it from อยู่ and
+    existential constructions by meaning.
+11. Thai numeral classifiers are central, not an optional advanced
+    feature. Introduce familiar classifier families early, including
+    คัน, หลัง and คน, and expand to ตัว, เล่ม, แก้ว and others.
+12. Teach quantity and noun phrase order through whole expressions,
+    including classifier and demonstrative placement.
+13. Plural reference, specificity and definiteness are often contextual;
+    introduce overt markers such as พวก, หลาย and บาง as useful forms,
+    not obligatory translations of English plurals/articles.
+14. Introduce tense/aspect/modality with time expressions and markers
+    such as แล้ว, กำลัง, จะ, เคย and ยัง in meaningful contrasts.
+15. Verbs and serial-verb constructions require Thai-specific semantic
+    analysis. Do not translate each English preposition or auxiliary as
+    an independent Thai word.
+16. Politeness particles ครับ and ค่ะ/คะ should be taught with their
+    actual distribution, speaker use and question/statement context.
+    Do not attach them indiscriminately to every seed sentence.
+17. Negation, questions, imperatives, requests and particles should be
+    introduced cleanly and then reinforced in varied later cards.
+18. Thai classifiers, measure expressions, reduplication and compounds
+    should recur as ordinary productive grammar.
+19. Introduce pragmatic omission of subjects and objects in context;
+    the absence of agreement does not make omission ungrammatical.
+20. Standard contemporary Thai remains the default. Regional,
+    colloquial, literary and historical language receives explicit
+    later treatment with clear labels when it changes the answer.
+
+EMPIRICAL SEED: 3300000-3300099
+
+The original micro deck (3300000-3300014) is retained verbatim, including
+house, water, man, doctor, car, red, big, four and seven short sentences.
+The subsequent 85 cards introduce woman/child, size/quality, pronouns,
+identity and possession, common verbs, Thai as a language, ไม่ and ไหม,
+อะไร/ใคร/ที่ไหน, อยู่ location and early classifiers. A number of short
+subject variations make invariant verbal morphology visible, but future
+expansion should not mechanically reproduce the same pattern for every
+new verb.
+
+INITIAL ROADMAP
+
+TH-01 Small concrete lexical seed and first clauses
+TH-02 Identity with เป็น
+TH-03 Adjectival predicates without a copula
+TH-04 Basic pronouns and referential context
+TH-05 Ordinary SVO clauses and invariant verbs
+TH-06 Possession with มี
+TH-07 ไม่ negation
+TH-08 ไหม polar questions
+TH-09 Content questions and question-word position
+TH-10 Location with อยู่
+TH-11 First numeral classifiers
+TH-12 Classifier extension and noun-phrase order
+TH-13 More common verbs and daily activities
+TH-14 Negation and polar answer patterns
+TH-15 Personal pronouns and social relationships
+TH-16 ครับ ค่ะ คะ and politeness
+TH-17 Demonstratives นี้ นั้น โน้น and classifier phrases
+TH-18 Specificity and contextual definiteness
+TH-19 Plural and quantifier constructions
+TH-20 Numbers and counting
+TH-21 Dates and calendar expressions
+TH-22 Clock time and frequency
+TH-23 Temporal expressions yesterday/today/tomorrow
+TH-24 แล้ว completion and change of state
+TH-25 กำลัง ongoing action
+TH-26 จะ prospective/future meaning
+TH-27 เคย experience
+TH-28 ยัง continuation and 'not yet'
+TH-29 Aspect synthesis
+TH-30 Wanting and preference
+TH-31 Ability and possibility
+TH-32 Obligation and necessity
+TH-33 Permission and prohibition
+TH-34 Requests and imperatives
+TH-35 Giving receiving and benefactives
+TH-36 Motion and direction
+TH-37 Serial verb constructions
+TH-38 Resultative and directional complements
+TH-39 Comparison
+TH-40 Degree and intensification
+TH-41 Adverbs and manner
+TH-42 Prepositions and relational expressions
+TH-43 Possession with ของ
+TH-44 Relative/modifying constructions with ที่
+TH-45 Nominalization and การ/ความ
+TH-46 Complement clauses and ว่า
+TH-47 Coordination
+TH-48 Cause and consequence
+TH-49 Conditional constructions
+TH-50 Purpose constructions
+TH-51 Concession and contrast
+TH-52 Topic and focus
+TH-53 Subject/object omission in discourse
+TH-54 Reduplication
+TH-55 Word formation and compounds
+TH-56 Classifier refinements and irregular usages
+TH-57 Measure words and units
+TH-58 Discourse particles
+TH-59 Register and honorifics
+TH-60 Conversational and colloquial Thai
+TH-61 Formal written Thai
+TH-62 Thai consonant classes
+TH-63 Thai vowel spelling and placement
+TH-64 Live/dead syllables and syllable endings
+TH-65 Tone categories and tone rules
+TH-66 Tone marks and consonant-class interaction
+TH-67 Vowel length and pronunciation
+TH-68 Consonant clusters and silent letters
+TH-69 Spelling/pronunciation irregularities
+TH-70 Thai word spacing and orthographic conventions
+TH-71 Keyboard entry and combining-mark literacy
+TH-72 Common pronunciation reductions
+TH-73 Regional Standard Thai variation
+TH-74 Regional Thai varieties for comprehension
+TH-75 Related Tai-language comparisons
+TH-76 Greetings and service encounters
+TH-77 Household and daily routines
+TH-78 Family and relationships
+TH-79 Food and cooking
+TH-80 Health and the body
+TH-81 Education and occupations
+TH-82 Transportation and travel
+TH-83 Places buildings and directions
+TH-84 Shopping money and finance
+TH-85 Nature weather and environment
+TH-86 Technology and communication
+TH-87 Government law and institutions
+TH-88 Arts literature and culture
+TH-89 History and society
+TH-90 Religion and philosophy
+TH-91 Science and mathematics
+TH-92 Emotions personality and behaviour
+TH-93 Abstract vocabulary
+TH-94 Collocations and idioms
+TH-95 Polysemy and semantic distinctions
+TH-96 Academic and professional vocabulary
+TH-97 Advanced syntax and discourse
+TH-98 Literary and historical vocabulary
+TH-99 Educated-adult long tail
+
+The numbered units are an introduction map, not serial mastery blocks.
+Script and pronunciation must be reinforced from the beginning even when
+their systematic roadmap units appear later. Lexical domains develop
+longitudinally.
+
+CARD RULES
+
+- Preserve six CSV columns: ID, Language, EnglishPrompt, Target,
+  InputHint, PartOfSpeech.
+- Keep EnglishPrompt unique within Thai and avoid exact duplicate cards.
+- Use standard Thai spelling, normal spacing and appropriate tone marks.
+- Do not require romanized Target answers.
+- Use InputHint only where it genuinely helps input or pronunciation.
+- Avoid commas in prompts and Targets when natural alternatives exist.
+- Distinguish person/social register where it changes the correct answer.
+- Do not mechanically translate English articles, copulas or tense forms.
+- Choose a single natural intended answer and disambiguate prompts where
+  multiple Thai constructions would otherwise be equally plausible.
+- Use classifiers in natural Thai order and contextualized sentences.
+- Do not repeat identical target sentences merely to vary English subjects.
+- Maintain all live IDs; correct errors in place rather than renumbering.
+- No artificial spaces between Thai words.
+
+NEXT FRONTIER
+
+The next cards should consolidate pronoun/social-register choices, question
+answers, basic time expressions, demonstrative classifier phrases and
+aspect markers. Introduce ครับ/ค่ะ/คะ in realistic contexts, alongside
+further classifier families. Expand lexical variety while reusing the
+established verbs. Develop the writing and tone system through familiar
+words rather than an isolated alphabet-first phase.
+
+AMENDMENT NOTE
+
+Version 0.1 establishes the first systematic Thai syllabus following the
+original 15-card micro deck and the 100-card Thai-script seed.
