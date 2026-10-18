@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+8000000,Faroese,house,hús,,noun
+8000001,Faroese,water,vatn,,noun
+8000002,Faroese,man,maður,,noun
+8000003,Faroese,woman,kvinna,,noun
+8000004,Faroese,child,barn,,noun
+8000005,Faroese,dog,hundur,,noun
+8000006,Faroese,cat,ketta,,noun
+8000007,Faroese,sun,sól,,noun
+8000008,Faroese,moon,máni,,noun
+8000009,Faroese,book,bók,,noun
+8000010,Faroese,one,eitt,,number
+8000011,Faroese,two,tvey,,number
+8000012,Faroese,three,trý,,number
+8000013,Faroese,Good morning.,Góðan morgun.,,sentence
+8000014,Faroese,Thank you.,Takk.,,sentence
