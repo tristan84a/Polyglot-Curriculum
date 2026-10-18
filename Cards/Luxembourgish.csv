@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+8100000,Luxembourgish,house,Haus,,noun
+8100001,Luxembourgish,water,Waasser,,noun
+8100002,Luxembourgish,man,Mann,,noun
+8100003,Luxembourgish,woman,Fra,,noun
+8100004,Luxembourgish,child,Kand,,noun
+8100005,Luxembourgish,dog,Hond,,noun
+8100006,Luxembourgish,cat,Kaz,,noun
+8100007,Luxembourgish,sun,Sonn,,noun
+8100008,Luxembourgish,moon,Mound,,noun
+8100009,Luxembourgish,book,Buch,,noun
+8100010,Luxembourgish,one,eent,,number
+8100011,Luxembourgish,two,zwee,,number
+8100012,Luxembourgish,three,dräi,,number
+8100013,Luxembourgish,Good morning.,Gudde Moien.,,sentence
+8100014,Luxembourgish,Thank you.,Merci.,,sentence
