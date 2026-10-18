@@ -1,8 +1,8 @@
 ﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
-7700000,Cherokee,hello,ᎣᏏᏲ,,noun
-7700001,Cherokee,thank you,ᏩᏙ,,noun
-7700002,Cherokee,yes,ᎥᎥ,,noun
-7700003,Cherokee,no,ᎥᏝ,,noun
+7700000,Cherokee,hello,ᎣᏏᏲ,,expression
+7700001,Cherokee,thank you,ᏩᏙ,,expression
+7700002,Cherokee,yes,ᎥᎥ,,expression
+7700003,Cherokee,no,ᎥᏝ,,expression
 7700004,Cherokee,water,ᎠᎹ,,noun
 7700005,Cherokee,bread,ᎦᏚ,,noun
 7700006,Cherokee,Cherokee language,ᏣᎳᎩ,,noun
