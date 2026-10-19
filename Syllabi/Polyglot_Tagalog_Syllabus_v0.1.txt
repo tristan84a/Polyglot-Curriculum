@@ -1,0 +1,176 @@
+POLYGLOT TAGALOG SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Card Generation Protocol: 1.0
+Encoding: UTF-8
+Language: Tagalog (Filipino)
+Reference variety: contemporary Manila-based standard Filipino/Tagalog
+
+PURPOSE
+
+This is the canonical introduction map for the Tagalog deck. The existing 15-card micro deck is preserved intact and expanded to a 100-card systematic seed. The course moves toward educated-adult breadth in contemporary Filipino/Tagalog. Numbered units introduce branches; they do not close previously opened material. Reinforce old vocabulary and structures as new ones arrive.
+
+REFERENCE VARIETY AND EXACT-MATCH CONVENTIONS
+
+The unmarked Target uses broadly neutral contemporary Manila-based Filipino/Tagalog in standard Latin orthography. Tagalog is the language label used by the existing CSV; Filipino is the official national standard built chiefly on Tagalog and incorporating additional usage. Later distinguish region, colloquial speech, English code-switching, formal Filipino and literary Tagalog when it materially changes the target. Avoid presenting one colloquial Manila expression as universal.
+
+Use one natural canonical Target for each EnglishPrompt, with contextual qualifiers where needed. English cannot always encode Tagalog's focus/voice, aspect or inclusive/exclusive distinctions; prompts must label these contrasts when the answer would otherwise be ambiguous. Other translations may be grammatical, but only one is the app's exact-match answer. InputHint is blank for ordinary Latin-script cards. Preserve case, linker and marker spelling accurately; do not introduce accent marks into everyday targets.
+
+Tagalog is predicate-initial in many neutral clauses, with a rich voice system and aspect rather than English-style tense conjugation. The ang-marked pivot is not automatically the English subject or the agent. Teach ang, ng and sa by function and authentic contrast, not by claiming they map exactly onto English nominative, accusative and dative. Early nominal/adjectival predicates often have no copular 'be'.
+
+OPENING DESIGN AND LANGUAGE-SPECIFIC PRINCIPLES
+
+1. Keep the original 15 micro cards, IDs 4400000–4400014, unchanged. Their examples preview patient-oriented nakikita, possession with may, the linker -ng/na and numerals. A preview is not mastery of a later voice/aspect unit.
+2. Expand to 100 cards using concrete nouns, adjectives, nominal identity, adjective predicates, personal pronouns, plurality, demonstratives, negation, questions, location, existence and a small actor-voice verb preview.
+3. Predicate-initial nominal and adjectival clauses are an early default: Doktor siya; Malaki ang bahay. Teach natural alternate order later with discourse context.
+4. Adjectival and other modifiers require linkers -ng, -g and na according to the phonological ending. Teach adjective + noun first, then demonstrative-linked noun phrases and longer structures.
+5. Ang marks a pivot/definite-like nominal phrase in many constructions, ng marks a non-pivot argument or genitive-like relationship, and sa marks locations, recipients and other oblique relations. These descriptions are provisional teaching aids, not universal one-to-one case translations.
+6. Personal pronouns have distinct ang, ng and sa sets; start with independent ang-set forms and high-frequency predicate-clitic realizations such as ako, ka, siya, tayo, kami, kayo, sila. Tayo includes the addressee; kami excludes the addressee.
+7. Ordinary gender is not marked on siya. Label English pronouns as 'he or she' when testing the lexical form alone.
+8. Plural mga precedes the noun; a numeral or context can make plurality explicit without a simple English-style obligatory plural suffix.
+9. Demonstratives contrast proximity to speaker (ito), addressee (iyan) and neither (iyon); expand ang/ito, ng/nito and sa/dito sets later.
+10. Hindi negates nominal, adjectival and verbal predicates in common contexts; introduce its interaction with pronoun/clitic placement through examples. Wala expresses absence and nonexistence, contrasted with may/mayroon.
+11. The polar-question enclitic ba has placement constraints; do not mechanically append it at the end of every English question. Content questions include ano, sino, saan/nasaan, kailan, bakit and paano.
+12. Nasa marks static location; sa marks many locative/directional complements. Dito/diyan/doon are deictic locatives. Distinguish motion to/from later.
+13. Possession with may, mayroon, wala, ng-possessors, possessive pronouns and enclitic -ko/-mo/-niya needs longitudinal development.
+14. Verb roots and inflectional/aspectual forms must be introduced with voice-aware contexts. Actor voice (um-, mag-), patient voice (-in-, i-, -an and other patterns) and other voices are core grammar, not optional embellishment.
+15. Tagalog aspect distinguishes completed, incompleted and contemplated action, with morphological patterns that depend on the verb class. Time adverbs may co-occur but do not substitute for aspect.
+16. Later teach object/pivot selection and voice as a meaningful discourse contrast: Kumakain ang bata ng pagkain versus Kinakain ng bata ang pagkain. Do not assume English active/passive labels capture the full system.
+17. Ligatures, enclitics, second-position effects, topic/focus, inversion, existential constructions, relative modifiers, negation scope and question structure must recur in varied examples.
+18. Numbers and quantity require attention to linkers and classifiers such as tao, piraso and other counters in appropriate contexts; avoid inventing a rigid universal classifier system.
+19. Everyday speech includes po/opo, respectful address and context-sensitive pronouns. Add register distinctions after the core informal/neutral opening.
+20. Vocabulary continues to grow in parallel with grammar, moving from home and people to institutions, work, health, culture, science and educated-adult abstract language.
+
+SEED AUDIT
+
+4400000–4400014: original micro opening (unchanged).
+4400015–4400099: systematic seed (85 additions).
+
+The seed introduces concrete lexical anchors; linker alternation (malaking, maliit na, bagong); nominal/adjective predicates; independent pronouns and inclusive/exclusive we; mga; three-way demonstratives; hindi; ba and content questions; nasa and deictic location; may versus wala; and the first actor-voice aspect previews (kumakain, umiinom). Earlier nakikita remains a patient-oriented preview and is not treated as the unmarked actor-voice paradigm.
+
+CANONICAL INTRODUCTION MAP
+
+TL-01 Core nouns and adjectives
+TL-02 Nominal identity without a copula
+TL-03 Adjective predicates and predicate-first order
+TL-04 Linkers -ng and na in simple modifiers
+TL-05 Independent ang-set pronouns and predicate clitics
+TL-06 Inclusive tayo versus exclusive kami
+TL-07 Mga and plural noun phrases
+TL-08 Three-way demonstratives
+TL-09 Linked demonstrative noun phrases
+TL-10 Hindi in nominal and adjective negation
+TL-11 Polar questions with ba
+TL-12 Ano and sino content questions
+TL-13 Saan versus nasaan
+TL-14 Sa and nasa static locations
+TL-15 Dito/diyan/doon deictic locations
+TL-16 May and wala existence and possession
+TL-17 First actor-voice um- verbs in incompleted aspect
+TL-18 Ng-marked non-pivot objects in actor-voice clauses
+TL-19 Actor-voice completed and contemplated aspect
+TL-20 More actor-voice mag- verbs
+TL-21 Aspect and time expressions together
+TL-22 Personal pronoun ng-set
+TL-23 Personal pronoun sa-set
+TL-24 Possessive constructions and pronoun clitics
+TL-25 Ang/ng/sa phrase functions in controlled contrasts
+TL-26 Basic transitive actor-voice clause patterns
+TL-27 Patient-voice introduction with familiar roots
+TL-28 Patient-voice aspect patterns
+TL-29 Voice choice and ang-pivot contrast
+TL-30 Additional patient-voice morphology
+TL-31 Location and beneficiary voices
+TL-32 Thematic and instrument voice constructions
+TL-33 Voice and discourse prominence
+TL-34 Negation with aspect and voice
+TL-35 Imperatives and prohibitions
+TL-36 Requests with paki- and polite constructions
+TL-37 Po/opo and respectful interaction
+TL-38 Kailan/bakit/paano questions
+TL-39 Question-word placement and clitics
+TL-40 Enclitic ordering and second-position effects
+TL-41 Existential mayroon and its distribution
+TL-42 Wala versus hindi and absence/negation
+TL-43 Motion to/from locations
+TL-44 Demonstrative oblique and genitive sets
+TL-45 Adjective degree and comparison
+TL-46 Intensifiers and degree adverbs
+TL-47 Cardinal numbers and numeral-linker patterns
+TL-48 Time dates and age
+TL-49 Counting people objects and quantities
+TL-50 Coordination and simple conjunctions
+TL-51 Relative modifiers and linker clauses
+TL-52 Complement clauses
+TL-53 Temporal subordinate clauses
+TL-54 Cause and purpose clauses
+TL-55 Conditions and hypothetical language
+TL-56 Concession and contrast
+TL-57 Focus/topic and information structure
+TL-58 Word order alternatives and marked constructions
+TL-59 Reflexive and reciprocal forms
+TL-60 Stative and ability constructions
+TL-61 Benefactive and causative derivation
+TL-62 Productive affix families and lexical derivation
+TL-63 Reduplication and its grammatical meanings
+TL-64 Nominalization and abstract nouns
+TL-65 Locative and directional morphology
+TL-66 Modality obligation possibility and intention
+TL-67 Reported speech and questions
+TL-68 Negation scope and polarity
+TL-69 Discourse particles and conversation structure
+TL-70 Register pronouns and respectful address
+TL-71 Colloquial Manila usage with explicit labelling
+TL-72 Filipino/Tagalog standard variation and code-switching
+TL-73 Household and everyday routines
+TL-74 Family and relationships
+TL-75 Food and cooking
+TL-76 Body health and medicine
+TL-77 Work professions and employment
+TL-78 Education and institutions
+TL-79 Travel transport and navigation
+TL-80 Towns buildings and public spaces
+TL-81 Nature weather and environment
+TL-82 Technology media and communication
+TL-83 Shopping money and commerce
+TL-84 Government law and public institutions
+TL-85 Science mathematics and engineering
+TL-86 Arts literature and culture
+TL-87 History society and public discourse
+TL-88 Religion philosophy and ethics
+TL-89 Emotion personality and social relations
+TL-90 Abstract concepts and semantic distinctions
+TL-91 Academic and professional vocabulary
+TL-92 Idioms collocations and figurative speech
+TL-93 Polysemy and lexical nuance
+TL-94 Formal writing and presentations
+TL-95 Literary and historical registers
+TL-96 Educated-adult lexical long tail
+
+These units indicate introduction order, not isolated chapters. Vocabulary domains begin earlier where needed and expand throughout the curriculum.
+
+CARD GENERATION RULES
+
+- Six columns: ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech.
+- Reserved Tagalog ID range: 4400000–4499999.
+- Keep IDs stable and EnglishPrompt unique within Tagalog.
+- Preserve original 15 micro cards; new seed IDs begin at 4400015.
+- Prefer short, idiomatic, standalone prompts with one canonical Target.
+- Explicitly disambiguate inclusive/exclusive 'we', deixis and speaker/participant roles when necessary.
+- Avoid conflating ang with English definite article or ng with English accusative case.
+- When voice is the teaching objective, make the intended pivot/voice clear from the prompt.
+- Avoid dumping abstract verbs before concrete noun and predicate patterns.
+- Maintain controlled examples and gradually combine established concepts.
+- Do not introduce a second card simply to repeat an existing Target without a distinct pedagogical function.
+- Prefer contemporary standard orthography; InputHint normally blank.
+- Use common punctuation and sentence capitalization consistently.
+
+CURRENT FRONTIER AND NEXT EXPANSION
+
+At 100 cards, the forward frontier is TL-19: actor-voice completed and contemplated aspect. The next batch should expand the um- aspect system and add mag- verbs, time words and everyday nouns. It should then introduce ng- and sa-set pronouns and move toward deliberate actor/patient voice contrasts. Earlier nakikita and four-car examples should be revisited in those later controlled voice and numeral units. Do not postpone all productive verbs until every marker is exhausted.
+
+AMENDMENT HISTORY
+
+Version 0.1 graduates the existing Tagalog micro deck into a 100-card systematic seed, preserves the original fifteen cards, and establishes a language-specific voice/aspect-aware syllabus.
