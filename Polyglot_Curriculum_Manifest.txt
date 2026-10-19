@@ -62,7 +62,7 @@ Bengali      4000000-4099999         4000000-4000014        15
 Uzbek        4100000-4199999         4100000-4100014        15
 Hausa        4200000-4299999         4200000-4200014        15
 Catalan      4300000-4399999         4300000-4300014        15
-Tagalog      4400000-4499999         4400000-4400014        15
+Tagalog      4400000-4499999         4400000-4400099       100
 Lithuanian   4500000-4599999         4500000-4500127       128
 Welsh        4600000-4699999         4600000-4600014        15
 Bulgarian    4700000-4799999         4700000-4700014        15
@@ -281,7 +281,7 @@ BENGALI — Cards/Bengali.csv — 15 cards — 4000000-4000014
 UZBEK — Cards/Uzbek.csv — 15 cards — 4100000-4100014
 HAUSA — Cards/Hausa.csv — 15 cards — 4200000-4200014
 CATALAN — Cards/Catalan.csv — 15 cards — 4300000-4300014
-TAGALOG — Cards/Tagalog.csv — 15 cards — 4400000-4400014
+TAGALOG — Cards/Tagalog.csv — 100 cards — 4400000-4400099 — Syllabus: Syllabi/Polyglot_Tagalog_Syllabus_v0.1.txt. Frontier: TL-19 — Actor-voice completed and contemplated aspect. Original 15 micro cards preserved; seed develops linkers, pronouns, plurality, demonstratives, negation, questions, location, existence/possession and first actor-voice verbs.
 LITHUANIAN — Cards/Lithuanian.csv — 15 cards — 4500000-4500014
 WELSH — Cards/Welsh.csv — 15 cards — 4600000-4600014
 BULGARIAN — Cards/Bulgarian.csv — 15 cards — 4700000-4700014
