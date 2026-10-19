@@ -35,7 +35,7 @@ Hebrew       1300000-1399999         1300000-1300099        100
 Mandarin     1400000-1499999         1400000-1400099        100
 Icelandic    1500000-1599999         1500000-1500519        520
 Italian      1600000-1699999         1600000-1600099        100
-Serbian      1700000-1799999         1700000-1700099        100
+Serbian      1700000-1799999         1700000-1700314        315
 Swedish      1800000-1899999         1800000-1800099        100
 Punjabi      1900000-1999999         1900000-1900099        100
 Portuguese   2000000-2099999         2000000-2000099        100
@@ -199,8 +199,9 @@ Checkpoint: Contemporary standard Italian seed. The existing 100 cards establish
 
 SERBIAN
 Syllabus: Syllabi/Polyglot_Serbian_Syllabus_v0.2.txt
-Cards: 100 | Used IDs: 1700000-1700099
-Checkpoint: Seed deck using Serbian/Cyrillic as the unmarked Serbo-Croatian reference; Latin and regional variants are explicitly distinguished when introduced.
+Cards: 315 | Used IDs: 1700000-1700314
+Frontier: SR-44 — Imperfective/perfective aspect introduction
+Checkpoint: The original 100-card Cyrillic seed is preserved. Expansion develops nominative plurals, accusative contrasts, present verbs, locative/destination and genitive prepositions, possession, dative recipients and clitics, instrumental accompaniment/means, basic conversational language, modals and the first past l-participle constructions. Serbian Ekavian Cyrillic remains the unmarked default; BCMS variant strands are reserved for later.
 
 SWEDISH
 Syllabus: Syllabi/Polyglot_Swedish_Syllabus_v0.1.txt
