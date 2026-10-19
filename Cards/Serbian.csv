@@ -99,3 +99,218 @@
 1700097,Serbian,We are going to the city.,Идемо у град.,,sentence
 1700098,Serbian,yes,да,,expression
 1700099,Serbian,no,не,,expression
+1700100,Serbian,houses,куће,,noun
+1700101,Serbian,books,књиге,,noun
+1700102,Serbian,windows,прозори,,noun
+1700103,Serbian,cities,градови,,noun
+1700104,Serbian,schools,школе,,noun
+1700105,Serbian,women,жене,,noun
+1700106,Serbian,men,мушкарци,,noun
+1700107,Serbian,children,деца,,noun
+1700108,Serbian,The houses are big.,Куће су велике.,,sentence
+1700109,Serbian,The books are new.,Књиге су нове.,,sentence
+1700110,Serbian,The windows are old.,Прозори су стари.,,sentence
+1700111,Serbian,The children are small.,Деца су мала.,,sentence
+1700112,Serbian,The cities are big.,Градови су велики.,,sentence
+1700113,Serbian,The schools are new.,Школе су нове.,,sentence
+1700114,Serbian,The women work.,Жене раде.,,sentence
+1700115,Serbian,The men read.,Мушкарци читају.,,sentence
+1700116,Serbian,new houses,нове куће,,phrase
+1700117,Serbian,small windows,мали прозори,,phrase
+1700118,Serbian,good children,добра деца,,phrase
+1700119,Serbian,old cities,стари градови,,phrase
+1700120,Serbian,to write,писати,,verb
+1700121,Serbian,I write.,Пишем.,,sentence
+1700122,Serbian,You write. (singular informal),Пишеш.,,sentence
+1700123,Serbian,She writes.,Пише.,,sentence
+1700124,Serbian,We write.,Пишемо.,,sentence
+1700125,Serbian,They write.,Пишу.,,sentence
+1700126,Serbian,to speak,говорити,,verb
+1700127,Serbian,I speak.,Говорим.,,sentence
+1700128,Serbian,He speaks.,Говори.,,sentence
+1700129,Serbian,We speak.,Говоримо.,,sentence
+1700130,Serbian,Do you speak? (singular informal),Да ли говориш?,,sentence
+1700131,Serbian,I do not write.,Не пишем.,,sentence
+1700132,Serbian,They do not speak.,Не говоре.,,sentence
+1700133,Serbian,to live,живети,,verb
+1700134,Serbian,I live here.,Живим овде.,,sentence
+1700135,Serbian,She lives in the city.,Живи у граду.,,sentence
+1700136,Serbian,We live in a house.,Живимо у кући.,,sentence
+1700137,Serbian,Where do you live? (singular informal),Где живиш?,,sentence
+1700138,Serbian,to go,ићи,,verb
+1700139,Serbian,I go to school.,Идем у школу.,,sentence
+1700140,Serbian,He goes to the city.,Иде у град.,,sentence
+1700141,Serbian,They go to school.,Иду у школу.,,sentence
+1700142,Serbian,Do you go to school? (singular informal),Да ли идеш у школу?,,sentence
+1700143,Serbian,I see the man.,Видим мушкарца.,,sentence
+1700144,Serbian,She sees the child.,Види дете.,,sentence
+1700145,Serbian,We see the window.,Видимо прозор.,,sentence
+1700146,Serbian,They see the houses.,Виде куће.,,sentence
+1700147,Serbian,I read a book.,Читам књигу.,,sentence
+1700148,Serbian,He reads books.,Чита књиге.,,sentence
+1700149,Serbian,I see the men.,Видим мушкарце.,,sentence
+1700150,Serbian,I see the children.,Видим децу.,,sentence
+1700151,Serbian,the man (accusative),мушкарца,,noun
+1700152,Serbian,the men (accusative),мушкарце,,noun
+1700153,Serbian,the children (accusative),децу,,noun
+1700154,Serbian,I have a new book.,Имам нову књигу.,,sentence
+1700155,Serbian,She sees a big house.,Види велику кућу.,,sentence
+1700156,Serbian,We have a small car.,Имамо мали ауто.,,sentence
+1700157,Serbian,He reads an old book.,Чита стару књигу.,,sentence
+1700158,Serbian,I see a good man.,Видим доброг мушкарца.,,sentence
+1700159,Serbian,She sees a small child.,Види мало дете.,,sentence
+1700160,Serbian,We see new windows.,Видимо нове прозоре.,,sentence
+1700161,Serbian,I see big cities.,Видим велике градове.,,sentence
+1700162,Serbian,in the school,у школи,,phrase
+1700163,Serbian,at school,у школи,,phrase
+1700164,Serbian,in the car,у ауту,,phrase
+1700165,Serbian,in the book,у књизи,,phrase
+1700166,Serbian,The book is in the house.,Књига је у кући.,,sentence
+1700167,Serbian,The child is at school.,Дете је у школи.,,sentence
+1700168,Serbian,The man is in the car.,Мушкарац је у ауту.,,sentence
+1700169,Serbian,The woman is in the city.,Жена је у граду.,,sentence
+1700170,Serbian,at the window,на прозору,,phrase
+1700171,Serbian,on the table,на столу,,phrase
+1700172,Serbian,table,сто,,noun
+1700173,Serbian,The book is on the table.,Књига је на столу.,,sentence
+1700174,Serbian,The window is in the house.,Прозор је у кући.,,sentence
+1700175,Serbian,to the school,у школу,,phrase
+1700176,Serbian,into the car,у ауто,,phrase
+1700177,Serbian,onto the table,на сто,,phrase
+1700178,Serbian,I put the book on the table.,Стављам књигу на сто.,,sentence
+1700179,Serbian,to put (imperfective),стављати,,verb
+1700180,Serbian,He goes into the car.,Улази у ауто.,,sentence
+1700181,Serbian,to enter (imperfective),улазити,,verb
+1700182,Serbian,She goes to school.,Иде у школу.,,sentence
+1700183,Serbian,We go into the house.,Улазимо у кућу.,,sentence
+1700184,Serbian,They are at school.,У школи су.,,sentence
+1700185,Serbian,The books are on the table.,Књиге су на столу.,,sentence
+1700186,Serbian,from the house,из куће,,phrase
+1700187,Serbian,from the city,из града,,phrase
+1700188,Serbian,from school,из школе,,phrase
+1700189,Serbian,without water,без воде,,phrase
+1700190,Serbian,without a book,без књиге,,phrase
+1700191,Serbian,near the house,близу куће,,phrase
+1700192,Serbian,near the school,близу школе,,phrase
+1700193,Serbian,I am from the city.,Из града сам.,,sentence
+1700194,Serbian,She comes from school.,Долази из школе.,,sentence
+1700195,Serbian,to come (imperfective),долазити,,verb
+1700196,Serbian,We live near the school.,Живимо близу школе.,,sentence
+1700197,Serbian,I have no book.,Немам књигу.,,sentence
+1700198,Serbian,She has no car.,Нема ауто.,,sentence
+1700199,Serbian,We have no water.,Немамо воде.,,sentence
+1700200,Serbian,There is a book on the table.,На столу је књига.,,sentence
+1700201,Serbian,There is no water.,Нема воде.,,sentence
+1700202,Serbian,There is a school in the city.,У граду постоји школа.,,sentence
+1700203,Serbian,brother,брат,,noun
+1700204,Serbian,sister,сестра,,noun
+1700205,Serbian,mother,мајка,,noun
+1700206,Serbian,father,отац,,noun
+1700207,Serbian,friend (male),пријатељ,,noun
+1700208,Serbian,friend (female),пријатељица,,noun
+1700209,Serbian,my brother,мој брат,,phrase
+1700210,Serbian,my sister,моја сестра,,phrase
+1700211,Serbian,my child,моје дете,,phrase
+1700212,Serbian,my books,моје књиге,,phrase
+1700213,Serbian,your house (singular informal),твоја кућа,,phrase
+1700214,Serbian,his book,његова књига,,phrase
+1700215,Serbian,her car,њен ауто,,phrase
+1700216,Serbian,our school,наша школа,,phrase
+1700217,Serbian,their house,њихова кућа,,phrase
+1700218,Serbian,My mother works.,Моја мајка ради.,,sentence
+1700219,Serbian,My father reads.,Мој отац чита.,,sentence
+1700220,Serbian,Her brother lives here.,Њен брат живи овде.,,sentence
+1700221,Serbian,Our children are at school.,Наша деца су у школи.,,sentence
+1700222,Serbian,This is my sister.,Ово је моја сестра.,,sentence
+1700223,Serbian,I see my brother.,Видим свог брата.,,sentence
+1700224,Serbian,I see my sister.,Видим своју сестру.,,sentence
+1700225,Serbian,I am giving a book to my brother.,Дајем књигу брату.,,sentence
+1700226,Serbian,to give (imperfective),давати,,verb
+1700227,Serbian,to receive (imperfective),добијати,,verb
+1700228,Serbian,I give her a book.,Дајем јој књигу.,,sentence
+1700229,Serbian,He gives me water.,Даје ми воду.,,sentence
+1700230,Serbian,She gives him a book.,Даје му књигу.,,sentence
+1700231,Serbian,We give the child water.,Дајемо детету воду.,,sentence
+1700232,Serbian,to my brother,брату,,phrase
+1700233,Serbian,to my sister,сестри,,phrase
+1700234,Serbian,to the child,детету,,phrase
+1700235,Serbian,to the woman,жени,,phrase
+1700236,Serbian,I write to my sister.,Пишем сестри.,,sentence
+1700237,Serbian,He gives the woman a book.,Даје жени књигу.,,sentence
+1700238,Serbian,with my brother,са братом,,phrase
+1700239,Serbian,with my sister,са сестром,,phrase
+1700240,Serbian,with the child,са дететом,,phrase
+1700241,Serbian,with a friend (male),са пријатељем,,phrase
+1700242,Serbian,I work with my brother.,Радим са братом.,,sentence
+1700243,Serbian,She goes with her sister.,Иде са сестром.,,sentence
+1700244,Serbian,We read with the child.,Читамо са дететом.,,sentence
+1700245,Serbian,I write with a pen.,Пишем оловком.,,sentence
+1700246,Serbian,pen,оловка,,noun
+1700247,Serbian,with a pen (instrument),оловком,,phrase
+1700248,Serbian,I travel by car.,Путујем аутом.,,sentence
+1700249,Serbian,to travel,путовати,,verb
+1700250,Serbian,Hello!,Здраво!,,expression
+1700251,Serbian,Good morning!,Добро јутро!,,expression
+1700252,Serbian,Good day!,Добар дан!,,expression
+1700253,Serbian,Good evening!,Добро вече!,,expression
+1700254,Serbian,Goodbye!,Довиђења!,,expression
+1700255,Serbian,Thank you.,Хвала.,,expression
+1700256,Serbian,Please.,Молим.,,expression
+1700257,Serbian,Excuse me.,Извините.,,expression
+1700258,Serbian,How are you? (singular informal),Како си?,,sentence
+1700259,Serbian,I am fine.,Добро сам.,,sentence
+1700260,Serbian,What is your name? (singular informal),Како се зовеш?,,sentence
+1700261,Serbian,My name is Ana.,Зовем се Ана.,,sentence
+1700262,Serbian,I understand.,Разумем.,,sentence
+1700263,Serbian,I do not understand.,Не разумем.,,sentence
+1700264,Serbian,to understand,разумети,,verb
+1700265,Serbian,to know,знати,,verb
+1700266,Serbian,I know.,Знам.,,sentence
+1700267,Serbian,I do not know.,Не знам.,,sentence
+1700268,Serbian,Do you understand? (singular informal),Да ли разумеш?,,sentence
+1700269,Serbian,I can read.,Могу да читам.,,sentence
+1700270,Serbian,She can write.,Може да пише.,,sentence
+1700271,Serbian,We can go.,Можемо да идемо.,,sentence
+1700272,Serbian,to be able to,моћи,,verb
+1700273,Serbian,I must work.,Морам да радим.,,sentence
+1700274,Serbian,You must read. (singular informal),Мораш да читаш.,,sentence
+1700275,Serbian,We must go.,Морамо да идемо.,,sentence
+1700276,Serbian,to have to,морати,,verb
+1700277,Serbian,I like to read.,Волим да читам.,,sentence
+1700278,Serbian,She likes to work.,Воли да ради.,,sentence
+1700279,Serbian,to like or love,волети,,verb
+1700280,Serbian,I want water.,Хоћу воду.,,sentence
+1700281,Serbian,Do you want water? (singular informal),Да ли хоћеш воду?,,sentence
+1700282,Serbian,I do not want to go.,Нећу да идем.,,sentence
+1700283,Serbian,She does not want to work.,Неће да ради.,,sentence
+1700284,Serbian,I need a book.,Треба ми књига.,,sentence
+1700285,Serbian,He needs water.,Треба му вода.,,sentence
+1700286,Serbian,We need a car.,Треба нам ауто.,,sentence
+1700287,Serbian,I am tired. (male speaker),Уморан сам.,,sentence
+1700288,Serbian,I am tired. (female speaker),Уморна сам.,,sentence
+1700289,Serbian,She is tired.,Уморна је.,,sentence
+1700290,Serbian,He is happy.,Срећан је.,,sentence
+1700291,Serbian,She is happy.,Срећна је.,,sentence
+1700292,Serbian,happy (masculine),срећан,,adjective
+1700293,Serbian,tired (masculine),уморан,,adjective
+1700294,Serbian,today,данас,,adverb
+1700295,Serbian,yesterday,јуче,,adverb
+1700296,Serbian,tomorrow,сутра,,adverb
+1700297,Serbian,now,сада,,adverb
+1700298,Serbian,later,касније,,adverb
+1700299,Serbian,Today I work.,Данас радим.,,sentence
+1700300,Serbian,Tomorrow we go to school.,Сутра идемо у школу.,,sentence
+1700301,Serbian,Yesterday I worked. (male speaker),Јуче сам радио.,,sentence
+1700302,Serbian,Yesterday I worked. (female speaker),Јуче сам радила.,,sentence
+1700303,Serbian,Yesterday she read.,Јуче је читала.,,sentence
+1700304,Serbian,Yesterday he read.,Јуче је читао.,,sentence
+1700305,Serbian,We worked yesterday. (mixed or male group),Јуче смо радили.,,sentence
+1700306,Serbian,They worked yesterday. (mixed or male group),Јуче су радили.,,sentence
+1700307,Serbian,I was at home yesterday. (male speaker),Јуче сам био код куће.,,sentence
+1700308,Serbian,I was at home yesterday. (female speaker),Јуче сам била код куће.,,sentence
+1700309,Serbian,I did not work yesterday. (male speaker),Јуче нисам радио.,,sentence
+1700310,Serbian,She did not read yesterday.,Јуче није читала.,,sentence
+1700311,Serbian,Did you work yesterday? (singular informal male),Да ли си јуче радио?,,sentence
+1700312,Serbian,I wrote yesterday. (male speaker),Јуче сам писао.,,sentence
+1700313,Serbian,She wrote yesterday.,Јуче је писала.,,sentence
+1700314,Serbian,We were at school yesterday. (mixed or male group),Јуче смо били у школи.,,sentence
