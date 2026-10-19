@@ -14,3 +14,88 @@
 4400012,Tagalog,He has a car.,May kotse siya.,,sentence
 4400013,Tagalog,He has a red car.,May pulang kotse siya.,,sentence
 4400014,Tagalog,I see four cars.,Nakikita ko ang apat na kotse.,,sentence
+4400015,Tagalog,woman,babae,,noun
+4400016,Tagalog,child,bata,,noun
+4400017,Tagalog,book,libro,,noun
+4400018,Tagalog,school,paaralan,,noun
+4400019,Tagalog,city,lungsod,,noun
+4400020,Tagalog,food,pagkain,,noun
+4400021,Tagalog,small,maliit,,adjective
+4400022,Tagalog,good,mabuti,,adjective
+4400023,Tagalog,new,bago,,adjective
+4400024,Tagalog,old (not new),luma,,adjective
+4400025,Tagalog,The book is new.,Bago ang libro.,,sentence
+4400026,Tagalog,The child is small.,Maliit ang bata.,,sentence
+4400027,Tagalog,The woman is a doctor.,Doktor ang babae.,,sentence
+4400028,Tagalog,The car is old.,Luma ang kotse.,,sentence
+4400029,Tagalog,a big house,malaking bahay,,phrase
+4400030,Tagalog,a small car,maliit na kotse,,phrase
+4400031,Tagalog,a new book,bagong libro,,phrase
+4400032,Tagalog,a red book,pulang libro,,phrase
+4400033,Tagalog,The book is red.,Pula ang libro.,,sentence
+4400034,Tagalog,I,ako,,pronoun
+4400035,Tagalog,you (singular),ikaw,,pronoun
+4400036,Tagalog,he or she,siya,,pronoun
+4400037,Tagalog,we (including you),tayo,,pronoun
+4400038,Tagalog,we (excluding you),kami,,pronoun
+4400039,Tagalog,you (plural),kayo,,pronoun
+4400040,Tagalog,they,sila,,pronoun
+4400041,Tagalog,I am a doctor.,Doktor ako.,,sentence
+4400042,Tagalog,You are a doctor. (singular),Doktor ka.,,sentence
+4400043,Tagalog,We are doctors. (including you),Mga doktor tayo.,,sentence
+4400044,Tagalog,We are doctors. (excluding you),Mga doktor kami.,,sentence
+4400045,Tagalog,They are doctors.,Mga doktor sila.,,sentence
+4400046,Tagalog,the children,ang mga bata,,phrase
+4400047,Tagalog,the books,ang mga libro,,phrase
+4400048,Tagalog,The children are small.,Maliit ang mga bata.,,sentence
+4400049,Tagalog,The cars are red.,Pula ang mga kotse.,,sentence
+4400050,Tagalog,This is a book.,Libro ito.,,sentence
+4400051,Tagalog,That is a house. (near you),Bahay iyan.,,sentence
+4400052,Tagalog,That is a car. (far from both of us),Kotse iyon.,,sentence
+4400053,Tagalog,this (near me),ito,,pronoun
+4400054,Tagalog,that (near you),iyan,,pronoun
+4400055,Tagalog,that (far from both),iyon,,pronoun
+4400056,Tagalog,This book is new.,Bago ang librong ito.,,sentence
+4400057,Tagalog,That house is big. (near you),Malaki ang bahay na iyan.,,sentence
+4400058,Tagalog,That car is red. (far from both),Pula ang kotseng iyon.,,sentence
+4400059,Tagalog,not,hindi,,grammar
+4400060,Tagalog,I am not a doctor.,Hindi ako doktor.,,sentence
+4400061,Tagalog,The house is not small.,Hindi maliit ang bahay.,,sentence
+4400062,Tagalog,The car is not new.,Hindi bago ang kotse.,,sentence
+4400063,Tagalog,They are not doctors.,Hindi sila mga doktor.,,sentence
+4400064,Tagalog,Is the house big?,Malaki ba ang bahay?,,sentence
+4400065,Tagalog,Is the book new?,Bago ba ang libro?,,sentence
+4400066,Tagalog,Are you a doctor? (singular),Doktor ka ba?,,sentence
+4400067,Tagalog,question particle (yes/no),ba,,grammar
+4400068,Tagalog,what,ano,,grammar
+4400069,Tagalog,who,sino,,grammar
+4400070,Tagalog,where,saan,,grammar
+4400071,Tagalog,What is this?,Ano ito?,,sentence
+4400072,Tagalog,Who is the doctor?,Sino ang doktor?,,sentence
+4400073,Tagalog,Where is the school?,Saan ang paaralan?,,sentence
+4400074,Tagalog,Where is the book?,Nasaan ang libro?,,sentence
+4400075,Tagalog,Where is the child?,Nasaan ang bata?,,sentence
+4400076,Tagalog,at the school,sa paaralan,,phrase
+4400077,Tagalog,in the house,sa bahay,,phrase
+4400078,Tagalog,The child is at school.,Nasa paaralan ang bata.,,sentence
+4400079,Tagalog,The book is in the house.,Nasa bahay ang libro.,,sentence
+4400080,Tagalog,I am at home.,Nasa bahay ako.,,sentence
+4400081,Tagalog,The doctor is here.,Nandito ang doktor.,,sentence
+4400082,Tagalog,here,dito,,adverb
+4400083,Tagalog,there (near you),diyan,,adverb
+4400084,Tagalog,there (far from both),doon,,adverb
+4400085,Tagalog,I have a book.,May libro ako.,,sentence
+4400086,Tagalog,I have a car.,May kotse ako.,,sentence
+4400087,Tagalog,We have water. (excluding you),May tubig kami.,,sentence
+4400088,Tagalog,The doctor has a house.,May bahay ang doktor.,,sentence
+4400089,Tagalog,I have no car.,Wala akong kotse.,,sentence
+4400090,Tagalog,The house has no water.,Walang tubig ang bahay.,,sentence
+4400091,Tagalog,There is water.,May tubig.,,sentence
+4400092,Tagalog,There is no water.,Walang tubig.,,sentence
+4400093,Tagalog,to eat (dictionary form),kumain,,verb
+4400094,Tagalog,I am eating.,Kumakain ako.,,sentence
+4400095,Tagalog,The child is eating.,Kumakain ang bata.,,sentence
+4400096,Tagalog,to drink (dictionary form),uminom,,verb
+4400097,Tagalog,I am drinking water.,Umiinom ako ng tubig.,,sentence
+4400098,Tagalog,The child is drinking water.,Umiinom ng tubig ang bata.,,sentence
+4400099,Tagalog,I am not eating.,Hindi ako kumakain.,,sentence
