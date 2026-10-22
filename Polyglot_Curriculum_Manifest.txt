@@ -34,7 +34,7 @@ Hindi        1200000-1299999         1200000-1200319        320
 Hebrew       1300000-1399999         1300000-1300099        100
 Mandarin     1400000-1499999         1400000-1400099        100
 Icelandic    1500000-1599999         1500000-1500519        520
-Italian      1600000-1699999         1600000-1600099        100
+Italian      1600000-1699999         1600000-1600312        313
 Serbian      1700000-1799999         1700000-1700314        315
 Swedish      1800000-1899999         1800000-1800099        100
 Punjabi      1900000-1999999         1900000-1900099        100
@@ -193,9 +193,9 @@ Checkpoint: Established deck with V2, case government, noun/adjective agreement,
 
 ITALIAN
 Syllabus: Syllabi/Polyglot_Italian_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 1600000-1600099
-Frontier: IT-14 — Regular -ere present
-Checkpoint: Contemporary standard Italian seed. The existing 100 cards establish articles and agreement, pro-drop, essere, avere, negation, regular -are present, questions, direct lexical objects and volere + infinitive. Continue at regular -ere while recycling established systems and widening vocabulary.
+Cards: 313 | Used IDs: 1600000-1600312
+Frontier: IT-28 — Everyday noun-phrase synthesis
+Checkpoint: Original 100-card seed preserved. Expansion adds -ere/-ire conjugations including -isc-, present-tense reinforcement, noun/adjective plurals, articles, possessives, demonstratives, numbers, basic prepositions, andare/venire, existential c'è/ci sono, and avere expressions. Continue noun-phrase synthesis before moving into direct-object clitics.
 
 SERBIAN
 Syllabus: Syllabi/Polyglot_Serbian_Syllabus_v0.2.txt
