@@ -19,7 +19,7 @@ Polyglot_Card_Generation_Protocol_v1.0.txt
 Polyglot uses integer language blocks of 100,000 IDs.
 
 Language     Reserved ID range       Current used IDs       Current cards
-French       100000-199999           100000-101499        1500
+French       100000-199999           100000-100933         934
 German       200000-299999           200000-200749          750
 Japanese     300000-399999           300000-300499          500
 Polish       400000-499999           400000-400249          250
@@ -110,9 +110,9 @@ These ranges are reservations, not curriculum-size targets. Stable live IDs are 
 
 FRENCH
 Syllabus: Syllabi/Polyglot_French_Syllabus_v0.3.txt
-Cards: 1500 | Used IDs: 100000-101499
+Cards: 934 | Used IDs: 100000-100933
 Frontier: FR-73 — Superlative adjectives
-Checkpoint: Added 500 cards (101000-101499) while preserving the earlier 1000. The expansion reinforces FR-58/59 past aspect and interruption, introduces FR-60 pluperfect and past narratives, FR-62/63/64 near and simple future including irregular stems, FR-65 future-time clauses, FR-66 through FR-71 conditional formation, polite requests, hypothetical and real si clauses, and FR-72 adjective comparison. Vocabulary broadens through places, institutions, nature, science, engineering, health, commerce and culture. Earlier branches remain active in the widening spiral.
+Checkpoint: Rebuilt the pre-live expansion from original IDs 100600–101499 by selecting 334 of 900 cards, renumbered contiguously as 100600–100933; first 600 cards unchanged. FR-50–FR-72 remain introduced, with FR-73 superlatives next. This intentionally favors faster syllabus progression, representative grammar contrasts and varied vocabulary over exhaustive tense and conditional drills; deleted vocabulary can return in the widening spiral.
 
 GERMAN
 Syllabus: Syllabi/Polyglot_German_Syllabus_v0.3.txt
