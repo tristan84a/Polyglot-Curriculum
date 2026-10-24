@@ -600,902 +600,336 @@
 100598,French,My friend came this morning. (female),Mon amie est venue ce matin.,,
 100599,French,Who came yesterday?,Qui est venu hier ?,,
 100600,French,I woke up early. (male speaker),Je me suis réveillé tôt.,,sentence
-100601,French,I woke up early. (female speaker),Je me suis réveillée tôt.,,sentence
-100602,French,She woke up at six.,Elle s'est réveillée à six heures.,,sentence
-100603,French,He woke up after sunrise.,Il s'est réveillé après le lever du soleil.,,sentence
-100604,French,We got up before breakfast. (masculine/mixed),Nous nous sommes levés avant le petit-déjeuner.,,sentence
-100605,French,They got up late. (feminine),Elles se sont levées tard.,,sentence
-100606,French,I got dressed quickly. (male speaker),Je me suis habillé rapidement.,,sentence
-100607,French,She got dressed for the concert.,Elle s'est habillée pour le concert.,,sentence
-100608,French,The children got dressed.,Les enfants se sont habillés.,,sentence
-100609,French,He washed himself after work.,Il s'est lavé après le travail.,,sentence
-100610,French,She washed herself before dinner.,Elle s'est lavée avant le dîner.,,sentence
-100611,French,We washed ourselves after the hike. (masculine/mixed),Nous nous sommes lavés après la randonnée.,,sentence
-100612,French,I went to bed at eleven. (male speaker),Je me suis couché à onze heures.,,sentence
-100613,French,My sister went to bed early.,Ma sœur s'est couchée tôt.,,sentence
-100614,French,We went to bed after midnight. (feminine),Nous nous sommes couchées après minuit.,,sentence
-100615,French,She hurried to the station.,Elle s'est dépêchée d'aller à la gare.,,sentence
-100616,French,They hurried to the airport. (masculine/mixed),Ils se sont dépêchés d'aller à l'aéroport.,,sentence
-100617,French,He rested after the meeting.,Il s'est reposé après la réunion.,,sentence
-100618,French,She rested on the sofa.,Elle s'est reposée sur le canapé.,,sentence
-100619,French,I remembered the address. (male speaker),Je me suis souvenu de l'adresse.,,sentence
-100620,French,She remembered the appointment.,Elle s'est souvenue du rendez-vous.,,sentence
-100621,French,We met up in the square. (masculine/mixed),Nous nous sommes retrouvés sur la place.,,sentence
-100622,French,They met up at the museum. (feminine),Elles se sont retrouvées au musée.,,sentence
-100623,French,I took a walk by the river. (male speaker),Je me suis promené au bord de la rivière.,,sentence
-100624,French,We took a walk in the forest. (feminine),Nous nous sommes promenées dans la forêt.,,sentence
-100625,French,He shaved this morning.,Il s'est rasé ce matin.,,sentence
-100626,French,She brushed her teeth.,Elle s'est brossé les dents.,,sentence
-100627,French,He washed his hands.,Il s'est lavé les mains.,,sentence
-100628,French,The neighbours greeted each other.,Les voisins se sont salués.,,sentence
-100629,French,The colleagues spoke to each other.,Les collègues se sont parlé.,,sentence
-100630,French,The two sisters called each other.,Les deux sœurs se sont téléphoné.,,sentence
-100631,French,The friends wrote to each other.,Les amis se sont écrit.,,sentence
-100632,French,She did not get up early.,Elle ne s'est pas levée tôt.,,sentence
-100633,French,I did not remember his name. (male speaker),Je ne me suis pas souvenu de son nom.,,sentence
-100634,French,Did you get dressed? (singular informal male),Est-ce que tu t'es habillé ?,,sentence
-100635,French,Did she go to bed?,Est-ce qu'elle s'est couchée ?,,sentence
-100636,French,Where did they meet up? (masculine/mixed),Où est-ce qu'ils se sont retrouvés ?,,sentence
-100637,French,Why did you hurry? (singular informal female),Pourquoi est-ce que tu t'es dépêchée ?,,sentence
-100638,French,The child fell asleep.,L'enfant s'est endormi.,,sentence
-100639,French,She fell asleep on the train.,Elle s'est endormie dans le train.,,sentence
-100640,French,I felt better after resting. (male speaker),Je me suis senti mieux après m'être reposé.,,sentence
-100641,French,We sat down in the garden. (masculine/mixed),Nous nous sommes assis dans le jardin.,,sentence
-100642,French,She got angry at the delay.,Elle s'est fâchée à cause du retard.,,sentence
-100643,French,The children had fun at the festival.,Les enfants se sont amusés au festival.,,sentence
-100644,French,I introduced myself to the director. (male speaker),Je me suis présenté au directeur.,,sentence
-100645,French,She signed up for the course.,Elle s'est inscrite au cours.,,sentence
-100646,French,We got lost in the forest. (masculine/mixed),Nous nous sommes perdus dans la forêt.,,sentence
-100647,French,They got married in June.,Ils se sont mariés en juin.,,sentence
-100648,French,He broke his leg.,Il s'est cassé la jambe.,,sentence
-100649,French,She cut her finger.,Elle s'est coupé le doigt.,,sentence
-100650,French,I did not buy the tickets.,Je n'ai pas acheté les billets.,,sentence
-100651,French,She did not finish the report.,Elle n'a pas terminé le rapport.,,sentence
-100652,French,We did not visit the castle.,Nous n'avons pas visité le château.,,sentence
-100653,French,They did not understand the instructions.,Ils n'ont pas compris les instructions.,,sentence
-100654,French,He did not take the train.,Il n'a pas pris le train.,,sentence
-100655,French,I did not see the accident.,Je n'ai pas vu l'accident.,,sentence
-100656,French,She did not write the letter.,Elle n'a pas écrit la lettre.,,sentence
-100657,French,We did not find the keys.,Nous n'avons pas trouvé les clés.,,sentence
-100658,French,The guests did not arrive on time.,Les invités ne sont pas arrivés à l'heure.,,sentence
-100659,French,The nurse did not come yesterday.,L'infirmière n'est pas venue hier.,,sentence
-100660,French,My brother did not leave early.,Mon frère n'est pas parti tôt.,,sentence
-100661,French,The tourists did not enter the museum.,Les touristes ne sont pas entrés dans le musée.,,sentence
-100662,French,Did you receive the package? (singular informal),Est-ce que tu as reçu le colis ?,,sentence
-100663,French,Did she pay the invoice?,Est-ce qu'elle a payé la facture ?,,sentence
-100664,French,Did they repair the bridge?,Est-ce qu'ils ont réparé le pont ?,,sentence
-100665,French,Did the doctor examine the patient?,Est-ce que le médecin a examiné le patient ?,,sentence
-100666,French,Did you lose your passport? (plural/formal),Est-ce que vous avez perdu votre passeport ?,,sentence
-100667,French,Did the factory close?,Est-ce que l'usine a fermé ?,,sentence
-100668,French,Did your sister return?,Est-ce que ta sœur est rentrée ?,,sentence
-100669,French,Did the children go outside?,Est-ce que les enfants sont sortis ?,,sentence
-100670,French,Where did you buy that coat? (singular informal),Où est-ce que tu as acheté ce manteau ?,,sentence
-100671,French,When did the meeting end?,Quand est-ce que la réunion s'est terminée ?,,sentence
-100672,French,Why did the train stop?,Pourquoi est-ce que le train s'est arrêté ?,,sentence
-100673,French,Who called the technician?,Qui a appelé le technicien ?,,sentence
-100674,French,What did the journalist write?,Qu'est-ce que le journaliste a écrit ?,,sentence
-100675,French,How did you find the address? (singular informal),Comment est-ce que tu as trouvé l'adresse ?,,sentence
-100676,French,Which hotel did they choose?,Quel hôtel est-ce qu'ils ont choisi ?,,sentence
-100677,French,How many guests arrived?,Combien d'invités sont arrivés ?,,sentence
-100678,French,I have never visited that island.,Je n'ai jamais visité cette île.,,sentence
-100679,French,She has never flown before.,Elle n'a jamais pris l'avion.,,sentence
-100680,French,We have not received the results yet.,Nous n'avons pas encore reçu les résultats.,,sentence
-100681,French,He has not finished his meal yet.,Il n'a pas encore terminé son repas.,,sentence
-100682,French,I have already sent the documents.,J'ai déjà envoyé les documents.,,sentence
-100683,French,She has already left the office.,Elle est déjà partie du bureau.,,sentence
-100684,French,We did not see anyone.,Nous n'avons vu personne.,,sentence
-100685,French,They did not find anything.,Ils n'ont rien trouvé.,,sentence
-100686,French,He has not returned to the hospital.,Il n'est pas retourné à l'hôpital.,,sentence
-100687,French,She has not called again.,Elle n'a pas rappelé.,,sentence
-100688,French,Did you not hear the announcement? (singular informal),Est-ce que tu n'as pas entendu l'annonce ?,,sentence
-100689,French,Why did she not answer?,Pourquoi est-ce qu'elle n'a pas répondu ?,,sentence
-100690,French,Did you not check the receipt? (singular informal),Est-ce que tu n'as pas vérifié le reçu ?,,sentence
-100691,French,Who did not attend the meeting?,Qui n'a pas assisté à la réunion ?,,sentence
-100692,French,Why did the engine not start?,Pourquoi est-ce que le moteur n'a pas démarré ?,,sentence
-100693,French,Has the storm already passed?,Est-ce que la tempête est déjà passée ?,,sentence
-100694,French,Did the parcel arrive this morning?,Est-ce que le colis est arrivé ce matin ?,,sentence
-100695,French,Did she not find the pharmacy?,Est-ce qu'elle n'a pas trouvé la pharmacie ?,,sentence
-100696,French,I have not spoken to the manager.,Je n'ai pas parlé au responsable.,,sentence
-100697,French,He has not taken his medication.,Il n'a pas pris ses médicaments.,,sentence
-100698,French,We have never crossed that bridge.,Nous n'avons jamais traversé ce pont.,,sentence
-100699,French,The students have not finished the examination.,Les étudiants n'ont pas terminé l'examen.,,sentence
-100700,French,I saw her yesterday.,Je l'ai vue hier.,,sentence
-100701,French,I saw him yesterday.,Je l'ai vu hier.,,sentence
-100702,French,She found it. (the key),Elle l'a trouvée.,,sentence
-100703,French,He found it. (the passport),Il l'a trouvé.,,sentence
-100704,French,I bought them. (the tickets),Je les ai achetés.,,sentence
-100705,French,She bought them. (the flowers),Elle les a achetées.,,sentence
-100706,French,We received it. (the letter),Nous l'avons reçue.,,sentence
-100707,French,We received it. (the package),Nous l'avons reçu.,,sentence
-100708,French,I read it. (the article),Je l'ai lu.,,sentence
-100709,French,I read it. (the newspaper),Je l'ai lu.,,sentence
-100710,French,She wrote it. (the report),Elle l'a écrit.,,sentence
-100711,French,She wrote it. (the message),Elle l'a écrit.,,sentence
-100712,French,He opened it. (the window),Il l'a ouverte.,,sentence
-100713,French,He opened it. (the drawer),Il l'a ouvert.,,sentence
-100714,French,They repaired it. (the machine),Ils l'ont réparée.,,sentence
-100715,French,They repaired it. (the motor),Ils l'ont réparé.,,sentence
-100716,French,I washed them. (the plates),Je les ai lavées.,,sentence
-100717,French,I washed them. (the glasses),Je les ai lavés.,,sentence
-100718,French,We visited them. (the museums),Nous les avons visités.,,sentence
-100719,French,We visited them. (the galleries),Nous les avons visitées.,,sentence
-100720,French,The dress that she bought is blue.,La robe qu'elle a achetée est bleue.,,sentence
-100721,French,The coat that he bought is warm.,Le manteau qu'il a acheté est chaud.,,sentence
-100722,French,The letters that I wrote are short.,Les lettres que j'ai écrites sont courtes.,,sentence
-100723,French,The articles that she read are interesting.,Les articles qu'elle a lus sont intéressants.,,sentence
-100724,French,The paintings that we saw are beautiful.,Les peintures que nous avons vues sont belles.,,sentence
-100725,French,The photographs that he took are sharp.,Les photographies qu'il a prises sont nettes.,,sentence
-100726,French,The documents that you sent are complete. (plural/formal),Les documents que vous avez envoyés sont complets.,,sentence
-100727,French,The invitations that she prepared are ready.,Les invitations qu'elle a préparées sont prêtes.,,sentence
-100728,French,Which suitcase did you choose? (singular informal),Quelle valise est-ce que tu as choisie ?,,sentence
-100729,French,Which books did she read?,Quels livres est-ce qu'elle a lus ?,,sentence
-100730,French,Which keys did you find? (plural/formal),Quelles clés est-ce que vous avez trouvées ?,,sentence
-100731,French,Which restaurant did they choose?,Quel restaurant est-ce qu'ils ont choisi ?,,sentence
-100732,French,The car that I repaired works again.,La voiture que j'ai réparée fonctionne de nouveau.,,sentence
-100733,French,The pipes that they replaced no longer leak.,Les tuyaux qu'ils ont remplacés ne fuient plus.,,sentence
-100734,French,The door that she closed is locked.,La porte qu'elle a fermée est verrouillée.,,sentence
-100735,French,The windows that we opened face the garden.,Les fenêtres que nous avons ouvertes donnent sur le jardin.,,sentence
-100736,French,I have spoken to her.,Je lui ai parlé.,,sentence
-100737,French,I have written to them.,Je leur ai écrit.,,sentence
-100738,French,She has sent him the invoice.,Elle lui a envoyé la facture.,,sentence
-100739,French,We have answered them.,Nous leur avons répondu.,,sentence
-100740,French,The cake that he made was delicious.,Le gâteau qu'il a fait était délicieux.,,sentence
-100741,French,The soup that she made was delicious.,La soupe qu'elle a faite était délicieuse.,,sentence
-100742,French,The trousers that I bought are too long.,Le pantalon que j'ai acheté est trop long.,,sentence
-100743,French,The boots that she wore were muddy.,Les bottes qu'elle a portées étaient boueuses.,,sentence
-100744,French,The bicycle that he borrowed is red.,Le vélo qu'il a emprunté est rouge.,,sentence
-100745,French,The bicycles that they borrowed are red.,Les vélos qu'ils ont empruntés sont rouges.,,sentence
-100746,French,The bag that she lost was expensive.,Le sac qu'elle a perdu coûtait cher.,,sentence
-100747,French,The watches that he repaired are working.,Les montres qu'il a réparées fonctionnent.,,sentence
-100748,French,I have bought some strawberries.,J'ai acheté des fraises.,,sentence
-100749,French,I have bought two kilograms of strawberries.,J'ai acheté deux kilos de fraises.,,sentence
-100750,French,The storm damaged the roof yesterday.,La tempête a endommagé le toit hier.,,sentence
-100751,French,The electrician repaired the wiring.,L'électricien a réparé le câblage.,,sentence
-100752,French,My aunt brought homemade soup.,Ma tante a apporté de la soupe maison.,,sentence
-100753,French,We discovered a quiet beach.,Nous avons découvert une plage tranquille.,,sentence
-100754,French,The guide explained the history of the castle.,Le guide a expliqué l'histoire du château.,,sentence
-100755,French,The artist sold three paintings.,L'artiste a vendu trois tableaux.,,sentence
-100756,French,The baker prepared fresh croissants.,Le boulanger a préparé des croissants frais.,,sentence
-100757,French,The children collected shells on the beach.,Les enfants ont ramassé des coquillages sur la plage.,,sentence
-100758,French,I forgot my umbrella at the restaurant.,J'ai oublié mon parapluie au restaurant.,,sentence
-100759,French,She found her wallet under the seat.,Elle a retrouvé son portefeuille sous le siège.,,sentence
-100760,French,The engineer checked the pressure.,L'ingénieur a vérifié la pression.,,sentence
-100761,French,We replaced the damaged valve.,Nous avons remplacé la vanne endommagée.,,sentence
-100762,French,The nurse called the doctor immediately.,L'infirmière a appelé le médecin immédiatement.,,sentence
-100763,French,My grandfather told us a story.,Mon grand-père nous a raconté une histoire.,,sentence
-100764,French,The students passed their examinations.,Les étudiants ont réussi leurs examens.,,sentence
-100765,French,We tasted a local cheese.,Nous avons goûté un fromage local.,,sentence
-100766,French,She borrowed a bicycle for the afternoon.,Elle a emprunté un vélo pour l'après-midi.,,sentence
-100767,French,The bus arrived twenty minutes late.,L'autobus est arrivé avec vingt minutes de retard.,,sentence
-100768,French,He went down to the basement.,Il est descendu au sous-sol.,,sentence
-100769,French,They returned from the mountains. (feminine),Elles sont revenues de la montagne.,,sentence
-100770,French,The children entered the classroom.,Les enfants sont entrés dans la salle de classe.,,sentence
-100771,French,My sister became a veterinarian.,Ma sœur est devenue vétérinaire.,,sentence
-100772,French,We stayed at a small hotel. (masculine/mixed),Nous sommes restés dans un petit hôtel.,,sentence
-100773,French,The leaves fell during the night.,Les feuilles sont tombées pendant la nuit.,,sentence
-100774,French,The flowers grew in the spring.,Les fleurs ont poussé au printemps.,,sentence
-100775,French,The driver stopped at the crossing.,Le conducteur s'est arrêté au passage piéton.,,sentence
-100776,French,She took off her boots at the door.,Elle a enlevé ses bottes à la porte.,,sentence
-100777,French,The guests took their seats.,Les invités se sont assis.,,sentence
-100778,French,I checked the receipt before leaving.,J'ai vérifié le reçu avant de partir.,,sentence
-100779,French,We finally reached an agreement.,Nous sommes enfin parvenus à un accord.,,sentence
-100780,French,He answered the wrong question.,Il a répondu à la mauvaise question.,,sentence
-100781,French,She received an unexpected invitation.,Elle a reçu une invitation inattendue.,,sentence
-100782,French,The shop closed earlier than usual.,Le magasin a fermé plus tôt que d'habitude.,,sentence
-100783,French,The meeting lasted two hours.,La réunion a duré deux heures.,,sentence
-100784,French,The pilot announced a delay.,Le pilote a annoncé un retard.,,sentence
-100785,French,We waited for the ferry in the rain.,Nous avons attendu le traversier sous la pluie.,,sentence
-100786,French,The restaurant served an excellent meal.,Le restaurant a servi un excellent repas.,,sentence
-100787,French,She changed her mind at the last moment.,Elle a changé d'avis au dernier moment.,,sentence
-100788,French,The package arrived in good condition.,Le colis est arrivé en bon état.,,sentence
-100789,French,The repair took all morning.,La réparation a pris toute la matinée.,,sentence
-100790,French,The doctor examined the patient's knee.,Le médecin a examiné le genou du patient.,,sentence
-100791,French,The carpenter installed a new door.,Le menuisier a installé une nouvelle porte.,,sentence
-100792,French,The gardener planted three apple trees.,Le jardinier a planté trois pommiers.,,sentence
-100793,French,The volunteers cleaned the riverbank.,Les bénévoles ont nettoyé la berge.,,sentence
-100794,French,The committee approved the proposal.,Le comité a approuvé la proposition.,,sentence
-100795,French,The journalist interviewed the mayor.,Le journaliste a interviewé le maire.,,sentence
-100796,French,The photographer took pictures of the valley.,Le photographe a pris des photos de la vallée.,,sentence
-100797,French,The children built a snowman.,Les enfants ont fait un bonhomme de neige.,,sentence
-100798,French,The mechanic replaced the battery.,Le mécanicien a remplacé la batterie.,,sentence
-100799,French,We celebrated her graduation.,Nous avons fêté l'obtention de son diplôme.,,sentence
-100800,French,I was working.,Je travaillais.,,sentence
-100801,French,You were working. (singular informal),Tu travaillais.,,sentence
-100802,French,He was working.,Il travaillait.,,sentence
-100803,French,We were working.,Nous travaillions.,,sentence
-100804,French,You were working. (plural/formal),Vous travailliez.,,sentence
-100805,French,They were working. (masculine/mixed),Ils travaillaient.,,sentence
-100806,French,I was finishing.,Je finissais.,,sentence
-100807,French,She was finishing.,Elle finissait.,,sentence
-100808,French,We were finishing.,Nous finissions.,,sentence
-100809,French,They were finishing. (feminine),Elles finissaient.,,sentence
-100810,French,I was selling.,Je vendais.,,sentence
-100811,French,You were selling. (singular informal),Tu vendais.,,sentence
-100812,French,He was selling.,Il vendait.,,sentence
-100813,French,We were selling.,Nous vendions.,,sentence
-100814,French,You were selling. (plural/formal),Vous vendiez.,,sentence
-100815,French,They were selling. (masculine/mixed),Ils vendaient.,,sentence
-100816,French,I was.,J'étais.,,sentence
-100817,French,You were. (singular informal),Tu étais.,,sentence
-100818,French,She was.,Elle était.,,sentence
-100819,French,We were.,Nous étions.,,sentence
-100820,French,You were. (plural/formal),Vous étiez.,,sentence
-100821,French,They were. (feminine),Elles étaient.,,sentence
-100822,French,I had.,J'avais.,,sentence
-100823,French,He had.,Il avait.,,sentence
-100824,French,We had.,Nous avions.,,sentence
-100825,French,They had. (masculine/mixed),Ils avaient.,,sentence
-100826,French,I was going.,J'allais.,,sentence
-100827,French,She was going.,Elle allait.,,sentence
-100828,French,We were going.,Nous allions.,,sentence
-100829,French,They were going. (feminine),Elles allaient.,,sentence
-100830,French,I was doing.,Je faisais.,,sentence
-100831,French,He was doing.,Il faisait.,,sentence
-100832,French,We were doing.,Nous faisions.,,sentence
-100833,French,I was taking.,Je prenais.,,sentence
-100834,French,She was taking.,Elle prenait.,,sentence
-100835,French,We were taking.,Nous prenions.,,sentence
-100836,French,I was reading.,Je lisais.,,sentence
-100837,French,She was reading.,Elle lisait.,,sentence
-100838,French,We were reading.,Nous lisions.,,sentence
-100839,French,They were reading. (masculine/mixed),Ils lisaient.,,sentence
-100840,French,I was eating.,Je mangeais.,,sentence
-100841,French,We were eating.,Nous mangions.,,sentence
-100842,French,She was starting.,Elle commençait.,,sentence
-100843,French,We were starting.,Nous commencions.,,sentence
-100844,French,I was seeing.,Je voyais.,,sentence
-100845,French,We were seeing.,Nous voyions.,,sentence
-100846,French,I was drinking.,Je buvais.,,sentence
-100847,French,We were drinking.,Nous buvions.,,sentence
-100848,French,I was writing.,J'écrivais.,,sentence
-100849,French,We were writing.,Nous écrivions.,,sentence
-100850,French,The village was quiet.,Le village était calme.,,sentence
-100851,French,The streets were empty.,Les rues étaient désertes.,,sentence
-100852,French,The shop was closed.,Le magasin était fermé.,,sentence
-100853,French,The library was open.,La bibliothèque était ouverte.,,sentence
-100854,French,The patient was tired.,Le patient était fatigué.,,sentence
-100855,French,The children were hungry.,Les enfants avaient faim.,,sentence
-100856,French,My grandmother was happy.,Ma grand-mère était heureuse.,,sentence
-100857,French,The sky was grey.,Le ciel était gris.,,sentence
-100858,French,The water was cold.,L'eau était froide.,,sentence
-100859,French,The apartment was small.,L'appartement était petit.,,sentence
-100860,French,The ceiling was very high.,Le plafond était très haut.,,sentence
-100861,French,The house had a large garden.,La maison avait un grand jardin.,,sentence
-100862,French,The hotel had a swimming pool.,L'hôtel avait une piscine.,,sentence
-100863,French,The factory had two entrances.,L'usine avait deux entrées.,,sentence
-100864,French,My father had an old bicycle.,Mon père avait un vieux vélo.,,sentence
-100865,French,We had very little money.,Nous avions très peu d'argent.,,sentence
-100866,French,She had a terrible headache.,Elle avait très mal à la tête.,,sentence
-100867,French,He was afraid of heights.,Il avait peur du vide.,,sentence
-100868,French,I was thirsty after the walk.,J'avais soif après la promenade.,,sentence
-100869,French,The students were ready.,Les étudiants étaient prêts.,,sentence
-100870,French,The museum was crowded.,Le musée était bondé.,,sentence
-100871,French,The restaurant was expensive.,Le restaurant était cher.,,sentence
-100872,French,The bread smelled wonderful.,Le pain sentait très bon.,,sentence
-100873,French,The flowers were beautiful.,Les fleurs étaient magnifiques.,,sentence
-100874,French,The train was late.,Le train avait du retard.,,sentence
-100875,French,The engine was noisy.,Le moteur faisait du bruit.,,sentence
-100876,French,The office was very bright.,Le bureau était très lumineux.,,sentence
-100877,French,The path was narrow.,Le sentier était étroit.,,sentence
-100878,French,The bridge was old.,Le pont était vieux.,,sentence
-100879,French,The forest was dense.,La forêt était dense.,,sentence
-100880,French,The mountain was covered in snow.,La montagne était couverte de neige.,,sentence
-100881,French,The room was full of people.,La pièce était pleine de monde.,,sentence
-100882,French,I knew the answer.,Je connaissais la réponse.,,sentence
-100883,French,She understood the problem.,Elle comprenait le problème.,,sentence
-100884,French,We believed the story.,Nous croyions cette histoire.,,sentence
-100885,French,He wanted a different job.,Il voulait un autre emploi.,,sentence
-100886,French,I needed some rest.,J'avais besoin de repos.,,sentence
-100887,French,They preferred the smaller apartment.,Ils préféraient le plus petit appartement.,,sentence
-100888,French,The situation seemed complicated.,La situation semblait compliquée.,,sentence
-100889,French,Everything looked normal.,Tout semblait normal.,,sentence
-100890,French,The room smelled of fresh paint.,La pièce sentait la peinture fraîche.,,sentence
-100891,French,The suitcase was very heavy.,La valise était très lourde.,,sentence
-100892,French,The neighbours were friendly.,Les voisins étaient sympathiques.,,sentence
-100893,French,The instructions were confusing.,Les instructions étaient déroutantes.,,sentence
-100894,French,The weather was unpredictable.,Le temps était imprévisible.,,sentence
-100895,French,The road was slippery.,La route était glissante.,,sentence
-100896,French,The machine was in good condition.,La machine était en bon état.,,sentence
-100897,French,The project was behind schedule.,Le projet avait pris du retard.,,sentence
-100898,French,The hospital was understaffed.,L'hôpital manquait de personnel.,,sentence
-100899,French,The market was full of fresh produce.,Le marché regorgeait de produits frais.,,sentence
-100900,French,When I was little I played outside.,Quand j'étais petit je jouais dehors.,,sentence
-100901,French,Every summer we visited our grandparents.,Chaque été nous rendions visite à nos grands-parents.,,sentence
-100902,French,She walked to school every morning.,Elle allait à l'école à pied chaque matin.,,sentence
-100903,French,He often read the newspaper at breakfast.,Il lisait souvent le journal au petit-déjeuner.,,sentence
-100904,French,We usually ate together on Sundays.,Nous mangions généralement ensemble le dimanche.,,sentence
-100905,French,My mother worked at the hospital.,Ma mère travaillait à l'hôpital.,,sentence
-100906,French,My father repaired bicycles on weekends.,Mon père réparait des vélos le week-end.,,sentence
-100907,French,The baker opened at dawn.,Le boulanger ouvrait à l'aube.,,sentence
-100908,French,The train always stopped in that village.,Le train s'arrêtait toujours dans ce village.,,sentence
-100909,French,The children played football after school.,Les enfants jouaient au football après l'école.,,sentence
-100910,French,I often borrowed books from the library.,J'empruntais souvent des livres à la bibliothèque.,,sentence
-100911,French,She sometimes took the bus to work.,Elle prenait parfois l'autobus pour aller travailler.,,sentence
-100912,French,We went hiking every autumn.,Nous faisions de la randonnée chaque automne.,,sentence
-100913,French,He used to swim in the lake.,Il nageait dans le lac autrefois.,,sentence
-100914,French,They used to live near the station.,Ils habitaient près de la gare autrefois.,,sentence
-100915,French,I always carried an umbrella.,Je portais toujours un parapluie.,,sentence
-100916,French,She usually cooked soup on Fridays.,Elle préparait généralement de la soupe le vendredi.,,sentence
-100917,French,The neighbours often invited us.,Les voisins nous invitaient souvent.,,sentence
-100918,French,We regularly checked the equipment.,Nous vérifiions régulièrement l'équipement.,,sentence
-100919,French,The workers started at seven.,Les ouvriers commençaient à sept heures.,,sentence
-100920,French,The shop closed at six every day.,Le magasin fermait à six heures tous les jours.,,sentence
-100921,French,I drank tea every afternoon.,Je buvais du thé chaque après-midi.,,sentence
-100922,French,My grandfather told wonderful stories.,Mon grand-père racontait des histoires merveilleuses.,,sentence
-100923,French,She wrote letters to her cousins.,Elle écrivait des lettres à ses cousins.,,sentence
-100924,French,We listened to the radio in the evening.,Nous écoutions la radio le soir.,,sentence
-100925,French,The teacher gave us exercises every week.,Le professeur nous donnait des exercices chaque semaine.,,sentence
-100926,French,He practised the piano every day.,Il jouait du piano tous les jours.,,sentence
-100927,French,The farmers sold vegetables at the market.,Les agriculteurs vendaient des légumes au marché.,,sentence
-100928,French,The ferry crossed the river every hour.,Le traversier traversait la rivière toutes les heures.,,sentence
-100929,French,I visited the museum whenever I could.,Je visitais le musée chaque fois que je le pouvais.,,sentence
-100930,French,They went fishing on Saturdays.,Ils allaient à la pêche le samedi.,,sentence
-100931,French,She always arrived early.,Elle arrivait toujours en avance.,,sentence
-100932,French,We rarely ate at restaurants.,Nous mangions rarement au restaurant.,,sentence
-100933,French,The children never stayed up late.,Les enfants ne se couchaient jamais tard.,,sentence
-100934,French,I used to wear glasses.,Je portais des lunettes autrefois.,,sentence
-100935,French,He used to drive an old truck.,Il conduisait un vieux camion autrefois.,,sentence
-100936,French,We often talked about the future.,Nous parlions souvent de l'avenir.,,sentence
-100937,French,My aunt grew roses in her garden.,Ma tante cultivait des roses dans son jardin.,,sentence
-100938,French,The streets were quiet at night.,Les rues étaient calmes la nuit.,,sentence
-100939,French,Every winter the lake froze.,Chaque hiver le lac gelait.,,sentence
-100940,French,My uncle used to make furniture.,Mon oncle fabriquait des meubles.,,sentence
-100941,French,We always took the same route.,Nous prenions toujours le même itinéraire.,,sentence
-100942,French,She regularly attended concerts.,Elle assistait régulièrement à des concerts.,,sentence
-100943,French,He often repaired old radios.,Il réparait souvent de vieilles radios.,,sentence
-100944,French,The children collected stamps.,Les enfants collectionnaient les timbres.,,sentence
-100945,French,I sometimes worked on Saturdays.,Je travaillais parfois le samedi.,,sentence
-100946,French,They always paid in cash.,Ils payaient toujours en espèces.,,sentence
-100947,French,We often ate outdoors in summer.,Nous mangions souvent dehors en été.,,sentence
-100948,French,She took photographs every weekend.,Elle prenait des photos chaque week-end.,,sentence
-100949,French,My grandfather walked five kilometres every day.,Mon grand-père marchait cinq kilomètres chaque jour.,,sentence
-100950,French,It was raining that evening.,Il pleuvait ce soir-là.,,sentence
-100951,French,The wind was blowing strongly.,Le vent soufflait fort.,,sentence
-100952,French,Snow was falling on the village.,La neige tombait sur le village.,,sentence
-100953,French,The sun was setting behind the hills.,Le soleil se couchait derrière les collines.,,sentence
-100954,French,The moon was shining above the lake.,La lune brillait au-dessus du lac.,,sentence
-100955,French,The river was flowing rapidly.,La rivière coulait rapidement.,,sentence
-100956,French,The birds were singing in the trees.,Les oiseaux chantaient dans les arbres.,,sentence
-100957,French,The leaves were turning yellow.,Les feuilles jaunissaient.,,sentence
-100958,French,The air smelled of pine trees.,L'air sentait le pin.,,sentence
-100959,French,The path was disappearing into the fog.,Le sentier disparaissait dans le brouillard.,,sentence
-100960,French,People were waiting at the station.,Des gens attendaient à la gare.,,sentence
-100961,French,The children were sleeping upstairs.,Les enfants dormaient à l'étage.,,sentence
-100962,French,My sister was preparing dinner.,Ma sœur préparait le dîner.,,sentence
-100963,French,The radio was playing softly.,La radio jouait doucement.,,sentence
-100964,French,The kettle was boiling in the kitchen.,La bouilloire bouillait dans la cuisine.,,sentence
-100965,French,The guests were talking in the garden.,Les invités parlaient dans le jardin.,,sentence
-100966,French,The dog was lying near the fireplace.,Le chien était couché près de la cheminée.,,sentence
-100967,French,The cat was watching the birds.,Le chat observait les oiseaux.,,sentence
-100968,French,The streets were filling with people.,Les rues se remplissaient de monde.,,sentence
-100969,French,The market was bustling.,Le marché était très animé.,,sentence
-100970,French,The shops were closing.,Les magasins fermaient.,,sentence
-100971,French,The traffic was moving slowly.,La circulation avançait lentement.,,sentence
-100972,French,The lights were reflecting on the water.,Les lumières se reflétaient sur l'eau.,,sentence
-100973,French,The ferry was approaching the dock.,Le traversier approchait du quai.,,sentence
-100974,French,The train was entering the station.,Le train entrait en gare.,,sentence
-100975,French,The pilot was speaking to the passengers.,Le pilote parlait aux passagers.,,sentence
-100976,French,The mechanic was examining the engine.,Le mécanicien examinait le moteur.,,sentence
-100977,French,The pump was running quietly.,La pompe fonctionnait silencieusement.,,sentence
-100978,French,The pressure was rising.,La pression montait.,,sentence
-100979,French,The technician was reading the measurements.,Le technicien lisait les mesures.,,sentence
-100980,French,The doctor was examining a patient.,Le médecin examinait un patient.,,sentence
-100981,French,The nurse was preparing the medication.,L'infirmière préparait les médicaments.,,sentence
-100982,French,The students were taking notes.,Les étudiants prenaient des notes.,,sentence
-100983,French,The professor was explaining a diagram.,Le professeur expliquait un schéma.,,sentence
-100984,French,The audience was listening attentively.,Le public écoutait attentivement.,,sentence
-100985,French,The orchestra was playing a slow piece.,L'orchestre jouait un morceau lent.,,sentence
-100986,French,The artist was painting a landscape.,L'artiste peignait un paysage.,,sentence
-100987,French,The workers were repairing the bridge.,Les ouvriers réparaient le pont.,,sentence
-100988,French,The neighbours were celebrating a birthday.,Les voisins fêtaient un anniversaire.,,sentence
-100989,French,Everything seemed peaceful.,Tout semblait paisible.,,sentence
-100990,French,The clouds were gathering above the mountains.,Les nuages s'accumulaient au-dessus des montagnes.,,sentence
-100991,French,The waves were crashing against the rocks.,Les vagues se brisaient contre les rochers.,,sentence
-100992,French,The audience was entering the theatre.,Le public entrait dans le théâtre.,,sentence
-100993,French,The children were building a sandcastle.,Les enfants construisaient un château de sable.,,sentence
-100994,French,The snow was covering the roofs.,La neige recouvrait les toits.,,sentence
-100995,French,The smoke was rising from the chimney.,La fumée montait de la cheminée.,,sentence
-100996,French,The traffic lights were flashing.,Les feux de circulation clignotaient.,,sentence
-100997,French,The workers were unloading the truck.,Les ouvriers déchargeaient le camion.,,sentence
-100998,French,The baker was kneading the dough.,Le boulanger pétrissait la pâte.,,sentence
-100999,French,The clock was striking midnight.,L'horloge sonnait minuit.,,sentence
-101000,French,The streets were empty when I left the hotel.,Les rues étaient désertes quand j'ai quitté l'hôtel.,,sentence
-101001,French,I was looking for my keys when the telephone rang.,Je cherchais mes clés quand le téléphone a sonné.,,sentence
-101002,French,The baker was taking bread out of the oven.,Le boulanger sortait le pain du four.,,sentence
-101003,French,The river was rising after several days of rain.,La rivière montait après plusieurs jours de pluie.,,sentence
-101004,French,The children were building a snowman in the garden.,Les enfants construisaient un bonhomme de neige dans le jardin.,,sentence
-101005,French,I used to take the tram to university.,Je prenais le tramway pour aller à l'université.,,sentence
-101006,French,She used to spend her summers in Brittany.,Elle passait ses étés en Bretagne.,,sentence
-101007,French,My grandfather always wore a hat.,Mon grand-père portait toujours un chapeau.,,sentence
-101008,French,The old bridge was too narrow for trucks.,Le vieux pont était trop étroit pour les camions.,,sentence
-101009,French,The soup smelled of garlic.,La soupe sentait l'ail.,,sentence
-101010,French,A cyclist suddenly crossed the intersection.,Un cycliste a soudain traversé le carrefour.,,sentence
-101011,French,The mayor announced the results that evening.,Le maire a annoncé les résultats ce soir-là.,,sentence
-101012,French,The parcel arrived three days late.,Le colis est arrivé avec trois jours de retard.,,sentence
-101013,French,I found a handwritten note in the drawer.,J'ai trouvé une note manuscrite dans le tiroir.,,sentence
-101014,French,The audience applauded at the end of the concert.,Le public a applaudi à la fin du concert.,,sentence
-101015,French,She slipped on the wet pavement.,Elle a glissé sur le trottoir mouillé.,,sentence
-101016,French,The gardener planted a row of lavender.,Le jardinier a planté une rangée de lavande.,,sentence
-101017,French,We crossed the border before sunrise.,Nous avons franchi la frontière avant le lever du soleil.,,sentence
-101018,French,The council rejected the proposed amendment.,Le conseil a rejeté l'amendement proposé.,,sentence
-101019,French,The mechanic discovered a crack in the hose.,Le mécanicien a découvert une fissure dans le tuyau.,,sentence
-101020,French,I was sleeping when the earthquake began.,Je dormais quand le tremblement de terre a commencé.,,sentence
-101021,French,They were discussing the budget when the minister arrived.,Ils discutaient du budget quand le ministre est arrivé.,,sentence
-101022,French,The lighthouse was flashing through the fog.,Le phare clignotait dans le brouillard.,,sentence
-101023,French,She was writing a letter when the power went out.,Elle écrivait une lettre quand le courant a été coupé.,,sentence
-101024,French,We were having lunch when the fire alarm sounded.,Nous déjeunions quand l'alarme incendie a retenti.,,sentence
-101025,French,The driver was reversing when he struck the fence.,Le conducteur reculait quand il a heurté la clôture.,,sentence
-101026,French,The dog was barking at something behind the shed.,Le chien aboyait après quelque chose derrière la remise.,,sentence
-101027,French,The laboratory was unusually quiet that morning.,Le laboratoire était exceptionnellement calme ce matin-là.,,sentence
-101028,French,I was hoping for a different answer.,J'espérais une autre réponse.,,sentence
-101029,French,The children were already tired by noon.,Les enfants étaient déjà fatigués à midi.,,sentence
-101030,French,The snow was melting along the roadside.,La neige fondait au bord de la route.,,sentence
-101031,French,The orchestra was rehearsing in the next room.,L'orchestre répétait dans la pièce voisine.,,sentence
-101032,French,I used to know the owner of that bookstore.,Je connaissais autrefois le propriétaire de cette librairie.,,sentence
-101033,French,We often ate outside in the summer.,Nous mangions souvent dehors en été.,,sentence
-101034,French,He was afraid of heights when he was younger.,Il avait peur du vide quand il était plus jeune.,,sentence
-101035,French,The factory employed two hundred people at the time.,L'usine employait deux cents personnes à l'époque.,,sentence
-101036,French,She lived above a bakery for several years.,Elle a habité au-dessus d'une boulangerie pendant plusieurs années.,,sentence
-101037,French,The museum closed unexpectedly on Tuesday.,Le musée a fermé à l'improviste mardi.,,sentence
-101038,French,I lost my gloves somewhere on the train.,J'ai perdu mes gants quelque part dans le train.,,sentence
-101039,French,The doctor prescribed a different treatment.,Le médecin a prescrit un autre traitement.,,sentence
-101040,French,The committee postponed its decision.,Le comité a reporté sa décision.,,sentence
-101041,French,The storm damaged several roofs in the village.,La tempête a endommagé plusieurs toits du village.,,sentence
-101042,French,The ferry reached the island just before dusk.,Le traversier a atteint l'île juste avant le crépuscule.,,sentence
-101043,French,A fox appeared at the edge of the field.,Un renard est apparu à la lisière du champ.,,sentence
-101044,French,The workers discovered an underground passage.,Les ouvriers ont découvert un passage souterrain.,,sentence
-101045,French,I realized that the address was wrong.,Je me suis rendu compte que l'adresse était erronée.,,sentence
-101046,French,She noticed that the window was open.,Elle a remarqué que la fenêtre était ouverte.,,sentence
-101047,French,We thought the road was closed.,Nous pensions que la route était fermée.,,sentence
-101048,French,The receptionist recognized my voice.,La réceptionniste a reconnu ma voix.,,sentence
-101049,French,The audience remained silent for several seconds.,Le public est resté silencieux pendant plusieurs secondes.,,sentence
-101050,French,"While I was chopping onions, the water boiled.","Pendant que je coupais des oignons, l'eau s'est mise à bouillir.",,sentence
-101051,French,"While she was waiting for the dentist, she read a magazine.","Pendant qu'elle attendait le dentiste, elle a lu un magazine.",,sentence
-101052,French,"While we were walking along the river, we saw an otter.","Pendant que nous longions la rivière à pied, nous avons aperçu une loutre.",,sentence
-101053,French,"While he was painting the ceiling, his wife covered the furniture.","Pendant qu'il peignait le plafond, sa femme recouvrait les meubles.",,sentence
-101054,French,"While the guests were arriving, the musicians tuned their instruments.","Pendant que les invités arrivaient, les musiciens accordaient leurs instruments.",,sentence
-101055,French,"While the technician was checking the valve, the pressure dropped.","Pendant que le technicien vérifiait la vanne, la pression a chuté.",,sentence
-101056,French,"While the farmer was repairing the fence, the sheep escaped.","Pendant que l'agriculteur réparait la clôture, les moutons se sont échappés.",,sentence
-101057,French,"While the judge was speaking, someone opened the courtroom door.","Pendant que le juge parlait, quelqu'un a ouvert la porte de la salle d'audience.",,sentence
-101058,French,"While I was searching for the receipt, I found an old photograph.","Pendant que je cherchais le reçu, j'ai retrouvé une vieille photographie.",,sentence
-101059,French,"While she was preparing the presentation, her computer froze.","Pendant qu'elle préparait la présentation, son ordinateur s'est bloqué.",,sentence
-101060,French,"While the plane was descending, the clouds began to clear.","Pendant que l'avion descendait, les nuages ont commencé à se dissiper.",,sentence
-101061,French,"While the children were playing chess, their mother made tea.","Pendant que les enfants jouaient aux échecs, leur mère préparait du thé.",,sentence
-101062,French,"While we were discussing the contract, the lawyer took notes.","Pendant que nous discutions du contrat, l'avocat prenait des notes.",,sentence
-101063,French,"While the gardener was pruning the roses, a neighbour stopped to talk.","Pendant que le jardinier taillait les rosiers, un voisin s'est arrêté pour discuter.",,sentence
-101064,French,"While the mechanic was replacing the belt, I waited outside.","Pendant que le mécanicien remplaçait la courroie, j'attendais dehors.",,sentence
-101065,French,"While the orchestra was playing, the rain beat against the windows.","Pendant que l'orchestre jouait, la pluie battait contre les fenêtres.",,sentence
-101066,French,"While she was measuring the room, I drew a rough plan.","Pendant qu'elle mesurait la pièce, j'ai dessiné un plan approximatif.",,sentence
-101067,French,"While I was driving through the mountains, the fog thickened.","Pendant que je traversais les montagnes en voiture, le brouillard s'est épaissi.",,sentence
-101068,French,"While the patient was resting, the nurse prepared the medication.","Pendant que le patient se reposait, l'infirmière préparait les médicaments.",,sentence
-101069,French,"While the printer was running, the operator checked the first copies.","Pendant que l'imprimante fonctionnait, l'opérateur vérifiait les premiers exemplaires.",,sentence
-101070,French,The sun was setting as we reached the summit.,Le soleil se couchait lorsque nous avons atteint le sommet.,,sentence
-101071,French,The spectators were leaving when the fireworks began.,Les spectateurs partaient quand le feu d'artifice a commencé.,,sentence
-101072,French,I was crossing the square when someone called my name.,Je traversais la place quand quelqu'un a prononcé mon nom.,,sentence
-101073,French,The cat was hiding under the sofa when the visitors arrived.,Le chat se cachait sous le canapé quand les visiteurs sont arrivés.,,sentence
-101074,French,She was washing the dishes when the tap broke.,Elle faisait la vaisselle quand le robinet s'est cassé.,,sentence
-101075,French,The tide was going out as the fishermen returned.,La marée descendait lorsque les pêcheurs sont rentrés.,,sentence
-101076,French,The students were taking an exam when the alarm rang.,Les étudiants passaient un examen quand l'alarme a sonné.,,sentence
-101077,French,I was checking the figures when I noticed the discrepancy.,Je vérifiais les chiffres quand j'ai remarqué l'écart.,,sentence
-101078,French,The children were laughing while their father told a story.,Les enfants riaient pendant que leur père racontait une histoire.,,sentence
-101079,French,The crowd was cheering when the runner crossed the finish line.,La foule applaudissait quand le coureur a franchi la ligne d'arrivée.,,sentence
-101080,French,The engine was overheating as we climbed the hill.,Le moteur surchauffait pendant que nous montions la côte.,,sentence
-101081,French,The waiter was carrying a tray when he slipped.,Le serveur portait un plateau quand il a glissé.,,sentence
-101082,French,The rain was falling steadily while we waited for the bus.,La pluie tombait sans arrêt pendant que nous attendions l'autobus.,,sentence
-101083,French,The dog was digging in the garden when I opened the gate.,Le chien creusait dans le jardin quand j'ai ouvert le portail.,,sentence
-101084,French,The photographer was changing lenses when the bird flew away.,Le photographe changeait d'objectif quand l'oiseau s'est envolé.,,sentence
-101085,French,The museum guide was explaining the sculpture when a child interrupted.,Le guide du musée expliquait la sculpture quand un enfant l'a interrompu.,,sentence
-101086,French,The electrician was examining the wiring while the lights flickered.,L'électricien examinait le câblage pendant que les lumières clignotaient.,,sentence
-101087,French,The workers were unloading the truck when the storm broke.,Les ouvriers déchargeaient le camion quand l'orage a éclaté.,,sentence
-101088,French,The doctor was listening to the patient's breathing when the telephone rang.,Le médecin écoutait la respiration du patient quand le téléphone a sonné.,,sentence
-101089,French,The boat was approaching the pier when the engine stalled.,Le bateau approchait du quai quand le moteur a calé.,,sentence
-101090,French,The guests had already eaten when we arrived.,Les invités avaient déjà mangé quand nous sommes arrivés.,,sentence
-101091,French,I had forgotten the password.,J'avais oublié le mot de passe.,,sentence
-101092,French,She had left her umbrella on the bus.,Elle avait laissé son parapluie dans l'autobus.,,sentence
-101093,French,The shop had closed before we got there.,Le magasin avait fermé avant notre arrivée.,,sentence
-101094,French,They had never seen the ocean before that trip.,Ils n'avaient jamais vu l'océan avant ce voyage.,,sentence
-101095,French,The gardener had planted the trees in the autumn.,Le jardinier avait planté les arbres à l'automne.,,sentence
-101096,French,The train had already departed.,Le train était déjà parti.,,sentence
-101097,French,We had reserved a table near the window.,Nous avions réservé une table près de la fenêtre.,,sentence
-101098,French,The engineer had checked the drawings twice.,L'ingénieur avait vérifié les plans deux fois.,,sentence
-101099,French,She had hidden the gift in the cupboard.,Elle avait caché le cadeau dans le placard.,,sentence
-101100,French,The ice had melted by the afternoon.,La glace avait fondu dans l'après-midi.,,sentence
-101101,French,I had never tasted fresh figs.,Je n'avais jamais goûté de figues fraîches.,,sentence
-101102,French,The children had fallen asleep before midnight.,Les enfants s'étaient endormis avant minuit.,,sentence
-101103,French,He had lost his passport at the airport.,Il avait perdu son passeport à l'aéroport.,,sentence
-101104,French,The laboratory had published the findings.,Le laboratoire avait publié les résultats.,,sentence
-101105,French,We had already paid the deposit.,Nous avions déjà versé l'acompte.,,sentence
-101106,French,The road had flooded overnight.,La route avait été inondée pendant la nuit.,,sentence
-101107,French,She had written three chapters before the deadline.,Elle avait écrit trois chapitres avant la date limite.,,sentence
-101108,French,The workers had repaired the leak before dawn.,Les ouvriers avaient réparé la fuite avant l'aube.,,sentence
-101109,French,I had put the tickets in my coat pocket.,J'avais mis les billets dans la poche de mon manteau.,,sentence
-101110,French,The council had approved the project the previous year.,Le conseil avait approuvé le projet l'année précédente.,,sentence
-101111,French,He had never learned to swim.,Il n'avait jamais appris à nager.,,sentence
-101112,French,The rain had stopped before the match began.,La pluie s'était arrêtée avant le début du match.,,sentence
-101113,French,The photographer had developed the film himself.,Le photographe avait développé la pellicule lui-même.,,sentence
-101114,French,She had sent the invitation to the wrong address.,Elle avait envoyé l'invitation à la mauvaise adresse.,,sentence
-101115,French,The mechanic had ordered the wrong part.,Le mécanicien avait commandé la mauvaise pièce.,,sentence
-101116,French,The doctor had explained the risks to the family.,Le médecin avait expliqué les risques à la famille.,,sentence
-101117,French,We had climbed the mountain once before.,Nous avions déjà gravi cette montagne une fois.,,sentence
-101118,French,The museum had acquired a rare manuscript.,Le musée avait acquis un manuscrit rare.,,sentence
-101119,French,The driver had taken a wrong turn.,Le conducteur s'était trompé de route.,,sentence
-101120,French,The guests had arrived before the ceremony began.,Les invités étaient arrivés avant le début de la cérémonie.,,sentence
-101121,French,I had already heard that story.,J'avais déjà entendu cette histoire.,,sentence
-101122,French,She had not understood the instructions.,Elle n'avait pas compris les consignes.,,sentence
-101123,French,The factory had reduced its energy consumption.,L'usine avait réduit sa consommation d'énergie.,,sentence
-101124,French,The farmer had sold the last of his apples.,L'agriculteur avait vendu ses dernières pommes.,,sentence
-101125,French,The police had blocked the road.,La police avait barré la route.,,sentence
-101126,French,We had left the keys with the caretaker.,Nous avions laissé les clés au concierge.,,sentence
-101127,French,The library had extended its opening hours.,La bibliothèque avait prolongé ses heures d'ouverture.,,sentence
-101128,French,He had broken his glasses during the trip.,Il avait cassé ses lunettes pendant le voyage.,,sentence
-101129,French,The committee had reached an agreement.,Le comité était parvenu à un accord.,,sentence
-101130,French,I was exhausted because I had slept badly.,J'étais épuisé parce que j'avais mal dormi.,,sentence
-101131,French,She was worried because she had lost her wallet.,Elle était inquiète parce qu'elle avait perdu son portefeuille.,,sentence
-101132,French,The floor was wet because someone had spilled water.,Le sol était mouillé parce que quelqu'un avait renversé de l'eau.,,sentence
-101133,French,We were relieved because the storm had passed.,Nous étions soulagés parce que l'orage était passé.,,sentence
-101134,French,The room smelled of paint because the walls had just been repainted.,La pièce sentait la peinture parce que les murs venaient d'être repeints.,,sentence
-101135,French,He was angry because nobody had warned him.,Il était en colère parce que personne ne l'avait prévenu.,,sentence
-101136,French,The children were hungry because they had skipped breakfast.,Les enfants avaient faim parce qu'ils avaient sauté le petit-déjeuner.,,sentence
-101137,French,The audience was quiet because the film had begun.,Le public était silencieux parce que le film avait commencé.,,sentence
-101138,French,I knew the route because I had driven it before.,Je connaissais l'itinéraire parce que je l'avais déjà emprunté en voiture.,,sentence
-101139,French,The village looked different because the old mill had disappeared.,Le village avait changé d'aspect parce que le vieux moulin avait disparu.,,sentence
-101140,French,The nurse was surprised because the fever had fallen.,L'infirmière était surprise parce que la fièvre était tombée.,,sentence
-101141,French,The soil was dry because it had not rained for weeks.,La terre était sèche parce qu'il n'avait pas plu depuis des semaines.,,sentence
-101142,French,The mechanic was confident because he had found the fault.,Le mécanicien était confiant parce qu'il avait trouvé la panne.,,sentence
-101143,French,We missed the concert because we had confused the dates.,Nous avons manqué le concert parce que nous avions confondu les dates.,,sentence
-101144,French,She recognized the painting because she had studied the artist.,Elle a reconnu le tableau parce qu'elle avait étudié l'artiste.,,sentence
-101145,French,The inspector knew the equipment because he had installed it himself.,L'inspecteur connaissait le matériel parce qu'il l'avait installé lui-même.,,sentence
-101146,French,I couldn't enter because I had forgotten my badge.,Je n'ai pas pu entrer parce que j'avais oublié mon badge.,,sentence
-101147,French,The garden was flooded because the drain had become blocked.,Le jardin était inondé parce que l'évacuation s'était bouchée.,,sentence
-101148,French,They were celebrating because they had won the competition.,Ils faisaient la fête parce qu'ils avaient remporté le concours.,,sentence
-101149,French,The road was clear because the snowplough had passed.,La route était dégagée parce que le chasse-neige était passé.,,sentence
-101150,French,The manager was satisfied because sales had increased.,Le directeur était satisfait parce que les ventes avaient augmenté.,,sentence
-101151,French,The students were nervous because they had not revised enough.,Les étudiants étaient nerveux parce qu'ils n'avaient pas assez révisé.,,sentence
-101152,French,The roof was leaking because a tile had broken.,Le toit fuyait parce qu'une tuile s'était cassée.,,sentence
-101153,French,We were late because the bridge had been closed.,Nous étions en retard parce que le pont avait été fermé.,,sentence
-101154,French,She was happy because her sister had returned.,Elle était heureuse parce que sa sœur était rentrée.,,sentence
-101155,French,The machine was idle because the motor had failed.,La machine était à l'arrêt parce que le moteur était tombé en panne.,,sentence
-101156,French,The children were excited because their grandparents had arrived.,Les enfants étaient ravis parce que leurs grands-parents étaient arrivés.,,sentence
-101157,French,I was hungry because I had missed lunch.,J'avais faim parce que j'avais sauté le déjeuner.,,sentence
-101158,French,The room was cold because someone had left the window open.,La pièce était froide parce que quelqu'un avait laissé la fenêtre ouverte.,,sentence
-101159,French,The audience was disappointed because the singer had cancelled.,Le public était déçu parce que le chanteur avait annulé sa venue.,,sentence
-101160,French,I'm going to take the early train.,Je vais prendre le premier train.,,sentence
-101161,French,She's going to start a new job in November.,Elle va commencer un nouvel emploi en novembre.,,sentence
-101162,French,We're going to repaint the kitchen.,Nous allons repeindre la cuisine.,,sentence
-101163,French,They're going to sell the old tractor.,Ils vont vendre le vieux tracteur.,,sentence
-101164,French,He's going to call the insurance company.,Il va appeler la compagnie d'assurance.,,sentence
-101165,French,I'm going to order the mushroom soup.,Je vais commander la soupe aux champignons.,,sentence
-101166,French,The children are going to build a treehouse.,Les enfants vont construire une cabane dans un arbre.,,sentence
-101167,French,We're going to spend the weekend by the lake.,Nous allons passer le week-end au bord du lac.,,sentence
-101168,French,The council is going to vote on the proposal.,Le conseil va voter sur la proposition.,,sentence
-101169,French,She's going to study marine biology.,Elle va étudier la biologie marine.,,sentence
-101170,French,I'm going to replace the broken handle.,Je vais remplacer la poignée cassée.,,sentence
-101171,French,They're going to reopen the swimming pool.,Ils vont rouvrir la piscine.,,sentence
-101172,French,He's going to apologize to his neighbour.,Il va présenter ses excuses à son voisin.,,sentence
-101173,French,We're going to try a different approach.,Nous allons essayer une autre méthode.,,sentence
-101174,French,The restaurant is going to change its menu.,Le restaurant va changer sa carte.,,sentence
-101175,French,I'm going to take the cat to the veterinarian.,Je vais emmener le chat chez le vétérinaire.,,sentence
-101176,French,She's going to apply for a scholarship.,Elle va demander une bourse.,,sentence
-101177,French,We're going to plant fruit trees in the spring.,Nous allons planter des arbres fruitiers au printemps.,,sentence
-101178,French,They're going to move the exhibition upstairs.,Ils vont déplacer l'exposition à l'étage.,,sentence
-101179,French,He's going to repair the leaking tap.,Il va réparer le robinet qui fuit.,,sentence
-101180,French,I'm going to ask for a written estimate.,Je vais demander un devis écrit.,,sentence
-101181,French,She's going to bring homemade bread.,Elle va apporter du pain fait maison.,,sentence
-101182,French,We're going to walk along the old railway line.,Nous allons marcher le long de l'ancienne voie ferrée.,,sentence
-101183,French,The airline is going to cancel several flights.,La compagnie aérienne va annuler plusieurs vols.,,sentence
-101184,French,I'm going to learn how to make pottery.,Je vais apprendre à faire de la poterie.,,sentence
-101185,French,We're not going to postpone the wedding.,Nous n'allons pas reporter le mariage.,,sentence
-101186,French,She isn't going to accept the offer.,Elle ne va pas accepter l'offre.,,sentence
-101187,French,I'm not going to drive in this weather.,Je ne vais pas conduire par ce temps.,,sentence
-101188,French,They're not going to demolish the theatre.,Ils ne vont pas démolir le théâtre.,,sentence
-101189,French,He's not going to change his mind.,Il ne va pas changer d'avis.,,sentence
-101190,French,Are you going to stay for dinner?,Tu vas rester dîner ?,,sentence
-101191,French,Is she going to attend the hearing?,Elle va assister à l'audience ?,,sentence
-101192,French,Are they going to publish the report?,Ils vont publier le rapport ?,,sentence
-101193,French,When are we going to hear the results?,Quand allons-nous connaître les résultats ?,,sentence
-101194,French,Why is he going to resign?,Pourquoi va-t-il démissionner ?,,sentence
-101195,French,Where are you going to park?,Tu vas te garer où ?,,sentence
-101196,French,Who's going to look after the dog?,Qui va s'occuper du chien ?,,sentence
-101197,French,How are we going to transport the furniture?,Comment allons-nous transporter les meubles ?,,sentence
-101198,French,Is the museum going to open on Monday?,Le musée va ouvrir lundi ?,,sentence
-101199,French,Are you going to invite your colleagues?,Tu vas inviter tes collègues ?,,sentence
-101200,French,It's going to rain this evening.,Il va pleuvoir ce soir.,,sentence
-101201,French,The road is going to become slippery.,La route va devenir glissante.,,sentence
-101202,French,Prices are going to rise again.,Les prix vont encore augmenter.,,sentence
-101203,French,The baby is going to wake up.,Le bébé va se réveiller.,,sentence
-101204,French,The meeting is going to last longer than expected.,La réunion va durer plus longtemps que prévu.,,sentence
-101205,French,We're going to run out of coffee.,Nous allons manquer de café.,,sentence
-101206,French,The river is going to overflow its banks.,La rivière va déborder.,,sentence
-101207,French,The lights are going to go out.,Les lumières vont s'éteindre.,,sentence
-101208,French,The train is going to be late.,Le train va avoir du retard.,,sentence
-101209,French,The queue is going to get longer.,La file d'attente va s'allonger.,,sentence
-101210,French,I'll send you the address tomorrow.,Je t'enverrai l'adresse demain.,,sentence
-101211,French,The librarian will help you find the book.,Le bibliothécaire t'aidera à trouver le livre.,,sentence
-101212,French,We'll discuss the budget on Thursday.,Nous discuterons du budget jeudi.,,sentence
-101213,French,The shop will close at six.,Le magasin fermera à six heures.,,sentence
-101214,French,The children will learn to read at school.,Les enfants apprendront à lire à l'école.,,sentence
-101215,French,The bridge will reopen in the spring.,Le pont rouvrira au printemps.,,sentence
-101216,French,I'll explain the procedure after lunch.,J'expliquerai la procédure après le déjeuner.,,sentence
-101217,French,She'll receive the parcel next week.,Elle recevra le colis la semaine prochaine.,,sentence
-101218,French,We'll finish the repairs before winter.,Nous terminerons les réparations avant l'hiver.,,sentence
-101219,French,The train will leave from platform four.,Le train partira du quai quatre.,,sentence
-101220,French,The committee will examine the evidence.,Le comité examinera les preuves.,,sentence
-101221,French,I'll bring a spare battery.,J'apporterai une batterie de rechange.,,sentence
-101222,French,The farmer will harvest the wheat in August.,L'agriculteur récoltera le blé en août.,,sentence
-101223,French,The hospital will open a new wing.,L'hôpital ouvrira une nouvelle aile.,,sentence
-101224,French,We'll compare the two proposals.,Nous comparerons les deux propositions.,,sentence
-101225,French,I will be available tomorrow.,Je serai disponible demain.,,sentence
-101226,French,She will be delighted.,Elle sera ravie.,,sentence
-101227,French,We will be ready before noon.,Nous serons prêts avant midi.,,sentence
-101228,French,They will be surprised by the result.,Ils seront surpris par le résultat.,,sentence
-101229,French,You will be safe here. (plural/formal),Vous serez en sécurité ici.,,sentence
-101230,French,I will have enough money.,J'aurai assez d'argent.,,sentence
-101231,French,She will have a new assistant.,Elle aura un nouvel assistant.,,sentence
-101232,French,We will have the results on Monday.,Nous aurons les résultats lundi.,,sentence
-101233,French,They will have a difficult choice.,Ils auront un choix difficile.,,sentence
-101234,French,You will have a private room. (singular informal),Tu auras une chambre individuelle.,,sentence
-101235,French,I will go to the pharmacy.,J'irai à la pharmacie.,,sentence
-101236,French,She will go to the conference.,Elle ira à la conférence.,,sentence
-101237,French,We will go to the coast.,Nous irons sur la côte.,,sentence
-101238,French,They will go to the mountains.,Ils iront à la montagne.,,sentence
-101239,French,You will go by ferry. (plural/formal),Vous irez en traversier.,,sentence
-101240,French,I will do the calculations.,Je ferai les calculs.,,sentence
-101241,French,She will do the inspection.,Elle fera l'inspection.,,sentence
-101242,French,We will do our best.,Nous ferons de notre mieux.,,sentence
-101243,French,They will do the repairs.,Ils feront les réparations.,,sentence
-101244,French,You will do the presentation. (singular informal),Tu feras la présentation.,,sentence
-101245,French,I will come back on Friday.,Je reviendrai vendredi.,,sentence
-101246,French,She will come by train.,Elle viendra en train.,,sentence
-101247,French,We will come before sunset.,Nous viendrons avant le coucher du soleil.,,sentence
-101248,French,They will come to the ceremony.,Ils viendront à la cérémonie.,,sentence
-101249,French,You will come with us. (plural/formal),Vous viendrez avec nous.,,sentence
-101250,French,I will see the dentist next week.,Je verrai le dentiste la semaine prochaine.,,sentence
-101251,French,She will see the difference.,Elle verra la différence.,,sentence
-101252,French,We will see the northern lights.,Nous verrons les aurores boréales.,,sentence
-101253,French,They will see the exhibition.,Ils verront l'exposition.,,sentence
-101254,French,You will see the harbour from here. (singular informal),Tu verras le port d'ici.,,sentence
-101255,French,I will be able to help tomorrow.,Je pourrai aider demain.,,sentence
-101256,French,She will be able to answer.,Elle pourra répondre.,,sentence
-101257,French,We will be able to continue.,Nous pourrons continuer.,,sentence
-101258,French,They will be able to enter.,Ils pourront entrer.,,sentence
-101259,French,You will be able to leave early. (plural/formal),Vous pourrez partir tôt.,,sentence
-101260,French,I will have to leave early.,Je devrai partir tôt.,,sentence
-101261,French,She will have to explain the delay.,Elle devra expliquer le retard.,,sentence
-101262,French,We will have to replace the valve.,Nous devrons remplacer la vanne.,,sentence
-101263,French,They will have to postpone the concert.,Ils devront reporter le concert.,,sentence
-101264,French,You will have to show identification. (plural/formal),Vous devrez présenter une pièce d'identité.,,sentence
-101265,French,I will know the answer tomorrow.,Je saurai la réponse demain.,,sentence
-101266,French,She will know the results soon.,Elle saura bientôt les résultats.,,sentence
-101267,French,We will know the truth.,Nous saurons la vérité.,,sentence
-101268,French,They will know where to go.,Ils sauront où aller.,,sentence
-101269,French,You will know what to do. (singular informal),Tu sauras quoi faire.,,sentence
-101270,French,When the train arrives we will leave.,Quand le train arrivera nous partirons.,,sentence
-101271,French,When the results arrive we will call you.,Quand les résultats arriveront nous vous appellerons.,,sentence
-101272,French,When the rain stops we will go outside.,Quand la pluie cessera nous sortirons.,,sentence
-101273,French,When she returns we will discuss the proposal.,Quand elle reviendra nous discuterons de la proposition.,,sentence
-101274,French,When the shop opens I will buy bread.,Quand le magasin ouvrira j'achèterai du pain.,,sentence
-101275,French,When the technician finishes we will restart the machine.,Quand le technicien aura terminé nous redémarrerons la machine.,,sentence
-101276,French,When you arrive I will show you the garden. (singular informal),Quand tu arriveras je te montrerai le jardin.,,sentence
-101277,French,When the exhibition ends the paintings will return to the museum.,Quand l'exposition se terminera les tableaux retourneront au musée.,,sentence
-101278,French,When the snow melts the river will rise.,Quand la neige fondra la rivière montera.,,sentence
-101279,French,When the doctor calls I will answer.,Quand le médecin appellera je répondrai.,,sentence
-101280,French,As soon as the ferry arrives we will board.,Dès que le traversier arrivera nous embarquerons.,,sentence
-101281,French,As soon as she finishes the report she will send it.,Dès qu'elle terminera le rapport elle l'enverra.,,sentence
-101282,French,As soon as the wind drops we will sail.,Dès que le vent faiblira nous prendrons la mer.,,sentence
-101283,French,As soon as the museum reopens we will visit it.,Dès que le musée rouvrira nous le visiterons.,,sentence
-101284,French,As soon as the contract is signed the work will begin.,Dès que le contrat sera signé les travaux commenceront.,,sentence
-101285,French,We will wait until the storm passes.,Nous attendrons jusqu'à ce que la tempête passe.,,sentence
-101286,French,I will stay here until you return. (singular informal),Je resterai ici jusqu'à ce que tu reviennes.,,sentence
-101287,French,We will call you after we receive the documents. (plural/formal),Nous vous appellerons après avoir reçu les documents.,,sentence
-101288,French,I will check the figures before sending the report.,Je vérifierai les chiffres avant d'envoyer le rapport.,,sentence
-101289,French,She will water the plants before leaving.,Elle arrosera les plantes avant de partir.,,sentence
-101290,French,We will have dinner when everyone is here.,Nous dînerons quand tout le monde sera là.,,sentence
-101291,French,He will explain the procedure when the trainees arrive.,Il expliquera la procédure quand les stagiaires arriveront.,,sentence
-101292,French,I will buy the tickets when the dates are confirmed.,J'achèterai les billets quand les dates seront confirmées.,,sentence
-101293,French,The workers will return when the site is safe.,Les ouvriers reviendront quand le chantier sera sûr.,,sentence
-101294,French,The committee will decide after the hearing.,Le comité décidera après l'audience.,,sentence
-101295,French,I would visit the museum.,Je visiterais le musée.,,sentence
-101296,French,You would visit the gallery. (singular informal),Tu visiterais la galerie.,,sentence
-101297,French,She would visit the castle.,Elle visiterait le château.,,sentence
-101298,French,We would visit the island.,Nous visiterions l'île.,,sentence
-101299,French,You would visit the laboratory. (plural/formal),Vous visiteriez le laboratoire.,,sentence
-101300,French,They would visit the observatory.,Ils visiteraient l'observatoire.,,sentence
-101301,French,I would finish the report.,Je finirais le rapport.,,sentence
-101302,French,She would finish the sculpture.,Elle finirait la sculpture.,,sentence
-101303,French,We would finish the repairs.,Nous finirions les réparations.,,sentence
-101304,French,They would finish the investigation.,Ils finiraient l'enquête.,,sentence
-101305,French,I would sell the equipment.,Je vendrais le matériel.,,sentence
-101306,French,He would sell the vineyard.,Il vendrait le vignoble.,,sentence
-101307,French,We would sell the harvest.,Nous vendrions la récolte.,,sentence
-101308,French,They would sell the paintings.,Ils vendraient les tableaux.,,sentence
-101309,French,I would be ready tomorrow.,Je serais prêt demain.,,sentence
-101310,French,She would be delighted.,Elle serait ravie.,,sentence
-101311,French,We would be grateful.,Nous serions reconnaissants.,,sentence
-101312,French,They would be surprised.,Ils seraient surpris.,,sentence
-101313,French,I would have more time.,J'aurais plus de temps.,,sentence
-101314,French,He would have a better view.,Il aurait une meilleure vue.,,sentence
-101315,French,We would have enough supplies.,Nous aurions assez de provisions.,,sentence
-101316,French,They would have a choice.,Ils auraient le choix.,,sentence
-101317,French,I would go to the coast.,J'irais sur la côte.,,sentence
-101318,French,She would go to the concert.,Elle irait au concert.,,sentence
-101319,French,We would go to the mountains.,Nous irions à la montagne.,,sentence
-101320,French,They would go to the conference.,Ils iraient à la conférence.,,sentence
-101321,French,I would do the calculations.,Je ferais les calculs.,,sentence
-101322,French,She would do the inspection.,Elle ferait l'inspection.,,sentence
-101323,French,We would do the repairs.,Nous ferions les réparations.,,sentence
-101324,French,They would do their best.,Ils feraient de leur mieux.,,sentence
-101325,French,I would come back earlier.,Je reviendrais plus tôt.,,sentence
-101326,French,She would come by ferry.,Elle viendrait en traversier.,,sentence
-101327,French,We would come before noon.,Nous viendrions avant midi.,,sentence
-101328,French,They would come together.,Ils viendraient ensemble.,,sentence
-101329,French,I could help tomorrow.,Je pourrais aider demain.,,sentence
-101330,French,She could answer the question.,Elle pourrait répondre à la question.,,sentence
-101331,French,We could continue the project.,Nous pourrions poursuivre le projet.,,sentence
-101332,French,They could enter through the side door.,Ils pourraient entrer par la porte latérale.,,sentence
-101333,French,I would want an explanation.,Je voudrais une explication.,,sentence
-101334,French,We would need more space.,Il nous faudrait davantage de place.,,sentence
-101335,French,I would like a table by the window.,Je voudrais une table près de la fenêtre.,,sentence
-101336,French,I would like a glass of sparkling water.,Je voudrais un verre d'eau gazeuse.,,sentence
-101337,French,I would like a copy of the invoice.,Je voudrais une copie de la facture.,,sentence
-101338,French,I would like to make an appointment.,Je voudrais prendre rendez-vous.,,sentence
-101339,French,I would like to speak to the manager.,Je voudrais parler au responsable.,,sentence
-101340,French,Could you open the window? (plural/formal),Pourriez-vous ouvrir la fenêtre ?,,sentence
-101341,French,Could you repeat the address? (plural/formal),Pourriez-vous répéter l'adresse ?,,sentence
-101342,French,Could you explain the procedure? (plural/formal),Pourriez-vous expliquer la procédure ?,,sentence
-101343,French,Could you send the receipt? (plural/formal),Pourriez-vous envoyer le reçu ?,,sentence
-101344,French,Could you check the reservation? (plural/formal),Pourriez-vous vérifier la réservation ?,,sentence
-101345,French,Would you have a quieter room? (plural/formal),Auriez-vous une chambre plus calme ?,,sentence
-101346,French,Would you have a vegetarian option? (plural/formal),Auriez-vous une option végétarienne ?,,sentence
-101347,French,Would you have a map of the city? (plural/formal),Auriez-vous un plan de la ville ?,,sentence
-101348,French,Would you have the latest timetable? (plural/formal),Auriez-vous les horaires les plus récents ?,,sentence
-101349,French,Would you have a smaller size? (plural/formal),Auriez-vous une taille plus petite ?,,sentence
-101350,French,I would appreciate a written confirmation.,J'apprécierais une confirmation écrite.,,sentence
-101351,French,I would prefer an earlier departure.,Je préférerais un départ plus tôt.,,sentence
-101352,French,We would like to postpone the meeting.,Nous voudrions reporter la réunion.,,sentence
-101353,French,We would appreciate your opinion.,Nous apprécierions votre avis.,,sentence
-101354,French,I would suggest a different approach.,Je proposerais une autre approche.,,sentence
-101355,French,I would recommend the local museum.,Je recommanderais le musée local.,,sentence
-101356,French,It would be better to wait.,Il vaudrait mieux attendre.,,sentence
-101357,French,It would be useful to compare the estimates.,Il serait utile de comparer les devis.,,sentence
-101358,French,That would be very helpful.,Ce serait très utile.,,sentence
-101359,French,I would be grateful for your reply.,Je vous serais reconnaissant de me répondre.,,sentence
-101360,French,With more time I would learn Italian.,Avec plus de temps j'apprendrais l'italien.,,sentence
-101361,French,With a larger garden she would plant fruit trees.,Avec un plus grand jardin elle planterait des arbres fruitiers.,,sentence
-101362,French,Without a map we would get lost.,Sans carte nous nous perdrions.,,sentence
-101363,French,Without electricity the pump would stop.,Sans électricité la pompe s'arrêterait.,,sentence
-101364,French,In your place I would wait. (singular informal),À ta place j'attendrais.,,sentence
-101365,French,In your place I would ask for a refund. (plural/formal),À votre place je demanderais un remboursement.,,sentence
-101366,French,A new bridge would reduce traffic.,Un nouveau pont réduirait la circulation.,,sentence
-101367,French,A larger reservoir would increase capacity.,Un plus grand réservoir augmenterait la capacité.,,sentence
-101368,French,A better filter would improve water quality.,Un meilleur filtre améliorerait la qualité de l'eau.,,sentence
-101369,French,A shorter route would save fuel.,Un trajet plus court économiserait du carburant.,,sentence
-101370,French,The renovation would cost too much.,La rénovation coûterait trop cher.,,sentence
-101371,French,The project would take several months.,Le projet prendrait plusieurs mois.,,sentence
-101372,French,The exhibition would attract many visitors.,L'exposition attirerait de nombreux visiteurs.,,sentence
-101373,French,A stronger wind would damage the roof.,Un vent plus fort endommagerait le toit.,,sentence
-101374,French,The new schedule would help commuters.,Le nouvel horaire aiderait les navetteurs.,,sentence
-101375,French,We would choose a quieter neighbourhood.,Nous choisirions un quartier plus calme.,,sentence
-101376,French,She would prefer a permanent contract.,Elle préférerait un contrat permanent.,,sentence
-101377,French,He would need additional training.,Il aurait besoin d'une formation supplémentaire.,,sentence
-101378,French,The council would have to approve the expenditure.,Le conseil devrait approuver la dépense.,,sentence
-101379,French,The doctor would recommend more rest.,Le médecin recommanderait davantage de repos.,,sentence
-101380,French,A second opinion would reassure the patient.,Un deuxième avis rassurerait le patient.,,sentence
-101381,French,A warmer climate would suit these plants.,Un climat plus chaud conviendrait à ces plantes.,,sentence
-101382,French,The library would benefit from longer opening hours.,La bibliothèque bénéficierait d'horaires plus longs.,,sentence
-101383,French,The village would need a new clinic.,Le village aurait besoin d'une nouvelle clinique.,,sentence
-101384,French,That solution would create another problem.,Cette solution créerait un autre problème.,,sentence
-101385,French,If it rains we will stay inside.,S'il pleut nous resterons à l'intérieur.,,sentence
-101386,French,If the train is late I will take a taxi.,Si le train est en retard je prendrai un taxi.,,sentence
-101387,French,If she calls I will answer.,Si elle appelle je répondrai.,,sentence
-101388,French,If the road is closed we will take another route.,Si la route est fermée nous prendrons un autre itinéraire.,,sentence
-101389,French,If the museum is open we will visit it.,Si le musée est ouvert nous le visiterons.,,sentence
-101390,French,If you finish early we will have dinner together. (singular informal),Si tu finis tôt nous dînerons ensemble.,,sentence
-101391,French,If the technician arrives we will restart the pump.,Si le technicien arrive nous redémarrerons la pompe.,,sentence
-101392,French,If the temperature drops the lake will freeze.,Si la température baisse le lac gèlera.,,sentence
-101393,French,If the invoice is correct we will pay it.,Si la facture est correcte nous la paierons.,,sentence
-101394,French,If the patient improves she will go home.,Si l'état de la patiente s'améliore elle rentrera chez elle.,,sentence
-101395,French,If the wind increases the ferry will stop.,Si le vent se renforce le traversier s'arrêtera.,,sentence
-101396,French,If we find the documents we will send them.,Si nous retrouvons les documents nous les enverrons.,,sentence
-101397,French,If the harvest is good the farmers will celebrate.,Si la récolte est bonne les agriculteurs feront la fête.,,sentence
-101398,French,If you need assistance ask the receptionist. (plural/formal),Si vous avez besoin d'aide demandez à la réception.,,sentence
-101399,French,If the forecast changes we will postpone the hike.,Si les prévisions changent nous reporterons la randonnée.,,sentence
-101400,French,If the exhibition sells out we will book another date.,Si l'exposition affiche complet nous réserverons une autre date.,,sentence
-101401,French,If the results are reliable we will publish them.,Si les résultats sont fiables nous les publierons.,,sentence
-101402,French,If the motor overheats the alarm will sound.,Si le moteur surchauffe l'alarme retentira.,,sentence
-101403,French,If the budget is approved construction will begin.,Si le budget est approuvé les travaux commenceront.,,sentence
-101404,French,If the children are hungry I will make soup.,Si les enfants ont faim je préparerai de la soupe.,,sentence
-101405,French,If the rain stops we will walk to the harbour.,Si la pluie cesse nous irons à pied jusqu'au port.,,sentence
-101406,French,If the lights fail we will use flashlights.,Si les lumières tombent en panne nous utiliserons des lampes de poche.,,sentence
-101407,French,If the supplier agrees we will sign the contract.,Si le fournisseur accepte nous signerons le contrat.,,sentence
-101408,French,If the doctor recommends it I will rest.,Si le médecin le recommande je me reposerai.,,sentence
-101409,French,If the water is too cold we will not swim.,Si l'eau est trop froide nous ne nagerons pas.,,sentence
-101410,French,If I had more time I would read more.,Si j'avais plus de temps je lirais davantage.,,sentence
-101411,French,If she lived nearby we would see her often.,Si elle habitait près d'ici nous la verrions souvent.,,sentence
-101412,French,If we owned a boat we would explore the islands.,Si nous possédions un bateau nous explorerions les îles.,,sentence
-101413,French,If he knew the answer he would tell us.,S'il connaissait la réponse il nous la dirait.,,sentence
-101414,French,If the museum were open we would go inside.,Si le musée était ouvert nous entrerions.,,sentence
-101415,French,If the road were wider traffic would move faster.,Si la route était plus large la circulation serait plus fluide.,,sentence
-101416,French,If the weather were better we would go hiking.,S'il faisait meilleur nous ferions une randonnée.,,sentence
-101417,French,If the pump were quieter the workers would be happier.,Si la pompe était moins bruyante les ouvriers seraient plus contents.,,sentence
-101418,French,If the apartment had a balcony I would rent it.,Si l'appartement avait un balcon je le louerais.,,sentence
-101419,French,If I were the director I would change the schedule.,Si j'étais le directeur je changerais l'horaire.,,sentence
-101420,French,If she were here she would explain everything.,Si elle était ici elle expliquerait tout.,,sentence
-101421,French,If we had the equipment we could start today.,Si nous avions le matériel nous pourrions commencer aujourd'hui.,,sentence
-101422,French,If you spoke French you could apply for that job. (singular informal),Si tu parlais français tu pourrais postuler à cet emploi.,,sentence
-101423,French,If the price were lower we would buy two.,Si le prix était plus bas nous en achèterions deux.,,sentence
-101424,French,If the ferry ran at night we would travel later.,Si le traversier circulait la nuit nous voyagerions plus tard.,,sentence
-101425,French,If the laboratory were larger it could hire more researchers.,Si le laboratoire était plus grand il pourrait embaucher davantage de chercheurs.,,sentence
-101426,French,If the doctor had more time she would explain the treatment.,Si le médecin avait plus de temps elle expliquerait le traitement.,,sentence
-101427,French,If the garden faced south the tomatoes would grow faster.,Si le jardin était orienté au sud les tomates pousseraient plus vite.,,sentence
-101428,French,If I understood the instructions I would repair it myself.,Si je comprenais la notice je le réparerais moi-même.,,sentence
-101429,French,If the village had a library the children would read more.,Si le village avait une bibliothèque les enfants liraient davantage.,,sentence
-101430,French,If the river were deeper larger boats could pass.,Si la rivière était plus profonde de plus grands bateaux pourraient passer.,,sentence
-101431,French,If we worked fewer hours we would have more energy.,Si nous travaillions moins d'heures nous aurions plus d'énergie.,,sentence
-101432,French,If she earned more she would save for a house.,Si elle gagnait davantage elle économiserait pour acheter une maison.,,sentence
-101433,French,If the building had an elevator it would be more accessible.,Si le bâtiment avait un ascenseur il serait plus accessible.,,sentence
-101434,French,If the council listened the plan would improve.,Si le conseil écoutait le plan s'améliorerait.,,sentence
-101435,French,If the forecast improves we will leave at dawn.,Si les prévisions s'améliorent nous partirons à l'aube.,,sentence
-101436,French,If the forecast improved we would leave at dawn.,Si les prévisions s'amélioraient nous partirions à l'aube.,,sentence
-101437,French,If she receives the scholarship she will study abroad.,Si elle obtient la bourse elle étudiera à l'étranger.,,sentence
-101438,French,If she received the scholarship she would study abroad.,Si elle obtenait la bourse elle étudierait à l'étranger.,,sentence
-101439,French,If the company invests it will create jobs.,Si l'entreprise investit elle créera des emplois.,,sentence
-101440,French,If the company invested it would create jobs.,Si l'entreprise investissait elle créerait des emplois.,,sentence
-101441,French,If the bridge reopens traffic will improve.,Si le pont rouvre la circulation s'améliorera.,,sentence
-101442,French,If the bridge reopened traffic would improve.,Si le pont rouvrait la circulation s'améliorerait.,,sentence
-101443,French,If you call tonight I will answer. (singular informal),Si tu appelles ce soir je répondrai.,,sentence
-101444,French,If you called tonight I would answer. (singular informal),Si tu appelais ce soir je répondrais.,,sentence
-101445,French,When the inspector arrives we will begin.,Quand l'inspecteur arrivera nous commencerons.,,sentence
-101446,French,If the inspector arrived early we would begin earlier.,Si l'inspecteur arrivait tôt nous commencerions plus tôt.,,sentence
-101447,French,As soon as the parcel arrives I will open it.,Dès que le colis arrivera je l'ouvrirai.,,sentence
-101448,French,If the parcel arrived today I would open it immediately.,Si le colis arrivait aujourd'hui je l'ouvrirais immédiatement.,,sentence
-101449,French,The museum will reopen in spring.,Le musée rouvrira au printemps.,,sentence
-101450,French,The museum would reopen if funding were available.,Le musée rouvrirait si le financement était disponible.,,sentence
-101451,French,We will replace the roof next year.,Nous remplacerons le toit l'année prochaine.,,sentence
-101452,French,We would replace the roof if we had the money.,Nous remplacerions le toit si nous avions l'argent.,,sentence
-101453,French,She will accept the offer tomorrow.,Elle acceptera l'offre demain.,,sentence
-101454,French,She would accept the offer if the salary were higher.,Elle accepterait l'offre si le salaire était plus élevé.,,sentence
-101455,French,This bridge is longer than the old bridge.,Ce pont est plus long que l'ancien pont.,,sentence
-101456,French,The new tunnel is shorter than the old route.,Le nouveau tunnel est plus court que l'ancien itinéraire.,,sentence
-101457,French,The river is wider than the canal.,La rivière est plus large que le canal.,,sentence
-101458,French,The valley is deeper than the lake.,La vallée est plus profonde que le lac.,,sentence
-101459,French,The northern coast is colder than the southern coast.,La côte nord est plus froide que la côte sud.,,sentence
-101460,French,This fabric is softer than wool.,Ce tissu est plus doux que la laine.,,sentence
-101461,French,The steel beam is heavier than the wooden beam.,La poutre en acier est plus lourde que la poutre en bois.,,sentence
-101462,French,The new pump is quieter than the old pump.,La nouvelle pompe est plus silencieuse que l'ancienne pompe.,,sentence
-101463,French,This microscope is more powerful than that one.,Ce microscope est plus puissant que celui-là.,,sentence
-101464,French,The new battery is lighter than the old one.,La nouvelle batterie est plus légère que l'ancienne.,,sentence
-101465,French,The village is smaller than the city.,Le village est plus petit que la ville.,,sentence
-101466,French,The mountain is higher than the hill.,La montagne est plus haute que la colline.,,sentence
-101467,French,This painting is more colourful than the photograph.,Ce tableau est plus coloré que la photographie.,,sentence
-101468,French,The second proposal is more expensive than the first.,La deuxième proposition est plus chère que la première.,,sentence
-101469,French,The lecture was more interesting than the debate.,La conférence était plus intéressante que le débat.,,sentence
-101470,French,The hotel is less expensive than the guesthouse.,L'hôtel est moins cher que la maison d'hôtes.,,sentence
-101471,French,The train is less noisy than the bus.,Le train est moins bruyant que l'autobus.,,sentence
-101472,French,This path is less steep than the other path.,Ce sentier est moins raide que l'autre sentier.,,sentence
-101473,French,The instructions are less complicated than the manual.,Les instructions sont moins compliquées que le manuel.,,sentence
-101474,French,The new filter is less efficient than the previous one.,Le nouveau filtre est moins efficace que le précédent.,,sentence
-101475,French,The second examination was less painful than the first.,Le deuxième examen était moins douloureux que le premier.,,sentence
-101476,French,The northern region is less populated than the south.,La région du nord est moins peuplée que le sud.,,sentence
-101477,French,The autumn harvest was less abundant than the summer harvest.,La récolte d'automne était moins abondante que la récolte d'été.,,sentence
-101478,French,The new office is less spacious than the old one.,Le nouveau bureau est moins spacieux que l'ancien.,,sentence
-101479,French,The report is less detailed than the proposal.,Le rapport est moins détaillé que la proposition.,,sentence
-101480,French,The two gardens are equally large.,Les deux jardins sont aussi grands l'un que l'autre.,,sentence
-101481,French,The two candidates are equally experienced.,Les deux candidats sont aussi expérimentés l'un que l'autre.,,sentence
-101482,French,The lake is as deep as the reservoir.,Le lac est aussi profond que le réservoir.,,sentence
-101483,French,This metal is as strong as that alloy.,Ce métal est aussi résistant que cet alliage.,,sentence
-101484,French,The first solution is as practical as the second.,La première solution est aussi pratique que la deuxième.,,sentence
-101485,French,The students are as curious as their teacher.,Les étudiants sont aussi curieux que leur professeur.,,sentence
-101486,French,This medicine is as effective as the previous one.,Ce médicament est aussi efficace que le précédent.,,sentence
-101487,French,The harbour is as busy as the station.,Le port est aussi fréquenté que la gare.,,sentence
-101488,French,The smaller apartment is as bright as the larger one.,Le petit appartement est aussi lumineux que le grand.,,sentence
-101489,French,The new technician is as careful as her colleague.,La nouvelle technicienne est aussi prudente que sa collègue.,,sentence
-101490,French,The air is warmer today than yesterday.,L'air est plus chaud aujourd'hui qu'hier.,,sentence
-101491,French,The streets are cleaner than before.,Les rues sont plus propres qu'avant.,,sentence
-101492,French,The documents are clearer than the original instructions.,Les documents sont plus clairs que les instructions initiales.,,sentence
-101493,French,The renovated theatre is more accessible than before.,Le théâtre rénové est plus accessible qu'avant.,,sentence
-101494,French,The second sample is more concentrated than the first.,Le deuxième échantillon est plus concentré que le premier.,,sentence
-101495,French,The garden soil is drier than the forest soil.,La terre du jardin est plus sèche que celle de la forêt.,,sentence
-101496,French,The hospital is farther away than the clinic.,L'hôpital est plus éloigné que la clinique.,,sentence
-101497,French,The new procedure is safer than the old one.,La nouvelle procédure est plus sûre que l'ancienne.,,sentence
-101498,French,The library is quieter in the morning than in the afternoon.,La bibliothèque est plus calme le matin que l'après-midi.,,sentence
-101499,French,The second chapter is longer than the introduction.,Le deuxième chapitre est plus long que l'introduction.,,sentence
+100601,French,She woke up at six.,Elle s'est réveillée à six heures.,,sentence
+100602,French,We got up before breakfast. (masculine/mixed),Nous nous sommes levés avant le petit-déjeuner.,,sentence
+100603,French,They got up late. (feminine),Elles se sont levées tard.,,sentence
+100604,French,I got dressed quickly. (male speaker),Je me suis habillé rapidement.,,sentence
+100605,French,He washed himself after work.,Il s'est lavé après le travail.,,sentence
+100606,French,I went to bed at eleven. (male speaker),Je me suis couché à onze heures.,,sentence
+100607,French,She hurried to the station.,Elle s'est dépêchée d'aller à la gare.,,sentence
+100608,French,I remembered the address. (male speaker),Je me suis souvenu de l'adresse.,,sentence
+100609,French,We met up in the square. (masculine/mixed),Nous nous sommes retrouvés sur la place.,,sentence
+100610,French,She brushed her teeth.,Elle s'est brossé les dents.,,sentence
+100611,French,He washed his hands.,Il s'est lavé les mains.,,sentence
+100612,French,The neighbours greeted each other.,Les voisins se sont salués.,,sentence
+100613,French,The colleagues spoke to each other.,Les collègues se sont parlé.,,sentence
+100614,French,The two sisters called each other.,Les deux sœurs se sont téléphoné.,,sentence
+100615,French,The friends wrote to each other.,Les amis se sont écrit.,,sentence
+100616,French,The child fell asleep.,L'enfant s'est endormi.,,sentence
+100617,French,I felt better after resting. (male speaker),Je me suis senti mieux après m'être reposé.,,sentence
+100618,French,She signed up for the course.,Elle s'est inscrite au cours.,,sentence
+100619,French,He broke his leg.,Il s'est cassé la jambe.,,sentence
+100620,French,I did not buy the tickets.,Je n'ai pas acheté les billets.,,sentence
+100621,French,The guests did not arrive on time.,Les invités ne sont pas arrivés à l'heure.,,sentence
+100622,French,The nurse did not come yesterday.,L'infirmière n'est pas venue hier.,,sentence
+100623,French,Did you receive the package? (singular informal),Est-ce que tu as reçu le colis ?,,sentence
+100624,French,Did she pay the invoice?,Est-ce qu'elle a payé la facture ?,,sentence
+100625,French,Did the doctor examine the patient?,Est-ce que le médecin a examiné le patient ?,,sentence
+100626,French,Where did you buy that coat? (singular informal),Où est-ce que tu as acheté ce manteau ?,,sentence
+100627,French,When did the meeting end?,Quand est-ce que la réunion s'est terminée ?,,sentence
+100628,French,Who called the technician?,Qui a appelé le technicien ?,,sentence
+100629,French,What did the journalist write?,Qu'est-ce que le journaliste a écrit ?,,sentence
+100630,French,Which hotel did they choose?,Quel hôtel est-ce qu'ils ont choisi ?,,sentence
+100631,French,I have never visited that island.,Je n'ai jamais visité cette île.,,sentence
+100632,French,We have not received the results yet.,Nous n'avons pas encore reçu les résultats.,,sentence
+100633,French,I have already sent the documents.,J'ai déjà envoyé les documents.,,sentence
+100634,French,We did not see anyone.,Nous n'avons vu personne.,,sentence
+100635,French,They did not find anything.,Ils n'ont rien trouvé.,,sentence
+100636,French,Did you not hear the announcement? (singular informal),Est-ce que tu n'as pas entendu l'annonce ?,,sentence
+100637,French,Why did the engine not start?,Pourquoi est-ce que le moteur n'a pas démarré ?,,sentence
+100638,French,I saw her yesterday.,Je l'ai vue hier.,,sentence
+100639,French,I saw him yesterday.,Je l'ai vu hier.,,sentence
+100640,French,She found it. (the key),Elle l'a trouvée.,,sentence
+100641,French,He found it. (the passport),Il l'a trouvé.,,sentence
+100642,French,I bought them. (the tickets),Je les ai achetés.,,sentence
+100643,French,She bought them. (the flowers),Elle les a achetées.,,sentence
+100644,French,We received it. (the letter),Nous l'avons reçue.,,sentence
+100645,French,We received it. (the package),Nous l'avons reçu.,,sentence
+100646,French,He opened it. (the window),Il l'a ouverte.,,sentence
+100647,French,He opened it. (the drawer),Il l'a ouvert.,,sentence
+100648,French,I washed them. (the plates),Je les ai lavées.,,sentence
+100649,French,I washed them. (the glasses),Je les ai lavés.,,sentence
+100650,French,The dress that she bought is blue.,La robe qu'elle a achetée est bleue.,,sentence
+100651,French,The letters that I wrote are short.,Les lettres que j'ai écrites sont courtes.,,sentence
+100652,French,The photographs that he took are sharp.,Les photographies qu'il a prises sont nettes.,,sentence
+100653,French,Which suitcase did you choose? (singular informal),Quelle valise est-ce que tu as choisie ?,,sentence
+100654,French,Which keys did you find? (plural/formal),Quelles clés est-ce que vous avez trouvées ?,,sentence
+100655,French,The pipes that they replaced no longer leak.,Les tuyaux qu'ils ont remplacés ne fuient plus.,,sentence
+100656,French,I have spoken to her.,Je lui ai parlé.,,sentence
+100657,French,I have written to them.,Je leur ai écrit.,,sentence
+100658,French,The cake that he made was delicious.,Le gâteau qu'il a fait était délicieux.,,sentence
+100659,French,The soup that she made was delicious.,La soupe qu'elle a faite était délicieuse.,,sentence
+100660,French,I have bought some strawberries.,J'ai acheté des fraises.,,sentence
+100661,French,I have bought two kilograms of strawberries.,J'ai acheté deux kilos de fraises.,,sentence
+100662,French,The storm damaged the roof yesterday.,La tempête a endommagé le toit hier.,,sentence
+100663,French,The electrician repaired the wiring.,L'électricien a réparé le câblage.,,sentence
+100664,French,The guide explained the history of the castle.,Le guide a expliqué l'histoire du château.,,sentence
+100665,French,The engineer checked the pressure.,L'ingénieur a vérifié la pression.,,sentence
+100666,French,We replaced the damaged valve.,Nous avons remplacé la vanne endommagée.,,sentence
+100667,French,My grandfather told us a story.,Mon grand-père nous a raconté une histoire.,,sentence
+100668,French,They returned from the mountains. (feminine),Elles sont revenues de la montagne.,,sentence
+100669,French,My sister became a veterinarian.,Ma sœur est devenue vétérinaire.,,sentence
+100670,French,The driver stopped at the crossing.,Le conducteur s'est arrêté au passage piéton.,,sentence
+100671,French,We finally reached an agreement.,Nous sommes enfin parvenus à un accord.,,sentence
+100672,French,The meeting lasted two hours.,La réunion a duré deux heures.,,sentence
+100673,French,She changed her mind at the last moment.,Elle a changé d'avis au dernier moment.,,sentence
+100674,French,The doctor examined the patient's knee.,Le médecin a examiné le genou du patient.,,sentence
+100675,French,The committee approved the proposal.,Le comité a approuvé la proposition.,,sentence
+100676,French,The mechanic replaced the battery.,Le mécanicien a remplacé la batterie.,,sentence
+100677,French,I was working.,Je travaillais.,,sentence
+100678,French,You were working. (singular informal),Tu travaillais.,,sentence
+100679,French,We were working.,Nous travaillions.,,sentence
+100680,French,You were working. (plural/formal),Vous travailliez.,,sentence
+100681,French,They were working. (masculine/mixed),Ils travaillaient.,,sentence
+100682,French,I was finishing.,Je finissais.,,sentence
+100683,French,We were finishing.,Nous finissions.,,sentence
+100684,French,I was selling.,Je vendais.,,sentence
+100685,French,We were selling.,Nous vendions.,,sentence
+100686,French,I was.,J'étais.,,sentence
+100687,French,We were.,Nous étions.,,sentence
+100688,French,You were. (plural/formal),Vous étiez.,,sentence
+100689,French,I had.,J'avais.,,sentence
+100690,French,I was going.,J'allais.,,sentence
+100691,French,I was doing.,Je faisais.,,sentence
+100692,French,I was taking.,Je prenais.,,sentence
+100693,French,I was reading.,Je lisais.,,sentence
+100694,French,I was eating.,Je mangeais.,,sentence
+100695,French,We were eating.,Nous mangions.,,sentence
+100696,French,She was starting.,Elle commençait.,,sentence
+100697,French,We were starting.,Nous commencions.,,sentence
+100698,French,I was seeing.,Je voyais.,,sentence
+100699,French,We were seeing.,Nous voyions.,,sentence
+100700,French,I was writing.,J'écrivais.,,sentence
+100701,French,The village was quiet.,Le village était calme.,,sentence
+100702,French,The patient was tired.,Le patient était fatigué.,,sentence
+100703,French,The house had a large garden.,La maison avait un grand jardin.,,sentence
+100704,French,She had a terrible headache.,Elle avait très mal à la tête.,,sentence
+100705,French,He was afraid of heights.,Il avait peur du vide.,,sentence
+100706,French,I knew the answer.,Je connaissais la réponse.,,sentence
+100707,French,He wanted a different job.,Il voulait un autre emploi.,,sentence
+100708,French,The situation seemed complicated.,La situation semblait compliquée.,,sentence
+100709,French,The room smelled of fresh paint.,La pièce sentait la peinture fraîche.,,sentence
+100710,French,The weather was unpredictable.,Le temps était imprévisible.,,sentence
+100711,French,The project was behind schedule.,Le projet avait pris du retard.,,sentence
+100712,French,When I was little I played outside.,Quand j'étais petit je jouais dehors.,,sentence
+100713,French,Every summer we visited our grandparents.,Chaque été nous rendions visite à nos grands-parents.,,sentence
+100714,French,He often read the newspaper at breakfast.,Il lisait souvent le journal au petit-déjeuner.,,sentence
+100715,French,The train always stopped in that village.,Le train s'arrêtait toujours dans ce village.,,sentence
+100716,French,He used to swim in the lake.,Il nageait dans le lac autrefois.,,sentence
+100717,French,I always carried an umbrella.,Je portais toujours un parapluie.,,sentence
+100718,French,The workers started at seven.,Les ouvriers commençaient à sept heures.,,sentence
+100719,French,The teacher gave us exercises every week.,Le professeur nous donnait des exercices chaque semaine.,,sentence
+100720,French,The farmers sold vegetables at the market.,Les agriculteurs vendaient des légumes au marché.,,sentence
+100721,French,We rarely ate at restaurants.,Nous mangions rarement au restaurant.,,sentence
+100722,French,I used to wear glasses.,Je portais des lunettes autrefois.,,sentence
+100723,French,Every winter the lake froze.,Chaque hiver le lac gelait.,,sentence
+100724,French,We often ate outdoors in summer.,Nous mangions souvent dehors en été.,,sentence
+100725,French,It was raining that evening.,Il pleuvait ce soir-là.,,sentence
+100726,French,Snow was falling on the village.,La neige tombait sur le village.,,sentence
+100727,French,The sun was setting behind the hills.,Le soleil se couchait derrière les collines.,,sentence
+100728,French,The river was flowing rapidly.,La rivière coulait rapidement.,,sentence
+100729,French,The air smelled of pine trees.,L'air sentait le pin.,,sentence
+100730,French,People were waiting at the station.,Des gens attendaient à la gare.,,sentence
+100731,French,The dog was lying near the fireplace.,Le chien était couché près de la cheminée.,,sentence
+100732,French,The traffic was moving slowly.,La circulation avançait lentement.,,sentence
+100733,French,The pump was running quietly.,La pompe fonctionnait silencieusement.,,sentence
+100734,French,The students were taking notes.,Les étudiants prenaient des notes.,,sentence
+100735,French,The orchestra was playing a slow piece.,L'orchestre jouait un morceau lent.,,sentence
+100736,French,The clouds were gathering above the mountains.,Les nuages s'accumulaient au-dessus des montagnes.,,sentence
+100737,French,The smoke was rising from the chimney.,La fumée montait de la cheminée.,,sentence
+100738,French,The baker was kneading the dough.,Le boulanger pétrissait la pâte.,,sentence
+100739,French,The streets were empty when I left the hotel.,Les rues étaient désertes quand j'ai quitté l'hôtel.,,sentence
+100740,French,I was looking for my keys when the telephone rang.,Je cherchais mes clés quand le téléphone a sonné.,,sentence
+100741,French,I used to take the tram to university.,Je prenais le tramway pour aller à l'université.,,sentence
+100742,French,A cyclist suddenly crossed the intersection.,Un cycliste a soudain traversé le carrefour.,,sentence
+100743,French,I found a handwritten note in the drawer.,J'ai trouvé une note manuscrite dans le tiroir.,,sentence
+100744,French,She slipped on the wet pavement.,Elle a glissé sur le trottoir mouillé.,,sentence
+100745,French,The council rejected the proposed amendment.,Le conseil a rejeté l'amendement proposé.,,sentence
+100746,French,I was sleeping when the earthquake began.,Je dormais quand le tremblement de terre a commencé.,,sentence
+100747,French,They were discussing the budget when the minister arrived.,Ils discutaient du budget quand le ministre est arrivé.,,sentence
+100748,French,She was writing a letter when the power went out.,Elle écrivait une lettre quand le courant a été coupé.,,sentence
+100749,French,The driver was reversing when he struck the fence.,Le conducteur reculait quand il a heurté la clôture.,,sentence
+100750,French,He was afraid of heights when he was younger.,Il avait peur du vide quand il était plus jeune.,,sentence
+100751,French,The doctor prescribed a different treatment.,Le médecin a prescrit un autre traitement.,,sentence
+100752,French,I realized that the address was wrong.,Je me suis rendu compte que l'adresse était erronée.,,sentence
+100753,French,She noticed that the window was open.,Elle a remarqué que la fenêtre était ouverte.,,sentence
+100754,French,"While I was chopping onions, the water boiled.","Pendant que je coupais des oignons, l'eau s'est mise à bouillir.",,sentence
+100755,French,"While she was waiting for the dentist, she read a magazine.","Pendant qu'elle attendait le dentiste, elle a lu un magazine.",,sentence
+100756,French,"While we were walking along the river, we saw an otter.","Pendant que nous longions la rivière à pied, nous avons aperçu une loutre.",,sentence
+100757,French,"While the guests were arriving, the musicians tuned their instruments.","Pendant que les invités arrivaient, les musiciens accordaient leurs instruments.",,sentence
+100758,French,"While the technician was checking the valve, the pressure dropped.","Pendant que le technicien vérifiait la vanne, la pression a chuté.",,sentence
+100759,French,"While the farmer was repairing the fence, the sheep escaped.","Pendant que l'agriculteur réparait la clôture, les moutons se sont échappés.",,sentence
+100760,French,"While I was searching for the receipt, I found an old photograph.","Pendant que je cherchais le reçu, j'ai retrouvé une vieille photographie.",,sentence
+100761,French,"While she was preparing the presentation, her computer froze.","Pendant qu'elle préparait la présentation, son ordinateur s'est bloqué.",,sentence
+100762,French,"While the plane was descending, the clouds began to clear.","Pendant que l'avion descendait, les nuages ont commencé à se dissiper.",,sentence
+100763,French,"While the gardener was pruning the roses, a neighbour stopped to talk.","Pendant que le jardinier taillait les rosiers, un voisin s'est arrêté pour discuter.",,sentence
+100764,French,"While she was measuring the room, I drew a rough plan.","Pendant qu'elle mesurait la pièce, j'ai dessiné un plan approximatif.",,sentence
+100765,French,The sun was setting as we reached the summit.,Le soleil se couchait lorsque nous avons atteint le sommet.,,sentence
+100766,French,She was washing the dishes when the tap broke.,Elle faisait la vaisselle quand le robinet s'est cassé.,,sentence
+100767,French,The engine was overheating as we climbed the hill.,Le moteur surchauffait pendant que nous montions la côte.,,sentence
+100768,French,The workers were unloading the truck when the storm broke.,Les ouvriers déchargeaient le camion quand l'orage a éclaté.,,sentence
+100769,French,They had never seen the ocean before that trip.,Ils n'avaient jamais vu l'océan avant ce voyage.,,sentence
+100770,French,The ice had melted by the afternoon.,La glace avait fondu dans l'après-midi.,,sentence
+100771,French,I had never tasted fresh figs.,Je n'avais jamais goûté de figues fraîches.,,sentence
+100772,French,The children had fallen asleep before midnight.,Les enfants s'étaient endormis avant minuit.,,sentence
+100773,French,He had lost his passport at the airport.,Il avait perdu son passeport à l'aéroport.,,sentence
+100774,French,The laboratory had published the findings.,Le laboratoire avait publié les résultats.,,sentence
+100775,French,We had already paid the deposit.,Nous avions déjà versé l'acompte.,,sentence
+100776,French,The road had flooded overnight.,La route avait été inondée pendant la nuit.,,sentence
+100777,French,She had written three chapters before the deadline.,Elle avait écrit trois chapitres avant la date limite.,,sentence
+100778,French,The workers had repaired the leak before dawn.,Les ouvriers avaient réparé la fuite avant l'aube.,,sentence
+100779,French,The council had approved the project the previous year.,Le conseil avait approuvé le projet l'année précédente.,,sentence
+100780,French,He had never learned to swim.,Il n'avait jamais appris à nager.,,sentence
+100781,French,The rain had stopped before the match began.,La pluie s'était arrêtée avant le début du match.,,sentence
+100782,French,She had sent the invitation to the wrong address.,Elle avait envoyé l'invitation à la mauvaise adresse.,,sentence
+100783,French,The museum had acquired a rare manuscript.,Le musée avait acquis un manuscrit rare.,,sentence
+100784,French,The guests had arrived before the ceremony began.,Les invités étaient arrivés avant le début de la cérémonie.,,sentence
+100785,French,She had not understood the instructions.,Elle n'avait pas compris les consignes.,,sentence
+100786,French,I was exhausted because I had slept badly.,J'étais épuisé parce que j'avais mal dormi.,,sentence
+100787,French,The floor was wet because someone had spilled water.,Le sol était mouillé parce que quelqu'un avait renversé de l'eau.,,sentence
+100788,French,He was angry because nobody had warned him.,Il était en colère parce que personne ne l'avait prévenu.,,sentence
+100789,French,I knew the route because I had driven it before.,Je connaissais l'itinéraire parce que je l'avais déjà emprunté en voiture.,,sentence
+100790,French,We missed the concert because we had confused the dates.,Nous avons manqué le concert parce que nous avions confondu les dates.,,sentence
+100791,French,I couldn't enter because I had forgotten my badge.,Je n'ai pas pu entrer parce que j'avais oublié mon badge.,,sentence
+100792,French,The roof was leaking because a tile had broken.,Le toit fuyait parce qu'une tuile s'était cassée.,,sentence
+100793,French,The machine was idle because the motor had failed.,La machine était à l'arrêt parce que le moteur était tombé en panne.,,sentence
+100794,French,I'm going to take the early train.,Je vais prendre le premier train.,,sentence
+100795,French,She's going to start a new job in November.,Elle va commencer un nouvel emploi en novembre.,,sentence
+100796,French,We're going to repaint the kitchen.,Nous allons repeindre la cuisine.,,sentence
+100797,French,He's going to call the insurance company.,Il va appeler la compagnie d'assurance.,,sentence
+100798,French,The children are going to build a treehouse.,Les enfants vont construire une cabane dans un arbre.,,sentence
+100799,French,The council is going to vote on the proposal.,Le conseil va voter sur la proposition.,,sentence
+100800,French,He's going to apologize to his neighbour.,Il va présenter ses excuses à son voisin.,,sentence
+100801,French,She's going to apply for a scholarship.,Elle va demander une bourse.,,sentence
+100802,French,I'm going to ask for a written estimate.,Je vais demander un devis écrit.,,sentence
+100803,French,We're not going to postpone the wedding.,Nous n'allons pas reporter le mariage.,,sentence
+100804,French,She isn't going to accept the offer.,Elle ne va pas accepter l'offre.,,sentence
+100805,French,Are you going to stay for dinner?,Tu vas rester dîner ?,,sentence
+100806,French,When are we going to hear the results?,Quand allons-nous connaître les résultats ?,,sentence
+100807,French,Who's going to look after the dog?,Qui va s'occuper du chien ?,,sentence
+100808,French,It's going to rain this evening.,Il va pleuvoir ce soir.,,sentence
+100809,French,We're going to run out of coffee.,Nous allons manquer de café.,,sentence
+100810,French,I'll send you the address tomorrow.,Je t'enverrai l'adresse demain.,,sentence
+100811,French,The librarian will help you find the book.,Le bibliothécaire t'aidera à trouver le livre.,,sentence
+100812,French,The bridge will reopen in the spring.,Le pont rouvrira au printemps.,,sentence
+100813,French,We'll finish the repairs before winter.,Nous terminerons les réparations avant l'hiver.,,sentence
+100814,French,The committee will examine the evidence.,Le comité examinera les preuves.,,sentence
+100815,French,The farmer will harvest the wheat in August.,L'agriculteur récoltera le blé en août.,,sentence
+100816,French,I will be available tomorrow.,Je serai disponible demain.,,sentence
+100817,French,She will be delighted.,Elle sera ravie.,,sentence
+100818,French,I will have enough money.,J'aurai assez d'argent.,,sentence
+100819,French,She will have a new assistant.,Elle aura un nouvel assistant.,,sentence
+100820,French,I will go to the pharmacy.,J'irai à la pharmacie.,,sentence
+100821,French,I will do the calculations.,Je ferai les calculs.,,sentence
+100822,French,I will come back on Friday.,Je reviendrai vendredi.,,sentence
+100823,French,I will see the dentist next week.,Je verrai le dentiste la semaine prochaine.,,sentence
+100824,French,I will be able to help tomorrow.,Je pourrai aider demain.,,sentence
+100825,French,She will be able to answer.,Elle pourra répondre.,,sentence
+100826,French,I will have to leave early.,Je devrai partir tôt.,,sentence
+100827,French,We will have to replace the valve.,Nous devrons remplacer la vanne.,,sentence
+100828,French,I will know the answer tomorrow.,Je saurai la réponse demain.,,sentence
+100829,French,They will know where to go.,Ils sauront où aller.,,sentence
+100830,French,When the train arrives we will leave.,Quand le train arrivera nous partirons.,,sentence
+100831,French,When the results arrive we will call you.,Quand les résultats arriveront nous vous appellerons.,,sentence
+100832,French,When she returns we will discuss the proposal.,Quand elle reviendra nous discuterons de la proposition.,,sentence
+100833,French,When the technician finishes we will restart the machine.,Quand le technicien aura terminé nous redémarrerons la machine.,,sentence
+100834,French,When the snow melts the river will rise.,Quand la neige fondra la rivière montera.,,sentence
+100835,French,As soon as the ferry arrives we will board.,Dès que le traversier arrivera nous embarquerons.,,sentence
+100836,French,As soon as the wind drops we will sail.,Dès que le vent faiblira nous prendrons la mer.,,sentence
+100837,French,As soon as the contract is signed the work will begin.,Dès que le contrat sera signé les travaux commenceront.,,sentence
+100838,French,We will wait until the storm passes.,Nous attendrons jusqu'à ce que la tempête passe.,,sentence
+100839,French,We will call you after we receive the documents. (plural/formal),Nous vous appellerons après avoir reçu les documents.,,sentence
+100840,French,We will have dinner when everyone is here.,Nous dînerons quand tout le monde sera là.,,sentence
+100841,French,He will explain the procedure when the trainees arrive.,Il expliquera la procédure quand les stagiaires arriveront.,,sentence
+100842,French,I would visit the museum.,Je visiterais le musée.,,sentence
+100843,French,You would visit the gallery. (singular informal),Tu visiterais la galerie.,,sentence
+100844,French,She would visit the castle.,Elle visiterait le château.,,sentence
+100845,French,We would visit the island.,Nous visiterions l'île.,,sentence
+100846,French,You would visit the laboratory. (plural/formal),Vous visiteriez le laboratoire.,,sentence
+100847,French,They would visit the observatory.,Ils visiteraient l'observatoire.,,sentence
+100848,French,I would finish the report.,Je finirais le rapport.,,sentence
+100849,French,We would finish the repairs.,Nous finirions les réparations.,,sentence
+100850,French,I would sell the equipment.,Je vendrais le matériel.,,sentence
+100851,French,We would sell the harvest.,Nous vendrions la récolte.,,sentence
+100852,French,I would be ready tomorrow.,Je serais prêt demain.,,sentence
+100853,French,I would have more time.,J'aurais plus de temps.,,sentence
+100854,French,I would go to the coast.,J'irais sur la côte.,,sentence
+100855,French,I would do the calculations.,Je ferais les calculs.,,sentence
+100856,French,I would come back earlier.,Je reviendrais plus tôt.,,sentence
+100857,French,I could help tomorrow.,Je pourrais aider demain.,,sentence
+100858,French,I would want an explanation.,Je voudrais une explication.,,sentence
+100859,French,We would need more space.,Il nous faudrait davantage de place.,,sentence
+100860,French,I would like a table by the window.,Je voudrais une table près de la fenêtre.,,sentence
+100861,French,I would like a glass of sparkling water.,Je voudrais un verre d'eau gazeuse.,,sentence
+100862,French,I would like to make an appointment.,Je voudrais prendre rendez-vous.,,sentence
+100863,French,Could you open the window? (plural/formal),Pourriez-vous ouvrir la fenêtre ?,,sentence
+100864,French,Could you repeat the address? (plural/formal),Pourriez-vous répéter l'adresse ?,,sentence
+100865,French,Could you send the receipt? (plural/formal),Pourriez-vous envoyer le reçu ?,,sentence
+100866,French,Would you have a quieter room? (plural/formal),Auriez-vous une chambre plus calme ?,,sentence
+100867,French,Would you have the latest timetable? (plural/formal),Auriez-vous les horaires les plus récents ?,,sentence
+100868,French,I would appreciate a written confirmation.,J'apprécierais une confirmation écrite.,,sentence
+100869,French,I would prefer an earlier departure.,Je préférerais un départ plus tôt.,,sentence
+100870,French,I would suggest a different approach.,Je proposerais une autre approche.,,sentence
+100871,French,It would be better to wait.,Il vaudrait mieux attendre.,,sentence
+100872,French,With more time I would learn Italian.,Avec plus de temps j'apprendrais l'italien.,,sentence
+100873,French,With a larger garden she would plant fruit trees.,Avec un plus grand jardin elle planterait des arbres fruitiers.,,sentence
+100874,French,Without a map we would get lost.,Sans carte nous nous perdrions.,,sentence
+100875,French,Without electricity the pump would stop.,Sans électricité la pompe s'arrêterait.,,sentence
+100876,French,In your place I would wait. (singular informal),À ta place j'attendrais.,,sentence
+100877,French,A new bridge would reduce traffic.,Un nouveau pont réduirait la circulation.,,sentence
+100878,French,A larger reservoir would increase capacity.,Un plus grand réservoir augmenterait la capacité.,,sentence
+100879,French,A shorter route would save fuel.,Un trajet plus court économiserait du carburant.,,sentence
+100880,French,We would choose a quieter neighbourhood.,Nous choisirions un quartier plus calme.,,sentence
+100881,French,The council would have to approve the expenditure.,Le conseil devrait approuver la dépense.,,sentence
+100882,French,A warmer climate would suit these plants.,Un climat plus chaud conviendrait à ces plantes.,,sentence
+100883,French,If it rains we will stay inside.,S'il pleut nous resterons à l'intérieur.,,sentence
+100884,French,If the train is late I will take a taxi.,Si le train est en retard je prendrai un taxi.,,sentence
+100885,French,If the road is closed we will take another route.,Si la route est fermée nous prendrons un autre itinéraire.,,sentence
+100886,French,If the technician arrives we will restart the pump.,Si le technicien arrive nous redémarrerons la pompe.,,sentence
+100887,French,If the invoice is correct we will pay it.,Si la facture est correcte nous la paierons.,,sentence
+100888,French,If you need assistance ask the receptionist. (plural/formal),Si vous avez besoin d'aide demandez à la réception.,,sentence
+100889,French,If the motor overheats the alarm will sound.,Si le moteur surchauffe l'alarme retentira.,,sentence
+100890,French,If the supplier agrees we will sign the contract.,Si le fournisseur accepte nous signerons le contrat.,,sentence
+100891,French,If I had more time I would read more.,Si j'avais plus de temps je lirais davantage.,,sentence
+100892,French,If she lived nearby we would see her often.,Si elle habitait près d'ici nous la verrions souvent.,,sentence
+100893,French,If he knew the answer he would tell us.,S'il connaissait la réponse il nous la dirait.,,sentence
+100894,French,If the museum were open we would go inside.,Si le musée était ouvert nous entrerions.,,sentence
+100895,French,If the pump were quieter the workers would be happier.,Si la pompe était moins bruyante les ouvriers seraient plus contents.,,sentence
+100896,French,If I were the director I would change the schedule.,Si j'étais le directeur je changerais l'horaire.,,sentence
+100897,French,If you spoke French you could apply for that job. (singular informal),Si tu parlais français tu pourrais postuler à cet emploi.,,sentence
+100898,French,If I understood the instructions I would repair it myself.,Si je comprenais la notice je le réparerais moi-même.,,sentence
+100899,French,If the building had an elevator it would be more accessible.,Si le bâtiment avait un ascenseur il serait plus accessible.,,sentence
+100900,French,If the forecast improves we will leave at dawn.,Si les prévisions s'améliorent nous partirons à l'aube.,,sentence
+100901,French,If the forecast improved we would leave at dawn.,Si les prévisions s'amélioraient nous partirions à l'aube.,,sentence
+100902,French,If she receives the scholarship she will study abroad.,Si elle obtient la bourse elle étudiera à l'étranger.,,sentence
+100903,French,If she received the scholarship she would study abroad.,Si elle obtenait la bourse elle étudierait à l'étranger.,,sentence
+100904,French,If the company invests it will create jobs.,Si l'entreprise investit elle créera des emplois.,,sentence
+100905,French,If the company invested it would create jobs.,Si l'entreprise investissait elle créerait des emplois.,,sentence
+100906,French,If you call tonight I will answer. (singular informal),Si tu appelles ce soir je répondrai.,,sentence
+100907,French,If you called tonight I would answer. (singular informal),Si tu appelais ce soir je répondrais.,,sentence
+100908,French,The museum would reopen if funding were available.,Le musée rouvrirait si le financement était disponible.,,sentence
+100909,French,We would replace the roof if we had the money.,Nous remplacerions le toit si nous avions l'argent.,,sentence
+100910,French,She would accept the offer if the salary were higher.,Elle accepterait l'offre si le salaire était plus élevé.,,sentence
+100911,French,This bridge is longer than the old bridge.,Ce pont est plus long que l'ancien pont.,,sentence
+100912,French,The new tunnel is shorter than the old route.,Le nouveau tunnel est plus court que l'ancien itinéraire.,,sentence
+100913,French,The river is wider than the canal.,La rivière est plus large que le canal.,,sentence
+100914,French,The northern coast is colder than the southern coast.,La côte nord est plus froide que la côte sud.,,sentence
+100915,French,This fabric is softer than wool.,Ce tissu est plus doux que la laine.,,sentence
+100916,French,The steel beam is heavier than the wooden beam.,La poutre en acier est plus lourde que la poutre en bois.,,sentence
+100917,French,The new pump is quieter than the old pump.,La nouvelle pompe est plus silencieuse que l'ancienne pompe.,,sentence
+100918,French,This microscope is more powerful than that one.,Ce microscope est plus puissant que celui-là.,,sentence
+100919,French,The second proposal is more expensive than the first.,La deuxième proposition est plus chère que la première.,,sentence
+100920,French,The hotel is less expensive than the guesthouse.,L'hôtel est moins cher que la maison d'hôtes.,,sentence
+100921,French,The train is less noisy than the bus.,Le train est moins bruyant que l'autobus.,,sentence
+100922,French,This path is less steep than the other path.,Ce sentier est moins raide que l'autre sentier.,,sentence
+100923,French,The second examination was less painful than the first.,Le deuxième examen était moins douloureux que le premier.,,sentence
+100924,French,The report is less detailed than the proposal.,Le rapport est moins détaillé que la proposition.,,sentence
+100925,French,The two gardens are equally large.,Les deux jardins sont aussi grands l'un que l'autre.,,sentence
+100926,French,The lake is as deep as the reservoir.,Le lac est aussi profond que le réservoir.,,sentence
+100927,French,This metal is as strong as that alloy.,Ce métal est aussi résistant que cet alliage.,,sentence
+100928,French,This medicine is as effective as the previous one.,Ce médicament est aussi efficace que le précédent.,,sentence
+100929,French,The air is warmer today than yesterday.,L'air est plus chaud aujourd'hui qu'hier.,,sentence
+100930,French,The documents are clearer than the original instructions.,Les documents sont plus clairs que les instructions initiales.,,sentence
+100931,French,The second sample is more concentrated than the first.,Le deuxième échantillon est plus concentré que le premier.,,sentence
+100932,French,The hospital is farther away than the clinic.,L'hôpital est plus éloigné que la clinique.,,sentence
+100933,French,The new procedure is safer than the old one.,La nouvelle procédure est plus sûre que l'ancienne.,,sentence
