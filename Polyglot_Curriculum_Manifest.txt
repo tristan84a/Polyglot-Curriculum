@@ -161,9 +161,9 @@ Checkpoint: Spain Spanish is the unmarked reference. Present, preterite, imperfe
 
 RUSSIAN
 Syllabus: Syllabi/Polyglot_Russian_Syllabus_v0.2.txt
-Cards: 494 | Used IDs: 1000000-1000493
-Frontier: RU-30 — Accusative plural and animacy across nouns and adjectives
-Checkpoint: Established Stage 3 through RU-29 with 41 new cards addressing aspect in questions, negation and expected results (RU-27), common aspectual lexical families and complements (RU-28), and past/future/aspect synthesis in contextual narratives (RU-29). Existing 453 cards preserved. Later case, motion, imperative and clause-linking previews remain available in the widening spiral.
+Cards: 607 | Used IDs: 1000000-1000606
+Frontier: RU-42 — Imperative: productive singular and plural/polite forms
+Checkpoint: Established Stage 4 RU-30–RU-41 with 113 new cards (1000494–1000606): plural accusative animacy, genitive plural, dative and instrumental singular/plural, prepositional plural, numeral governance, preposition cases, oblique personal pronouns, possessives/demonstratives, and integrated case use. Previous 494 cards unchanged. Continue at RU-42; earlier imperative and motion examples remain previews for Stage 5.
 
 GREEK
 Syllabus: Syllabi/Polyglot_Greek_Syllabus_v0.1.txt
