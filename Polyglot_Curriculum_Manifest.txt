@@ -116,9 +116,9 @@ Checkpoint: Preserved the condensed French foundation and added 101 cards (10093
 
 GERMAN
 Syllabus: Syllabi/Polyglot_German_Syllabus_v0.3.txt
-Cards: 1000 | Used IDs: 200000-200999
+Cards: 880 | Used IDs: 200000-200879
 Frontier: DE-81 — Other common subordinating conjunctions
-Checkpoint: Established DE-71–DE-80 through 250 new cards (200750–200999), with 15–50 cards per unit. Strong Präteritum, register contrasts, Plusquamperfekt, past narration, coordination, dass, weil, wenn, als and obwohl introduced with varied lexical contexts. Continue verb-final subordinate clause patterns at DE-81.
+Checkpoint: Condensed the DE-71–DE-80 pre-live expansion from 250 to 130 existing cards, renumbered contiguously as 200750–200879; first 750 cards unchanged. Retained representative strong Präteritum, register contrasts, Plusquamperfekt, past narration, coordination, dass, weil, wenn, als and obwohl. Deferred vocabulary can return in the widening spiral. Continue at DE-81.
 
 JAPANESE
 Syllabus: Syllabi/Polyglot_Japanese_Syllabus_v0.4.txt
