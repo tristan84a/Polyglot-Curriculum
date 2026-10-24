@@ -110,9 +110,9 @@ These ranges are reservations, not curriculum-size targets. Stable live IDs are 
 
 FRENCH
 Syllabus: Syllabi/Polyglot_French_Syllabus_v0.3.txt
-Cards: 1035 | Used IDs: 100000-101034
-Frontier: FR-80 — Relative qui
-Checkpoint: Preserved the condensed French foundation and added 101 cards (100934-101034) to introduce all remaining Stage 9 units FR-73 through FR-79: superlatives, adverb and irregular comparison, indefinite determiners/pronouns, demonstrative and possessive pronouns, and reference/comparison synthesis. Continue at Stage 10, FR-80 (relative qui), while reusing established grammar in the widening spiral.
+Cards: 1126 | Used IDs: 100000-101125
+Frontier: FR-90 — Present subjunctive: regular formation
+Checkpoint: Established Stage 10 FR-80–FR-89 with 91 new cards (101035–101125), covering subject/object/place/de/complex-preposition relatives (qui, que, où, dont, lequel), coordination, cause/consequence, infinitival purpose, concession/opposition and integrated complex clauses. Existing 1035 cards unchanged. Continue at Stage 11, FR-90 (present subjunctive), with purpose clauses requiring subjunctive reserved for the mood sequence.
 
 GERMAN
 Syllabus: Syllabi/Polyglot_German_Syllabus_v0.3.txt
