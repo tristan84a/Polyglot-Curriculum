@@ -182,8 +182,9 @@ Checkpoint: Unpointed contemporary Hebrew seed with agreement, zero-copula predi
 
 MANDARIN
 Syllabus: Syllabi/Polyglot_Mandarin_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 1400000-1400099
-Checkpoint: Simplified Chinese Targets with tone-marked Hanyu Pinyin InputHint; seed covers classifiers, predication, location, questions/negation, possession and initial resultative structure.
+Cards: 179 | Used IDs: 1400000-1400178
+Frontier: MN-13 — 的 possession
+Checkpoint: Initial structural roadmap MN-01–MN-12 established. Original 100-card seed preserved; added 79 cards reinforcing noun/adjective predication, written pronouns, location, lexical classifiers, invariant verbs, 不, 吗 and predicate short answers, in-situ content questions, and 有/没有 possession and existence. Simplified Targets and tone-marked Pinyin InputHint continue. Later structures such as 的 have appeared as natural previews.
 
 ICELANDIC
 Syllabus: Syllabi/Polyglot_Icelandic_Syllabus_v0.1.txt
