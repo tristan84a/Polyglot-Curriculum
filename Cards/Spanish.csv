@@ -360,3 +360,200 @@
 900358,Spanish,place,lugar,,noun
 900359,Spanish,thing,cosa,,noun
 900360,Spanish,language,idioma,,noun
+900361,Spanish,I see my friend at the station.,Veo a mi amigo en la estación.,,sentence
+900362,Spanish,She knows my mother.,Conoce a mi madre.,,sentence
+900363,Spanish,I visit my father on Sundays.,Visito a mi padre los domingos.,,sentence
+900364,Spanish,We see the teacher in the street.,Vemos al profesor en la calle.,,sentence
+900365,Spanish,The woman helps the child.,La mujer ayuda al niño.,,sentence
+900366,Spanish,I see the dog in the park.,Veo al perro en el parque.,,sentence
+900367,Spanish,We see a dog in the park.,Vemos un perro en el parque.,,sentence
+900368,Spanish,I buy the book for my sister.,Compro el libro para mi hermana.,,sentence
+900369,Spanish,I give the book to the teacher.,Doy el libro al profesor.,,sentence
+900370,Spanish,She gives water to the child.,Da agua al niño.,,sentence
+900371,Spanish,We send a letter to our mother.,Enviamos una carta a nuestra madre.,,sentence
+900372,Spanish,I write a letter to my friend.,Escribo una carta a mi amigo.,,sentence
+900373,Spanish,He brings food to his father.,Lleva comida a su padre.,,sentence
+900374,Spanish,to give,dar,,verb
+900375,Spanish,to send,enviar,,verb
+900376,Spanish,letter,carta,,phrase
+900377,Spanish,to know (be acquainted with),conocer,,verb
+900378,Spanish,to visit,visitar,,verb
+900379,Spanish,my book,mi libro,,phrase
+900380,Spanish,my books,mis libros,,phrase
+900381,Spanish,your house,tu casa,,phrase
+900382,Spanish,your houses,tus casas,,phrase
+900383,Spanish,his book,su libro,,phrase
+900384,Spanish,her books,sus libros,,phrase
+900385,Spanish,our house,nuestra casa,,phrase
+900386,Spanish,our books,nuestros libros,,phrase
+900387,Spanish,our friends (female),nuestras amigas,,phrase
+900388,Spanish,your house (plural; Spain),vuestra casa,,phrase
+900389,Spanish,your books (plural; Spain),vuestros libros,,phrase
+900390,Spanish,their house,su casa,,phrase
+900391,Spanish,their houses,sus casas,,phrase
+900392,Spanish,my friend (female),mi amiga,,phrase
+900393,Spanish,friend (female),amiga,,phrase
+900394,Spanish,friends (female),amigas,,phrase
+900395,Spanish,I live with my sister.,Vivo con mi hermana.,,sentence
+900396,Spanish,Our friends live in the city.,Nuestros amigos viven en la ciudad.,,sentence
+900397,Spanish,Your books are here. (plural; Spain),Vuestros libros están aquí.,,phrase
+900398,Spanish,Her house is small.,Su casa es pequeña.,,sentence
+900399,Spanish,Their houses are big.,Sus casas son grandes.,,sentence
+900400,Spanish,this book,este libro,,phrase
+900401,Spanish,these books,estos libros,,phrase
+900402,Spanish,these houses,estas casas,,phrase
+900403,Spanish,that car,ese coche,,phrase
+900404,Spanish,those cars,esos coches,,phrase
+900405,Spanish,that street,esa calle,,phrase
+900406,Spanish,those streets,esas calles,,phrase
+900407,Spanish,that hotel over there,aquel hotel,,phrase
+900408,Spanish,those hotels over there,aquellos hoteles,,phrase
+900409,Spanish,that school over there,aquella escuela,,phrase
+900410,Spanish,those schools over there,aquellas escuelas,,phrase
+900411,Spanish,I want this ticket.,Quiero este billete.,,sentence
+900412,Spanish,We buy those books.,Compramos esos libros.,,sentence
+900413,Spanish,That woman over there is my mother.,Aquella mujer es mi madre.,,sentence
+900414,Spanish,These children study here.,Estos niños estudian aquí.,,sentence
+900415,Spanish,I work without a car.,Trabajo sin coche.,,sentence
+900416,Spanish,She lives with her father.,Vive con su padre.,,sentence
+900417,Spanish,The book is on the table.,El libro está en la mesa.,,sentence
+900418,Spanish,The car is in front of the hotel.,El coche está delante del hotel.,,sentence
+900419,Spanish,in front of,delante de,,phrase
+900420,Spanish,behind,detrás de,,phrase
+900421,Spanish,next to,al lado de,,phrase
+900422,Spanish,I am next to the door.,Estoy al lado de la puerta.,,sentence
+900423,Spanish,The school is behind the station.,La escuela está detrás de la estación.,,sentence
+900424,Spanish,I go by train.,Voy en tren.,,sentence
+900425,Spanish,She goes to school with her sister.,Va a la escuela con su hermana.,,sentence
+900426,Spanish,I am going to the shop.,Voy a la tienda.,,sentence
+900427,Spanish,I am coming from the station.,Vengo de la estación.,,sentence
+900428,Spanish,The train comes from the city.,El tren viene de la ciudad.,,sentence
+900429,Spanish,We go from the hotel to the park.,Vamos del hotel al parque.,,sentence
+900430,Spanish,I buy bread for my mother.,Compro pan para mi madre.,,sentence
+900431,Spanish,The letter is from my brother.,La carta es de mi hermano.,,sentence
+900432,Spanish,I travel for work.,Viajo por trabajo.,,sentence
+900433,Spanish,He studies to become a teacher.,Estudia para ser profesor.,,sentence
+900434,Spanish,The shop is on the street.,La tienda está en la calle.,,sentence
+900435,Spanish,I walk through the park.,Camino por el parque.,,sentence
+900436,Spanish,to walk,caminar,,verb
+900437,Spanish,The man is in the hotel.,El hombre está en el hotel.,,sentence
+900438,Spanish,We leave the hotel.,Salimos del hotel.,,sentence
+900439,Spanish,to leave; go out,salir,,verb
+900440,Spanish,I arrive at the station.,Llego a la estación.,,sentence
+900441,Spanish,The teacher comes from the school.,El profesor viene de la escuela.,,sentence
+900442,Spanish,I am at home.,Estoy en casa.,,sentence
+900443,Spanish,She goes home after work.,Va a casa después del trabajo.,,sentence
+900444,Spanish,The book belongs to the child.,El libro es del niño.,,sentence
+900445,Spanish,one,uno,,phrase
+900446,Spanish,two,dos,,phrase
+900447,Spanish,three,tres,,phrase
+900448,Spanish,four,cuatro,,phrase
+900449,Spanish,five,cinco,,phrase
+900450,Spanish,six,seis,,phrase
+900451,Spanish,seven,siete,,phrase
+900452,Spanish,eight,ocho,,phrase
+900453,Spanish,nine,nueve,,phrase
+900454,Spanish,ten,diez,,phrase
+900455,Spanish,eleven,once,,phrase
+900456,Spanish,twelve,doce,,phrase
+900457,Spanish,thirteen,trece,,phrase
+900458,Spanish,fourteen,catorce,,phrase
+900459,Spanish,fifteen,quince,,phrase
+900460,Spanish,sixteen,dieciséis,,phrase
+900461,Spanish,seventeen,diecisiete,,phrase
+900462,Spanish,eighteen,dieciocho,,phrase
+900463,Spanish,nineteen,diecinueve,,phrase
+900464,Spanish,twenty,veinte,,phrase
+900465,Spanish,thirty,treinta,,phrase
+900466,Spanish,forty,cuarenta,,phrase
+900467,Spanish,fifty,cincuenta,,phrase
+900468,Spanish,one hundred,cien,,phrase
+900469,Spanish,twenty-one books,veintiún libros,,phrase
+900470,Spanish,twenty-one houses,veintiuna casas,,phrase
+900471,Spanish,two children,dos niños,,phrase
+900472,Spanish,three houses,tres casas,,phrase
+900473,Spanish,ten books,diez libros,,phrase
+900474,Spanish,twenty cars,veinte coches,,phrase
+900475,Spanish,I am twenty years old.,Tengo veinte años.,,sentence
+900476,Spanish,She is thirty years old.,Tiene treinta años.,,sentence
+900477,Spanish,Our child is five years old.,Nuestro niño tiene cinco años.,,sentence
+900478,Spanish,How old is your brother?,¿Cuántos años tiene tu hermano?,,sentence
+900479,Spanish,year,año,,phrase
+900480,Spanish,month,mes,,phrase
+900481,Spanish,week,semana,,phrase
+900482,Spanish,day,día,,phrase
+900483,Spanish,hour,hora,,phrase
+900484,Spanish,minute,minuto,,phrase
+900485,Spanish,Monday,lunes,,noun
+900486,Spanish,Tuesday,martes,,noun
+900487,Spanish,Wednesday,miércoles,,noun
+900488,Spanish,Thursday,jueves,,noun
+900489,Spanish,Friday,viernes,,noun
+900490,Spanish,Saturday,sábado,,noun
+900491,Spanish,Sunday,domingo,,noun
+900492,Spanish,January,enero,,noun
+900493,Spanish,February,febrero,,noun
+900494,Spanish,March,marzo,,noun
+900495,Spanish,April,abril,,noun
+900496,Spanish,May,mayo,,noun
+900497,Spanish,June,junio,,noun
+900498,Spanish,July,julio,,noun
+900499,Spanish,August,agosto,,noun
+900500,Spanish,September,septiembre,,noun
+900501,Spanish,October,octubre,,noun
+900502,Spanish,November,noviembre,,noun
+900503,Spanish,December,diciembre,,noun
+900504,Spanish,What day is it today?,¿Qué día es hoy?,,sentence
+900505,Spanish,Today is Monday.,Hoy es lunes.,,sentence
+900506,Spanish,Tomorrow is Tuesday.,Mañana es martes.,,sentence
+900507,Spanish,It is one o'clock.,Es la una.,,sentence
+900508,Spanish,It is two o'clock.,Son las dos.,,sentence
+900509,Spanish,It is half past three.,Son las tres y media.,,sentence
+900510,Spanish,It is quarter past four.,Son las cuatro y cuarto.,,sentence
+900511,Spanish,It is quarter to five.,Son las cinco menos cuarto.,,sentence
+900512,Spanish,It is eight thirty.,Son las ocho y media.,,sentence
+900513,Spanish,It is noon.,Es mediodía.,,sentence
+900514,Spanish,It is midnight.,Es medianoche.,,sentence
+900515,Spanish,It is ten in the morning.,Son las diez de la mañana.,,sentence
+900516,Spanish,It is seven in the evening.,Son las siete de la tarde.,,sentence
+900517,Spanish,at three o'clock,a las tres,,phrase
+900518,Spanish,at one o'clock,a la una,,phrase
+900519,Spanish,My train leaves at six.,Mi tren sale a las seis.,,sentence
+900520,Spanish,The shop opens at nine.,La tienda abre a las nueve.,,sentence
+900521,Spanish,to open,abrir,,verb
+900522,Spanish,The school closes at five.,La escuela cierra a las cinco.,,sentence
+900523,Spanish,to close,cerrar,,verb
+900524,Spanish,Today is the fifth of May.,Hoy es cinco de mayo.,,sentence
+900525,Spanish,My birthday is in October.,Mi cumpleaños es en octubre.,,sentence
+900526,Spanish,birthday,cumpleaños,,phrase
+900527,Spanish,We travel in July.,Viajamos en julio.,,sentence
+900528,Spanish,I work from Monday to Friday.,Trabajo de lunes a viernes.,,sentence
+900529,Spanish,this week,esta semana,,phrase
+900530,Spanish,next week,la semana que viene,,phrase
+900531,Spanish,last week,la semana pasada,,phrase
+900532,Spanish,Our family lives near the station.,Nuestra familia vive cerca de la estación.,,sentence
+900533,Spanish,near,cerca de,,phrase
+900534,Spanish,far from,lejos de,,phrase
+900535,Spanish,My school is far from the park.,Mi escuela está lejos del parque.,,sentence
+900536,Spanish,The children's books are on that table.,Los libros de los niños están en esa mesa.,,sentence
+900537,Spanish,I buy three tickets for my friends.,Compro tres billetes para mis amigos.,,sentence
+900538,Spanish,We send those letters to our teacher.,Enviamos esas cartas a nuestro profesor.,,sentence
+900539,Spanish,These five houses are small.,Estas cinco casas son pequeñas.,,sentence
+900540,Spanish,The woman with the red car is my sister.,La mujer del coche rojo es mi hermana.,,sentence
+900541,Spanish,red,rojo,,phrase
+900542,Spanish,blue,azul,,phrase
+900543,Spanish,That blue car is my father's.,Ese coche azul es de mi padre.,,sentence
+900544,Spanish,I see my sister next to the shop.,Veo a mi hermana al lado de la tienda.,,sentence
+900545,Spanish,My brother is twenty-five years old.,Mi hermano tiene veinticinco años.,,sentence
+900546,Spanish,twenty-five,veinticinco,,phrase
+900547,Spanish,We live in this house with our children.,Vivimos en esta casa con nuestros hijos.,,sentence
+900548,Spanish,son,hijo,,phrase
+900549,Spanish,daughter,hija,,phrase
+900550,Spanish,This letter is for your mother.,Esta carta es para tu madre.,,sentence
+900551,Spanish,The children go from school to the park.,Los niños van de la escuela al parque.,,sentence
+900552,Spanish,The two teachers work at that school.,Los dos profesores trabajan en esa escuela.,,sentence
+900553,Spanish,That dog over there belongs to my friend.,Aquel perro es de mi amigo.,,sentence
+900554,Spanish,I have no money today.,No tengo dinero hoy.,,sentence
+900555,Spanish,My three friends are here.,Mis tres amigos están aquí.,,sentence
+900556,Spanish,Your sister's house is near the station.,La casa de tu hermana está cerca de la estación.,,sentence
+900557,Spanish,The woman sends a book to the man.,La mujer envía un libro al hombre.,,sentence
