@@ -27,7 +27,7 @@ Hungarian    500000-599999           500000-500599          600
 Turkish      600000-699999           600000-600249          250
 Arabic       700000-799999           700000-700499          500
 Ojibwe       800000-899999           800000-800098          99
-Spanish      900000-999999           900000-900360          361
+Spanish      900000-999999           900000-900557          558
 Russian      1000000-1099999         1000000-1000452        453
 Greek        1100000-1199999         1100000-1100099        100
 Hindi        1200000-1299999         1200000-1200319        320
@@ -155,9 +155,9 @@ Checkpoint: Exploratory Double Vowel prototype emphasizing animacy, demonstrativ
 
 SPANISH
 Syllabus: Syllabi/Polyglot_Spanish_Syllabus_v0.1.txt
-Cards: 361 | Used IDs: 900000-900360
-Frontier: ES-20 — Personal a
-Checkpoint: Spain Spanish is the unmarked reference. Present, preterite, imperfect, future, conditional and subjunctive are open longitudinally; later previews do not move the main frontier.
+Cards: 558 | Used IDs: 900000-900557
+Frontier: ES-29 — Yes/no questions
+Checkpoint: Stage 3 through ES-28 introduced: personal a, recipients with a, possessives, demonstratives, prepositions, al/del, movement/place relations, numbers, age, calendar and clock time, and mixed noun-phrase practice. Existing previews of later tense/mood/clitic material remain longitudinal; ES-29 is the next main introduction.
 
 RUSSIAN
 Syllabus: Syllabi/Polyglot_Russian_Syllabus_v0.2.txt
