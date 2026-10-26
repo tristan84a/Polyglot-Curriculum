@@ -278,20 +278,20 @@
 2000276,Portuguese,when?,quando?,,sentence
 2000277,Portuguese,why?,por quê?,,sentence
 2000278,Portuguese,how?,como?,,sentence
-2000279,Portuguese,Which book do you want? (singular Brazilian),Qual livro você quer?,,phrase
-2000280,Portuguese,Where do you live? (singular Brazilian),Onde você mora?,,phrase
-2000281,Portuguese,What do you want? (singular Brazilian),O que você quer?,,phrase
+2000279,Portuguese,Which book do you want? (singular Brazilian),Qual livro você quer?,,sentence
+2000280,Portuguese,Where do you live? (singular Brazilian),Onde você mora?,,sentence
+2000281,Portuguese,What do you want? (singular Brazilian),O que você quer?,,sentence
 2000282,Portuguese,Who works here?,Quem trabalha aqui?,,sentence
-2000283,Portuguese,When do you work? (singular Brazilian),Quando você trabalha?,,phrase
-2000284,Portuguese,Why do you study Portuguese? (singular Brazilian),Por que você estuda português?,,phrase
-2000285,Portuguese,How do you know? (singular Brazilian),Como você sabe?,,phrase
-2000286,Portuguese,How many books do you have? (singular Brazilian),Quantos livros você tem?,,phrase
+2000283,Portuguese,When do you work? (singular Brazilian),Quando você trabalha?,,sentence
+2000284,Portuguese,Why do you study Portuguese? (singular Brazilian),Por que você estuda português?,,sentence
+2000285,Portuguese,How do you know? (singular Brazilian),Como você sabe?,,sentence
+2000286,Portuguese,How many books do you have? (singular Brazilian),Quantos livros você tem?,,sentence
 2000287,Portuguese,How much does the book cost?,Quanto custa o livro?,,sentence
 2000288,Portuguese,to cost,custar,,verb
 2000289,Portuguese,Does she read books?,Ela lê livros?,,sentence
 2000290,Portuguese,Do they work here?,Eles trabalham aqui?,,sentence
-2000291,Portuguese,Can you come tomorrow? (singular Brazilian),Você pode vir amanhã?,,phrase
-2000292,Portuguese,Do you want water or coffee? (singular Brazilian),Você quer água ou café?,,phrase
+2000291,Portuguese,Can you come tomorrow? (singular Brazilian),Você pode vir amanhã?,,sentence
+2000292,Portuguese,Do you want water or coffee? (singular Brazilian),Você quer água ou café?,,sentence
 2000293,Portuguese,or,ou,,phrase
 2000294,Portuguese,Is the teacher here?,O professor está aqui?,,sentence
 2000295,Portuguese,Where are the books?,Onde estão os livros?,,sentence
@@ -303,10 +303,10 @@
 2000301,Portuguese,mother,mãe,,phrase
 2000302,Portuguese,Which car is yours?,Qual carro é seu?,,sentence
 2000303,Portuguese,How many children are here?,Quantas crianças estão aqui?,,sentence
-2000304,Portuguese,How much water do you want? (singular Brazilian),Quanta água você quer?,,phrase
+2000304,Portuguese,How much water do you want? (singular Brazilian),Quanta água você quer?,,sentence
 2000305,Portuguese,Do we have time?,Temos tempo?,,sentence
 2000306,Portuguese,time,tempo,,phrase
 2000307,Portuguese,I don't know.,Não sei.,,sentence
 2000308,Portuguese,I don't understand.,Não entendo.,,sentence
 2000309,Portuguese,to understand,entender,,verb
-2000310,Portuguese,Do you understand Portuguese? (singular Brazilian),Você entende português?,,phrase
+2000310,Portuguese,Do you understand Portuguese? (singular Brazilian),Você entende português?,,sentence
