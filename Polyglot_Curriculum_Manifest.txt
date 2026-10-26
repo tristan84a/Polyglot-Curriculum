@@ -38,7 +38,7 @@ Italian      1600000-1699999         1600000-1600312        313
 Serbian      1700000-1799999         1700000-1700314        315
 Swedish      1800000-1899999         1800000-1800219        220
 Punjabi      1900000-1999999         1900000-1900099        100
-Portuguese   2000000-2099999         2000000-2000099        100
+Portuguese   2000000-2099999         2000000-2000310        311
 Korean       2100000-2199999         2100000-2100099        100
 Finnish      2200000-2299999         2200000-2200099        100
 Ukrainian    2300000-2399999         2300000-2300099        100
@@ -218,9 +218,9 @@ Checkpoint: Seed deck governed by Punjabi syllabus v0.1.
 
 PORTUGUESE
 Syllabus: Syllabi/Polyglot_Portuguese_Syllabus_v0.2.txt
-Cards: 100 | Used IDs: 2000000-2000099
-Frontier: PT-12 — Regular -er present
-Checkpoint: Contemporary educated Brazilian Portuguese is the unmarked baseline; European Portuguese is a later explicitly labelled comparison strand.
+Cards: 311 | Used IDs: 2000000-2000310
+Frontier: PT-18 — Direct objects
+Checkpoint: PT-12–PT-17 introduced regular -er/-ir presents, present-tense synthesis, common irregular verbs, stem-changing/spelling-sensitive patterns, and interrogatives. Contemporary educated Brazilian Portuguese remains the unmarked baseline; European Portuguese is a later labelled strand.
 
 KOREAN
 Syllabus: Syllabi/Polyglot_Korean_Syllabus_v0.1.txt
