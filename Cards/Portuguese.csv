@@ -99,3 +99,214 @@
 2000097,Portuguese,We want to have a car.,Queremos ter um carro.,,sentence
 2000098,Portuguese,There is a house.,Há uma casa.,,sentence
 2000099,Portuguese,There are houses.,Há casas.,,sentence
+2000100,Portuguese,to eat,comer,,verb
+2000101,Portuguese,to drink,beber,,verb
+2000102,Portuguese,to read,ler,,verb
+2000103,Portuguese,bread,pão,,phrase
+2000104,Portuguese,water,água,,phrase
+2000105,Portuguese,coffee,café,,phrase
+2000106,Portuguese,I eat bread.,Como pão.,,sentence
+2000107,Portuguese,You eat bread. (singular Brazilian),Você come pão.,,phrase
+2000108,Portuguese,She eats bread.,Ela come pão.,,sentence
+2000109,Portuguese,We eat bread.,Comemos pão.,,sentence
+2000110,Portuguese,They eat bread.,Eles comem pão.,,sentence
+2000111,Portuguese,I drink water.,Bebo água.,,sentence
+2000112,Portuguese,You drink coffee. (singular Brazilian),Você bebe café.,,phrase
+2000113,Portuguese,We drink coffee.,Bebemos café.,,sentence
+2000114,Portuguese,She reads a book.,Ela lê um livro.,,sentence
+2000115,Portuguese,I read the book.,Leio o livro.,,sentence
+2000116,Portuguese,We read here.,Lemos aqui.,,sentence
+2000117,Portuguese,They read at home.,Eles leem em casa.,,sentence
+2000118,Portuguese,at home,em casa,,phrase
+2000119,Portuguese,I do not drink coffee.,Não bebo café.,,sentence
+2000120,Portuguese,He does not read.,Ele não lê.,,sentence
+2000121,Portuguese,to live,morar,,verb
+2000122,Portuguese,to open,abrir,,verb
+2000123,Portuguese,to write,escrever,,verb
+2000124,Portuguese,to leave; depart,partir,,verb
+2000125,Portuguese,to decide,decidir,,verb
+2000126,Portuguese,city,cidade,,phrase
+2000127,Portuguese,school,escola,,phrase
+2000128,Portuguese,letter,carta,,phrase
+2000129,Portuguese,door,porta,,phrase
+2000130,Portuguese,friend (male),amigo,,phrase
+2000131,Portuguese,friend (female),amiga,,phrase
+2000132,Portuguese,I live in the city.,Moro na cidade.,,sentence
+2000133,Portuguese,You live here. (singular Brazilian),Você mora aqui.,,phrase
+2000134,Portuguese,We live here.,Moramos aqui.,,sentence
+2000135,Portuguese,They live in the city.,Eles moram na cidade.,,sentence
+2000136,Portuguese,I open the door.,Abro a porta.,,sentence
+2000137,Portuguese,You open the door. (singular Brazilian),Você abre a porta.,,phrase
+2000138,Portuguese,She opens the door.,Ela abre a porta.,,sentence
+2000139,Portuguese,We open the door.,Abrimos a porta.,,sentence
+2000140,Portuguese,They open the door.,Eles abrem a porta.,,sentence
+2000141,Portuguese,I write a letter.,Escrevo uma carta.,,sentence
+2000142,Portuguese,He writes a letter.,Ele escreve uma carta.,,sentence
+2000143,Portuguese,We write letters.,Escrevemos cartas.,,sentence
+2000144,Portuguese,letters,cartas,,phrase
+2000145,Portuguese,I decide today.,Decido hoje.,,sentence
+2000146,Portuguese,She decides tomorrow.,Ela decide amanhã.,,sentence
+2000147,Portuguese,We decide together.,Decidimos juntos.,,sentence
+2000148,Portuguese,They decide today.,Eles decidem hoje.,,sentence
+2000149,Portuguese,today,hoje,,phrase
+2000150,Portuguese,tomorrow,amanhã,,phrase
+2000151,Portuguese,together,juntos,,phrase
+2000152,Portuguese,I do not open the door.,Não abro a porta.,,sentence
+2000153,Portuguese,She does not live here.,Ela não mora aqui.,,sentence
+2000154,Portuguese,to buy,comprar,,verb
+2000155,Portuguese,to study,estudar,,verb
+2000156,Portuguese,to learn,aprender,,verb
+2000157,Portuguese,to sell,vender,,verb
+2000158,Portuguese,to help,ajudar,,verb
+2000159,Portuguese,food,comida,,phrase
+2000160,Portuguese,market,mercado,,phrase
+2000161,Portuguese,teacher (male),professor,,phrase
+2000162,Portuguese,teacher (female),professora,,phrase
+2000163,Portuguese,I buy bread.,Compro pão.,,sentence
+2000164,Portuguese,She buys food.,Ela compra comida.,,sentence
+2000165,Portuguese,We buy books.,Compramos livros.,,sentence
+2000166,Portuguese,books,livros,,phrase
+2000167,Portuguese,I study Portuguese.,Estudo português.,,sentence
+2000168,Portuguese,You study Portuguese. (singular Brazilian),Você estuda português.,,phrase
+2000169,Portuguese,They study Portuguese.,Eles estudam português.,,sentence
+2000170,Portuguese,I learn Portuguese.,Aprendo português.,,sentence
+2000171,Portuguese,She learns Portuguese.,Ela aprende português.,,sentence
+2000172,Portuguese,We learn Portuguese.,Aprendemos português.,,sentence
+2000173,Portuguese,I sell books.,Vendo livros.,,sentence
+2000174,Portuguese,He sells cars.,Ele vende carros.,,sentence
+2000175,Portuguese,cars,carros,,phrase
+2000176,Portuguese,We help the child.,Ajudamos a criança.,,sentence
+2000177,Portuguese,She helps her friend.,Ela ajuda a amiga dela.,,sentence
+2000178,Portuguese,I work and study.,Trabalho e estudo.,,sentence
+2000179,Portuguese,She reads and writes.,Ela lê e escreve.,,sentence
+2000180,Portuguese,We eat and drink.,Comemos e bebemos.,,sentence
+2000181,Portuguese,I speak but he does not speak.,Eu falo mas ele não fala.,,sentence
+2000182,Portuguese,but,mas,,phrase
+2000183,Portuguese,and,e,,phrase
+2000184,Portuguese,I do not want coffee.,Não quero café.,,sentence
+2000185,Portuguese,We have two books.,Temos dois livros.,,sentence
+2000186,Portuguese,two,dois,,phrase
+2000187,Portuguese,to go,ir,,verb
+2000188,Portuguese,to do; make,fazer,,verb
+2000189,Portuguese,to say,dizer,,verb
+2000190,Portuguese,to be able to,poder,,verb
+2000191,Portuguese,to come,vir,,verb
+2000192,Portuguese,to give,dar,,verb
+2000193,Portuguese,to know (a fact),saber,,verb
+2000194,Portuguese,to know (a person),conhecer,,verb
+2000195,Portuguese,to bring,trazer,,verb
+2000196,Portuguese,to put,pôr,,verb
+2000197,Portuguese,I go home.,Vou para casa.,,sentence
+2000198,Portuguese,You go home. (singular Brazilian),Você vai para casa.,,phrase
+2000199,Portuguese,She goes to school.,Ela vai à escola.,,sentence
+2000200,Portuguese,We go to school.,Vamos à escola.,,sentence
+2000201,Portuguese,They go home.,Eles vão para casa.,,sentence
+2000202,Portuguese,I do the work.,Faço o trabalho.,,sentence
+2000203,Portuguese,She does the work.,Ela faz o trabalho.,,sentence
+2000204,Portuguese,We do the work.,Fazemos o trabalho.,,sentence
+2000205,Portuguese,They do the work.,Eles fazem o trabalho.,,sentence
+2000206,Portuguese,work (noun),trabalho,,phrase
+2000207,Portuguese,I say yes.,Digo sim.,,sentence
+2000208,Portuguese,He says no.,Ele diz não.,,sentence
+2000209,Portuguese,We say yes.,Dizemos sim.,,sentence
+2000210,Portuguese,They say no.,Eles dizem não.,,sentence
+2000211,Portuguese,yes,sim,,phrase
+2000212,Portuguese,no,não,,phrase
+2000213,Portuguese,I can read.,Posso ler.,,sentence
+2000214,Portuguese,She can work.,Ela pode trabalhar.,,sentence
+2000215,Portuguese,We can study.,Podemos estudar.,,sentence
+2000216,Portuguese,They can come.,Eles podem vir.,,sentence
+2000217,Portuguese,I come tomorrow.,Venho amanhã.,,sentence
+2000218,Portuguese,She comes today.,Ela vem hoje.,,sentence
+2000219,Portuguese,We come tomorrow.,Vimos amanhã.,,sentence
+2000220,Portuguese,They come today.,Eles vêm hoje.,,sentence
+2000221,Portuguese,I give the book to my friend.,Dou o livro ao meu amigo.,,sentence
+2000222,Portuguese,She gives me water.,Ela me dá água.,,sentence
+2000223,Portuguese,We give books to the children.,Damos livros às crianças.,,sentence
+2000224,Portuguese,I know the answer.,Sei a resposta.,,sentence
+2000225,Portuguese,He knows the answer.,Ele sabe a resposta.,,sentence
+2000226,Portuguese,We know the answer.,Sabemos a resposta.,,sentence
+2000227,Portuguese,They know the answer.,Eles sabem a resposta.,,sentence
+2000228,Portuguese,answer,resposta,,phrase
+2000229,Portuguese,I know the teacher.,Conheço o professor.,,sentence
+2000230,Portuguese,She knows my friend.,Ela conhece meu amigo.,,sentence
+2000231,Portuguese,I bring water.,Trago água.,,sentence
+2000232,Portuguese,He brings a book.,Ele traz um livro.,,sentence
+2000233,Portuguese,We bring food.,Trazemos comida.,,sentence
+2000234,Portuguese,They bring books.,Eles trazem livros.,,sentence
+2000235,Portuguese,I put the book here.,Ponho o livro aqui.,,sentence
+2000236,Portuguese,She puts the book there.,Ela põe o livro ali.,,sentence
+2000237,Portuguese,We put the books here.,Pomos os livros aqui.,,sentence
+2000238,Portuguese,They put the books there.,Eles põem os livros ali.,,sentence
+2000239,Portuguese,to sleep,dormir,,verb
+2000240,Portuguese,to ask for; request,pedir,,verb
+2000241,Portuguese,to prefer,preferir,,verb
+2000242,Portuguese,to follow,seguir,,verb
+2000243,Portuguese,to hear,ouvir,,verb
+2000244,Portuguese,to lose,perder,,verb
+2000245,Portuguese,to begin,começar,,verb
+2000246,Portuguese,to arrive,chegar,,verb
+2000247,Portuguese,I sleep here.,Durmo aqui.,,sentence
+2000248,Portuguese,She sleeps at home.,Ela dorme em casa.,,sentence
+2000249,Portuguese,We sleep at home.,Dormimos em casa.,,sentence
+2000250,Portuguese,They sleep here.,Eles dormem aqui.,,sentence
+2000251,Portuguese,I ask for water.,Peço água.,,sentence
+2000252,Portuguese,She asks for coffee.,Ela pede café.,,sentence
+2000253,Portuguese,We ask for help.,Pedimos ajuda.,,sentence
+2000254,Portuguese,help (noun),ajuda,,phrase
+2000255,Portuguese,I prefer water.,Prefiro água.,,sentence
+2000256,Portuguese,She prefers coffee.,Ela prefere café.,,sentence
+2000257,Portuguese,We prefer water.,Preferimos água.,,sentence
+2000258,Portuguese,I follow the teacher.,Sigo o professor.,,sentence
+2000259,Portuguese,He follows the teacher.,Ele segue o professor.,,sentence
+2000260,Portuguese,We follow the teacher.,Seguimos o professor.,,sentence
+2000261,Portuguese,I hear the child.,Ouço a criança.,,sentence
+2000262,Portuguese,She hears the child.,Ela ouve a criança.,,sentence
+2000263,Portuguese,We hear the children.,Ouvimos as crianças.,,sentence
+2000264,Portuguese,I lose the book.,Perco o livro.,,sentence
+2000265,Portuguese,He loses the book.,Ele perde o livro.,,sentence
+2000266,Portuguese,We lose the books.,Perdemos os livros.,,sentence
+2000267,Portuguese,I begin today.,Começo hoje.,,sentence
+2000268,Portuguese,She begins tomorrow.,Ela começa amanhã.,,sentence
+2000269,Portuguese,We begin today.,Começamos hoje.,,sentence
+2000270,Portuguese,when,quando,,phrase
+2000271,Portuguese,why,por que,,phrase
+2000272,Portuguese,how,como,,phrase
+2000273,Portuguese,which,qual,,phrase
+2000274,Portuguese,how many,quantos,,phrase
+2000275,Portuguese,how much,quanto,,phrase
+2000276,Portuguese,when?,quando?,,sentence
+2000277,Portuguese,why?,por quê?,,sentence
+2000278,Portuguese,how?,como?,,sentence
+2000279,Portuguese,Which book do you want? (singular Brazilian),Qual livro você quer?,,phrase
+2000280,Portuguese,Where do you live? (singular Brazilian),Onde você mora?,,phrase
+2000281,Portuguese,What do you want? (singular Brazilian),O que você quer?,,phrase
+2000282,Portuguese,Who works here?,Quem trabalha aqui?,,sentence
+2000283,Portuguese,When do you work? (singular Brazilian),Quando você trabalha?,,phrase
+2000284,Portuguese,Why do you study Portuguese? (singular Brazilian),Por que você estuda português?,,phrase
+2000285,Portuguese,How do you know? (singular Brazilian),Como você sabe?,,phrase
+2000286,Portuguese,How many books do you have? (singular Brazilian),Quantos livros você tem?,,phrase
+2000287,Portuguese,How much does the book cost?,Quanto custa o livro?,,sentence
+2000288,Portuguese,to cost,custar,,verb
+2000289,Portuguese,Does she read books?,Ela lê livros?,,sentence
+2000290,Portuguese,Do they work here?,Eles trabalham aqui?,,sentence
+2000291,Portuguese,Can you come tomorrow? (singular Brazilian),Você pode vir amanhã?,,phrase
+2000292,Portuguese,Do you want water or coffee? (singular Brazilian),Você quer água ou café?,,phrase
+2000293,Portuguese,or,ou,,phrase
+2000294,Portuguese,Is the teacher here?,O professor está aqui?,,sentence
+2000295,Portuguese,Where are the books?,Onde estão os livros?,,sentence
+2000296,Portuguese,What does she say?,O que ela diz?,,sentence
+2000297,Portuguese,Who has the car?,Quem tem o carro?,,sentence
+2000298,Portuguese,When does he arrive?,Quando ele chega?,,sentence
+2000299,Portuguese,Why is the child here?,Por que a criança está aqui?,,sentence
+2000300,Portuguese,How is your mother?,Como está sua mãe?,,sentence
+2000301,Portuguese,mother,mãe,,phrase
+2000302,Portuguese,Which car is yours?,Qual carro é seu?,,sentence
+2000303,Portuguese,How many children are here?,Quantas crianças estão aqui?,,sentence
+2000304,Portuguese,How much water do you want? (singular Brazilian),Quanta água você quer?,,phrase
+2000305,Portuguese,Do we have time?,Temos tempo?,,sentence
+2000306,Portuguese,time,tempo,,phrase
+2000307,Portuguese,I don't know.,Não sei.,,sentence
+2000308,Portuguese,I don't understand.,Não entendo.,,sentence
+2000309,Portuguese,to understand,entender,,verb
+2000310,Portuguese,Do you understand Portuguese? (singular Brazilian),Você entende português?,,phrase
