@@ -36,7 +36,7 @@ Mandarin     1400000-1499999         1400000-1400099        100
 Icelandic    1500000-1599999         1500000-1500519        520
 Italian      1600000-1699999         1600000-1600312        313
 Serbian      1700000-1799999         1700000-1700314        315
-Swedish      1800000-1899999         1800000-1800099        100
+Swedish      1800000-1899999         1800000-1800219        220
 Punjabi      1900000-1999999         1900000-1900099        100
 Portuguese   2000000-2099999         2000000-2000099        100
 Korean       2100000-2199999         2100000-2100099        100
@@ -207,8 +207,9 @@ Checkpoint: The original 100-card Cyrillic seed is preserved. Expansion develops
 
 SWEDISH
 Syllabus: Syllabi/Polyglot_Swedish_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 1800000-1800099
-Checkpoint: Seed deck governed by Swedish syllabus v0.1.
+Cards: 220 | Used IDs: 1800000-1800219
+Frontier: SV-16 — Early sentence synthesis
+Checkpoint: SV-01–SV-15 introduced, including V2 and fronted time/place phrases. Earlier structures continue longitudinally.
 
 PUNJABI
 Syllabus: Syllabi/Polyglot_Punjabi_Syllabus_v0.1.txt
