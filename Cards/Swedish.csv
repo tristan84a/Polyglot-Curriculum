@@ -99,3 +99,123 @@
 1800097,Swedish,no,nej,,expression
 1800098,Swedish,Do you speak Swedish? (singular),Talar du svenska?,,sentence
 1800099,Swedish,Where is the car?,Var är bilen?,,sentence
+1800100,Swedish,today,i dag,,adverb
+1800101,Swedish,tomorrow,i morgon,,adverb
+1800102,Swedish,yesterday,i går,,adverb
+1800103,Swedish,now,nu,,adverb
+1800104,Swedish,often,ofta,,adverb
+1800105,Swedish,always,alltid,,adverb
+1800106,Swedish,sometimes,ibland,,adverb
+1800107,Swedish,usually,vanligtvis,,adverb
+1800108,Swedish,every day,varje dag,,adverb
+1800109,Swedish,in the morning,på morgonen,,adverb
+1800110,Swedish,in the evening,på kvällen,,adverb
+1800111,Swedish,at home,hemma,,adverb
+1800112,Swedish,at school,i skolan,,adverb
+1800113,Swedish,at work,på jobbet,,adverb
+1800114,Swedish,school,skola,,phrase
+1800115,Swedish,workplace,jobb,,phrase
+1800116,Swedish,shop,butik,,phrase
+1800117,Swedish,park,park,,phrase
+1800118,Swedish,station,station,,phrase
+1800119,Swedish,city,stad,,phrase
+1800120,Swedish,friend,vän,,phrase
+1800121,Swedish,teacher,lärare,,phrase
+1800122,Swedish,coffee,kaffe,,phrase
+1800123,Swedish,food,mat,,phrase
+1800124,Swedish,to read,läsa,,verb
+1800125,Swedish,to write,skriva,,verb
+1800126,Swedish,to live,bo,,verb
+1800127,Swedish,to buy,köpa,,verb
+1800128,Swedish,to come,komma,,verb
+1800129,Swedish,to go,gå,,verb
+1800130,Swedish,to study,studera,,verb
+1800131,Swedish,to play,leka,,verb
+1800132,Swedish,to cook,laga mat,,verb
+1800133,Swedish,to listen,lyssna,,verb
+1800134,Swedish,music,musik,,phrase
+1800135,Swedish,newspaper,tidning,,phrase
+1800136,Swedish,The child reads a book.,Barnet läser en bok.,,sentence
+1800137,Swedish,She writes a letter.,Hon skriver ett brev.,,sentence
+1800138,Swedish,letter,brev,,phrase
+1800139,Swedish,He lives in the city.,Han bor i staden.,,sentence
+1800140,Swedish,We buy bread.,Vi köper bröd.,,sentence
+1800141,Swedish,They study Swedish.,De studerar svenska.,,sentence
+1800142,Swedish,I listen to music.,Jag lyssnar på musik.,,sentence
+1800143,Swedish,The woman drinks coffee.,Kvinnan dricker kaffe.,,sentence
+1800144,Swedish,The man cooks food.,Mannen lagar mat.,,sentence
+1800145,Swedish,I do not read the newspaper.,Jag läser inte tidningen.,,sentence
+1800146,Swedish,We do not drink coffee.,Vi dricker inte kaffe.,,sentence
+1800147,Swedish,She does not live here.,Hon bor inte här.,,sentence
+1800148,Swedish,They are not at home.,De är inte hemma.,,sentence
+1800149,Swedish,The child does not want to eat.,Barnet vill inte äta.,,sentence
+1800150,Swedish,Do you read books?,Läser du böcker?,,sentence
+1800151,Swedish,Does he live here?,Bor han här?,,sentence
+1800152,Swedish,Do they want coffee?,Vill de ha kaffe?,,sentence
+1800153,Swedish,Is she at work?,Är hon på jobbet?,,sentence
+1800154,Swedish,What are you reading?,Vad läser du?,,sentence
+1800155,Swedish,Who lives here?,Vem bor här?,,sentence
+1800156,Swedish,Where does she work?,Var arbetar hon?,,sentence
+1800157,Swedish,What does the child want?,Vad vill barnet ha?,,sentence
+1800158,Swedish,Where do they study?,Var studerar de?,,sentence
+1800159,Swedish,When do you work?,När arbetar du?,,sentence
+1800160,Swedish,when,när,,adverb
+1800161,Swedish,why,varför,,adverb
+1800162,Swedish,how,hur,,adverb
+1800163,Swedish,Why do you study Swedish?,Varför studerar du svenska?,,sentence
+1800164,Swedish,How do you speak Swedish?,Hur talar du svenska?,,sentence
+1800165,Swedish,Today I work.,I dag arbetar jag.,,sentence
+1800166,Swedish,Tomorrow she works.,I morgon arbetar hon.,,sentence
+1800167,Swedish,Now we are at home.,Nu är vi hemma.,,sentence
+1800168,Swedish,Here I live.,Här bor jag.,,sentence
+1800169,Swedish,There she works.,Där arbetar hon.,,sentence
+1800170,Swedish,In the morning I drink coffee.,På morgonen dricker jag kaffe.,,sentence
+1800171,Swedish,In the evening we read.,På kvällen läser vi.,,sentence
+1800172,Swedish,At home the child reads.,Hemma läser barnet.,,sentence
+1800173,Swedish,At school we study Swedish.,I skolan studerar vi svenska.,,sentence
+1800174,Swedish,Sometimes I work at home.,Ibland arbetar jag hemma.,,sentence
+1800175,Swedish,Often she reads a book.,Ofta läser hon en bok.,,sentence
+1800176,Swedish,Today he does not work.,I dag arbetar han inte.,,sentence
+1800177,Swedish,Tomorrow we are not at home.,I morgon är vi inte hemma.,,sentence
+1800178,Swedish,Here I do not drink coffee.,Här dricker jag inte kaffe.,,sentence
+1800179,Swedish,In the evening they do not study.,På kvällen studerar de inte.,,sentence
+1800180,Swedish,Today I want to read.,I dag vill jag läsa.,,sentence
+1800181,Swedish,Tomorrow she wants to buy a car.,I morgon vill hon köpa en bil.,,sentence
+1800182,Swedish,At home we want to speak Swedish.,Hemma vill vi tala svenska.,,sentence
+1800183,Swedish,In the morning the child wants water.,På morgonen vill barnet ha vatten.,,sentence
+1800184,Swedish,Today I am here.,I dag är jag här.,,sentence
+1800185,Swedish,Today the book is here.,I dag är boken här.,,sentence
+1800186,Swedish,Tomorrow the teacher comes.,I morgon kommer läraren.,,sentence
+1800187,Swedish,Now the train comes.,Nu kommer tåget.,,sentence
+1800188,Swedish,train,tåg,,phrase
+1800189,Swedish,the train,tåget,,phrase
+1800190,Swedish,Today I buy a newspaper.,I dag köper jag en tidning.,,sentence
+1800191,Swedish,In the shop she buys bread.,I butiken köper hon bröd.,,sentence
+1800192,Swedish,the shop,butiken,,phrase
+1800193,Swedish,the city,staden,,phrase
+1800194,Swedish,in the city,i staden,,phrase
+1800195,Swedish,In the city my friend works.,I staden arbetar min vän.,,sentence
+1800196,Swedish,my friend,min vän,,phrase
+1800197,Swedish,Today the woman sees the child.,I dag ser kvinnan barnet.,,sentence
+1800198,Swedish,At home he writes a letter.,Hemma skriver han ett brev.,,sentence
+1800199,Swedish,Usually we eat at home.,Vanligtvis äter vi hemma.,,sentence
+1800200,Swedish,We often eat at home.,Vi äter ofta hemma.,,sentence
+1800201,Swedish,She never drinks coffee.,Hon dricker aldrig kaffe.,,sentence
+1800202,Swedish,never,aldrig,,adverb
+1800203,Swedish,Today she does not want to work.,I dag vill hon inte arbeta.,,sentence
+1800204,Swedish,Sometimes the children play here.,Ibland leker barnen här.,,sentence
+1800205,Swedish,the children,barnen,,phrase
+1800206,Swedish,children,barn,,phrase
+1800207,Swedish,The man is always here.,Mannen är alltid här.,,sentence
+1800208,Swedish,At work I speak Swedish.,På jobbet talar jag svenska.,,sentence
+1800209,Swedish,Where does your friend live?,Var bor din vän?,,sentence
+1800210,Swedish,your friend,din vän,,phrase
+1800211,Swedish,What does the teacher read?,Vad läser läraren?,,sentence
+1800212,Swedish,Is the book at home?,Är boken hemma?,,sentence
+1800213,Swedish,Today we have a new car.,I dag har vi en ny bil.,,sentence
+1800214,Swedish,Tomorrow I want to study.,I morgon vill jag studera.,,sentence
+1800215,Swedish,In the park the children play.,I parken leker barnen.,,sentence
+1800216,Swedish,the park,parken,,phrase
+1800217,Swedish,The teacher is not here today.,Läraren är inte här i dag.,,sentence
+1800218,Swedish,Today my friend does not work.,I dag arbetar min vän inte.,,sentence
+1800219,Swedish,I read at home every day.,Jag läser hemma varje dag.,,sentence
