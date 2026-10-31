@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+13800000,Sundanese,house,imah,,noun
+13800001,Sundanese,water,cai,,noun
+13800002,Sundanese,man,lalaki,,noun
+13800003,Sundanese,woman,awéwé,,noun
+13800004,Sundanese,child,budak,,noun
+13800005,Sundanese,book,buku,,noun
+13800006,Sundanese,big,gedé,,adjective
+13800007,Sundanese,small,leutik,,adjective
+13800008,Sundanese,This is a house.,Ieu imah.,,sentence
+13800009,Sundanese,This is water.,Ieu cai.,,sentence
+13800010,Sundanese,This is a book.,Ieu buku.,,sentence
+13800011,Sundanese,The house is big.,Imah téh gedé.,,sentence
+13800012,Sundanese,I want water.,Abdi hoyong cai.,,sentence
+13800013,Sundanese,Thank you.,Hatur nuhun.,,sentence
+13800014,Sundanese,Hello.,Sampurasun.,,sentence
