@@ -246,8 +246,11 @@ Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 CANTONESE
 ID allocation: 3100000-3199999
 CSV: Cards/Cantonese.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
-Notes: Spoken Hong Kong Cantonese; Traditional characters with Jyutping InputHint.
+Development: Systematic seed deck; actual count and used IDs authoritative in CSV.
+Reference: Contemporary spoken Hong Kong Cantonese; Traditional colloquial characters; Jyutping tone-number InputHint.
+Syllabus: Syllabi/Polyglot_Cantonese_Syllabus_v0.1.txt
+Frontier: CA-20 — More classifiers and numeral phrases
+Checkpoint: Original 15 micro cards preserved; expanded to 100 cards with pronouns, 係/唔係 identity, adjectival predicates, A-not-A questions, 有/冇, 喺, classifiers, basic verbs and everyday expressions. Continue with classifiers and demonstratives before productive aspect.
 
 DUTCH
 ID allocation: 3200000-3299999
