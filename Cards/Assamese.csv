@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+12300000,Assamese,house,ঘৰ,,noun
+12300001,Assamese,water,পানী,,noun
+12300002,Assamese,man,পুৰুষ,,noun
+12300003,Assamese,woman,মহিলা,,noun
+12300004,Assamese,child,শিশু,,noun
+12300005,Assamese,book,কিতাপ,,noun
+12300006,Assamese,big,ডাঙৰ,,adjective
+12300007,Assamese,small,সৰু,,adjective
+12300008,Assamese,This is a house.,এইটো এটা ঘৰ।,,sentence
+12300009,Assamese,This is water.,এইটো পানী।,,sentence
+12300010,Assamese,This is a book.,এইখন এখন কিতাপ।,,sentence
+12300011,Assamese,The house is big.,ঘৰটো ডাঙৰ।,,sentence
+12300012,Assamese,I want water.,মোক পানী লাগে।,,sentence
+12300013,Assamese,Thank you.,ধন্যবাদ।,,sentence
+12300014,Assamese,Hello.,নমস্কাৰ।,,sentence
