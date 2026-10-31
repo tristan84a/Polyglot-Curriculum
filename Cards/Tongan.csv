@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+14400000,Tongan,house,fale,,noun
+14400001,Tongan,water,vai,,noun
+14400002,Tongan,man,tangata,,noun
+14400003,Tongan,woman,fefine,,noun
+14400004,Tongan,child,tamasiʻi,,noun
+14400005,Tongan,book,tohi,,noun
+14400006,Tongan,big,lahi,,adjective
+14400007,Tongan,small,siʻisiʻi,,adjective
+14400008,Tongan,This is a house.,Ko e fale ʻeni.,,sentence
+14400009,Tongan,This is water.,Ko e vai ʻeni.,,sentence
+14400010,Tongan,This is a book.,Ko e tohi ʻeni.,,sentence
+14400011,Tongan,The house is big.,ʻOku lahi ʻa e fale.,,sentence
+14400012,Tongan,I want water.,ʻOku ou fie maʻu ha vai.,,sentence
+14400013,Tongan,Thank you.,Mālō.,,sentence
+14400014,Tongan,Hello.,Mālō e lelei.,,sentence
