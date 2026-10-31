@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+11400000,Kyrgyz,house,үй,,noun
+11400001,Kyrgyz,water,суу,,noun
+11400002,Kyrgyz,man,эркек,,noun
+11400003,Kyrgyz,woman,аял,,noun
+11400004,Kyrgyz,child,бала,,noun
+11400005,Kyrgyz,book,китеп,,noun
+11400006,Kyrgyz,big,чоң,,adjective
+11400007,Kyrgyz,small,кичине,,adjective
+11400008,Kyrgyz,This is a house.,Бул үй.,,sentence
+11400009,Kyrgyz,This is water.,Бул суу.,,sentence
+11400010,Kyrgyz,This is a book.,Бул китеп.,,sentence
+11400011,Kyrgyz,The house is big.,Үй чоң.,,sentence
+11400012,Kyrgyz,I want water.,Мен суу каалайм.,,sentence
+11400013,Kyrgyz,Thank you.,Рахмат.,,sentence
+11400014,Kyrgyz,Hello.,Салам.,,sentence
