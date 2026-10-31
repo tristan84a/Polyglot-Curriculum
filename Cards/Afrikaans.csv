@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+10200000,Afrikaans,house,huis,,noun
+10200001,Afrikaans,water,water,,noun
+10200002,Afrikaans,man,man,,noun
+10200003,Afrikaans,woman,vrou,,noun
+10200004,Afrikaans,child,kind,,noun
+10200005,Afrikaans,book,boek,,noun
+10200006,Afrikaans,big,groot,,adjective
+10200007,Afrikaans,small,klein,,adjective
+10200008,Afrikaans,This is a house.,Dit is 'n huis.,,sentence
+10200009,Afrikaans,This is water.,Dit is water.,,sentence
+10200010,Afrikaans,This is a book.,Dit is 'n boek.,,sentence
+10200011,Afrikaans,The house is big.,Die huis is groot.,,sentence
+10200012,Afrikaans,I want water.,Ek wil water hê.,,sentence
+10200013,Afrikaans,Thank you.,Dankie.,,sentence
+10200014,Afrikaans,Hello.,Hallo.,,sentence
