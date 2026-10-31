@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+15000000,Navajo,house,hooghan,,noun
+15000001,Navajo,water,tó,,noun
+15000002,Navajo,man,hastiin,,noun
+15000003,Navajo,woman,asdzáán,,noun
+15000004,Navajo,child,awééʼ,,noun
+15000005,Navajo,book,naaltsoos,,noun
+15000006,Navajo,big,níłtsáá,,adjective
+15000007,Navajo,small,yázhí,,adjective
+15000008,Navajo,This is a house.,Díí hooghan átʼé.,,sentence
+15000009,Navajo,This is water.,Díí tó átʼé.,,sentence
+15000010,Navajo,This is a book.,Díí naaltsoos átʼé.,,sentence
+15000011,Navajo,The house is big.,Hooghan níłtsáá.,,sentence
+15000012,Navajo,I want water.,Tó baa áhóótʼį́.,,sentence
+15000013,Navajo,Thank you.,Ahéheeʼ.,,sentence
+15000014,Navajo,Hello.,Yáʼátʼééh.,,sentence
