@@ -272,7 +272,11 @@ Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 TAMIL
 ID allocation: 3500000-3599999
 CSV: Cards/Tamil.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Systematic seed deck; actual count and used IDs authoritative in CSV.
+Reference: Contemporary standard written Tamil in Tamil script; colloquial and regional varieties explicitly labelled.
+Syllabus: Syllabi/Polyglot_Tamil_Syllabus_v0.1.txt
+Frontier: TA-21 — Present neuter and plural/honorific agreement
+Checkpoint: Original 15 micro cards preserved; expanded to 100 cards with pronouns, inclusive/exclusive we, nominal identity, adjectival predicates, possession, locatives, polar and content questions, accusative objects and first present-tense agreement contrasts. Next deepen agreement and nominal cases.
 
 NORWEGIAN
 ID allocation: 3600000-3699999
