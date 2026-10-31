@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+11100000,Maasai,water,enkare,,vocabulary
+11100001,Maasai,house,enkaji,,vocabulary
+11100002,Maasai,man,olpayian,,vocabulary
+11100003,Maasai,woman,entito,,vocabulary
+11100004,Maasai,child,enkera,,vocabulary
+11100005,Maasai,cow,enkishu,,vocabulary
+11100006,Maasai,sun,enkolong,,vocabulary
+11100007,Maasai,one,nabo,,vocabulary
+11100008,Maasai,two,are,,vocabulary
+11100009,Maasai,three,uni,,vocabulary
+11100010,Maasai,four,ong'wan,,vocabulary
+11100011,Maasai,five,imiet,,vocabulary
+11100012,Maasai,Hello.,Sopa.,,vocabulary
+11100013,Maasai,Thank you.,Ashe oleng.,,phrase
+11100014,Maasai,Goodbye.,Ole sere.,,phrase
