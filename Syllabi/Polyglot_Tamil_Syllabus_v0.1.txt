@@ -1,0 +1,163 @@
+POLYGLOT TAMIL SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Tamil
+Reference variety: contemporary standard written Tamil, with spoken regional varieties introduced and labelled separately
+Card Generation Protocol: 1.0
+
+PURPOSE
+This is the canonical introduction map for the Tamil curriculum. Preserve the original exploratory micro deck, IDs 3500000–3500014, unchanged. The additional 85 cards, IDs 3500015–3500099, create a systematic 100-card seed. Units open prerequisite-aware grammar and lexical branches; they are not closed chapters. Maintain a widening spiral of controlled examples, reusable vocabulary and progressively richer structures.
+
+REFERENCE VARIETY AND DIGLOSSIA
+The seed uses standard modern written Tamil in Tamil script. Tamil has substantial differences between formal written and everyday spoken varieties. Do not silently mix literary/written verb endings with colloquial reductions or present a Chennai spoken form as universally standard. Teach common spoken Tamil deliberately later, with context and regional labels (including Sri Lankan Tamil). The original 15 cards are preserved even where their phrasing previews structures not yet systematically taught.
+
+Tamil is predominantly SOV, with agglutinative nominal case marking and rich verbal agreement. Unlike Vietnamese or Cantonese, Tamil requires careful development of person, number, gender/rationality, honorific distinctions, tense and verb stem classes. Introduce each new contrast in small controlled sets, then reduce paradigm density as the patterns become familiar.
+
+SCRIPT, INPUT AND EXACT MATCH
+Canonical Target uses Tamil script and standard orthography; InputHint is normally blank. Preserve Unicode spelling, vowel signs, pulli and relevant morphophonological distinctions. The user types the Tamil answer directly. EnglishPrompt must be unique within Tamil and should specify the gender, formality, inclusive/exclusive we or speaker sex when those affect the intended answer. Do not use an unqualified English 'he' for an honorific அவர் if a distinct ordinary form அவன் is intended.
+
+EARLY GRAMMAR PRINCIPLES
+1. Nominal identity in the present often has no overt equivalent of English 'is': இது ஒரு புத்தகம்; அவன் ஒரு மாணவன். Do not insert இருக்கிறது as a universal copula.
+2. Adjectival predicates may use neuter forms: வீடு பெரியது; கார் சிறியது. Attributive adjectives such as பெரிய, சிறிய, புதிய precede nouns.
+3. Tamil distinguishes inclusive நாம் from exclusive நாங்கள்; label this contrast explicitly in English prompts.
+4. Tamil personal reference involves ordinary masculine அவன், feminine அவள், honorific அவர், neuter அது, and distinct plural and polite forms. The original micro card uses honorific அவர் for 'He'; preserve it as a preview and make later contrasts explicit.
+5. The seed's possessive constructions என்னிடம் ... இருக்கிறது and ... இல்லை are locative-possession patterns, not a transitive 'have' conjugation.
+6. Basic locative -இல் appears in வீட்டில் and பள்ளியில்; more case and postpositional systems are introduced later.
+7. Accusative -ஐ appears in பூனையை, நாயைப், புத்தகத்தைப், காரைப் and plural objects. Sandhi and optional object marking need longitudinal treatment.
+8. Questions use -ஆ in polar interrogatives and independent question words such as என்ன, யார், எங்கே.
+9. Present verbs such as பார்க்கிறேன், குடிக்கிறேன் and சாப்பிடுகிறேன் show first-person endings; contrasts with குடிக்கிறான், குடிக்கிறாள் and குடிக்கிறாயா open person/gender/number agreement.
+10. Introduce a representative tense/person paradigm, then broaden verb classes, past and future systems without mechanically filling every paradigm for every new verb.
+11. Rational/human versus non-rational/neuter distinctions affect agreement and pronouns; introduce through meaningful noun and sentence contrasts.
+12. Honorific and polite language is not a mere optional suffix. Develop appropriate pronoun–verb agreement and social contexts.
+13. Tamil's spoken/written differences must be visible to the learner; later colloquial cards should explicitly identify register rather than appearing as contradictory canonical translations.
+14. Continue expanding nouns, verbs and adjectives alongside grammatical structure, eventually covering educated-adult technical, civic, literary and abstract vocabulary.
+
+SEED AUDIT
+3500000–3500014: original 15-card micro deck, preserved unchanged.
+3500015–3500099: 85 systematic additions.
+Seed introduces core people, animals, household nouns, adjectives, numerals, personal pronouns, inclusive/exclusive first-person plural, nominal identity, negation, neuter adjective predicates, possession with -இடம், absence with இல்லை, location, questions, accusative objects, and first present-tense agreement contrasts. Some seed examples anticipate later case, sandhi and verb-class units; preview is not mastery.
+
+CANONICAL INTRODUCTION MAP
+TA-01 Core nouns, adjectives and Tamil script
+TA-02 Personal pronouns and gender/number distinctions
+TA-03 Inclusive நாம் versus exclusive நாங்கள்
+TA-04 Nominal identity without a present-tense copula
+TA-05 Gendered human nouns and predicate agreement
+TA-06 Negated identity with அல்ல
+TA-07 Neuter adjectival predicates and adjective modifiers
+TA-08 Basic numbers and numeral noun phrases
+TA-09 Possession with -இடம் and இருக்கிறது
+TA-10 Absence and nonexistence with இல்லை
+TA-11 Locative -இல் and here/there
+TA-12 Content questions என்ன, யார், எங்கே
+TA-13 Polar questions with -ஆ
+TA-14 Basic SOV clause order
+TA-15 Accusative -ஐ and object marking
+TA-16 Present first-person singular -கிறேன்
+TA-17 Present second-person informal -கிறாய்
+TA-18 Present third-person masculine -கிறான்
+TA-19 Present third-person feminine -கிறாள்
+TA-20 Present-tense consolidation and new verb stems
+TA-21 Present neuter and plural/honorific agreement
+TA-22 Dative -க்கு and recipients
+TA-23 Genitive -உடைய and possessive relationships
+TA-24 Instrumental -ஆல் and agents/instruments
+TA-25 Sociative -உடன் and comitative relations
+TA-26 Ablative -இருந்து and motion from
+TA-27 Locative and directional contrasts
+TA-28 Human honorifics அவர் and நீங்கள்
+TA-29 Plural and honorific -கள்/-ர்கள் distinctions
+TA-30 Demonstratives இந்த, அந்த and இவன்/அவன்
+TA-31 Question words எப்போது, ஏன், எப்படி
+TA-32 Past tense regular and stem-specific patterns
+TA-33 Past person/gender/number agreement
+TA-34 Past negation and negative predicates
+TA-35 Future tense regular and stem-specific patterns
+TA-36 Future person/gender/number agreement
+TA-37 Future negation and nonpast negatives
+TA-38 Tense contrasts with temporal adverbs
+TA-39 Progressive and continuous constructions
+TA-40 Completed action and perfect-like readings
+TA-41 Infinitive -அ and complements
+TA-42 Ability with முடியும் and முடியாது
+TA-43 Wanting and preference constructions
+TA-44 Necessity and obligation வேண்டும்
+TA-45 Imperatives and prohibitives
+TA-46 Requests and polite speech
+TA-47 Conditional -ஆல் and related patterns
+TA-48 Relative participles and noun modification
+TA-49 Adverbial participles and clause chaining
+TA-50 Conjunctive participles and event sequences
+TA-51 Causatives and derived verbs
+TA-52 Passive-like and affectedness constructions
+TA-53 Reflexives and reciprocals
+TA-54 Comparatives and superlatives
+TA-55 Degree words and intensifiers
+TA-56 Quantifiers, numbers and distributives
+TA-57 Postpositions and case stacking
+TA-58 Pronoun and nominal declension patterns
+TA-59 Irregular high-frequency verbs
+TA-60 Verb stem classes and phonological alternations
+TA-61 Negation scope and polarity
+TA-62 Existential and locative contrasts
+TA-63 Focus and topic constructions
+TA-64 Word order variation and information structure
+TA-65 Coordination and alternatives
+TA-66 Cause and consequence clauses
+TA-67 Purpose and intention clauses
+TA-68 Concession and contrast
+TA-69 Complement and reported speech clauses
+TA-70 Questions and indirect questions
+TA-71 Agreement and honorific pragmatic contrasts
+TA-72 Spoken versus formal written Tamil diglossia
+TA-73 Chennai-based colloquial speech labelled explicitly
+TA-74 Sri Lankan Tamil regional contrasts
+TA-75 Tamil script vowels and consonants
+TA-76 Uyirmei compounds and vowel signs
+TA-77 Pulli, consonant clusters and spelling
+TA-78 Sandhi and morphophonological alternations
+TA-79 Keyboard entry and Unicode combining behavior
+TA-80 Household and everyday routines
+TA-81 Family, relationships and kinship
+TA-82 Food, cooking and restaurants
+TA-83 Health, body and medicine
+TA-84 School, education and institutions
+TA-85 Work, professions and employment
+TA-86 Transport, travel and directions
+TA-87 Towns, buildings and public spaces
+TA-88 Shopping, money and commerce
+TA-89 Nature, weather and environment
+TA-90 Technology, media and communication
+TA-91 Government, law and civic institutions
+TA-92 Science, mathematics and engineering
+TA-93 Arts, literature and entertainment
+TA-94 History, culture and society
+TA-95 Religion, philosophy and ethics
+TA-96 Emotion, personality and social relations
+TA-97 Abstract concepts and semantic nuance
+TA-98 Idioms, collocations and figurative speech
+TA-99 Academic and professional vocabulary
+TA-100 Advanced discourse and educated-adult lexical long tail
+
+Units mark first introductions. Script, pronunciation, morphology and vocabulary recur throughout the curriculum, regardless of where their dedicated survey units appear.
+
+CARD GENERATION RULES
+- Six columns: ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech.
+- Permanent Tamil allocation: 3500000–3599999.
+- Keep the original 15 cards and IDs unchanged. Append cards sequentially.
+- Use Tamil script with normal punctuation and accurate combining characters.
+- EnglishPrompt unique within Tamil; each card has one intended canonical Target.
+- Specify gender, politeness, register, and inclusive/exclusive we where the English is ambiguous.
+- Do not mechanically add a present-tense copula to nominal or adjectival predicates.
+- Use noun case suffixes and verbal agreement naturally, with controlled first introductions.
+- Keep examples short and independently meaningful after shuffling.
+- Prefer a widening spiral of vocabulary and grammar over repetitive verb tables.
+- Label colloquial versus standard written Tamil explicitly in later development.
+
+CURRENT FRONTIER
+At 100 cards the next forward frontier is TA-21: present neuter and plural/honorific agreement. Consolidate first-person and ordinary masculine/feminine present forms with one familiar verb, then introduce neuter and plural/honorific forms. Broaden dative/genitive and instrumental cases in controlled examples, and only then develop past and future stem classes. Keep script practice and vocabulary growth active.
+
+AMENDMENT HISTORY
+Version 0.1 graduates the 15-card Tamil micro deck to a 100-card systematic seed and establishes a Tamil-specific agreement, case, tense, diglossia and script roadmap.
