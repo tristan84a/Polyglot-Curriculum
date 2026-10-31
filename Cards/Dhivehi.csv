@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+12600000,Dhivehi,house,ގެ,,vocabulary
+12600001,Dhivehi,water,ފެން,,vocabulary
+12600002,Dhivehi,man,ފިރިހެން,,vocabulary
+12600003,Dhivehi,woman,އަންހެން,,vocabulary
+12600004,Dhivehi,child,ކުއްޖާ,,vocabulary
+12600005,Dhivehi,book,ފޮތް,,vocabulary
+12600006,Dhivehi,big,ބޮޑު,,vocabulary
+12600007,Dhivehi,small,ކުޑަ,,vocabulary
+12600008,Dhivehi,one,އެއް,,vocabulary
+12600009,Dhivehi,two,ދެ,,vocabulary
+12600010,Dhivehi,three,ތިން,,vocabulary
+12600011,Dhivehi,four,ހަތަރު,,vocabulary
+12600012,Dhivehi,five,ފަސް,,vocabulary
+12600013,Dhivehi,Thank you.,ޝުކުރިއްޔާ.,,phrase
+12600014,Dhivehi,Hello.,އައްސަލާމު އަލައިކުމް.,,phrase
