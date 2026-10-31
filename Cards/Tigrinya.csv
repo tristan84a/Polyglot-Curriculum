@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+10000000,Tigrinya,house,ገዛ,,noun
+10000001,Tigrinya,water,ማይ,,noun
+10000002,Tigrinya,man,ሰብኣይ,,noun
+10000003,Tigrinya,woman,ሰበይቲ,,noun
+10000004,Tigrinya,child,ቆልዓ,,noun
+10000005,Tigrinya,book,መጽሓፍ,,noun
+10000006,Tigrinya,big,ዓቢ,,adjective
+10000007,Tigrinya,small,ንእሽቶ,,adjective
+10000008,Tigrinya,This is a house.,እዚ ገዛ እዩ።,,sentence
+10000009,Tigrinya,This is water.,እዚ ማይ እዩ።,,sentence
+10000010,Tigrinya,This is a book.,እዚ መጽሓፍ እዩ።,,sentence
+10000011,Tigrinya,The house is big.,እቲ ገዛ ዓቢ እዩ።,,sentence
+10000012,Tigrinya,I want water.,ማይ ደልየ ኣለኹ።,,sentence
+10000013,Tigrinya,Thank you.,የቐንየለይ።,,sentence
+10000014,Tigrinya,Hello.,ሰላም።,,sentence
