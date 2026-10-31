@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+12200000,Odia,house,ଘର,,noun
+12200001,Odia,water,ପାଣି,,noun
+12200002,Odia,man,ପୁରୁଷ,,noun
+12200003,Odia,woman,ମହିଳା,,noun
+12200004,Odia,child,ପିଲା,,noun
+12200005,Odia,book,ବହି,,noun
+12200006,Odia,big,ବଡ଼,,adjective
+12200007,Odia,small,ଛୋଟ,,adjective
+12200008,Odia,This is a house.,ଏହା ଏକ ଘର।,,sentence
+12200009,Odia,This is water.,ଏହା ପାଣି।,,sentence
+12200010,Odia,This is a book.,ଏହା ଏକ ବହି।,,sentence
+12200011,Odia,The house is big.,ଘରଟି ବଡ଼।,,sentence
+12200012,Odia,I want water.,ମୋତେ ପାଣି ଦରକାର।,,sentence
+12200013,Odia,Thank you.,ଧନ୍ୟବାଦ।,,sentence
+12200014,Odia,Hello.,ନମସ୍କାର।,,sentence
