@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+12500000,Sindhi,house,گهر,,noun
+12500001,Sindhi,water,پاڻي,,noun
+12500002,Sindhi,man,مرد,,noun
+12500003,Sindhi,woman,عورت,,noun
+12500004,Sindhi,child,ٻار,,noun
+12500005,Sindhi,book,ڪتاب,,noun
+12500006,Sindhi,big,وڏو,,adjective
+12500007,Sindhi,small,ننڍو,,adjective
+12500008,Sindhi,This is a house.,هي هڪ گهر آهي.,,sentence
+12500009,Sindhi,This is water.,هي پاڻي آهي.,,sentence
+12500010,Sindhi,This is a book.,هي هڪ ڪتاب آهي.,,sentence
+12500011,Sindhi,The house is big.,گهر وڏو آهي.,,sentence
+12500012,Sindhi,I want water.,مون کي پاڻي گهرجي.,,sentence
+12500013,Sindhi,Thank you.,مهرباني.,,sentence
+12500014,Sindhi,Hello.,سلام.,,sentence
