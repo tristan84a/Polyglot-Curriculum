@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+10900000,Sesotho,house,ntlo,,noun
+10900001,Sesotho,water,metsi,,noun
+10900002,Sesotho,man,monna,,noun
+10900003,Sesotho,woman,mosali,,noun
+10900004,Sesotho,child,ngoana,,noun
+10900005,Sesotho,book,buka,,noun
+10900006,Sesotho,big,kholo,,adjective
+10900007,Sesotho,small,nyenyane,,adjective
+10900008,Sesotho,This is a house.,Ena ke ntlo.,,sentence
+10900009,Sesotho,This is water.,Ana ke metsi.,,sentence
+10900010,Sesotho,This is a book.,Ena ke buka.,,sentence
+10900011,Sesotho,The house is big.,Ntlo e kholo.,,sentence
+10900012,Sesotho,I want water.,Ke batla metsi.,,sentence
+10900013,Sesotho,Thank you.,Kea leboha.,,sentence
+10900014,Sesotho,Hello.,Lumela.,,sentence
