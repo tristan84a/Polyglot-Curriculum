@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+11900000,Marathi,house,घर,,noun
+11900001,Marathi,water,पाणी,,noun
+11900002,Marathi,man,पुरुष,,noun
+11900003,Marathi,woman,स्त्री,,noun
+11900004,Marathi,child,मूल,,noun
+11900005,Marathi,book,पुस्तक,,noun
+11900006,Marathi,big,मोठा,,adjective
+11900007,Marathi,small,लहान,,adjective
+11900008,Marathi,This is a house.,हे घर आहे.,,sentence
+11900009,Marathi,This is water.,हे पाणी आहे.,,sentence
+11900010,Marathi,This is a book.,हे पुस्तक आहे.,,sentence
+11900011,Marathi,The house is big.,घर मोठे आहे.,,sentence
+11900012,Marathi,I want water.,मला पाणी हवे आहे.,,sentence
+11900013,Marathi,Thank you.,धन्यवाद.,,sentence
+11900014,Marathi,Hello.,नमस्कार.,,sentence
