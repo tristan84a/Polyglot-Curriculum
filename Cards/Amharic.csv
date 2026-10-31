@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+9800000,Amharic,house,ቤት,,noun
+9800001,Amharic,water,ውሃ,,noun
+9800002,Amharic,man,ወንድ,,noun
+9800003,Amharic,woman,ሴት,,noun
+9800004,Amharic,child,ልጅ,,noun
+9800005,Amharic,book,መጽሐፍ,,noun
+9800006,Amharic,big,ትልቅ,,adjective
+9800007,Amharic,small,ትንሽ,,adjective
+9800008,Amharic,This is a house.,ይህ ቤት ነው።,,sentence
+9800009,Amharic,This is water.,ይህ ውሃ ነው።,,sentence
+9800010,Amharic,This is a book.,ይህ መጽሐፍ ነው።,,sentence
+9800011,Amharic,The house is big.,ቤቱ ትልቅ ነው።,,sentence
+9800012,Amharic,The child is small.,ልጁ ትንሽ ነው።,,sentence
+9800013,Amharic,I want water.,ውሃ እፈልጋለሁ።,,sentence
+9800014,Amharic,Thank you.,አመሰግናለሁ።,,sentence

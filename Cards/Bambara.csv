@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+9700000,Bambara,house,so,,noun
+9700001,Bambara,water,ji,,noun
+9700002,Bambara,man,cɛ,,noun
+9700003,Bambara,woman,muso,,noun
+9700004,Bambara,child,den,,noun
+9700005,Bambara,book,gafe,,noun
+9700006,Bambara,big,belebele,,adjective
+9700007,Bambara,small,misɛn,,adjective
+9700008,Bambara,This is a house.,Nin ye so ye.,,sentence
+9700009,Bambara,This is water.,Nin ye ji ye.,,sentence
+9700010,Bambara,This is a book.,Nin ye gafe ye.,,sentence
+9700011,Bambara,The house is big.,So ka bon.,,sentence
+9700012,Bambara,The child is small.,Den ka misɛn.,,sentence
+9700013,Bambara,I want water.,N bɛ ji fɛ.,,sentence
+9700014,Bambara,Thank you.,I ni ce.,,sentence

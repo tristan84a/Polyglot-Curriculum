@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+9300000,Igbo,house,ụlọ,,noun
+9300001,Igbo,water,mmiri,,noun
+9300002,Igbo,man,nwoke,,noun
+9300003,Igbo,woman,anyịanyị,,noun
+9300004,Igbo,child,nwa,,noun
+9300005,Igbo,book,akwụkwọ,,noun
+9300006,Igbo,big,nnukwu,,adjective
+9300007,Igbo,small,obere,,adjective
+9300008,Igbo,This is a house.,Nke a bụ ụlọ.,,sentence
+9300009,Igbo,This is water.,Nke a bụ mmiri.,,sentence
+9300010,Igbo,This is a book.,Nke a bụ akwụkwọ.,,sentence
+9300011,Igbo,The house is big.,Ụlọ ahụ buru ibu.,,sentence
+9300012,Igbo,The child is small.,Nwa ahụ dị obere.,,sentence
+9300013,Igbo,I want water.,Achọrọ m mmiri.,,sentence
+9300014,Igbo,Thank you.,Daalụ.,,sentence

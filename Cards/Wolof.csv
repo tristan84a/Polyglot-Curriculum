@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+9500000,Wolof,house,kër,,noun
+9500001,Wolof,water,ndox,,noun
+9500002,Wolof,man,góor,,noun
+9500003,Wolof,woman,jigéen,,noun
+9500004,Wolof,child,doom,,noun
+9500005,Wolof,book,téere,,noun
+9500006,Wolof,big,mag,,adjective
+9500007,Wolof,small,ndaw,,adjective
+9500008,Wolof,This is a house.,Lii kër la.,,sentence
+9500009,Wolof,This is water.,Lii ndox la.,,sentence
+9500010,Wolof,This is a book.,Lii téere la.,,sentence
+9500011,Wolof,The house is big.,Kër gi mag na.,,sentence
+9500012,Wolof,The child is small.,Doom ji ndaw na.,,sentence
+9500013,Wolof,I want water.,Dama bëgg ndox.,,sentence
+9500014,Wolof,Thank you.,Jërëjëf.,,sentence

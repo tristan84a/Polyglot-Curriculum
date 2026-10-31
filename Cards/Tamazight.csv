@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+9400000,Tamazight,house,taddart,,noun
+9400001,Tamazight,water,aman,,noun
+9400002,Tamazight,man,argaz,,noun
+9400003,Tamazight,woman,tamɣart,,noun
+9400004,Tamazight,child,afrux,,noun
+9400005,Tamazight,bread,aɣrum,,noun
+9400006,Tamazight,big,ameqqran,,adjective
+9400007,Tamazight,small,ameẓẓyan,,adjective
+9400008,Tamazight,This is a house.,Wagi d taddart.,,sentence
+9400009,Tamazight,This is water.,Wagi d aman.,,sentence
+9400010,Tamazight,This is a man.,Wagi d argaz.,,sentence
+9400011,Tamazight,This is a woman.,Wagi d tamɣart.,,sentence
+9400012,Tamazight,I want water.,Riɣ aman.,,sentence
+9400013,Tamazight,Thank you.,Tanemmirt.,,sentence
+9400014,Tamazight,Hello.,Azul.,,sentence

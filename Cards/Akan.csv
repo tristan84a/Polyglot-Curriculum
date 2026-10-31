@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+9600000,Akan,house,efie,,noun
+9600001,Akan,water,nsuo,,noun
+9600002,Akan,man,barima,,noun
+9600003,Akan,woman,ɔbaa,,noun
+9600004,Akan,child,abofra,,noun
+9600005,Akan,book,nwoma,,noun
+9600006,Akan,big,kɛse,,adjective
+9600007,Akan,small,ketewa,,adjective
+9600008,Akan,This is a house.,Eyi yɛ efie.,,sentence
+9600009,Akan,This is water.,Eyi yɛ nsuo.,,sentence
+9600010,Akan,This is a book.,Eyi yɛ nwoma.,,sentence
+9600011,Akan,The house is big.,Efie no yɛ kɛse.,,sentence
+9600012,Akan,The child is small.,Abofra no yɛ ketewa.,,sentence
+9600013,Akan,I want water.,Mepɛ nsuo.,,sentence
+9600014,Akan,Thank you.,Medaase.,,sentence

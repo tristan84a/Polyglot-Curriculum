@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+9200000,Fulani,house,suudu,,noun
+9200001,Fulani,water,ndiyam,,noun
+9200002,Fulani,man,gorko,,noun
+9200003,Fulani,woman,debbo,,noun
+9200004,Fulani,child,suka,,noun
+9200005,Fulani,big,mawɗo,,adjective
+9200006,Fulani,small,tokoso,,adjective
+9200007,Fulani,one,gooto,,number
+9200008,Fulani,This is a house.,Ɗum ko suudu.,,sentence
+9200009,Fulani,This is water.,Ɗum ko ndiyam.,,sentence
+9200010,Fulani,This is a man.,Ɗum ko gorko.,,sentence
+9200011,Fulani,This is a woman.,Ɗum ko debbo.,,sentence
+9200012,Fulani,This is a child.,Ɗum ko suka.,,sentence
+9200013,Fulani,I want water.,Miɗo yiɗi ndiyam.,,sentence
+9200014,Fulani,Thank you.,A jaaraama.,,sentence
