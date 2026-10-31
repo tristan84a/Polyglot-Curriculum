@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+10300000,Xhosa,house,indlu,,noun
+10300001,Xhosa,water,amanzi,,noun
+10300002,Xhosa,man,indoda,,noun
+10300003,Xhosa,woman,umfazi,,noun
+10300004,Xhosa,child,umntwana,,noun
+10300005,Xhosa,book,incwadi,,noun
+10300006,Xhosa,big,khulu,,adjective
+10300007,Xhosa,small,ncinci,,adjective
+10300008,Xhosa,This is a house.,Le yindlu.,,sentence
+10300009,Xhosa,This is water.,La ngamanzi.,,sentence
+10300010,Xhosa,This is a book.,Le yincwadi.,,sentence
+10300011,Xhosa,The house is big.,Indlu inkulu.,,sentence
+10300012,Xhosa,I want water.,Ndifuna amanzi.,,sentence
+10300013,Xhosa,Thank you.,Enkosi.,,sentence
+10300014,Xhosa,Hello.,Molo.,,sentence
