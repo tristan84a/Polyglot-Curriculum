@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+12800000,Kannada,house,ಮನೆ,,noun
+12800001,Kannada,water,ನೀರು,,noun
+12800002,Kannada,man,ಪುರುಷ,,noun
+12800003,Kannada,woman,ಮಹಿಳೆ,,noun
+12800004,Kannada,child,ಮಗು,,noun
+12800005,Kannada,book,ಪುಸ್ತಕ,,noun
+12800006,Kannada,big,ದೊಡ್ಡ,,adjective
+12800007,Kannada,small,ಚಿಕ್ಕ,,adjective
+12800008,Kannada,This is a house.,ಇದು ಒಂದು ಮನೆ.,,sentence
+12800009,Kannada,This is water.,ಇದು ನೀರು.,,sentence
+12800010,Kannada,This is a book.,ಇದು ಒಂದು ಪುಸ್ತಕ.,,sentence
+12800011,Kannada,The house is big.,ಮನೆ ದೊಡ್ಡದಾಗಿದೆ.,,sentence
+12800012,Kannada,I want water.,ನನಗೆ ನೀರು ಬೇಕು.,,sentence
+12800013,Kannada,Thank you.,ಧನ್ಯವಾದಗಳು.,,sentence
+12800014,Kannada,Hello.,ನಮಸ್ಕಾರ.,,sentence
