@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+9900000,Oromo,house,mana,,noun
+9900001,Oromo,water,bishaan,,noun
+9900002,Oromo,man,nama,,noun
+9900003,Oromo,woman,dubartii,,noun
+9900004,Oromo,child,mucaa,,noun
+9900005,Oromo,book,kitaaba,,noun
+9900006,Oromo,big,guddaa,,adjective
+9900007,Oromo,small,xiqqaa,,adjective
+9900008,Oromo,This is a house.,Kun mana dha.,,sentence
+9900009,Oromo,This is water.,Kun bishaan dha.,,sentence
+9900010,Oromo,This is a book.,Kun kitaaba dha.,,sentence
+9900011,Oromo,The house is big.,Manni guddaa dha.,,sentence
+9900012,Oromo,I want water.,Bishaan barbaada.,,sentence
+9900013,Oromo,Thank you.,Galatoomi.,,sentence
+9900014,Oromo,Hello.,Akkam.,,sentence
