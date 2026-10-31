@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+14300000,Māori,house,whare,,noun
+14300001,Māori,water,wai,,noun
+14300002,Māori,man,tāne,,noun
+14300003,Māori,woman,wahine,,noun
+14300004,Māori,child,tamaiti,,noun
+14300005,Māori,book,pukapuka,,noun
+14300006,Māori,big,nui,,adjective
+14300007,Māori,small,iti,,adjective
+14300008,Māori,This is a house.,He whare tēnei.,,sentence
+14300009,Māori,This is water.,He wai tēnei.,,sentence
+14300010,Māori,This is a book.,He pukapuka tēnei.,,sentence
+14300011,Māori,The house is big.,He nui te whare.,,sentence
+14300012,Māori,I want water.,Kei te hiahia au ki te wai.,,sentence
+14300013,Māori,Thank you.,Ngā mihi.,,sentence
+14300014,Māori,Hello.,Kia ora.,,sentence
