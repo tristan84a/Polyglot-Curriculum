@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+14500000,Samoan,house,fale,,noun
+14500001,Samoan,water,vai,,noun
+14500002,Samoan,man,tamāloa,,noun
+14500003,Samoan,woman,fafine,,noun
+14500004,Samoan,child,tamaitiiti,,noun
+14500005,Samoan,book,tusi,,noun
+14500006,Samoan,big,tele,,adjective
+14500007,Samoan,small,laʻitiiti,,adjective
+14500008,Samoan,This is a house.,O le fale lenei.,,sentence
+14500009,Samoan,This is water.,O le vai lenei.,,sentence
+14500010,Samoan,This is a book.,O le tusi lenei.,,sentence
+14500011,Samoan,The house is big.,E telē le fale.,,sentence
+14500012,Samoan,I want water.,Ou te manaʻo i le vai.,,sentence
+14500013,Samoan,Thank you.,Fa'afetai.,,sentence
+14500014,Samoan,Hello.,Talofa.,,sentence
