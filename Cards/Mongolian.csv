@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+12900000,Mongolian,house,байшин,,noun
+12900001,Mongolian,water,ус,,noun
+12900002,Mongolian,man,эрэгтэй хүн,,noun
+12900003,Mongolian,woman,эмэгтэй хүн,,noun
+12900004,Mongolian,child,хүүхэд,,noun
+12900005,Mongolian,book,ном,,noun
+12900006,Mongolian,big,том,,adjective
+12900007,Mongolian,small,жижиг,,adjective
+12900008,Mongolian,This is a house.,Энэ бол байшин.,,sentence
+12900009,Mongolian,This is water.,Энэ бол ус.,,sentence
+12900010,Mongolian,This is a book.,Энэ бол ном.,,sentence
+12900011,Mongolian,The house is big.,Байшин том.,,sentence
+12900012,Mongolian,I want water.,Би ус хүсэж байна.,,sentence
+12900013,Mongolian,Thank you.,Баярлалаа.,,sentence
+12900014,Mongolian,Hello.,Сайн байна уу?,,sentence
