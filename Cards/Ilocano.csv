@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+13900000,Ilocano,house,balay,,noun
+13900001,Ilocano,water,danum,,noun
+13900002,Ilocano,man,lalaki,,noun
+13900003,Ilocano,woman,babai,,noun
+13900004,Ilocano,child,ubing,,noun
+13900005,Ilocano,book,libro,,noun
+13900006,Ilocano,big,dakkel,,adjective
+13900007,Ilocano,small,bassit,,adjective
+13900008,Ilocano,This is a house.,Balay daytoy.,,sentence
+13900009,Ilocano,This is water.,Danum daytoy.,,sentence
+13900010,Ilocano,This is a book.,Libro daytoy.,,sentence
+13900011,Ilocano,The house is big.,Dakkel ti balay.,,sentence
+13900012,Ilocano,I want water.,Kayatko ti danum.,,sentence
+13900013,Ilocano,Thank you.,Agyamanak.,,sentence
+13900014,Ilocano,Hello.,Kumusta.,,sentence
