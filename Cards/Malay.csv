@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+13400000,Malay,house,rumah,,noun
+13400001,Malay,water,air,,noun
+13400002,Malay,man,lelaki,,noun
+13400003,Malay,woman,wanita,,noun
+13400004,Malay,child,kanak-kanak,,noun
+13400005,Malay,book,buku,,noun
+13400006,Malay,big,besar,,adjective
+13400007,Malay,small,kecil,,adjective
+13400008,Malay,This is a house.,Ini sebuah rumah.,,sentence
+13400009,Malay,This is water.,Ini air.,,sentence
+13400010,Malay,This is a book.,Ini sebuah buku.,,sentence
+13400011,Malay,The house is big.,Rumah itu besar.,,sentence
+13400012,Malay,I want water.,Saya mahu air.,,sentence
+13400013,Malay,Thank you.,Terima kasih.,,sentence
+13400014,Malay,Hello.,Helo.,,sentence
