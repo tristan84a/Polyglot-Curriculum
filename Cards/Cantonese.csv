@@ -14,3 +14,88 @@
 3100012,Cantonese,He has a car.,佢有架車。,keoi5 jau5 gaa3 ce1,sentence
 3100013,Cantonese,He has a red car.,佢有架紅色嘅車。,keoi5 jau5 gaa3 hung4 sik1 ge3 ce1,sentence
 3100014,Cantonese,I see four cars.,我見到四架車。,ngo5 gin3 dou2 sei3 gaa3 ce1,sentence
+3100015,Cantonese,woman,女人,neoi5 jan4,noun
+3100016,Cantonese,child,細路,sai3 lou6,noun
+3100017,Cantonese,book,書,syu1,noun
+3100018,Cantonese,school,學校,hok6 haau6,noun
+3100019,Cantonese,teacher,老師,lou5 si1,noun
+3100020,Cantonese,student,學生,hok6 saang1,noun
+3100021,Cantonese,friend,朋友,pang4 jau5,noun
+3100022,Cantonese,cat,貓,maau1,noun
+3100023,Cantonese,dog,狗,gau2,noun
+3100024,Cantonese,rice,飯,faan6,noun
+3100025,Cantonese,tea,茶,caa4,noun
+3100026,Cantonese,coffee,咖啡,gaa3 fe1,noun
+3100027,Cantonese,small,細,sai3,adjective
+3100028,Cantonese,good,好,hou2,adjective
+3100029,Cantonese,new,新,san1,adjective
+3100030,Cantonese,one,一,jat1,number
+3100031,Cantonese,two,二,ji6,number
+3100032,Cantonese,three,三,saam1,number
+3100033,Cantonese,five,五,ng5,number
+3100034,Cantonese,I,我,ngo5,pronoun
+3100035,Cantonese,you (singular),你,nei5,pronoun
+3100036,Cantonese,he or she,佢,keoi5,pronoun
+3100037,Cantonese,we,我哋,ngo5 dei6,pronoun
+3100038,Cantonese,they,佢哋,keoi5 dei6,pronoun
+3100039,Cantonese,He is a teacher.,佢係老師。,keoi5 hai6 lou5 si1,sentence
+3100040,Cantonese,She is a student.,佢係學生。,keoi5 hai6 hok6 saang1,sentence
+3100041,Cantonese,I am a student.,我係學生。,ngo5 hai6 hok6 saang1,sentence
+3100042,Cantonese,You are a doctor.,你係醫生。,nei5 hai6 ji1 sang1,sentence
+3100043,Cantonese,I am not a doctor.,我唔係醫生。,ngo5 m4 hai6 ji1 sang1,sentence
+3100044,Cantonese,He is not a teacher.,佢唔係老師。,keoi5 m4 hai6 lou5 si1,sentence
+3100045,Cantonese,Are you a student?,你係唔係學生？,nei5 hai6 m4 hai6 hok6 saang1,sentence
+3100046,Cantonese,Is he a doctor?,佢係唔係醫生？,keoi5 hai6 m4 hai6 ji1 sang1,sentence
+3100047,Cantonese,This house is small.,呢間屋好細。,ni1 gaan1 uk1 hou2 sai3,sentence
+3100048,Cantonese,This car is big.,呢架車好大。,ni1 gaa3 ce1 hou2 daai6,sentence
+3100049,Cantonese,The book is new.,本書好新。,bun2 syu1 hou2 san1,sentence
+3100050,Cantonese,The cat is small.,隻貓好細。,zek3 maau1 hou2 sai3,sentence
+3100051,Cantonese,The dog is big.,隻狗好大。,zek3 gau2 hou2 daai6,sentence
+3100052,Cantonese,I have a book.,我有一本書。,ngo5 jau5 jat1 bun2 syu1,sentence
+3100053,Cantonese,He has two books.,佢有兩本書。,keoi5 jau5 loeng5 bun2 syu1,sentence
+3100054,Cantonese,I have three books.,我有三本書。,ngo5 jau5 saam1 bun2 syu1,sentence
+3100055,Cantonese,I have a cat.,我有一隻貓。,ngo5 jau5 jat1 zek3 maau1,sentence
+3100056,Cantonese,She has a dog.,佢有一隻狗。,keoi5 jau5 jat1 zek3 gau2,sentence
+3100057,Cantonese,I do not have a car.,我冇車。,ngo5 mou5 ce1,sentence
+3100058,Cantonese,He does not have a book.,佢冇書。,keoi5 mou5 syu1,sentence
+3100059,Cantonese,Do you have a car?,你有冇車？,nei5 jau5 mou5 ce1,sentence
+3100060,Cantonese,Do you have a book?,你有冇書？,nei5 jau5 mou5 syu1,sentence
+3100061,Cantonese,The teacher is here.,老師喺度。,lou5 si1 hai2 dou6,sentence
+3100062,Cantonese,The student is at school.,學生喺學校。,hok6 saang1 hai2 hok6 haau6,sentence
+3100063,Cantonese,I am at home.,我喺屋企。,ngo5 hai2 uk1 kei2,sentence
+3100064,Cantonese,He is not at home.,佢唔喺屋企。,keoi5 m4 hai2 uk1 kei2,sentence
+3100065,Cantonese,Where are you?,你喺邊度？,nei5 hai2 bin1 dou6,sentence
+3100066,Cantonese,Where is the book?,本書喺邊度？,bun2 syu1 hai2 bin1 dou6,sentence
+3100067,Cantonese,Where is the cat?,隻貓喺邊度？,zek3 maau1 hai2 bin1 dou6,sentence
+3100068,Cantonese,I see a cat.,我見到一隻貓。,ngo5 gin3 dou2 jat1 zek3 maau1,sentence
+3100069,Cantonese,I see a dog.,我見到一隻狗。,ngo5 gin3 dou2 jat1 zek3 gau2,sentence
+3100070,Cantonese,I see two cats.,我見到兩隻貓。,ngo5 gin3 dou2 loeng5 zek3 maau1,sentence
+3100071,Cantonese,I see three people.,我見到三個人。,ngo5 gin3 dou2 saam1 go3 jan4,sentence
+3100072,Cantonese,I like tea.,我鍾意飲茶。,ngo5 zung1 ji3 jam2 caa4,sentence
+3100073,Cantonese,I like coffee.,我鍾意飲咖啡。,ngo5 zung1 ji3 jam2 gaa3 fe1,sentence
+3100074,Cantonese,I drink water.,我飲水。,ngo5 jam2 seoi2,sentence
+3100075,Cantonese,He drinks tea.,佢飲茶。,keoi5 jam2 caa4,sentence
+3100076,Cantonese,I eat rice.,我食飯。,ngo5 sik6 faan6,sentence
+3100077,Cantonese,She eats rice.,佢食飯。,keoi5 sik6 faan6,sentence
+3100078,Cantonese,Do you drink tea?,你飲唔飲茶？,nei5 jam2 m4 jam2 caa4,sentence
+3100079,Cantonese,Do you eat rice?,你食唔食飯？,nei5 sik6 m4 sik6 faan6,sentence
+3100080,Cantonese,I do not drink coffee.,我唔飲咖啡。,ngo5 m4 jam2 gaa3 fe1,sentence
+3100081,Cantonese,He does not eat rice.,佢唔食飯。,keoi5 m4 sik6 faan6,sentence
+3100082,Cantonese,What is this?,呢個係咩？,ni1 go3 hai6 me1,sentence
+3100083,Cantonese,Who is he?,佢係邊個？,keoi5 hai6 bin1 go3,sentence
+3100084,Cantonese,What do you drink?,你飲咩？,nei5 jam2 me1,sentence
+3100085,Cantonese,I want water.,我想飲水。,ngo5 soeng2 jam2 seoi2,sentence
+3100086,Cantonese,I want to eat.,我想食嘢。,ngo5 soeng2 sik6 je5,sentence
+3100087,Cantonese,He wants coffee.,佢想飲咖啡。,keoi5 soeng2 jam2 gaa3 fe1,sentence
+3100088,Cantonese,I can speak Cantonese.,我識講廣東話。,ngo5 sik1 gong2 gwong2 dung1 waa2,sentence
+3100089,Cantonese,Do you speak Cantonese?,你識唔識講廣東話？,nei5 sik1 m4 sik1 gong2 gwong2 dung1 waa2,sentence
+3100090,Cantonese,I understand.,我明白。,ngo5 ming4 baak6,sentence
+3100091,Cantonese,I do not understand.,我唔明白。,ngo5 m4 ming4 baak6,sentence
+3100092,Cantonese,Thank you.,多謝。,do1 ze6,phrase
+3100093,Cantonese,Hello.,你好。,nei5 hou2,phrase
+3100094,Cantonese,Goodbye.,拜拜。,baai1 baai3,phrase
+3100095,Cantonese,Sorry.,對唔住。,deoi3 m4 zyu6,phrase
+3100096,Cantonese,Please wait.,唔該等陣。,m4 goi1 dang2 zan6,phrase
+3100097,Cantonese,This is a book.,呢本係書。,ni1 bun2 hai6 syu1,sentence
+3100098,Cantonese,This is my book.,呢本係我本書。,ni1 bun2 hai6 ngo5 bun2 syu1,sentence
+3100099,Cantonese,This is his car.,呢架係佢架車。,ni1 gaa3 hai6 keoi5 gaa3 ce1,sentence
