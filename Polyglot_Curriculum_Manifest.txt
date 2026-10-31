@@ -9,713 +9,870 @@ This manifest is the compact progress and allocation record for the Polyglot cur
 
 The Polyglot Card Generation Protocol is the primary operating document for card generators. Each established language syllabus provides that language's sequence of introductions; the Charter provides top-level project purpose; and each language CSV is authoritative for cards that actually exist and for their row order.
 
-The manifest records stable language ID allocations, current card-file extent, syllabus/frontier information where applicable, and concise checkpoints. Micro decks have no active frontier until they deliberately graduate into systematic syllabus-governed development.
+The manifest records one authoritative registry entry per language: stable ID allocation, CSV path, syllabus/frontier information where applicable, reference conventions, and concise checkpoints. Actual card counts, used IDs, and row order are authoritative only in the CSV files. Micro decks have no active frontier until they deliberately graduate into systematic syllabus-governed development.
 
 Current generation protocol:
 Polyglot_Card_Generation_Protocol_v1.0.txt
 
-2. ID ALLOCATION
+3. LANGUAGE REGISTRY — 151 LANGUAGES
 
-Polyglot uses integer language blocks of 100,000 IDs.
-
-Language     Reserved ID range       Current used IDs       Current cards
-French       100000-199999           100000-101034        1035
-German       200000-299999           200000-200749          750
-Japanese     300000-399999           300000-300499          500
-Polish       400000-499999           400000-400249          250
-Hungarian    500000-599999           500000-500599          600
-Turkish      600000-699999           600000-600249          250
-Arabic       700000-799999           700000-700499          500
-Ojibwe       800000-899999           800000-800098          99
-Spanish      900000-999999           900000-900557          558
-Russian      1000000-1099999         1000000-1000452        453
-Greek        1100000-1199999         1100000-1100099        100
-Hindi        1200000-1299999         1200000-1200319        320
-Hebrew       1300000-1399999         1300000-1300099        100
-Mandarin     1400000-1499999         1400000-1400099        100
-Icelandic    1500000-1599999         1500000-1500519        520
-Italian      1600000-1699999         1600000-1600312        313
-Serbian      1700000-1799999         1700000-1700314        315
-Swedish      1800000-1899999         1800000-1800219        220
-Punjabi      1900000-1999999         1900000-1900099        100
-Portuguese   2000000-2099999         2000000-2000310        311
-Korean       2100000-2199999         2100000-2100099        100
-Finnish      2200000-2299999         2200000-2200099        100
-Ukrainian    2300000-2399999         2300000-2300099        100
-Persian      2400000-2499999         2400000-2400099        100
-Romanian     2500000-2599999         2500000-2500014        15
-Danish       2600000-2699999         2600000-2600014        15
-Czech        2700000-2799999         2700000-2700099        100
-Georgian     2800000-2899999         2800000-2800099        100
-Swahili      2900000-2999999         2900000-2900099        100
-Albanian     3000000-3099999         3000000-3000014        15
-Cantonese    3100000-3199999         3100000-3100014        15
-Dutch        3200000-3299999         3200000-3200108        109
-Thai         3300000-3399999         3300000-3300099       100
-Armenian     3400000-3499999         3400000-3400014        15
-Tamil        3500000-3599999         3500000-3500014        15
-Norwegian    3600000-3699999         3600000-3600111        112
-Latin        3700000-3799999         3700000-3700014        15
-Vietnamese   3800000-3899999         3800000-3800014        15
-Basque       3900000-3999999         3900000-3900014        15
-Bengali      4000000-4099999         4000000-4000014        15
-Uzbek        4100000-4199999         4100000-4100014        15
-Hausa        4200000-4299999         4200000-4200014        15
-Catalan      4300000-4399999         4300000-4300014        15
-Tagalog      4400000-4499999         4400000-4400099       100
-Lithuanian   4500000-4599999         4500000-4500127       128
-Welsh        4600000-4699999         4600000-4600014        15
-Bulgarian    4700000-4799999         4700000-4700014        15
-Indonesian   4800000-4899999         4800000-4800099       100
-Yoruba       4900000-4999999         4900000-4900014        15
-Tibetan      5000000-5099999         5000000-5000014        15
-Estonian     5100000-5199999         5100000-5100014        15
-Somali       5200000-5299999         5200000-5200014        15
-Maltese      5300000-5399999         5300000-5300014        15
-Slovene      5400000-5499999         5400000-5400014        15
-Azerbaijani  5500000-5599999         5500000-5500014        15
-Gujarati     5600000-5699999         5600000-5600014        15
-Latvian      5700000-5799999         5700000-5700014        15
-Javanese     5800000-5899999         5800000-5800014        15
-Kurdish      5900000-5999999         5900000-5900014        15
-Zulu         6000000-6099999         6000000-6000014        15
-Khmer        6100000-6199999         6100000-6100014        15
-Slovak       6200000-6299999         6200000-6200014        15
-Burmese      6300000-6399999         6300000-6300014        15
-Malagasy     6400000-6499999         6400000-6400014        15
-Sinhala      6500000-6599999         6500000-6500014        15
-Kazakh       6600000-6699999         6600000-6600014        15
-Macedonian   6700000-6799999         6700000-6700014        15
-Romani       6800000-6899999         6800000-6800014        15
-Inuktitut    6900000-6999999         6900000-6900014        15
-Quechua      7000000-7099999         7000000-7000014        15
-Telugu       7100000-7199999         7100000-7100014        15
-
-Guarani        7200000-7299999         7200000-7200014        15
-Haitian Creole 7300000-7399999         7300000-7300014        15
-Yucatec Maya   7400000-7499999         7400000-7400014        15
-Nahuatl        7500000-7599999         7500000-7500014        15
-Lakota         7600000-7699999         7600000-7600014        15
-Cherokee       7700000-7799999         7700000-7700014        15
-Plains Cree    7800000-7899999         7800000-7800014        15
-Greenlandic    7900000-7999999         7900000-7900014        15
-Faroese        8000000-8099999         8000000-8000014        15
-Luxembourgish  8100000-8199999         8100000-8100014        15
-Frisian        8200000-8299999         8200000-8200014        15
-Galician       8300000-8399999         8300000-8300014        15
-Sardinian      8400000-8499999         8400000-8400014        15
-Occitan      8500000-8599999        8500000-8500014       15
-Romansch     8600000-8699999        8600000-8600014       15
-Belarusian   8700000-8799999        8700000-8700014       15
-Sami         8800000-8899999        8800000-8800014       15
-Irish        8900000-8999999        8900000-8900014       15
-Scottish Gaelic 9000000-9099999        9000000-9000014       15
-Yiddish      9100000-9199999        9100000-9100014       15
-Fulani       9200000-9299999        9200000-9200014       15
-Igbo         9300000-9399999        9300000-9300014       15
-Tamazight    9400000-9499999        9400000-9400014       15
-Wolof        9500000-9599999        9500000-9500014       15
-Akan         9600000-9699999        9600000-9600014       15
-Bambara      9700000-9799999        9700000-9700014       15
-Amharic      9800000-9899999        9800000-9800014       15
-Oromo        9900000-9999999        9900000-9900014       15
-Tigrinya     10000000-10099999      10000000-10000014     15
-Lingala      10100000-10199999      10100000-10100014     15
-Afrikaans    10200000-10299999      10200000-10200014     15
-Xhosa        10300000-10399999      10300000-10300014     15
-Shona        10400000-10499999      10400000-10400014     15
-Kinyarwanda  10500000-10599999      10500000-10500014     15
-Nyanja       10600000-10699999      10600000-10600014     15
-Luganda      10700000-10799999      10700000-10700014     15
-Setswana     10800000-10899999      10800000-10800014     15
-Sesotho      10900000-10999999      10900000-10900014     15
-Dholuo       11000000-11099999      11000000-11000014     15
-Maasai       11100000-11199999      11100000-11100014     15
-Uyghur       11200000-11299999      11200000-11200014     15
-Turkmen      11300000-11399999      11300000-11300014     15
-Kyrgyz       11400000-11499999      11400000-11400014     15
-Tatar        11500000-11599999      11500000-11500014     15
-Chechen      11600000-11699999      11600000-11600014     15
-Abkhaz       11700000-11799999      11700000-11700014     15
-Pashto       11800000-11899999      11800000-11800014     15
-Marathi      11900000-11999999      11900000-11900014     15
-Nepali       12000000-12099999      12000000-12000014     15
-Urdu         12100000-12199999      12100000-12100014     15
-Odia         12200000-12299999      12200000-12200014     15
-Assamese     12300000-12399999      12300000-12300014     15
-Kashmiri     12400000-12499999      12400000-12400014     15
-Sindhi       12500000-12599999      12500000-12500014     15
-Dhivehi      12600000-12699999      12600000-12600014     15
-Malayalam    12700000-12799999      12700000-12700014     15
-Kannada      12800000-12899999      12800000-12800014     15
-Mongolian    12900000-12999999      12900000-12900014     15
-Hokkien      13000000-13099999      13000000-13000014     15
-Shanghainese 13100000-13199999      13100000-13100014     15
-Hakka        13200000-13299999      13200000-13200014     15
-Hmong        13300000-13399999      13300000-13300014     15
-Malay        13400000-13499999      13400000-13400014     15
-Lao          13500000-13599999      13500000-13500014     15
-Cebuano      13600000-13699999      13600000-13600014     15
-Tetum        13700000-13799999      13700000-13700014     15
-Sundanese    13800000-13899999      13800000-13800014     15
-Ilocano      13900000-13999999      13900000-13900014     15
-Acehnese     14000000-14099999      14000000-14000014     15
-Fijian       14100000-14199999      14100000-14100014     15
-Tok Pisin    14200000-14299999      14200000-14200014     15
-Māori        14300000-14399999      14300000-14300014     15
-Tongan       14400000-14499999      14400000-14400014     15
-Samoan       14500000-14599999      14500000-14500014     15
-Hawaiian     14600000-14699999      14600000-14600014     15
-Marshallese  14700000-14799999      14700000-14700014     15
-Warlpiri     14800000-14899999      14800000-14800014     15
-Mohawk       14900000-14999999      14900000-14900014     15
-Navajo       15000000-15099999      15000000-15000014     15
-Aymara       15100000-15199999      15100000-15100014     15
-These ranges are reservations, not curriculum-size targets. Stable live IDs are not renumbered merely because curriculum organization later changes.
-
-3. ESTABLISHED AND SEED-DECK CHECKPOINTS
+Each entry below records the permanent ID allocation and authoritative CSV path. Card counts and highest used IDs are deliberately not duplicated here; read them from the CSV. The registry includes established, seed, and exploratory micro decks. A micro deck has no syllabus frontier until systematic development begins.
 
 FRENCH
+ID allocation: 100000-199999
+CSV: Cards/French.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_French_Syllabus_v0.3.txt
-Cards: 1126 | Used IDs: 100000-101125
-Frontier: FR-90 — Present subjunctive: regular formation
-Checkpoint: Established Stage 10 FR-80–FR-89 with 91 new cards (101035–101125), covering subject/object/place/de/complex-preposition relatives (qui, que, où, dont, lequel), coordination, cause/consequence, infinitival purpose, concession/opposition and integrated complex clauses. Existing 1035 cards unchanged. Continue at Stage 11, FR-90 (present subjunctive), with purpose clauses requiring subjunctive reserved for the mood sequence.
 
 GERMAN
+ID allocation: 200000-299999
+CSV: Cards/German.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_German_Syllabus_v0.3.txt
-Cards: 880 | Used IDs: 200000-200879
-Frontier: DE-81 — Other common subordinating conjunctions
-Checkpoint: Condensed the DE-71–DE-80 pre-live expansion from 250 to 130 existing cards, renumbered contiguously as 200750–200879; first 750 cards unchanged. Retained representative strong Präteritum, register contrasts, Plusquamperfekt, past narration, coordination, dass, weil, wenn, als and obwohl. Deferred vocabulary can return in the widening spiral. Continue at DE-81.
 
 JAPANESE
+ID allocation: 300000-399999
+CSV: Cards/Japanese.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Japanese_Syllabus_v0.4.txt
-Cards: 500 | Used IDs: 300000-300499
-Checkpoint: Established deck through plain forms, て-form systems, clause modification, modality and the opening of numbers/counters.
 
 POLISH
+ID allocation: 400000-499999
+CSV: Cards/Polish.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Polish_Syllabus_v0.2.txt
-Cards: 250 | Used IDs: 400000-400249
-Frontier: PL-15 — Masculine-personal versus non-masculine-personal plural
-Checkpoint: Present verbs, first case functions, motion, possession, numbers and plurals are active in a widening spiral.
 
 HUNGARIAN
+ID allocation: 500000-599999
+CSV: Cards/Hungarian.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Hungarian_Syllabus_v0.2.txt
-Cards: 600 | Used IDs: 500000-500599
-Frontier: HU-74 — Comparative adjectives (continued systematic development)
-Checkpoint: The expansion adds everyday vocabulary, natural location and direction, lexical verbs in -ni, case-governed constructions, definite/indefinite verb contrasts, questions, possession, quantity and temporal expressions. Earlier cards preview comparatives and later grammar; the main frontier remains in Stage 10.
 
 TURKISH
+ID allocation: 600000-699999
+CSV: Cards/Turkish.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Turkish_Syllabus_v0.1.txt
-Cards: 250 | Used IDs: 600000-600249
-Frontier: TR-17 — Buffer consonants and basic consonant alternations
-Checkpoint: Present, core cases, possession, harmony, negation/questions and previews of aorist, past, future and comitative are active.
 
 ARABIC
+ID allocation: 700000-799999
+CSV: Cards/Arabic.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Arabic_Syllabus_v0.1.txt
-Cards: 500 | Used IDs: 700000-700499
-Checkpoint: Established ordinary unvocalized MSA foundation. Optional harakat are not added merely to disambiguate exact-match cards.
 
 OJIBWE
+ID allocation: 800000-899999
+CSV: Cards/Ojibwe.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Ojibwe_Syllabus_v0.1.txt
-Cards: 99 | Used IDs: 800000-800098
-Checkpoint: Exploratory Double Vowel prototype emphasizing animacy, demonstratives, predicate verbs, early personal morphology and possession. Continue only where reliable documentation supports forms and usage.
 
 SPANISH
+ID allocation: 900000-999999
+CSV: Cards/Spanish.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Spanish_Syllabus_v0.1.txt
-Cards: 558 | Used IDs: 900000-900557
-Frontier: ES-29 — Yes/no questions
-Checkpoint: Stage 3 through ES-28 introduced: personal a, recipients with a, possessives, demonstratives, prepositions, al/del, movement/place relations, numbers, age, calendar and clock time, and mixed noun-phrase practice. Existing previews of later tense/mood/clitic material remain longitudinal; ES-29 is the next main introduction.
 
 RUSSIAN
+ID allocation: 1000000-1099999
+CSV: Cards/Russian.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Russian_Syllabus_v0.2.txt
-Cards: 607 | Used IDs: 1000000-1000606
-Frontier: RU-42 — Imperative: productive singular and plural/polite forms
-Checkpoint: Established Stage 4 RU-30–RU-41 with 113 new cards (1000494–1000606): plural accusative animacy, genitive plural, dative and instrumental singular/plural, prepositional plural, numeral governance, preposition cases, oblique personal pronouns, possessives/demonstratives, and integrated case use. Previous 494 cards unchanged. Continue at RU-42; earlier imperative and motion examples remain previews for Stage 5.
 
 GREEK
+ID allocation: 1100000-1199999
+CSV: Cards/Greek.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Greek_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 1100000-1100099
-Checkpoint: Seed deck in ordinary monotonic Greek with agreement, articles, pro-drop, present verbs, negation/questions, possession, accusative contrasts and an early να preview.
 
 HINDI
+ID allocation: 1200000-1299999
+CSV: Cards/Hindi.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Hindi_Syllabus_v0.1.txt
-Cards: 320 | Used IDs: 1200000-1200319
-Frontier: HI-31 — देना, लेना and light verbs
-Checkpoint: Widening spiral extends the seed through plurals, oblique noun forms, में/पर/से, possessive का/की/के, direct and recipient को, present progressive, perfective and ergative ने, imperfective past, future, सकना, necessity, imperatives and expanded everyday vocabulary. Later previews do not move the main frontier.
 
 HEBREW
+ID allocation: 1300000-1399999
+CSV: Cards/Hebrew.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Hebrew_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 1300000-1300099
-Checkpoint: Unpointed contemporary Hebrew seed with agreement, zero-copula predication, definiteness, present verbs, questions/negation, existence/possession, את and infinitival complements.
 
 MANDARIN
+ID allocation: 1400000-1499999
+CSV: Cards/Mandarin.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Mandarin_Syllabus_v0.1.txt
-Cards: 179 | Used IDs: 1400000-1400178
-Frontier: MN-13 — 的 possession
-Checkpoint: Initial structural roadmap MN-01–MN-12 established. Original 100-card seed preserved; added 79 cards reinforcing noun/adjective predication, written pronouns, location, lexical classifiers, invariant verbs, 不, 吗 and predicate short answers, in-situ content questions, and 有/没有 possession and existence. Simplified Targets and tone-marked Pinyin InputHint continue. Later structures such as 的 have appeared as natural previews.
 
 ICELANDIC
+ID allocation: 1500000-1599999
+CSV: Cards/Icelandic.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Icelandic_Syllabus_v0.1.txt
-Cards: 520 | Used IDs: 1500000-1500519
-Frontier: IS-14 — Case paradigms by noun class
-Checkpoint: Established deck with V2, case government, noun/adjective agreement, plurals, possession, modals, past, perfect/pluperfect and later previews.
 
 ITALIAN
+ID allocation: 1600000-1699999
+CSV: Cards/Italian.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Italian_Syllabus_v0.1.txt
-Cards: 313 | Used IDs: 1600000-1600312
-Frontier: IT-28 — Everyday noun-phrase synthesis
-Checkpoint: Original 100-card seed preserved. Expansion adds -ere/-ire conjugations including -isc-, present-tense reinforcement, noun/adjective plurals, articles, possessives, demonstratives, numbers, basic prepositions, andare/venire, existential c'è/ci sono, and avere expressions. Continue noun-phrase synthesis before moving into direct-object clitics.
 
 SERBIAN
+ID allocation: 1700000-1799999
+CSV: Cards/Serbian.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Serbian_Syllabus_v0.2.txt
-Cards: 315 | Used IDs: 1700000-1700314
-Frontier: SR-44 — Imperfective/perfective aspect introduction
-Checkpoint: The original 100-card Cyrillic seed is preserved. Expansion develops nominative plurals, accusative contrasts, present verbs, locative/destination and genitive prepositions, possession, dative recipients and clitics, instrumental accompaniment/means, basic conversational language, modals and the first past l-participle constructions. Serbian Ekavian Cyrillic remains the unmarked default; BCMS variant strands are reserved for later.
 
 SWEDISH
+ID allocation: 1800000-1899999
+CSV: Cards/Swedish.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Swedish_Syllabus_v0.1.txt
-Cards: 220 | Used IDs: 1800000-1800219
-Frontier: SV-16 — Early sentence synthesis
-Checkpoint: SV-01–SV-15 introduced, including V2 and fronted time/place phrases. Earlier structures continue longitudinally.
 
 PUNJABI
+ID allocation: 1900000-1999999
+CSV: Cards/Punjabi.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Punjabi_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 1900000-1900099
-Checkpoint: Seed deck governed by Punjabi syllabus v0.1.
 
 PORTUGUESE
+ID allocation: 2000000-2099999
+CSV: Cards/Portuguese.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Portuguese_Syllabus_v0.2.txt
-Cards: 311 | Used IDs: 2000000-2000310
-Frontier: PT-18 — Direct objects
-Checkpoint: PT-12–PT-17 introduced regular -er/-ir presents, present-tense synthesis, common irregular verbs, stem-changing/spelling-sensitive patterns, and interrogatives. Contemporary educated Brazilian Portuguese remains the unmarked baseline; European Portuguese is a later labelled strand.
 
 KOREAN
+ID allocation: 2100000-2199999
+CSV: Cards/Korean.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Korean_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 2100000-2100099
-Frontier: KO-19 — Plural 들
-Checkpoint: Standard South Korean Hangul seed with polite 해요체, core particles, negation/questions, location, existence/possession, demonstratives and desire clauses.
 
 FINNISH
+ID allocation: 2200000-2299999
+CSV: Cards/Finnish.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Finnish_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 2200000-2200099
-Frontier: FI-23 — Illative
-Checkpoint: Cards 2200000-2200014 remain the standardized micro opening. Cards 2200015-2200099 form the seed, establishing pronouns/olla, predication, plurals, common present verbs, subject omission, the negative verb, -ko/-kö questions, interrogatives, genitive possession, first total/partitive contrasts, numeral + partitive, inessive and elative. Continue by completing the interior local-case family with the illative.
 
 UKRAINIAN
+ID allocation: 2300000-2399999
+CSV: Cards/Ukrainian.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Ukrainian_Syllabus_v0.2.txt
-Cards: 100 | Used IDs: 2300000-2300099
-Frontier: UK-15 — Accusative singular: inanimate direct objects
-Checkpoint: Cards 2300000-2300014 remain the standardized micro opening. Cards 2300015-2300099 form the seed and establish UK-01 through UK-14: core vocabulary, personal reference, zero-copula predicates, gender/agreement, negation/questions, existence/possession, present verb patterns, interrogatives, verbal negation, early infinitive complements and nominative plural agreement. Earlier micro cards preview later accusative, possession and numeral morphology without moving the frontier.
 
 PERSIAN
+ID allocation: 2400000-2499999
+CSV: Cards/Persian.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Persian_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 2400000-2400099
-Frontier: FA-17 — Definite direct objects with را
-Checkpoint: Cards 2400000-2400014 remain the standardized micro opening. Cards 2400015-2400099 form the seed and establish Persian-script core vocabulary, pronouns, copular predication, negation/questions, ezafe adjective and possession patterns, demonstratives, productive ها plurals, basic number phrases, present indicative morphology, verbal negation, interrogatives and داشتن possession. The micro card with را remains a preview and does not move the frontier.
+
+ROMANIAN
+ID allocation: 2500000-2599999
+CSV: Cards/Romanian.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+DANISH
+ID allocation: 2600000-2699999
+CSV: Cards/Danish.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 
 CZECH
+ID allocation: 2700000-2799999
+CSV: Cards/Czech.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Czech_Syllabus_v0.2.txt (content updated as version 0.3)
-Cards: 100 | Used IDs: 2700000-2700099
-Frontier: CS-11 — Accusative: direct objects
-Checkpoint: Cards 2700000-2700014 remain the standardized micro opening. Cards 2700015-2700099 form the seed, establishing authentic Czech orthography, core lexical strands, personal pronouns and být, basic present clauses, negation, questions, noun gender/animacy awareness and initial nominative agreement. The micro cards Vidím dům. and Vidím čtyři auta. remain previews of later accusative and numeral syntax without moving the frontier.
 
 GEORGIAN
+ID allocation: 2800000-2899999
+CSV: Cards/Georgian.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Georgian_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 2800000-2800099
-Frontier: KA-16 — Subject omission
-Checkpoint: Cards 2800000-2800014 remain the standardized micro opening. Cards 2800015-2800099 form the seed, establishing Mkhedruli core vocabulary, personal pronouns, copular predication, adjective+noun phrases, negation/questions, productive -ები plurals, demonstratives, basic numeral noun phrases and initial present-series verbs. Earlier micro cards preview later object marking, possession and numeral syntax without moving the frontier.
 
 SWAHILI
+ID allocation: 2900000-2999999
+CSV: Cards/Swahili.csv
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Swahili_Syllabus_v0.1.txt
-Cards: 100 | Used IDs: 2900000-2900099
-Frontier: SW-18 — Subject pronoun omission
-Checkpoint: Cards 2900000-2900014 remain the standardized micro opening. Cards 2900015-2900099 form the seed, establishing core vocabulary, personal pronouns, ni identification, descriptive predication, representative M-WA, KI-VI, N and JI-MA noun-class behavior, plurals, adjective agreement, basic negation/questions, ku- infinitives, present -na- and subject markers. Earlier cards preview possession, direct objects and interrogatives without moving the frontier.
 
-4. MICRO-DECK CHECKPOINTS
+ALBANIAN
+ID allocation: 3000000-3099999
+CSV: Cards/Albanian.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 
-Unless noted otherwise, each entry below is a standardized 15-card semantic bootstrap with natural target-language preview sentences. These decks have no active syllabus frontier. Language-specific systematic development begins only when a deck deliberately graduates into a seed deck.
+CANTONESE
+ID allocation: 3100000-3199999
+CSV: Cards/Cantonese.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Notes: Spoken Hong Kong Cantonese; Traditional characters with Jyutping InputHint.
 
-ROMANIAN — Cards/Romanian.csv — 15 cards — 2500000-2500014
-DANISH — Cards/Danish.csv — 15 cards — 2600000-2600014
-ALBANIAN — Cards/Albanian.csv — 15 cards — 3000000-3000014
-CANTONESE — Cards/Cantonese.csv — 15 cards — 3100000-3100014. Spoken Hong Kong Cantonese; Traditional characters with Jyutping InputHint.
-DUTCH — Cards/Dutch.csv — 109 cards — 3200000-3200108. Syllabus: Syllabi/Polyglot_Dutch_Syllabus_v0.1.txt. Frontier: NL-15 — Infinitives and citation forms.
-THAI — Cards/Thai.csv — 100 cards — 3300000-3300099 — Syllabus: Syllabi/Polyglot_Thai_Syllabus_v0.1.txt. Frontier: TH-12 — Classifier extension and noun-phrase order.
-ARMENIAN — Cards/Armenian.csv — 15 cards — 3400000-3400014
-TAMIL — Cards/Tamil.csv — 15 cards — 3500000-3500014
-NORWEGIAN — Cards/Norwegian.csv — 15 cards — 3600000-3600014
-LATIN — Cards/Latin.csv — 15 cards — 3700000-3700014. Neo-Latin autoraeda is used for modern car.
-VIETNAMESE — Cards/Vietnamese.csv — 15 cards — 3800000-3800014
-BASQUE — Cards/Basque.csv — 15 cards — 3900000-3900014
-BENGALI — Cards/Bengali.csv — 15 cards — 4000000-4000014
-UZBEK — Cards/Uzbek.csv — 15 cards — 4100000-4100014
-HAUSA — Cards/Hausa.csv — 15 cards — 4200000-4200014
-CATALAN — Cards/Catalan.csv — 15 cards — 4300000-4300014
-TAGALOG — Cards/Tagalog.csv — 100 cards — 4400000-4400099 — Syllabus: Syllabi/Polyglot_Tagalog_Syllabus_v0.1.txt. Frontier: TL-19 — Actor-voice completed and contemplated aspect. Original 15 micro cards preserved; seed develops linkers, pronouns, plurality, demonstratives, negation, questions, location, existence/possession and first actor-voice verbs.
-LITHUANIAN — Cards/Lithuanian.csv — 15 cards — 4500000-4500014
-WELSH — Cards/Welsh.csv — 15 cards — 4600000-4600014
-BULGARIAN — Cards/Bulgarian.csv — 15 cards — 4700000-4700014
-INDONESIAN — Cards/Indonesian.csv — 100 cards — 4800000-4800099 — Syllabus: Syllabi/Polyglot_Indonesian_Syllabus_v0.1.txt. Frontier: ID-18 — Location versus direction (di, ke, dari). The original 15 micro cards are preserved; seed adds predicates, pronouns, tidak/bukan, questions, location, possession and simple verbs.
-YORUBA — Cards/Yoruba.csv — 15 cards — 4900000-4900014
-TIBETAN — Cards/Tibetan.csv — 15 cards — 5000000-5000014
-ESTONIAN — Cards/Estonian.csv — 15 cards — 5100000-5100014
-SOMALI — Cards/Somali.csv — 15 cards — 5200000-5200014
-MALTESE — Cards/Maltese.csv — 15 cards — 5300000-5300014
-SLOVENE — Cards/Slovene.csv — 15 cards — 5400000-5400014
-AZERBAIJANI — Cards/Azerbaijani.csv — 15 cards — 5500000-5500014
-GUJARATI — Cards/Gujarati.csv — 15 cards — 5600000-5600014
-LATVIAN — Cards/Latvian.csv — 15 cards — 5700000-5700014
-JAVANESE — Cards/Javanese.csv — 15 cards — 5800000-5800014
-KURDISH — Cards/Kurdish.csv — 15 cards — 5900000-5900014. Kurmanji in Latin script is the initial reference variety.
-ZULU — Cards/Zulu.csv — 15 cards — 6000000-6000014
-KHMER — Cards/Khmer.csv — 15 cards — 6100000-6100014
-SLOVAK — Cards/Slovak.csv — 15 cards — 6200000-6200014
-BURMESE — Cards/Burmese.csv — 15 cards — 6300000-6300014
-MALAGASY — Cards/Malagasy.csv — 15 cards — 6400000-6400014
-SINHALA — Cards/Sinhala.csv — 15 cards — 6500000-6500014
-KAZAKH — Cards/Kazakh.csv — 15 cards — 6600000-6600014
-MACEDONIAN — Cards/Macedonian.csv — 15 cards — 6700000-6700014
-ROMANI — Cards/Romani.csv — 15 cards — 6800000-6800014. Vlax Romani is the initial reference variety.
-INUKTITUT — Cards/Inuktitut.csv — 15 cards — 6900000-6900014. Eastern Canadian/Nunavut-oriented Inuktitut in Unicode syllabics with Roman InputHint.
-QUECHUA — Cards/Quechua.csv — 15 cards — 7000000-7000014. Southern Quechua is the initial reference variety.
-TELUGU — Cards/Telugu.csv — 15 cards — 7100000-7100014.
-NORWEGIAN
-Syllabus: Syllabi/Polyglot_Norwegian_Syllabus_v0.1.txt
-Cards: 112 | Used IDs: 3600000-3600111
-Frontier: NO-15 — Infinitives with å
-Checkpoint: Original 15-card micro deck preserved; 97 Bokmål seed cards introduce core pronouns, noun gender, suffixed definiteness, adjective agreement, plurals, present verbs, negation, questions and V2. The 130-unit syllabus explicitly covers Bokmål variation, Nynorsk and dialects later.
-
-
-LITHUANIAN
-Syllabus: Syllabi/Polyglot_Lithuanian_Syllabus_v0.1.txt
-Cards: 128 | Used IDs: 4500000-4500127
-Frontier: LT-18 — Genitive under negation and absence
-Checkpoint: Expanded original 15-card micro deck with 113 cards.
-
-
-4. NEW EXPLORATORY MICRO DECKS — 2026-10-18
-
-GUARANI
-Cards: 15 | Used IDs: 7200000-7200014
-Status: Exploratory micro deck; no syllabus or frontier.
-HAITIAN CREOLE
-Cards: 15 | Used IDs: 7300000-7300014
-Status: Exploratory micro deck; no syllabus or frontier.
-YUCATEC MAYA
-Cards: 15 | Used IDs: 7400000-7400014
-Status: Exploratory micro deck; no syllabus or frontier.
-NAHUATL
-Cards: 15 | Used IDs: 7500000-7500014
-Status: Exploratory micro deck; no syllabus or frontier.
-LAKOTA
-Cards: 15 | Used IDs: 7600000-7600014
-Status: Exploratory micro deck; no syllabus or frontier.
-CHEROKEE
-Cards: 15 | Used IDs: 7700000-7700014
-Status: Exploratory micro deck; no syllabus or frontier.
-PLAINS CREE
-Cards: 15 | Used IDs: 7800000-7800014
-Status: Exploratory micro deck; no syllabus or frontier.
-GREENLANDIC
-Cards: 15 | Used IDs: 7900000-7900014
-Status: Exploratory micro deck; no syllabus or frontier.
-FAROESE
-Cards: 15 | Used IDs: 8000000-8000014
-Status: Exploratory micro deck; no syllabus or frontier.
-LUXEMBOURGISH
-Cards: 15 | Used IDs: 8100000-8100014
-Status: Exploratory micro deck; no syllabus or frontier.
-FRISIAN
-Cards: 15 | Used IDs: 8200000-8200014
-Status: Exploratory micro deck; no syllabus or frontier.
-GALICIAN
-Cards: 15 | Used IDs: 8300000-8300014
-Status: Exploratory micro deck; no syllabus or frontier.
-SARDINIAN
-Cards: 15 | Used IDs: 8400000-8400014
-Status: Exploratory micro deck; no syllabus or frontier.
-Reference varieties: Guarani—Paraguayan; Haitian Creole—standard; Yucatec Maya—contemporary Yucatec; Nahuatl—provisional modern Central variety (forms require variety audit); Lakota—standard orthography; Cherokee—contemporary syllabary; Plains Cree—SRO macrons; Greenlandic—West Greenlandic; Faroese—standard; Luxembourgish—standard; Frisian—West Frisian; Galician—RAG standard; Sardinian—Logudorese. Verify dialect-sensitive and less-supported cards before substantial expansion.
+DUTCH
+ID allocation: 3200000-3299999
+CSV: Cards/Dutch.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Notes: Syllabus: Syllabi/Polyglot_Dutch_Syllabus_v0.1.txt. Frontier: NL-15 — Infinitives and citation forms.
 
 THAI
-Cards: 100 | Used IDs: 3300000-3300099
-Syllabus: Syllabi/Polyglot_Thai_Syllabus_v0.1.txt
-Frontier: TH-12 — Classifier extension and noun-phrase order
-Checkpoint: Preserved the original 15 live micro-deck cards verbatim and
-added 85 Thai-script seed cards. Introduced pronouns, nominal identity,
-adjectival predicates, invariant verbs, possession, negation, questions,
-location, numbers and the คัน/หลัง/คน classifier families. Standard Thai
-is the default; tone, script and politeness develop longitudinally.
+ID allocation: 3300000-3399999
+CSV: Cards/Thai.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Notes: — Syllabus: Syllabi/Polyglot_Thai_Syllabus_v0.1.txt. Frontier: TH-12 — Classifier extension and noun-phrase order.
 
-5. NEWLY RESERVED LANGUAGE BLOCKS AND REFERENCE VARIETIES — 2026-10-31
+ARMENIAN
+ID allocation: 3400000-3499999
+CSV: Cards/Armenian.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 
-The 67 languages below have ID reservations only: no card files, used IDs, card counts or syllabus frontiers are implied. The reference variety is a proposed initial convention, not a restriction on future labelled dialect or script branches. Distinct languages are not automatically merged merely because they share a family name.
+TAMIL
+ID allocation: 3500000-3599999
+CSV: Cards/Tamil.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 
-OCCITAN — 8500000-8599999
+NORWEGIAN
+ID allocation: 3600000-3699999
+CSV: Cards/Norwegian.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+LATIN
+ID allocation: 3700000-3799999
+CSV: Cards/Latin.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Notes: Neo-Latin autoraeda is used for modern car.
+
+VIETNAMESE
+ID allocation: 3800000-3899999
+CSV: Cards/Vietnamese.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+BASQUE
+ID allocation: 3900000-3999999
+CSV: Cards/Basque.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+BENGALI
+ID allocation: 4000000-4099999
+CSV: Cards/Bengali.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+UZBEK
+ID allocation: 4100000-4199999
+CSV: Cards/Uzbek.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+HAUSA
+ID allocation: 4200000-4299999
+CSV: Cards/Hausa.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+CATALAN
+ID allocation: 4300000-4399999
+CSV: Cards/Catalan.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+TAGALOG
+ID allocation: 4400000-4499999
+CSV: Cards/Tagalog.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Notes: — Syllabus: Syllabi/Polyglot_Tagalog_Syllabus_v0.1.txt. Frontier: TL-19 — Actor-voice completed and contemplated aspect. Original 15 micro cards preserved; seed develops linkers, pronouns, plurality, demonstratives, negation, questions, location, existence/possession and first actor-voice verbs.
+
+LITHUANIAN
+ID allocation: 4500000-4599999
+CSV: Cards/Lithuanian.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+WELSH
+ID allocation: 4600000-4699999
+CSV: Cards/Welsh.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+BULGARIAN
+ID allocation: 4700000-4799999
+CSV: Cards/Bulgarian.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+INDONESIAN
+ID allocation: 4800000-4899999
+CSV: Cards/Indonesian.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Notes: — Syllabus: Syllabi/Polyglot_Indonesian_Syllabus_v0.1.txt. Frontier: ID-18 — Location versus direction (di, ke, dari). The original 15 micro cards are preserved; seed adds predicates, pronouns, tidak/bukan, questions, location, possession and simple verbs.
+
+YORUBA
+ID allocation: 4900000-4999999
+CSV: Cards/Yoruba.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+TIBETAN
+ID allocation: 5000000-5099999
+CSV: Cards/Tibetan.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+ESTONIAN
+ID allocation: 5100000-5199999
+CSV: Cards/Estonian.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+SOMALI
+ID allocation: 5200000-5299999
+CSV: Cards/Somali.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+MALTESE
+ID allocation: 5300000-5399999
+CSV: Cards/Maltese.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+SLOVENE
+ID allocation: 5400000-5499999
+CSV: Cards/Slovene.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+AZERBAIJANI
+ID allocation: 5500000-5599999
+CSV: Cards/Azerbaijani.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+GUJARATI
+ID allocation: 5600000-5699999
+CSV: Cards/Gujarati.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+LATVIAN
+ID allocation: 5700000-5799999
+CSV: Cards/Latvian.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+JAVANESE
+ID allocation: 5800000-5899999
+CSV: Cards/Javanese.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+KURDISH
+ID allocation: 5900000-5999999
+CSV: Cards/Kurdish.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Notes: Kurmanji in Latin script is the initial reference variety.
+
+ZULU
+ID allocation: 6000000-6099999
+CSV: Cards/Zulu.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+KHMER
+ID allocation: 6100000-6199999
+CSV: Cards/Khmer.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+SLOVAK
+ID allocation: 6200000-6299999
+CSV: Cards/Slovak.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+BURMESE
+ID allocation: 6300000-6399999
+CSV: Cards/Burmese.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+MALAGASY
+ID allocation: 6400000-6499999
+CSV: Cards/Malagasy.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+SINHALA
+ID allocation: 6500000-6599999
+CSV: Cards/Sinhala.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+KAZAKH
+ID allocation: 6600000-6699999
+CSV: Cards/Kazakh.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+MACEDONIAN
+ID allocation: 6700000-6799999
+CSV: Cards/Macedonian.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+ROMANI
+ID allocation: 6800000-6899999
+CSV: Cards/Romani.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Notes: Vlax Romani is the initial reference variety.
+
+INUKTITUT
+ID allocation: 6900000-6999999
+CSV: Cards/Inuktitut.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Notes: Eastern Canadian/Nunavut-oriented Inuktitut in Unicode syllabics with Roman InputHint.
+
+QUECHUA
+ID allocation: 7000000-7099999
+CSV: Cards/Quechua.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Notes: Southern Quechua is the initial reference variety.
+
+TELUGU
+ID allocation: 7100000-7199999
+CSV: Cards/Telugu.csv
+Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+
+GUARANI
+ID allocation: 7200000-7299999
+CSV: Cards/Guarani.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+HAITIAN CREOLE
+ID allocation: 7300000-7399999
+CSV: Cards/Haitian Creole.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+YUCATEC MAYA
+ID allocation: 7400000-7499999
+CSV: Cards/Yucatec Maya.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+NAHUATL
+ID allocation: 7500000-7599999
+CSV: Cards/Nahuatl.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+LAKOTA
+ID allocation: 7600000-7699999
+CSV: Cards/Lakota.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+CHEROKEE
+ID allocation: 7700000-7799999
+CSV: Cards/Cherokee.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+PLAINS CREE
+ID allocation: 7800000-7899999
+CSV: Cards/Plains Cree.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+GREENLANDIC
+ID allocation: 7900000-7999999
+CSV: Cards/Greenlandic.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+FAROESE
+ID allocation: 8000000-8099999
+CSV: Cards/Faroese.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+LUXEMBOURGISH
+ID allocation: 8100000-8199999
+CSV: Cards/Luxembourgish.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+FRISIAN
+ID allocation: 8200000-8299999
+CSV: Cards/Frisian.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+GALICIAN
+ID allocation: 8300000-8399999
+CSV: Cards/Galician.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+SARDINIAN
+ID allocation: 8400000-8499999
+CSV: Cards/Sardinian.csv
+Development: Exploratory micro deck; no syllabus frontier.
+
+OCCITAN
+ID allocation: 8500000-8599999
+CSV: Cards/Occitan.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Languedocien reference; other Occitan varieties later.
-Status: Exploratory 15-card micro deck; IDs 8500000-8500014; no syllabus frontier.
 
-ROMANSCH — 8600000-8699999
+ROMANSCH
+ID allocation: 8600000-8699999
+CSV: Cards/Romansch.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Rumantsch Grischun written standard; regional varieties later.
-Status: Exploratory 15-card micro deck; IDs 8600000-8600014; no syllabus frontier.
 
-BELARUSIAN — 8700000-8799999
+BELARUSIAN
+ID allocation: 8700000-8799999
+CSV: Cards/Belarusian.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Contemporary standard Belarusian (official orthography).
-Status: Exploratory 15-card micro deck; IDs 8700000-8700014; no syllabus frontier.
 
-SAMI — 8800000-8899999
+SAMI
+ID allocation: 8800000-8899999
+CSV: Cards/Sami.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Northern Sámi; other Sámi languages require explicit separate treatment.
-Status: Exploratory 15-card micro deck; IDs 8800000-8800014; no syllabus frontier.
 
-IRISH — 8900000-8999999
+IRISH
+ID allocation: 8900000-8999999
+CSV: Cards/Irish.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Irish (An Caighdeán Oifigiúil); regional dialects later.
-Status: Exploratory 15-card micro deck; IDs 8900000-8900014; no syllabus frontier.
 
-SCOTTISH GAELIC — 9000000-9099999
+SCOTTISH GAELIC
+ID allocation: 9000000-9099999
+CSV: Cards/Scottish Gaelic.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Contemporary Scottish Gaelic standard spelling.
-Status: Exploratory 15-card micro deck; IDs 9000000-9000014; no syllabus frontier.
 
-YIDDISH — 9100000-9199999
+YIDDISH
+ID allocation: 9100000-9199999
+CSV: Cards/Yiddish.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Yiddish (YIVO orthography).
-Status: Exploratory 15-card micro deck; IDs 9100000-9100014; no syllabus frontier.
 
-FULANI — 9200000-9299999
+FULANI
+ID allocation: 9200000-9299999
+CSV: Cards/Fulani.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Pulaar (Senegal/Mauritania) reference; Fula varieties labelled.
-Status: Exploratory 15-card micro deck; IDs 9200000-9200014; no syllabus frontier.
 
-IGBO — 9300000-9399999
+IGBO
+ID allocation: 9300000-9399999
+CSV: Cards/Igbo.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Igbo; regional varieties labelled.
-Status: Exploratory 15-card micro deck; IDs 9300000-9300014; no syllabus frontier.
 
-TAMAZIGHT — 9400000-9499999
+TAMAZIGHT
+ID allocation: 9400000-9499999
+CSV: Cards/Tamazight.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Central Atlas Tamazight, Latin-script reference; Tifinagh strand later.
-Status: Exploratory 15-card micro deck; IDs 9400000-9400014; no syllabus frontier.
 
-WOLOF — 9500000-9599999
+WOLOF
+ID allocation: 9500000-9599999
+CSV: Cards/Wolof.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Senegalese Wolof, standard Latin orthography.
-Status: Exploratory 15-card micro deck; IDs 9500000-9500014; no syllabus frontier.
 
-AKAN — 9600000-9699999
+AKAN
+ID allocation: 9600000-9699999
+CSV: Cards/Akan.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Asante Twi reference; Fante/Akuapem branches later.
-Status: Exploratory 15-card micro deck; IDs 9600000-9600014; no syllabus frontier.
 
-BAMBARA — 9700000-9799999
+BAMBARA
+ID allocation: 9700000-9799999
+CSV: Cards/Bambara.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Mali Bambara, Latin orthography.
-Status: Exploratory 15-card micro deck; IDs 9700000-9700014; no syllabus frontier.
 
-AMHARIC — 9800000-9899999
+AMHARIC
+ID allocation: 9800000-9899999
+CSV: Cards/Amharic.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Ethiopian Amharic.
-Status: Exploratory 15-card micro deck; IDs 9800000-9800014; no syllabus frontier.
 
-OROMO — 9900000-9999999
+OROMO
+ID allocation: 9900000-9999999
+CSV: Cards/Oromo.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: West-Central Oromo / Qubee Latin reference.
-Status: Exploratory 15-card micro deck; IDs 9900000-9900014; no syllabus frontier.
 
-TIGRINYA — 10000000-10099999
+TIGRINYA
+ID allocation: 10000000-10099999
+CSV: Cards/Tigrinya.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Eritrean standard Tigrinya (Geʽez script); Ethiopian usage labelled.
-Status: Exploratory 15-card micro deck; IDs 10000000-10000014; no syllabus frontier.
 
-LINGALA — 10100000-10199999
+LINGALA
+ID allocation: 10100000-10199999
+CSV: Cards/Lingala.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Contemporary Kinshasa Lingala; literary variety later.
-Status: Exploratory 15-card micro deck; IDs 10100000-10100014; no syllabus frontier.
 
-AFRIKAANS — 10200000-10299999
+AFRIKAANS
+ID allocation: 10200000-10299999
+CSV: Cards/Afrikaans.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Afrikaans.
-Status: Exploratory 15-card micro deck; IDs 10200000-10200014; no syllabus frontier.
 
-XHOSA — 10300000-10399999
+XHOSA
+ID allocation: 10300000-10399999
+CSV: Cards/Xhosa.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard isiXhosa.
-Status: Exploratory 15-card micro deck; IDs 10300000-10300014; no syllabus frontier.
 
-SHONA — 10400000-10499999
+SHONA
+ID allocation: 10400000-10499999
+CSV: Cards/Shona.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Zimbabwean Shona.
-Status: Exploratory 15-card micro deck; IDs 10400000-10400014; no syllabus frontier.
 
-KINYARWANDA — 10500000-10599999
+KINYARWANDA
+ID allocation: 10500000-10599999
+CSV: Cards/Kinyarwanda.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Rwandan Kinyarwanda.
-Status: Exploratory 15-card micro deck; IDs 10500000-10500014; no syllabus frontier.
 
-NYANJA — 10600000-10699999
+NYANJA
+ID allocation: 10600000-10699999
+CSV: Cards/Nyanja.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Malawian Chichewa reference; Zambian Nyanja later.
-Status: Exploratory 15-card micro deck; IDs 10600000-10600014; no syllabus frontier.
 
-LUGANDA — 10700000-10799999
+LUGANDA
+ID allocation: 10700000-10799999
+CSV: Cards/Luganda.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Luganda.
-Status: Exploratory 15-card micro deck; IDs 10700000-10700014; no syllabus frontier.
 
-SETSWANA — 10800000-10899999
+SETSWANA
+ID allocation: 10800000-10899999
+CSV: Cards/Setswana.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Botswana Setswana reference; South African usage later.
-Status: Exploratory 15-card micro deck; IDs 10800000-10800014; no syllabus frontier.
 
-SESOTHO — 10900000-10999999
+SESOTHO
+ID allocation: 10900000-10999999
+CSV: Cards/Sesotho.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Lesotho standard Sesotho.
-Status: Exploratory 15-card micro deck; IDs 10900000-10900014; no syllabus frontier.
 
-DHOLUO — 11000000-11099999
+DHOLUO
+ID allocation: 11000000-11099999
+CSV: Cards/Dholuo.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Kenyan Dholuo.
-Status: Exploratory 15-card micro deck; IDs 11000000-11000014; no syllabus frontier.
 
-MAASAI — 11100000-11199999
+MAASAI
+ID allocation: 11100000-11199999
+CSV: Cards/Maasai.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Kenyan Maasai reference; Tanzanian usage labelled.
-Status: Exploratory 15-card micro deck; IDs 11100000-11100014; no syllabus frontier.
 
-UYGHUR — 11200000-11299999
+UYGHUR
+ID allocation: 11200000-11299999
+CSV: Cards/Uyghur.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Uyghur in Arabic-derived script.
-Status: Exploratory 15-card micro deck; IDs 11200000-11200014; no syllabus frontier.
 
-TURKMEN — 11300000-11399999
+TURKMEN
+ID allocation: 11300000-11399999
+CSV: Cards/Turkmen.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Turkmen in Latin script.
-Status: Exploratory 15-card micro deck; IDs 11300000-11300014; no syllabus frontier.
 
-KYRGYZ — 11400000-11499999
+KYRGYZ
+ID allocation: 11400000-11499999
+CSV: Cards/Kyrgyz.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Kyrgyz in Cyrillic script.
-Status: Exploratory 15-card micro deck; IDs 11400000-11400014; no syllabus frontier.
 
-TATAR — 11500000-11599999
+TATAR
+ID allocation: 11500000-11599999
+CSV: Cards/Tatar.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Kazan Tatar in Cyrillic script.
-Status: Exploratory 15-card micro deck; IDs 11500000-11500014; no syllabus frontier.
 
-CHECHEN — 11600000-11699999
+CHECHEN
+ID allocation: 11600000-11699999
+CSV: Cards/Chechen.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Chechen in Cyrillic script.
-Status: Exploratory 15-card micro deck; IDs 11600000-11600014; no syllabus frontier.
 
-ABKHAZ — 11700000-11799999
+ABKHAZ
+ID allocation: 11700000-11799999
+CSV: Cards/Abkhaz.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Abkhaz in Cyrillic script.
-Status: Exploratory 15-card micro deck; IDs 11700000-11700014; no syllabus frontier.
 
-PASHTO — 11800000-11899999
+PASHTO
+ID allocation: 11800000-11899999
+CSV: Cards/Pashto.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Contemporary standard Pashto; regional spelling/pronunciation differences labelled.
-Status: Exploratory 15-card micro deck; IDs 11800000-11800014; no syllabus frontier.
 
-MARATHI — 11900000-11999999
+MARATHI
+ID allocation: 11900000-11999999
+CSV: Cards/Marathi.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Marathi.
-Status: Exploratory 15-card micro deck; IDs 11900000-11900014; no syllabus frontier.
 
-NEPALI — 12000000-12099999
+NEPALI
+ID allocation: 12000000-12099999
+CSV: Cards/Nepali.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Nepal Nepali.
-Status: Exploratory 15-card micro deck; IDs 12000000-12000014; no syllabus frontier.
 
-URDU — 12100000-12199999
+URDU
+ID allocation: 12100000-12199999
+CSV: Cards/Urdu.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Pakistani Urdu in Nastaliq.
-Status: Exploratory 15-card micro deck; IDs 12100000-12100014; no syllabus frontier.
 
-ODIA — 12200000-12299999
+ODIA
+ID allocation: 12200000-12299999
+CSV: Cards/Odia.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Odia.
-Status: Exploratory 15-card micro deck; IDs 12200000-12200014; no syllabus frontier.
 
-ASSAMESE — 12300000-12399999
+ASSAMESE
+ID allocation: 12300000-12399999
+CSV: Cards/Assamese.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Assamese.
-Status: Exploratory 15-card micro deck; IDs 12300000-12300014; no syllabus frontier.
 
-KASHMIRI — 12400000-12499999
+KASHMIRI
+ID allocation: 12400000-12499999
+CSV: Cards/Kashmiri.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Kashmir Valley reference in Perso-Arabic script.
-Status: Exploratory 15-card micro deck; IDs 12400000-12400014; no syllabus frontier.
 
-SINDHI — 12500000-12599999
+SINDHI
+ID allocation: 12500000-12599999
+CSV: Cards/Sindhi.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Pakistan Sindhi in Perso-Arabic script; Devanagari later.
-Status: Exploratory 15-card micro deck; IDs 12500000-12500014; no syllabus frontier.
 
-DHIVEHI — 12600000-12699999
+DHIVEHI
+ID allocation: 12600000-12699999
+CSV: Cards/Dhivehi.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Maldivian Dhivehi in Thaana.
-Status: Exploratory 15-card micro deck; IDs 12600000-12600014; no syllabus frontier.
 
-MALAYALAM — 12700000-12799999
+MALAYALAM
+ID allocation: 12700000-12799999
+CSV: Cards/Malayalam.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Malayalam.
-Status: Exploratory 15-card micro deck; IDs 12700000-12700014; no syllabus frontier.
 
-KANNADA — 12800000-12899999
+KANNADA
+ID allocation: 12800000-12899999
+CSV: Cards/Kannada.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Kannada.
-Status: Exploratory 15-card micro deck; IDs 12800000-12800014; no syllabus frontier.
 
-MONGOLIAN — 12900000-12999999
+MONGOLIAN
+ID allocation: 12900000-12999999
+CSV: Cards/Mongolian.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Khalkha Mongolian in Cyrillic; traditional script later.
-Status: Exploratory 15-card micro deck; IDs 12900000-12900014; no syllabus frontier.
 
-HOKKIEN — 13000000-13099999
+HOKKIEN
+ID allocation: 13000000-13099999
+CSV: Cards/Hokkien.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Taiwanese Hokkien; Tâi-lô romanization with tone marks for card answers; Han-character strand later.
-Status: Exploratory 15-card micro deck; IDs 13000000-13000014; no syllabus frontier.
 
-SHANGHAINESE — 13100000-13199999
+SHANGHAINESE
+ID allocation: 13100000-13199999
+CSV: Cards/Shanghainese.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Urban Shanghainese; Wugniu romanization for card answers; other Wu varieties labelled.
-Status: Exploratory 15-card micro deck; IDs 13100000-13100014; no syllabus frontier.
 
-HAKKA — 13200000-13299999
+HAKKA
+ID allocation: 13200000-13299999
+CSV: Cards/Hakka.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Taiwan Sixian Hakka; Taiwanese Hakka romanization with tone marks for card answers.
-Status: Exploratory 15-card micro deck; IDs 13200000-13200014; no syllabus frontier.
 
-HMONG — 13300000-13399999
+HMONG
+ID allocation: 13300000-13399999
+CSV: Cards/Hmong.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: White Hmong (Hmong Daw) in RPA; Green Hmong later.
-Status: Exploratory 15-card micro deck; IDs 13300000-13300014; no syllabus frontier.
 
-MALAY — 13400000-13499999
+MALAY
+ID allocation: 13400000-13499999
+CSV: Cards/Malay.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Malaysian Malay.
-Status: Exploratory 15-card micro deck; IDs 13400000-13400014; no syllabus frontier.
 
-LAO — 13500000-13599999
+LAO
+ID allocation: 13500000-13599999
+CSV: Cards/Lao.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Vientiane Lao.
-Status: Exploratory 15-card micro deck; IDs 13500000-13500014; no syllabus frontier.
 
-CEBUANO — 13600000-13699999
+CEBUANO
+ID allocation: 13600000-13699999
+CSV: Cards/Cebuano.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Contemporary Cebuano (Central Visayas).
-Status: Exploratory 15-card micro deck; IDs 13600000-13600014; no syllabus frontier.
 
-TETUM — 13700000-13799999
+TETUM
+ID allocation: 13700000-13799999
+CSV: Cards/Tetum.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Tetum Dili (Tetun Prasa), standard Timor-Leste orthography.
-Status: Exploratory 15-card micro deck; IDs 13700000-13700014; no syllabus frontier.
 
-SUNDANESE — 13800000-13899999
+SUNDANESE
+ID allocation: 13800000-13899999
+CSV: Cards/Sundanese.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Priangan Sundanese.
-Status: Exploratory 15-card micro deck; IDs 13800000-13800014; no syllabus frontier.
 
-ILOCANO — 13900000-13999999
+ILOCANO
+ID allocation: 13900000-13999999
+CSV: Cards/Ilocano.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Ilocano.
-Status: Exploratory 15-card micro deck; IDs 13900000-13900014; no syllabus frontier.
 
-ACEHNESE — 14000000-14099999
+ACEHNESE
+ID allocation: 14000000-14099999
+CSV: Cards/Acehnese.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Banda Aceh/Aceh Besar reference, Latin orthography.
-Status: Exploratory 15-card micro deck; IDs 14000000-14000014; no syllabus frontier.
 
-FIJIAN — 14100000-14199999
+FIJIAN
+ID allocation: 14100000-14199999
+CSV: Cards/Fijian.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Bauan Fijian.
-Status: Exploratory 15-card micro deck; IDs 14100000-14100014; no syllabus frontier.
 
-TOK PISIN — 14200000-14299999
+TOK PISIN
+ID allocation: 14200000-14299999
+CSV: Cards/Tok Pisin.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Contemporary Papua New Guinea Tok Pisin.
-Status: Exploratory 15-card micro deck; IDs 14200000-14200014; no syllabus frontier.
 
-MĀORI — 14300000-14399999
+MĀORI
+ID allocation: 14300000-14399999
+CSV: Cards/Māori.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard New Zealand Māori with macrons.
-Status: Exploratory 15-card micro deck; IDs 14300000-14300014; no syllabus frontier.
 
-TONGAN — 14400000-14499999
+TONGAN
+ID allocation: 14400000-14499999
+CSV: Cards/Tongan.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Tongan.
-Status: Exploratory 15-card micro deck; IDs 14400000-14400014; no syllabus frontier.
 
-SAMOAN — 14500000-14599999
+SAMOAN
+ID allocation: 14500000-14599999
+CSV: Cards/Samoan.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Samoan.
-Status: Exploratory 15-card micro deck; IDs 14500000-14500014; no syllabus frontier.
 
-HAWAIIAN — 14600000-14699999
+HAWAIIAN
+ID allocation: 14600000-14699999
+CSV: Cards/Hawaiian.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Hawaiian with ʻokina and kahakō.
-Status: Exploratory 15-card micro deck; IDs 14600000-14600014; no syllabus frontier.
 
-MARSHALLESE — 14700000-14799999
+MARSHALLESE
+ID allocation: 14700000-14799999
+CSV: Cards/Marshallese.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Marshallese; modern orthography with full diacritics.
-Status: Exploratory 15-card micro deck; IDs 14700000-14700014; no syllabus frontier.
 
-WARLPIRI — 14800000-14899999
+WARLPIRI
+ID allocation: 14800000-14899999
+CSV: Cards/Warlpiri.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Central Australian Warlpiri, standard orthography.
-Status: Exploratory 15-card micro deck; IDs 14800000-14800014; no syllabus frontier.
 
-MOHAWK — 14900000-14999999
+MOHAWK
+ID allocation: 14900000-14999999
+CSV: Cards/Mohawk.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Six Nations of the Grand River Kanyen’kéha; Six Nations orthography.
-Status: Exploratory 15-card micro deck; IDs 14900000-14900014; no syllabus frontier.
 
-NAVAJO — 15000000-15099999
+NAVAJO
+ID allocation: 15000000-15099999
+CSV: Cards/Navajo.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Standard Navajo orthography.
-Status: Exploratory 15-card micro deck; IDs 15000000-15000014; no syllabus frontier.
 
-AYMARA — 15100000-15199999
+AYMARA
+ID allocation: 15100000-15199999
+CSV: Cards/Aymara.csv
+Development: Exploratory 15-card micro deck; no syllabus frontier.
 Reference: Central/Southern Aymara, unified alphabet.
-Status: Exploratory 15-card micro deck; IDs 15100000-15100014; no syllabus frontier.
-
-Existing allocations and checkpoints above are retained verbatim; current-used figures may lag later card expansions and should be reconciled against the authoritative CSV files separately.
