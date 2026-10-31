@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+14600000,Hawaiian,house,hale,,noun
+14600001,Hawaiian,water,wai,,noun
+14600002,Hawaiian,man,kāne,,noun
+14600003,Hawaiian,woman,wahine,,noun
+14600004,Hawaiian,child,keiki,,noun
+14600005,Hawaiian,book,puke,,noun
+14600006,Hawaiian,big,nui,,adjective
+14600007,Hawaiian,small,liʻiliʻi,,adjective
+14600008,Hawaiian,This is a house.,He hale kēia.,,sentence
+14600009,Hawaiian,This is water.,He wai kēia.,,sentence
+14600010,Hawaiian,This is a book.,He puke kēia.,,sentence
+14600011,Hawaiian,The house is big.,Nui ka hale.,,sentence
+14600012,Hawaiian,I want water.,Makemake au i ka wai.,,sentence
+14600013,Hawaiian,Thank you.,Mahalo.,,sentence
+14600014,Hawaiian,Hello.,Aloha.,,sentence
