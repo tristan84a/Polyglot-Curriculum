@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+12700000,Malayalam,house,വീട്,,noun
+12700001,Malayalam,water,വെള്ളം,,noun
+12700002,Malayalam,man,പുരുഷൻ,,noun
+12700003,Malayalam,woman,സ്ത്രീ,,noun
+12700004,Malayalam,child,കുട്ടി,,noun
+12700005,Malayalam,book,പുസ്തകം,,noun
+12700006,Malayalam,big,വലിയ,,adjective
+12700007,Malayalam,small,ചെറിയ,,adjective
+12700008,Malayalam,This is a house.,ഇത് ഒരു വീടാണ്.,,sentence
+12700009,Malayalam,This is water.,ഇത് വെള്ളമാണ്.,,sentence
+12700010,Malayalam,This is a book.,ഇത് ഒരു പുസ്തകമാണ്.,,sentence
+12700011,Malayalam,The house is big.,വീട് വലുതാണ്.,,sentence
+12700012,Malayalam,I want water.,എനിക്ക് വെള്ളം വേണം.,,sentence
+12700013,Malayalam,Thank you.,നന്ദി.,,sentence
+12700014,Malayalam,Hello.,നമസ്കാരം.,,sentence
