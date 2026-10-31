@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+12000000,Nepali,house,घर,,noun
+12000001,Nepali,water,पानी,,noun
+12000002,Nepali,man,पुरुष,,noun
+12000003,Nepali,woman,महिला,,noun
+12000004,Nepali,child,बच्चा,,noun
+12000005,Nepali,book,किताब,,noun
+12000006,Nepali,big,ठूलो,,adjective
+12000007,Nepali,small,सानो,,adjective
+12000008,Nepali,This is a house.,यो घर हो।,,sentence
+12000009,Nepali,This is water.,यो पानी हो।,,sentence
+12000010,Nepali,This is a book.,यो किताब हो।,,sentence
+12000011,Nepali,The house is big.,घर ठूलो छ।,,sentence
+12000012,Nepali,I want water.,मलाई पानी चाहिन्छ।,,sentence
+12000013,Nepali,Thank you.,धन्यवाद।,,sentence
+12000014,Nepali,Hello.,नमस्ते।,,sentence
