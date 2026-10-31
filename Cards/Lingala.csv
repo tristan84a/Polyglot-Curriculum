@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+10100000,Lingala,house,ndako,,noun
+10100001,Lingala,water,mai,,noun
+10100002,Lingala,man,mobali,,noun
+10100003,Lingala,woman,mwasi,,noun
+10100004,Lingala,child,mwana,,noun
+10100005,Lingala,book,buku,,noun
+10100006,Lingala,big,monene,,adjective
+10100007,Lingala,small,moke,,adjective
+10100008,Lingala,This is a house.,Oyo ezali ndako.,,sentence
+10100009,Lingala,This is water.,Oyo ezali mai.,,sentence
+10100010,Lingala,This is a book.,Oyo ezali buku.,,sentence
+10100011,Lingala,The house is big.,Ndako ezali monene.,,sentence
+10100012,Lingala,I want water.,Nazali na mposa ya mai.,,sentence
+10100013,Lingala,Thank you.,Matondi.,,sentence
+10100014,Lingala,Hello.,Mbote.,,sentence
