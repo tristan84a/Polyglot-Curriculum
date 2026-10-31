@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+11500000,Tatar,house,йорт,,noun
+11500001,Tatar,water,су,,noun
+11500002,Tatar,man,ир-ат,,noun
+11500003,Tatar,woman,хатын-кыз,,noun
+11500004,Tatar,child,бала,,noun
+11500005,Tatar,book,китап,,noun
+11500006,Tatar,big,зур,,adjective
+11500007,Tatar,small,кечкенә,,adjective
+11500008,Tatar,This is a house.,Бу йорт.,,sentence
+11500009,Tatar,This is water.,Бу су.,,sentence
+11500010,Tatar,This is a book.,Бу китап.,,sentence
+11500011,Tatar,The house is big.,Йорт зур.,,sentence
+11500012,Tatar,I want water.,Мин су телим.,,sentence
+11500013,Tatar,Thank you.,Рәхмәт.,,sentence
+11500014,Tatar,Hello.,Исәнмесез.,,sentence
