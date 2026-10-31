@@ -23,144 +23,186 @@ ID allocation: 100000-199999
 CSV: Cards/French.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_French_Syllabus_v0.3.txt
+Frontier: FR-90 — Present subjunctive: regular formation
+Checkpoint: Established Stage 10 FR-80–FR-89 with 91 new cards (101035–101125), covering subject/object/place/de/complex-preposition relatives (qui, que, où, dont, lequel), coordination, cause/consequence, infinitival purpose, concession/opposition and integrated complex clauses. Existing 1035 cards unchanged. Continue at Stage 11, FR-90 (present subjunctive), with purpose clauses requiring subjunctive reserved for the mood sequence.
 
 GERMAN
 ID allocation: 200000-299999
 CSV: Cards/German.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_German_Syllabus_v0.3.txt
+Frontier: DE-81 — Other common subordinating conjunctions
+Checkpoint: Condensed the DE-71–DE-80 pre-live expansion from 250 to 130 existing cards, renumbered contiguously as 200750–200879; first 750 cards unchanged. Retained representative strong Präteritum, register contrasts, Plusquamperfekt, past narration, coordination, dass, weil, wenn, als and obwohl. Deferred vocabulary can return in the widening spiral. Continue at DE-81.
 
 JAPANESE
 ID allocation: 300000-399999
 CSV: Cards/Japanese.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Japanese_Syllabus_v0.4.txt
+Checkpoint: Established deck through plain forms, て-form systems, clause modification, modality and the opening of numbers/counters.
 
 POLISH
 ID allocation: 400000-499999
 CSV: Cards/Polish.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Polish_Syllabus_v0.2.txt
+Frontier: PL-15 — Masculine-personal versus non-masculine-personal plural
+Checkpoint: Present verbs, first case functions, motion, possession, numbers and plurals are active in a widening spiral.
 
 HUNGARIAN
 ID allocation: 500000-599999
 CSV: Cards/Hungarian.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Hungarian_Syllabus_v0.2.txt
+Frontier: HU-74 — Comparative adjectives (continued systematic development)
+Checkpoint: The expansion adds everyday vocabulary, natural location and direction, lexical verbs in -ni, case-governed constructions, definite/indefinite verb contrasts, questions, possession, quantity and temporal expressions. Earlier cards preview comparatives and later grammar; the main frontier remains in Stage 10.
 
 TURKISH
 ID allocation: 600000-699999
 CSV: Cards/Turkish.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Turkish_Syllabus_v0.1.txt
+Frontier: TR-17 — Buffer consonants and basic consonant alternations
+Checkpoint: Present, core cases, possession, harmony, negation/questions and previews of aorist, past, future and comitative are active.
 
 ARABIC
 ID allocation: 700000-799999
 CSV: Cards/Arabic.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Arabic_Syllabus_v0.1.txt
+Checkpoint: Established ordinary unvocalized MSA foundation. Optional harakat are not added merely to disambiguate exact-match cards.
 
 OJIBWE
 ID allocation: 800000-899999
 CSV: Cards/Ojibwe.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Ojibwe_Syllabus_v0.1.txt
+Checkpoint: Exploratory Double Vowel prototype emphasizing animacy, demonstratives, predicate verbs, early personal morphology and possession. Continue only where reliable documentation supports forms and usage.
 
 SPANISH
 ID allocation: 900000-999999
 CSV: Cards/Spanish.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Spanish_Syllabus_v0.1.txt
+Frontier: ES-29 — Yes/no questions
+Checkpoint: Stage 3 through ES-28 introduced: personal a, recipients with a, possessives, demonstratives, prepositions, al/del, movement/place relations, numbers, age, calendar and clock time, and mixed noun-phrase practice. Existing previews of later tense/mood/clitic material remain longitudinal; ES-29 is the next main introduction.
 
 RUSSIAN
 ID allocation: 1000000-1099999
 CSV: Cards/Russian.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Russian_Syllabus_v0.2.txt
+Frontier: RU-42 — Imperative: productive singular and plural/polite forms
+Checkpoint: Established Stage 4 RU-30–RU-41 with 113 new cards (1000494–1000606): plural accusative animacy, genitive plural, dative and instrumental singular/plural, prepositional plural, numeral governance, preposition cases, oblique personal pronouns, possessives/demonstratives, and integrated case use. Previous 494 cards unchanged. Continue at RU-42; earlier imperative and motion examples remain previews for Stage 5.
 
 GREEK
 ID allocation: 1100000-1199999
 CSV: Cards/Greek.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Greek_Syllabus_v0.1.txt
+Checkpoint: Seed deck in ordinary monotonic Greek with agreement, articles, pro-drop, present verbs, negation/questions, possession, accusative contrasts and an early να preview.
 
 HINDI
 ID allocation: 1200000-1299999
 CSV: Cards/Hindi.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Hindi_Syllabus_v0.1.txt
+Frontier: HI-31 — देना, लेना and light verbs
+Checkpoint: Widening spiral extends the seed through plurals, oblique noun forms, में/पर/से, possessive का/की/के, direct and recipient को, present progressive, perfective and ergative ने, imperfective past, future, सकना, necessity, imperatives and expanded everyday vocabulary. Later previews do not move the main frontier.
 
 HEBREW
 ID allocation: 1300000-1399999
 CSV: Cards/Hebrew.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Hebrew_Syllabus_v0.1.txt
+Checkpoint: Unpointed contemporary Hebrew seed with agreement, zero-copula predication, definiteness, present verbs, questions/negation, existence/possession, את and infinitival complements.
 
 MANDARIN
 ID allocation: 1400000-1499999
 CSV: Cards/Mandarin.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Mandarin_Syllabus_v0.1.txt
+Frontier: MN-13 — 的 possession
+Checkpoint: Initial structural roadmap MN-01–MN-12 established. Original 100-card seed preserved; added 79 cards reinforcing noun/adjective predication, written pronouns, location, lexical classifiers, invariant verbs, 不, 吗 and predicate short answers, in-situ content questions, and 有/没有 possession and existence. Simplified Targets and tone-marked Pinyin InputHint continue. Later structures such as 的 have appeared as natural previews.
 
 ICELANDIC
 ID allocation: 1500000-1599999
 CSV: Cards/Icelandic.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Icelandic_Syllabus_v0.1.txt
+Frontier: IS-14 — Case paradigms by noun class
+Checkpoint: Established deck with V2, case government, noun/adjective agreement, plurals, possession, modals, past, perfect/pluperfect and later previews.
 
 ITALIAN
 ID allocation: 1600000-1699999
 CSV: Cards/Italian.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Italian_Syllabus_v0.1.txt
+Frontier: IT-28 — Everyday noun-phrase synthesis
+Checkpoint: Original 100-card seed preserved. Expansion adds -ere/-ire conjugations including -isc-, present-tense reinforcement, noun/adjective plurals, articles, possessives, demonstratives, numbers, basic prepositions, andare/venire, existential c'è/ci sono, and avere expressions. Continue noun-phrase synthesis before moving into direct-object clitics.
 
 SERBIAN
 ID allocation: 1700000-1799999
 CSV: Cards/Serbian.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Serbian_Syllabus_v0.2.txt
+Frontier: SR-44 — Imperfective/perfective aspect introduction
+Checkpoint: The original 100-card Cyrillic seed is preserved. Expansion develops nominative plurals, accusative contrasts, present verbs, locative/destination and genitive prepositions, possession, dative recipients and clitics, instrumental accompaniment/means, basic conversational language, modals and the first past l-participle constructions. Serbian Ekavian Cyrillic remains the unmarked default; BCMS variant strands are reserved for later.
 
 SWEDISH
 ID allocation: 1800000-1899999
 CSV: Cards/Swedish.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Swedish_Syllabus_v0.1.txt
+Frontier: SV-16 — Early sentence synthesis
+Checkpoint: SV-01–SV-15 introduced, including V2 and fronted time/place phrases. Earlier structures continue longitudinally.
 
 PUNJABI
 ID allocation: 1900000-1999999
 CSV: Cards/Punjabi.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Punjabi_Syllabus_v0.1.txt
+Checkpoint: Seed deck governed by Punjabi syllabus v0.1.
 
 PORTUGUESE
 ID allocation: 2000000-2099999
 CSV: Cards/Portuguese.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Portuguese_Syllabus_v0.2.txt
+Frontier: PT-18 — Direct objects
+Checkpoint: PT-12–PT-17 introduced regular -er/-ir presents, present-tense synthesis, common irregular verbs, stem-changing/spelling-sensitive patterns, and interrogatives. Contemporary educated Brazilian Portuguese remains the unmarked baseline; European Portuguese is a later labelled strand.
 
 KOREAN
 ID allocation: 2100000-2199999
 CSV: Cards/Korean.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Korean_Syllabus_v0.1.txt
+Frontier: KO-19 — Plural 들
+Checkpoint: Standard South Korean Hangul seed with polite 해요체, core particles, negation/questions, location, existence/possession, demonstratives and desire clauses.
 
 FINNISH
 ID allocation: 2200000-2299999
 CSV: Cards/Finnish.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Finnish_Syllabus_v0.1.txt
+Frontier: FI-23 — Illative
+Checkpoint: Cards 2200000-2200014 remain the standardized micro opening. Cards 2200015-2200099 form the seed, establishing pronouns/olla, predication, plurals, common present verbs, subject omission, the negative verb, -ko/-kö questions, interrogatives, genitive possession, first total/partitive contrasts, numeral + partitive, inessive and elative. Continue by completing the interior local-case family with the illative.
 
 UKRAINIAN
 ID allocation: 2300000-2399999
 CSV: Cards/Ukrainian.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Ukrainian_Syllabus_v0.2.txt
+Frontier: UK-15 — Accusative singular: inanimate direct objects
+Checkpoint: Cards 2300000-2300014 remain the standardized micro opening. Cards 2300015-2300099 form the seed and establish UK-01 through UK-14: core vocabulary, personal reference, zero-copula predicates, gender/agreement, negation/questions, existence/possession, present verb patterns, interrogatives, verbal negation, early infinitive complements and nominative plural agreement. Earlier micro cards preview later accusative, possession and numeral morphology without moving the frontier.
 
 PERSIAN
 ID allocation: 2400000-2499999
 CSV: Cards/Persian.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Persian_Syllabus_v0.1.txt
+Frontier: FA-17 — Definite direct objects with را
+Checkpoint: Cards 2400000-2400014 remain the standardized micro opening. Cards 2400015-2400099 form the seed and establish Persian-script core vocabulary, pronouns, copular predication, negation/questions, ezafe adjective and possession patterns, demonstratives, productive ها plurals, basic number phrases, present indicative morphology, verbal negation, interrogatives and داشتن possession. The micro card with را remains a preview and does not move the frontier.
 
 ROMANIAN
 ID allocation: 2500000-2599999
@@ -177,18 +219,24 @@ ID allocation: 2700000-2799999
 CSV: Cards/Czech.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Czech_Syllabus_v0.2.txt (content updated as version 0.3)
+Frontier: CS-11 — Accusative: direct objects
+Checkpoint: Cards 2700000-2700014 remain the standardized micro opening. Cards 2700015-2700099 form the seed, establishing authentic Czech orthography, core lexical strands, personal pronouns and být, basic present clauses, negation, questions, noun gender/animacy awareness and initial nominative agreement. The micro cards Vidím dům. and Vidím čtyři auta. remain previews of later accusative and numeral syntax without moving the frontier.
 
 GEORGIAN
 ID allocation: 2800000-2899999
 CSV: Cards/Georgian.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Georgian_Syllabus_v0.1.txt
+Frontier: KA-16 — Subject omission
+Checkpoint: Cards 2800000-2800014 remain the standardized micro opening. Cards 2800015-2800099 form the seed, establishing Mkhedruli core vocabulary, personal pronouns, copular predication, adjective+noun phrases, negation/questions, productive -ები plurals, demonstratives, basic numeral noun phrases and initial present-series verbs. Earlier micro cards preview later object marking, possession and numeral syntax without moving the frontier.
 
 SWAHILI
 ID allocation: 2900000-2999999
 CSV: Cards/Swahili.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Swahili_Syllabus_v0.1.txt
+Frontier: SW-18 — Subject pronoun omission
+Checkpoint: Cards 2900000-2900014 remain the standardized micro opening. Cards 2900015-2900099 form the seed, establishing core vocabulary, personal pronouns, ni identification, descriptive predication, representative M-WA, KI-VI, N and JI-MA noun-class behavior, plurals, adjective agreement, basic negation/questions, ku- infinitives, present -na- and subject markers. Earlier cards preview possession, direct objects and interrogatives without moving the frontier.
 
 ALBANIAN
 ID allocation: 3000000-3099999
