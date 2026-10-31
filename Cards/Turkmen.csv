@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+11300000,Turkmen,house,öý,,noun
+11300001,Turkmen,water,suw,,noun
+11300002,Turkmen,man,erkek,,noun
+11300003,Turkmen,woman,aýal,,noun
+11300004,Turkmen,child,çaga,,noun
+11300005,Turkmen,book,kitap,,noun
+11300006,Turkmen,big,uly,,adjective
+11300007,Turkmen,small,kiçi,,adjective
+11300008,Turkmen,This is a house.,Bu öý.,,sentence
+11300009,Turkmen,This is water.,Bu suw.,,sentence
+11300010,Turkmen,This is a book.,Bu kitap.,,sentence
+11300011,Turkmen,The house is big.,Öý uly.,,sentence
+11300012,Turkmen,I want water.,Men suw isleýärin.,,sentence
+11300013,Turkmen,Thank you.,Sag boluň.,,sentence
+11300014,Turkmen,Hello.,Salam.,,sentence
