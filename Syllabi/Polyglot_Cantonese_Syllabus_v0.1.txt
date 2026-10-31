@@ -1,0 +1,165 @@
+POLYGLOT CANTONESE SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Cantonese
+Reference variety: contemporary spoken Hong Kong Cantonese
+Card Generation Protocol: 1.0
+
+PURPOSE
+This is the canonical introduction map for Cantonese. The original 15-card exploratory deck is preserved verbatim at IDs 3100000–3100014; the 85 additional cards at 3100015–3100099 form a 100-card systematic seed. Develop a widening, prerequisite-aware curriculum toward educated-adult breadth, not a closed beginner phrasebook. A unit marks the first controlled introduction of a branch; older branches continue to receive reinforcement.
+
+WRITING SYSTEM, INPUT AND EXACT MATCH
+Canonical Target uses Traditional Chinese characters in natural written colloquial Hong Kong Cantonese, including 佢, 唔, 冇, 喺, 嘅, 啲 and other Cantonese-specific characters. Do not silently replace these with Standard Written Chinese or Mandarin constructions. Jyutping with tone numbers (1–6, with conventional treatment of checked syllables) belongs in InputHint as a pronunciation/typing aid, not in Target. Retain exact Unicode characters, punctuation, and orthographic distinctions. The app expects one canonical answer; when English underspecifies gender, number, deixis, aspect, classifier, register or possession, phrase the prompt to indicate the intended distinction or choose an explicitly stated teaching default.
+
+Hong Kong Cantonese is the unqualified reference. Later introduce alternative Hong Kong spellings, Macau/Guangzhou usage, colloquial variants, formal written Chinese and code-switching with explicit labels. Written Cantonese does not map one-to-one to Standard Chinese; teach spoken grammar and the written colloquial register together. A Jyutping hint is not a substitute for teaching characters, tones or input methods.
+
+OPENING PRINCIPLES
+1. Preserve all 15 original cards, including their previews of classifiers 間/架, numeral 四, adjective predication, 係, 有, 見到 and 嘅. Do not infer that an early preview completes the corresponding grammar unit.
+2. Teach nouns and high-frequency adjectives, then personal pronouns 我/你/佢/我哋/佢哋. 佢 does not encode English he/she gender.
+3. Use 係 for identity and classification, but not as a universal copula before adjective predicates. Teach 間屋好大 and related natural patterns; 好 may be a neutral degree element, not always emphatic 'very'.
+4. Use 唔 for ordinary negation, 冇 for lack/nonexistence and past-event negation in appropriate constructions. Do not conflate them.
+5. Introduce A-not-A questions such as 係唔係, 有冇 and 飲唔飲. Later contrast final-particle questions (嗎, 呀, 呢, 咩, 㗎) and their pragmatics; avoid presenting them as interchangeable.
+6. Distinguish 係 identity, 喺 location, 有 possession/existence and 冇 absence.
+7. Introduce measure words as a core requirement for numerals/demonstratives: 個 for general items/people, 本 for books, 隻 for animals, 架 for vehicles, 間 for houses/rooms, and later 杯/張/條/件/把. For two counted objects use 兩 rather than 二 in ordinary numeral-classifier phrases.
+8. Cantonese verb forms do not conjugate for person or tense. Build subject–verb–object clauses with familiar nouns and verbs before introducing aspect particles.
+9. Introduce 咩, 邊個, 邊度 and later 點解, 幾時, 點樣 and 幾多 in natural question positions; do not impose English wh-fronting.
+10. Introduce common verbs 食, 飲, 見到, 鍾意, 想, 識 and 講, then broaden to 去, 嚟, 做, 睇, 聽, 買 and 畀.
+11. Use natural Cantonese possession with 有/冇 and possessive pronouns; distinguish 嘅 modifiers and classifier-based possessives when context requires.
+12. Introduce 嘅 for attributive modification and other functions without claiming it has a single English equivalent.
+13. Progress into aspect through 咗 (perfective), 緊 (progressive), 過 (experiential) and sentence-final/other uses of 啦 and 喇. Aspect is not an English tense paradigm; distinguish completion, current activity, experience and state change.
+14. Teach sentence-final particles as grammatical and pragmatic resources, not optional decoration. Contrast 呀, 啊, 呢, 啫, 喎, 㗎, 啦 and combinations in controlled contexts.
+15. Expand register and everyday Hong Kong code-switching only with explicit context. Do not let Mandarin or formal written norms displace the spoken Cantonese reference.
+16. Vocabulary should grow alongside grammar through home, family, education, food, travel, health, work, media, public institutions, technology and abstract concepts.
+
+SEED AUDIT
+3100000–3100014: original micro deck, unchanged.
+3100015–3100099: 85 new cards, 100 total.
+Seed vocabulary: people, school, animals, food/drink, qualities, numbers, pronouns.
+Seed structures: 係 and 唔係 identity, adjective predicates, A-not-A questions, 有/冇 possession, 喺 locations, 邊度/邊個/咩 questions, classifier phrases, basic verbs and 想/識 complements.
+The seed's sentences are deliberately short. Their first appearance is not mastery of a whole system.
+
+CANONICAL INTRODUCTION MAP
+CA-01 Concrete nouns, everyday adjectives and spoken Hong Kong orthography
+CA-02 Personal pronouns and gender-neutral 佢
+CA-03 係 identity and classification
+CA-04 唔係 negated identity
+CA-05 Adjective predicates and degree 好
+CA-06 A-not-A identity questions
+CA-07 有 possession and 冇 absence
+CA-08 A-not-A possession questions with 有冇
+CA-09 Numerals and the 兩 versus 二 distinction
+CA-10 Basic measure words 個, 本, 隻, 架 and 間
+CA-11 Demonstrative/classifier noun phrases 呢 and 嗰
+CA-12 喺 location and locative 邊度
+CA-13 Basic SVO clauses and uninflected verbs
+CA-14 唔 in ordinary verbal negation
+CA-15 Verbal A-not-A questions
+CA-16 咩 and 邊個 content questions
+CA-17 想, 鍾意 and 識 with familiar verbs
+CA-18 Possessive modifiers and 嘅; classifier-based possession
+CA-19 Everyday conversation and politeness expressions
+CA-20 More classifiers and numeral phrases
+CA-21 呢度/嗰度 and directional deixis
+CA-22 去/嚟 movement and destinations
+CA-23 咗 perfective aspect
+CA-24 冇 in negated completed-event clauses
+CA-25 緊 progressive aspect
+CA-26 過 experiential aspect
+CA-27 Aspect contrast and time expressions
+CA-28 啱啱, 已經, 仲 and 未
+CA-29 Future and intention with 會, 要 and 打算
+CA-30 Sentence-final 呀/啊 in neutral and interpersonal contexts
+CA-31 呢 and topic-related questions
+CA-32 咩 and incredulity/surprise
+CA-33 啦/喇 and change of state
+CA-34 㗎 and explanatory/assertive combinations
+CA-35 Particle stacking and pragmatic nuance
+CA-36 點解, 點樣, 幾時 and 幾多
+CA-37 Questions with final particles versus A-not-A
+CA-38 Negation scope, polarity and answers
+CA-39 Requests and imperatives
+CA-40 唔該, 多謝 and interpersonal distinctions
+CA-41 Benefactive and recipient 畀
+CA-42 Coverbs/prepositions 同, 喺, 由, 去 and 畀
+CA-43 Location words and spatial relations
+CA-44 Comparison with 過
+CA-45 Degree expressions and intensifiers
+CA-46 Result complements and 到
+CA-47 Directional complements
+CA-48 Potential complements 得/唔
+CA-49 Verb-object compounds and separable patterns
+CA-50 Serial-verb and purpose constructions
+CA-51 Existential and presentational clauses
+CA-52 Topic-comment structure
+CA-53 Object topicalization and discourse omission
+CA-54 Modifying clauses with 嘅
+CA-55 Nominalization with 嘅
+CA-56 Coordination with 同, 同埋 and 或者
+CA-57 Conditionals with 如果 and related patterns
+CA-58 Cause and consequence
+CA-59 Concession and contrast
+CA-60 Temporal clauses and event sequence
+CA-61 Complements and reported speech
+CA-62 Modality, ability and obligation
+CA-63 Passive/affectedness with 畀
+CA-64 Disposal and handling constructions
+CA-65 Quantification and distributives
+CA-66 Reduplication and lexical aspect
+CA-67 Comparative register and politeness
+CA-68 Cantonese-specific characters and variant spellings
+CA-69 Jyutping initials, finals and tone categories
+CA-70 Character input, homophones and tone-sensitive distinctions
+CA-71 Hong Kong speech versus Standard Written Chinese
+CA-72 Formal and informal Cantonese
+CA-73 Cantonese–Mandarin grammatical contrasts
+CA-74 Macau, Guangzhou and regional variation
+CA-75 Household routines and objects
+CA-76 Family and social relationships
+CA-77 Food, restaurants and cooking
+CA-78 Shopping, money and services
+CA-79 Health, body and medicine
+CA-80 School, study and education
+CA-81 Work, occupations and employment
+CA-82 Transport, travel and directions
+CA-83 Urban spaces and public services
+CA-84 Nature, weather and environment
+CA-85 Technology, devices and communication
+CA-86 Government, law and institutions
+CA-87 Science, mathematics and engineering
+CA-88 Arts, literature and entertainment
+CA-89 History, culture and society
+CA-90 Religion, philosophy and ethics
+CA-91 Emotions, relationships and personality
+CA-92 Abstract vocabulary and polysemy
+CA-93 Collocations, idioms and set phrases
+CA-94 Professional and academic vocabulary
+CA-95 News, media and public discourse
+CA-96 Advanced sentence particles and stance
+CA-97 Discourse structure and natural conversation
+CA-98 Formal written communication and translation register
+CA-99 Educated-adult lexical long tail
+
+The units mark introductions, not sealed chapters. Character literacy, tone distinctions, everyday vocabulary and register recur throughout.
+
+CARD GENERATION RULES
+- Six columns: ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech.
+- Cantonese ID allocation: 3100000–3199999.
+- Preserve original 3100000–3100014 exactly; append new cards from 3100015.
+- EnglishPrompt unique within Cantonese; keep IDs stable and CSV row order pedagogically coherent.
+- Use Traditional characters for Target and Jyutping tone-number romanization in InputHint.
+- Use colloquial Hong Kong Cantonese, not Mandarin-based Standard Written Chinese.
+- Keep prompts standalone, with one intended canonical target; disambiguate gender, deixis, classifier, aspect and register when necessary.
+- Do not mechanically introduce 係 before adjective predicates.
+- Use classifiers and 兩 naturally; avoid English-like bare numeral-noun combinations.
+- Do not create duplicate targets merely to fill paradigms.
+- Introduce productive patterns with a few controlled contrasts, then reinforce in a widening spiral.
+- Use ordinary Chinese punctuation consistently and avoid artificial word spaces.
+- Treat Jyutping as a helpful input/pronunciation hint, not the answer.
+
+CURRENT FRONTIER
+At 100 cards, the forward frontier is CA-20: more classifiers and numeral phrases. The next batch should consolidate 個/本/隻/架/間 and add 杯/張/條, contrast 呢/嗰 demonstratives and possession with 嘅, and develop 去/嚟 motion before introducing 咗, 緊 and 過 in controlled aspect contrasts. Add more common verbs and everyday vocabulary throughout. Existing seed cards preview later constructions without exhausting them.
+
+AMENDMENT HISTORY
+Version 0.1 graduates the 15-card Cantonese micro deck into a 100-card systematic seed and establishes a Hong Kong Cantonese, Traditional-character, Jyutping-hinted syllabus.
