@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+10400000,Shona,house,imba,,noun
+10400001,Shona,water,mvura,,noun
+10400002,Shona,man,murume,,noun
+10400003,Shona,woman,mukadzi,,noun
+10400004,Shona,child,mwana,,noun
+10400005,Shona,book,bhuku,,noun
+10400006,Shona,big,huru,,adjective
+10400007,Shona,small,diki,,adjective
+10400008,Shona,This is a house.,Iyi imba.,,sentence
+10400009,Shona,This is water.,Iyi imvura.,,sentence
+10400010,Shona,This is a book.,Iri ibhuku.,,sentence
+10400011,Shona,The house is big.,Imba ihuru.,,sentence
+10400012,Shona,I want water.,Ndinoda mvura.,,sentence
+10400013,Shona,Thank you.,Ndatenda.,,sentence
+10400014,Shona,Hello.,Mhoro.,,sentence
