@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+14100000,Fijian,house,vale,,noun
+14100001,Fijian,water,wai,,noun
+14100002,Fijian,man,tagane,,noun
+14100003,Fijian,woman,yalewa,,noun
+14100004,Fijian,child,gone,,noun
+14100005,Fijian,book,ivola,,noun
+14100006,Fijian,big,levu,,adjective
+14100007,Fijian,small,lailai,,adjective
+14100008,Fijian,This is a house.,Oqo e dua na vale.,,sentence
+14100009,Fijian,This is water.,Oqo na wai.,,sentence
+14100010,Fijian,This is a book.,Oqo e dua na ivola.,,sentence
+14100011,Fijian,The house is big.,E levu na vale.,,sentence
+14100012,Fijian,I want water.,Au vinakata na wai.,,sentence
+14100013,Fijian,Thank you.,Vinaka.,,sentence
+14100014,Fijian,Hello.,Bula.,,sentence
