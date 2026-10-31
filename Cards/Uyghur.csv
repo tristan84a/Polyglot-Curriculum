@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+11200000,Uyghur,house,ئۆي,,noun
+11200001,Uyghur,water,سۇ,,noun
+11200002,Uyghur,man,ئەر,,noun
+11200003,Uyghur,woman,ئايال,,noun
+11200004,Uyghur,child,بالا,,noun
+11200005,Uyghur,book,كىتاب,,noun
+11200006,Uyghur,big,چوڭ,,adjective
+11200007,Uyghur,small,كىچىك,,adjective
+11200008,Uyghur,This is a house.,بۇ بىر ئۆي.,,sentence
+11200009,Uyghur,This is water.,بۇ سۇ.,,sentence
+11200010,Uyghur,This is a book.,بۇ بىر كىتاب.,,sentence
+11200011,Uyghur,The house is big.,ئۆي چوڭ.,,sentence
+11200012,Uyghur,I want water.,مەن سۇ خالايمەن.,,sentence
+11200013,Uyghur,Thank you.,رەھمەت.,,sentence
+11200014,Uyghur,Hello.,ياخشىمۇسىز.,,sentence
