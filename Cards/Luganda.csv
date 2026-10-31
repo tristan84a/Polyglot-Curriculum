@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+10700000,Luganda,house,ennyumba,,noun
+10700001,Luganda,water,amazzi,,noun
+10700002,Luganda,man,omusajja,,noun
+10700003,Luganda,woman,omukazi,,noun
+10700004,Luganda,child,omwana,,noun
+10700005,Luganda,book,ekitabo,,noun
+10700006,Luganda,big,-nene,,adjective
+10700007,Luganda,small,-tono,,adjective
+10700008,Luganda,This is a house.,Eno nnyumba.,,sentence
+10700009,Luganda,This is water.,Gano mazzi.,,sentence
+10700010,Luganda,This is a book.,Kino kitabo.,,sentence
+10700011,Luganda,The house is big.,Ennyumba nnene.,,sentence
+10700012,Luganda,I want water.,Njagala amazzi.,,sentence
+10700013,Luganda,Thank you.,Weebale.,,sentence
+10700014,Luganda,Hello.,Oli otya?,,sentence
