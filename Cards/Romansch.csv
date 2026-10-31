@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+8600000,Romansch,I,jau,,pronoun
+8600001,Romansch,you (singular),ti,,pronoun
+8600002,Romansch,he,el,,pronoun
+8600003,Romansch,she,ella,,pronoun
+8600004,Romansch,we,nus,,pronoun
+8600005,Romansch,house,chasa,,noun
+8600006,Romansch,water,aua,,noun
+8600007,Romansch,sun,sulegl,,noun
+8600008,Romansch,moon,glina,,noun
+8600009,Romansch,man,um,,noun
+8600010,Romansch,woman,dunna,,noun
+8600011,Romansch,dog,chaun,,noun
+8600012,Romansch,bread,paun,,noun
+8600013,Romansch,one,in,,number
+8600014,Romansch,two,dus,,number

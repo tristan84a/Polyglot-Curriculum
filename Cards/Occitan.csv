@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+8500000,Occitan,I,ieu,,pronoun
+8500001,Occitan,you (singular),tu,,pronoun
+8500002,Occitan,he,el,,pronoun
+8500003,Occitan,she,ela,,pronoun
+8500004,Occitan,we,nosautres,,pronoun
+8500005,Occitan,house,ostal,,noun
+8500006,Occitan,water,aiga,,noun
+8500007,Occitan,sun,solelh,,noun
+8500008,Occitan,moon,luna,,noun
+8500009,Occitan,man,òme,,noun
+8500010,Occitan,woman,femna,,noun
+8500011,Occitan,dog,can,,noun
+8500012,Occitan,bread,pan,,noun
+8500013,Occitan,one,un,,number
+8500014,Occitan,two,dos,,number

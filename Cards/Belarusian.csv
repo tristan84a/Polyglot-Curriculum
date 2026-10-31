@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+8700000,Belarusian,I,я,,pronoun
+8700001,Belarusian,you (singular),ты,,pronoun
+8700002,Belarusian,he,ён,,pronoun
+8700003,Belarusian,she,яна,,pronoun
+8700004,Belarusian,we,мы,,pronoun
+8700005,Belarusian,house,дом,,noun
+8700006,Belarusian,water,вада,,noun
+8700007,Belarusian,sun,сонца,,noun
+8700008,Belarusian,moon,месяц,,noun
+8700009,Belarusian,man,мужчына,,noun
+8700010,Belarusian,woman,жанчына,,noun
+8700011,Belarusian,dog,сабака,,noun
+8700012,Belarusian,bread,хлеб,,noun
+8700013,Belarusian,one,адзін,,number
+8700014,Belarusian,two,два,,number

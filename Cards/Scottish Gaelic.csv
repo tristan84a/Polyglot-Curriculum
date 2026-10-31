@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+9000000,Scottish Gaelic,I,mi,,pronoun
+9000001,Scottish Gaelic,you (singular),thu,,pronoun
+9000002,Scottish Gaelic,he,e,,pronoun
+9000003,Scottish Gaelic,she,i,,pronoun
+9000004,Scottish Gaelic,we,sinn,,pronoun
+9000005,Scottish Gaelic,house,taigh,,noun
+9000006,Scottish Gaelic,water,uisge,,noun
+9000007,Scottish Gaelic,sun,grian,,noun
+9000008,Scottish Gaelic,moon,gealach,,noun
+9000009,Scottish Gaelic,man,fear,,noun
+9000010,Scottish Gaelic,woman,boireannach,,noun
+9000011,Scottish Gaelic,dog,cù,,noun
+9000012,Scottish Gaelic,bread,aran,,noun
+9000013,Scottish Gaelic,one,aon,,number
+9000014,Scottish Gaelic,two,dhà,,number

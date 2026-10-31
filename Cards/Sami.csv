@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+8800000,Sami,I,mun,,pronoun
+8800001,Sami,you (singular),don,,pronoun
+8800002,Sami,he or she,son,,pronoun
+8800003,Sami,we,mii,,pronoun
+8800004,Sami,you (plural),dii,,pronoun
+8800005,Sami,house,dállu,,noun
+8800006,Sami,water,čáhci,,noun
+8800007,Sami,sun,beaivi,,noun
+8800008,Sami,moon,mánnu,,noun
+8800009,Sami,man,almmái,,noun
+8800010,Sami,woman,nisson,,noun
+8800011,Sami,dog,beana,,noun
+8800012,Sami,bread,láibi,,noun
+8800013,Sami,one,okta,,number
+8800014,Sami,two,guokte,,number

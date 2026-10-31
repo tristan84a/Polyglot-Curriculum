@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+9100000,Yiddish,I,איך,,pronoun
+9100001,Yiddish,you (singular),דו,,pronoun
+9100002,Yiddish,he,ער,,pronoun
+9100003,Yiddish,she,זי,,pronoun
+9100004,Yiddish,we,מיר,,pronoun
+9100005,Yiddish,house,הויז,,noun
+9100006,Yiddish,water,וואַסער,,noun
+9100007,Yiddish,sun,זון,,noun
+9100008,Yiddish,moon,לבנה,,noun
+9100009,Yiddish,man,מאַן,,noun
+9100010,Yiddish,woman,פֿרוי,,noun
+9100011,Yiddish,dog,הונט,,noun
+9100012,Yiddish,bread,ברויט,,noun
+9100013,Yiddish,one,איין,,number
+9100014,Yiddish,two,צוויי,,number

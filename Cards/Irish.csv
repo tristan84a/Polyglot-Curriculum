@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+8900000,Irish,I,mé,,pronoun
+8900001,Irish,you (singular),tú,,pronoun
+8900002,Irish,he,sé,,pronoun
+8900003,Irish,she,sí,,pronoun
+8900004,Irish,we,muid,,pronoun
+8900005,Irish,house,teach,,noun
+8900006,Irish,water,uisce,,noun
+8900007,Irish,sun,grian,,noun
+8900008,Irish,moon,gealach,,noun
+8900009,Irish,man,fear,,noun
+8900010,Irish,woman,bean,,noun
+8900011,Irish,dog,madra,,noun
+8900012,Irish,bread,arán,,noun
+8900013,Irish,one,aon,,number
+8900014,Irish,two,dó,,number
