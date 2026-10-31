@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+11800000,Pashto,house,کور,,noun
+11800001,Pashto,water,اوبه,,noun
+11800002,Pashto,man,سړی,,noun
+11800003,Pashto,woman,ښځه,,noun
+11800004,Pashto,child,ماشوم,,noun
+11800005,Pashto,book,کتاب,,noun
+11800006,Pashto,big,لوی,,adjective
+11800007,Pashto,small,کوچنی,,adjective
+11800008,Pashto,This is a house.,دا کور دی.,,sentence
+11800009,Pashto,This is water.,دا اوبه دي.,,sentence
+11800010,Pashto,This is a book.,دا کتاب دی.,,sentence
+11800011,Pashto,The house is big.,کور لوی دی.,,sentence
+11800012,Pashto,I want water.,زه اوبه غواړم.,,sentence
+11800013,Pashto,Thank you.,مننه.,,sentence
+11800014,Pashto,Hello.,سلام.,,sentence
