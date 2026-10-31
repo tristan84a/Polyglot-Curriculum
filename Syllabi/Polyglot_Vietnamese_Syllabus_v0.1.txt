@@ -1,0 +1,167 @@
+POLYGLOT VIETNAMESE SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Vietnamese
+Reference variety: contemporary standard Vietnamese; initial neutral written forms, with Northern/Hanoi pronunciation as a reference for phonological explanation
+Card Generation Protocol: 1.0
+
+PURPOSE
+This is the canonical introduction map for Vietnamese. The original 15-card micro deck (3800000–3800014) is preserved verbatim; 85 additional cards (3800015–3800099) establish a 100-card systematic seed. Progress toward educated-adult language breadth through a widening spiral. Each unit opens a branch; it does not close previous branches or demand immediate mastery.
+
+REFERENCE VARIETY, WRITING SYSTEM AND EXACT MATCH
+Use standard modern Vietnamese quốc ngữ with full tone and vowel diacritics in Target. InputHint is normally blank: the user types Vietnamese directly. Preserve the distinctions between ă, â, ê, ô, ơ, ư, đ and all tone marks. Vietnamese tones vary in realization by region, and the Northern reference is not a claim that Southern or Central speech is incorrect. Mark dialect-specific vocabulary, pronunciations and particles when introduced. The first 15 micro cards contain some neutral and Southern-compatible vocabulary such as xe hơi; preserve them and later teach alternatives such as ô tô with appropriate context.
+
+Vietnamese is predominantly analytic and uses no person-based verb conjugation or grammatical gender agreement. Teach productive clause order, classifiers, aspect/time expressions, and context-sensitive reference rather than inventing European-style inflectional tables. The English prompt must distinguish kinship/social-role pronouns, inclusive/exclusive we, and demonstrative distance whenever those distinctions affect a single exact-match Target. The introductory pronoun tôi is useful but is not the universal default for all social situations; bạn as 'you' assumes an appropriate peer context.
+
+OPENING PRINCIPLES
+1. Preserve IDs 3800000–3800014 unchanged. The initial house, water, man, doctor, car, colour, number and sentence examples preview là, adjectival predicates, thấy, có and classifiers.
+2. Begin with concrete nouns, adjectives, personal reference and simple clauses. Expand the lexicon alongside grammar, not in a large initial vocabulary dump.
+3. Use là for nominal identity/classification, not as a general copula with ordinary adjectival predicates. Contrast Anh ấy là bác sĩ with Ngôi nhà lớn.
+4. Teach không for ordinary negation; không phải (là) for negated identity. Distinguish these patterns before adding aspect-sensitive negatives.
+5. Introduce yes/no questions with có ... không and alternative natural patterns. Avoid treating có as a required universal question marker.
+6. Personal pronouns and forms of address depend on relative age, relationship, gender, status and context. Begin with tôi, bạn, anh ấy, cô ấy and họ; develop anh, chị, em, cô, chú, bác and kinship-based address longitudinally.
+7. Teach inclusive chúng ta versus exclusive chúng tôi; do not leave 'we' unqualified when the distinction is being tested.
+8. Introduce classifiers early: con for animals, quyển/cuốn for books, chiếc for vehicles and ngôi for houses. Classifier use varies with definiteness, counting and style; do not claim classifiers are always obligatory.
+9. Teach numbers and quantity with natural numeral–classifier–noun order, and later distinguish một, những, các and plural interpretation.
+10. Use ở for location and đâu for 'where'; teach đây, đó, kia and demonstrative noun phrases with context.
+11. Teach simple subject–verb–object clauses with ăn, uống, thấy, nói, hiểu, thích and muốn. Verbs do not change for person.
+12. Distinguish có possession/existence from ở location and là identity. Contrast có with không có.
+13. Introduce gì, ai, ở đâu, khi nào, tại sao and thế nào in natural question positions; avoid imposing English wh-fronting.
+14. Teach tense/aspect through context and particles such as đã, đang, sẽ, rồi, chưa and từng, not a rigid one-to-one past/present/future paradigm.
+15. Develop noun phrase ordering, adjectives after nouns, possessive của, demonstratives, and relative modifiers with mà.
+16. Later address comparison hơn, nhất, bằng, negation scope, modals, serial verbs, resultative/directional constructions and pragmatic particles.
+17. Vietnamese word spacing is syllable-based, not always lexical-word-based; preserve normal orthography rather than joining compounds mechanically.
+18. Expand vocabulary through home, family, education, work, food, travel, health, science, government, arts, society and educated-adult abstract concepts.
+19. Introduce regional variants with labels and avoid silent mixing when it changes the canonical answer. Existing cards remain intact unless explicitly corrected in place.
+20. Every card must be standalone in the shuffled deck; use prompts that resolve important ambiguity without relying on neighboring cards.
+
+SEED AUDIT
+3800000–3800014: original exploratory micro deck, unchanged.
+3800015–3800099: systematic seed additions, 85 cards.
+The seed introduces woman/child, school, teacher/student, animals, food/drink, adjectives, numerals, neutral personal pronouns and inclusive/exclusive we. Its controlled sentences open nominal identity, adjectival predicates, negation, yes/no questions, có possession, common classifiers, location with ở, content questions and common verbs. Early exposure is not a claim of full mastery.
+
+CANONICAL INTRODUCTION MAP
+VI-01 Core nouns, adjectives and quốc ngữ orthography
+VI-02 Nominal identity with là
+VI-03 Pronouns tôi, bạn, anh ấy, cô ấy and họ
+VI-04 Negated nominal identity with không phải là
+VI-05 Adjectival predicates without là
+VI-06 Adjectival negation with không
+VI-07 Yes/no questions with có ... không
+VI-08 Inclusive chúng ta versus exclusive chúng tôi
+VI-09 Basic numbers and quantity
+VI-10 Classifiers con, quyển, chiếc and ngôi
+VI-11 Có possession and không có absence
+VI-12 Questions about possession
+VI-13 Ở for location and locative questions
+VI-14 Đây, đó, kia and spatial reference
+VI-15 Basic SVO verbs: ăn, uống and thấy
+VI-16 Ordinary verbal negation with không
+VI-17 Questions with gì, ai and đâu
+VI-18 Muốn, thích and verb complements
+VI-19 Everyday interaction and basic comprehension
+VI-20 Classifier expansion and optionality
+VI-21 Numeral–classifier–noun order and counting
+VI-22 Demonstrative noun phrases and noun phrase order
+VI-23 Possession with của and possessive relationships
+VI-24 Kinship pronouns: anh, chị, em and social context
+VI-25 Kinship pronouns: cô, chú, bác and respectful address
+VI-26 Plurality with các, những and contextual plural
+VI-27 Đã and completed/past reference
+VI-28 Đang and ongoing action
+VI-29 Sẽ and prospective/future reference
+VI-30 Rồi and state change/completion
+VI-31 Chưa and not-yet questions
+VI-32 Từng and experiential reference
+VI-33 Aspect and time adverbs in controlled contrast
+VI-34 Hôm qua, hôm nay, ngày mai and calendar time
+VI-35 Clock time, duration and frequency
+VI-36 Motion verbs đi, đến and về
+VI-37 Direction and location expressions
+VI-38 Ability and possibility with có thể, biết and được
+VI-39 Obligation and necessity with phải and cần
+VI-40 Requests, imperatives and polite forms
+VI-41 Permission, prohibition and negated modality
+VI-42 Comparison with hơn and bằng
+VI-43 Superlatives and degree words
+VI-44 Intensifiers rất, quá, hơi and lắm
+VI-45 Adverbial placement and manner
+VI-46 Result and directional verb combinations
+VI-47 Serial verb and purpose constructions
+VI-48 Benefactive and recipient constructions
+VI-49 Existential sentences and presentation
+VI-50 Topic-comment and discourse omission
+VI-51 Noun phrase modifiers and relative clauses with mà
+VI-52 Adjective and participial-like modification
+VI-53 Complement clauses and reported speech
+VI-54 Coordination with và, hoặc and nhưng
+VI-55 Cause and consequence
+VI-56 Conditional clauses
+VI-57 Purpose clauses
+VI-58 Temporal subordination
+VI-59 Concession and contrast
+VI-60 Question words and alternative question patterns
+VI-61 Sentence-final particles and pragmatic meaning
+VI-62 Negation scope and polarity
+VI-63 Passive and affectedness with bị and được
+VI-64 Causatives and permissive constructions
+VI-65 Reduplication and expressive forms
+VI-66 Compound words and Sino-Vietnamese vocabulary
+VI-67 Classifier nuance and measure expressions
+VI-68 Numbers, dates, money and units
+VI-69 Vietnamese spelling, syllables and word segmentation
+VI-70 Six-tone Northern reference and regional tone systems
+VI-71 Vowel contrasts and orthographic diacritics
+VI-72 Consonant and final-syllable contrasts
+VI-73 Northern/Southern vocabulary and pronunciation differences
+VI-74 Register, politeness and interpersonal stance
+VI-75 Household and daily routines
+VI-76 Family and relationships
+VI-77 Food, cooking and restaurants
+VI-78 Shopping, money and commerce
+VI-79 Body, health and medicine
+VI-80 Education and institutions
+VI-81 Work, occupations and employment
+VI-82 Transportation, travel and navigation
+VI-83 Towns, buildings and public spaces
+VI-84 Nature, weather and environment
+VI-85 Technology, devices and communication
+VI-86 Government, law and public institutions
+VI-87 Science, mathematics and engineering
+VI-88 Arts, literature and entertainment
+VI-89 History, culture and society
+VI-90 Religion, philosophy and ethics
+VI-91 Emotions, personality and social relations
+VI-92 Abstract vocabulary and semantic distinctions
+VI-93 Collocations, idioms and figurative speech
+VI-94 Polysemy, register and lexical nuance
+VI-95 News, media and public discourse
+VI-96 Academic and professional vocabulary
+VI-97 Advanced syntax and discourse structure
+VI-98 Formal writing and literary registers
+VI-99 Educated-adult lexical long tail
+
+These units are an introduction map, not isolated chapters. Phonology, writing, vocabulary and established grammar recur throughout.
+
+CARD GENERATION RULES
+- Six CSV columns: ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech.
+- Reserved Vietnamese ID range: 3800000–3899999.
+- Preserve original 15 cards and their IDs; append new cards sequentially.
+- Keep EnglishPrompt unique within Vietnamese; one intended canonical Target.
+- Standard Vietnamese quốc ngữ with full diacritics in Target; InputHint normally blank.
+- Avoid introducing là as an English-style adjective copula.
+- Label kinship pronoun roles and inclusive/exclusive we where needed.
+- Use classifiers naturally, not mechanically, and keep syllable-based word spacing.
+- Use ordinary punctuation and sentence capitalization consistently.
+- Avoid redundant conjugation paradigms in this analytic language.
+- Recycle previously introduced patterns with new vocabulary and controlled examples.
+- Preserve the existing neutral/Southern-compatible micro-deck vocabulary; introduce alternative regional forms with explicit context.
+- Treat CSV card order as canonical introduction order, not conversational adjacency.
+
+CURRENT FRONTIER
+At 100 cards the forward frontier is VI-20: classifier expansion and optionality. Next consolidate con, quyển, chiếc and ngôi, add cái, tờ, chiếc/cuốn contrasts, teach demonstrative noun phrases and possessive của, then deepen kinship pronouns. Move into đã/đang/sẽ/ rồi/ chưa with clear temporal context while continuing to introduce everyday verbs and nouns. Avoid presenting grammatical markers as mandatory English tense equivalents.
+
+AMENDMENT HISTORY
+Version 0.1 graduates the 15-card Vietnamese micro deck into a 100-card systematic seed with a Vietnamese-specific classifier, pronoun, tone and aspect roadmap.
