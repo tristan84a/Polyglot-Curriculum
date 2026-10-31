@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+13500000,Lao,house,ເຮືອນ,,noun
+13500001,Lao,water,ນ້ຳ,,noun
+13500002,Lao,man,ຜູ້ຊາຍ,,noun
+13500003,Lao,woman,ຜູ້ຍິງ,,noun
+13500004,Lao,child,ເດັກນ້ອຍ,,noun
+13500005,Lao,book,ປຶ້ມ,,noun
+13500006,Lao,big,ໃຫຍ່,,adjective
+13500007,Lao,small,ນ້ອຍ,,adjective
+13500008,Lao,This is a house.,ນີ້ແມ່ນເຮືອນ.,,sentence
+13500009,Lao,This is water.,ນີ້ແມ່ນນ້ຳ.,,sentence
+13500010,Lao,This is a book.,ນີ້ແມ່ນປຶ້ມ.,,sentence
+13500011,Lao,The house is big.,ເຮືອນໃຫຍ່.,,sentence
+13500012,Lao,I want water.,ຂ້ອຍຢາກໄດ້ນ້ຳ.,,sentence
+13500013,Lao,Thank you.,ຂອບໃຈ.,,sentence
+13500014,Lao,Hello.,ສະບາຍດີ.,,sentence
