@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+10500000,Kinyarwanda,house,inzu,,noun
+10500001,Kinyarwanda,water,amazi,,noun
+10500002,Kinyarwanda,man,umugabo,,noun
+10500003,Kinyarwanda,woman,umugore,,noun
+10500004,Kinyarwanda,child,umwana,,noun
+10500005,Kinyarwanda,book,igitabo,,noun
+10500006,Kinyarwanda,big,nini,,adjective
+10500007,Kinyarwanda,small,to,,adjective
+10500008,Kinyarwanda,This is a house.,Iyi ni inzu.,,sentence
+10500009,Kinyarwanda,This is water.,Aya ni amazi.,,sentence
+10500010,Kinyarwanda,This is a book.,Iki ni igitabo.,,sentence
+10500011,Kinyarwanda,The house is big.,Inzu ni nini.,,sentence
+10500012,Kinyarwanda,I want water.,Ndashaka amazi.,,sentence
+10500013,Kinyarwanda,Thank you.,Murakoze.,,sentence
+10500014,Kinyarwanda,Hello.,Muraho.,,sentence
