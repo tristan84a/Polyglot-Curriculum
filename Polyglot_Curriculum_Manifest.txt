@@ -288,7 +288,11 @@ Notes: Neo-Latin autoraeda is used for modern car.
 VIETNAMESE
 ID allocation: 3800000-3899999
 CSV: Cards/Vietnamese.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Systematic seed deck; actual count and used IDs authoritative in CSV.
+Reference: Contemporary standard Vietnamese in quốc ngữ with full diacritics; Northern/Hanoi phonology for initial explanation, regional usage labelled.
+Syllabus: Syllabi/Polyglot_Vietnamese_Syllabus_v0.1.txt
+Frontier: VI-20 — Classifier expansion and optionality
+Checkpoint: Original 15 micro cards preserved; expanded to 100 cards with pronouns, là identity, adjective predicates, không negation, có possession, ở location, classifiers, basic verbs and questions. Next broaden classifier and demonstrative patterns, kinship address and aspect.
 
 BASQUE
 ID allocation: 3900000-3999999
