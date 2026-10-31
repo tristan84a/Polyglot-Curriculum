@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+13300000,Hmong,house,tsev,,noun
+13300001,Hmong,water,dej,,noun
+13300002,Hmong,man,txiv neej,,noun
+13300003,Hmong,woman,poj niam,,noun
+13300004,Hmong,child,menyuam,,noun
+13300005,Hmong,book,phau ntawv,,noun
+13300006,Hmong,big,loj,,adjective
+13300007,Hmong,small,me,,adjective
+13300008,Hmong,This is a house.,Nov yog ib lub tsev.,,sentence
+13300009,Hmong,This is water.,Nov yog dej.,,sentence
+13300010,Hmong,This is a book.,Nov yog ib phau ntawv.,,sentence
+13300011,Hmong,The house is big.,Lub tsev loj.,,sentence
+13300012,Hmong,I want water.,Kuv xav tau dej.,,sentence
+13300013,Hmong,Thank you.,Ua tsaug.,,sentence
+13300014,Hmong,Hello.,Nyob zoo.,,sentence
