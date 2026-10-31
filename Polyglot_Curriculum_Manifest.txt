@@ -104,73 +104,73 @@ Luxembourgish  8100000-8199999         8100000-8100014        15
 Frisian        8200000-8299999         8200000-8200014        15
 Galician       8300000-8399999         8300000-8300014        15
 Sardinian      8400000-8499999         8400000-8400014        15
-Occitan         8500000-8599999         —                     0
-Romansch        8600000-8699999         —                     0
-Belarusian      8700000-8799999         —                     0
-Sami            8800000-8899999         —                     0
-Irish           8900000-8999999         —                     0
-Scottish Gaelic 9000000-9099999         —                     0
-Yiddish         9100000-9199999         —                     0
-Fulani          9200000-9299999         —                     0
-Igbo            9300000-9399999         —                     0
-Tamazight       9400000-9499999         —                     0
-Wolof           9500000-9599999         —                     0
-Akan            9600000-9699999         —                     0
-Bambara         9700000-9799999         —                     0
-Amharic         9800000-9899999         —                     0
-Oromo           9900000-9999999         —                     0
-Tigrinya        10000000-10099999         —                     0
-Lingala         10100000-10199999         —                     0
-Afrikaans       10200000-10299999         —                     0
-Xhosa           10300000-10399999         —                     0
-Shona           10400000-10499999         —                     0
-Kinyarwanda     10500000-10599999         —                     0
-Nyanja          10600000-10699999         —                     0
-Luganda         10700000-10799999         —                     0
-Setswana        10800000-10899999         —                     0
-Sesotho         10900000-10999999         —                     0
-Dholuo          11000000-11099999         —                     0
-Maasai          11100000-11199999         —                     0
-Uyghur          11200000-11299999         —                     0
-Turkmen         11300000-11399999         —                     0
-Kyrgyz          11400000-11499999         —                     0
-Tatar           11500000-11599999         —                     0
-Chechen         11600000-11699999         —                     0
-Abkhaz          11700000-11799999         —                     0
-Pashto          11800000-11899999         —                     0
-Marathi         11900000-11999999         —                     0
-Nepali          12000000-12099999         —                     0
-Urdu            12100000-12199999         —                     0
-Odia            12200000-12299999         —                     0
-Assamese        12300000-12399999         —                     0
-Kashmiri        12400000-12499999         —                     0
-Sindhi          12500000-12599999         —                     0
-Dhivehi         12600000-12699999         —                     0
-Malayalam       12700000-12799999         —                     0
-Kannada         12800000-12899999         —                     0
-Mongolian       12900000-12999999         —                     0
-Hokkien         13000000-13099999         —                     0
-Shanghainese    13100000-13199999         —                     0
-Hakka           13200000-13299999         —                     0
-Hmong           13300000-13399999         —                     0
-Malay           13400000-13499999         —                     0
-Lao             13500000-13599999         —                     0
-Cebuano         13600000-13699999         —                     0
-Tetum           13700000-13799999         —                     0
-Sundanese       13800000-13899999         —                     0
-Ilocano         13900000-13999999         —                     0
-Acehnese        14000000-14099999         —                     0
-Fijian          14100000-14199999         —                     0
-Tok Pisin       14200000-14299999         —                     0
-Māori           14300000-14399999         —                     0
-Tongan          14400000-14499999         —                     0
-Samoan          14500000-14599999         —                     0
-Hawaiian        14600000-14699999         —                     0
-Marshallese     14700000-14799999         —                     0
-Warlpiri        14800000-14899999         —                     0
-Mohawk          14900000-14999999         —                     0
-Navajo          15000000-15099999         —                     0
-Aymara          15100000-15199999         —                     0
+Occitan      8500000-8599999        8500000-8500014       15
+Romansch     8600000-8699999        8600000-8600014       15
+Belarusian   8700000-8799999        8700000-8700014       15
+Sami         8800000-8899999        8800000-8800014       15
+Irish        8900000-8999999        8900000-8900014       15
+Scottish Gaelic 9000000-9099999        9000000-9000014       15
+Yiddish      9100000-9199999        9100000-9100014       15
+Fulani       9200000-9299999        9200000-9200014       15
+Igbo         9300000-9399999        9300000-9300014       15
+Tamazight    9400000-9499999        9400000-9400014       15
+Wolof        9500000-9599999        9500000-9500014       15
+Akan         9600000-9699999        9600000-9600014       15
+Bambara      9700000-9799999        9700000-9700014       15
+Amharic      9800000-9899999        9800000-9800014       15
+Oromo        9900000-9999999        9900000-9900014       15
+Tigrinya     10000000-10099999      10000000-10000014     15
+Lingala      10100000-10199999      10100000-10100014     15
+Afrikaans    10200000-10299999      10200000-10200014     15
+Xhosa        10300000-10399999      10300000-10300014     15
+Shona        10400000-10499999      10400000-10400014     15
+Kinyarwanda  10500000-10599999      10500000-10500014     15
+Nyanja       10600000-10699999      10600000-10600014     15
+Luganda      10700000-10799999      10700000-10700014     15
+Setswana     10800000-10899999      10800000-10800014     15
+Sesotho      10900000-10999999      10900000-10900014     15
+Dholuo       11000000-11099999      11000000-11000014     15
+Maasai       11100000-11199999      11100000-11100014     15
+Uyghur       11200000-11299999      11200000-11200014     15
+Turkmen      11300000-11399999      11300000-11300014     15
+Kyrgyz       11400000-11499999      11400000-11400014     15
+Tatar        11500000-11599999      11500000-11500014     15
+Chechen      11600000-11699999      11600000-11600014     15
+Abkhaz       11700000-11799999      11700000-11700014     15
+Pashto       11800000-11899999      11800000-11800014     15
+Marathi      11900000-11999999      11900000-11900014     15
+Nepali       12000000-12099999      12000000-12000014     15
+Urdu         12100000-12199999      12100000-12100014     15
+Odia         12200000-12299999      12200000-12200014     15
+Assamese     12300000-12399999      12300000-12300014     15
+Kashmiri     12400000-12499999      12400000-12400014     15
+Sindhi       12500000-12599999      12500000-12500014     15
+Dhivehi      12600000-12699999      12600000-12600014     15
+Malayalam    12700000-12799999      12700000-12700014     15
+Kannada      12800000-12899999      12800000-12800014     15
+Mongolian    12900000-12999999      12900000-12900014     15
+Hokkien      13000000-13099999      13000000-13000014     15
+Shanghainese 13100000-13199999      13100000-13100014     15
+Hakka        13200000-13299999      13200000-13200014     15
+Hmong        13300000-13399999      13300000-13300014     15
+Malay        13400000-13499999      13400000-13400014     15
+Lao          13500000-13599999      13500000-13500014     15
+Cebuano      13600000-13699999      13600000-13600014     15
+Tetum        13700000-13799999      13700000-13700014     15
+Sundanese    13800000-13899999      13800000-13800014     15
+Ilocano      13900000-13999999      13900000-13900014     15
+Acehnese     14000000-14099999      14000000-14000014     15
+Fijian       14100000-14199999      14100000-14100014     15
+Tok Pisin    14200000-14299999      14200000-14200014     15
+Māori        14300000-14399999      14300000-14300014     15
+Tongan       14400000-14499999      14400000-14400014     15
+Samoan       14500000-14599999      14500000-14500014     15
+Hawaiian     14600000-14699999      14600000-14600014     15
+Marshallese  14700000-14799999      14700000-14700014     15
+Warlpiri     14800000-14899999      14800000-14800014     15
+Mohawk       14900000-14999999      14900000-14900014     15
+Navajo       15000000-15099999      15000000-15000014     15
+Aymara       15100000-15199999      15100000-15100014     15
 These ranges are reservations, not curriculum-size targets. Stable live IDs are not renumbered merely because curriculum organization later changes.
 
 3. ESTABLISHED AND SEED-DECK CHECKPOINTS
@@ -452,270 +452,270 @@ The 67 languages below have ID reservations only: no card files, used IDs, card 
 
 OCCITAN — 8500000-8599999
 Reference: Languedocien reference; other Occitan varieties later.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 8500000-8500014; no syllabus frontier.
 
 ROMANSCH — 8600000-8699999
 Reference: Rumantsch Grischun written standard; regional varieties later.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 8600000-8600014; no syllabus frontier.
 
 BELARUSIAN — 8700000-8799999
 Reference: Contemporary standard Belarusian (official orthography).
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 8700000-8700014; no syllabus frontier.
 
 SAMI — 8800000-8899999
 Reference: Northern Sámi; other Sámi languages require explicit separate treatment.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 8800000-8800014; no syllabus frontier.
 
 IRISH — 8900000-8999999
 Reference: Standard Irish (An Caighdeán Oifigiúil); regional dialects later.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 8900000-8900014; no syllabus frontier.
 
 SCOTTISH GAELIC — 9000000-9099999
 Reference: Contemporary Scottish Gaelic standard spelling.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 9000000-9000014; no syllabus frontier.
 
 YIDDISH — 9100000-9199999
 Reference: Standard Yiddish (YIVO orthography).
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 9100000-9100014; no syllabus frontier.
 
 FULANI — 9200000-9299999
 Reference: Pulaar (Senegal/Mauritania) reference; Fula varieties labelled.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 9200000-9200014; no syllabus frontier.
 
 IGBO — 9300000-9399999
 Reference: Standard Igbo; regional varieties labelled.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 9300000-9300014; no syllabus frontier.
 
 TAMAZIGHT — 9400000-9499999
 Reference: Central Atlas Tamazight, Latin-script reference; Tifinagh strand later.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 9400000-9400014; no syllabus frontier.
 
 WOLOF — 9500000-9599999
 Reference: Senegalese Wolof, standard Latin orthography.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 9500000-9500014; no syllabus frontier.
 
 AKAN — 9600000-9699999
 Reference: Asante Twi reference; Fante/Akuapem branches later.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 9600000-9600014; no syllabus frontier.
 
 BAMBARA — 9700000-9799999
 Reference: Standard Mali Bambara, Latin orthography.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 9700000-9700014; no syllabus frontier.
 
 AMHARIC — 9800000-9899999
 Reference: Standard Ethiopian Amharic.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 9800000-9800014; no syllabus frontier.
 
 OROMO — 9900000-9999999
 Reference: West-Central Oromo / Qubee Latin reference.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 9900000-9900014; no syllabus frontier.
 
 TIGRINYA — 10000000-10099999
 Reference: Eritrean standard Tigrinya (Geʽez script); Ethiopian usage labelled.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 10000000-10000014; no syllabus frontier.
 
 LINGALA — 10100000-10199999
 Reference: Contemporary Kinshasa Lingala; literary variety later.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 10100000-10100014; no syllabus frontier.
 
 AFRIKAANS — 10200000-10299999
 Reference: Standard Afrikaans.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 10200000-10200014; no syllabus frontier.
 
 XHOSA — 10300000-10399999
 Reference: Standard isiXhosa.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 10300000-10300014; no syllabus frontier.
 
 SHONA — 10400000-10499999
 Reference: Standard Zimbabwean Shona.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 10400000-10400014; no syllabus frontier.
 
 KINYARWANDA — 10500000-10599999
 Reference: Standard Rwandan Kinyarwanda.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 10500000-10500014; no syllabus frontier.
 
 NYANJA — 10600000-10699999
 Reference: Malawian Chichewa reference; Zambian Nyanja later.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 10600000-10600014; no syllabus frontier.
 
 LUGANDA — 10700000-10799999
 Reference: Standard Luganda.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 10700000-10700014; no syllabus frontier.
 
 SETSWANA — 10800000-10899999
 Reference: Botswana Setswana reference; South African usage later.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 10800000-10800014; no syllabus frontier.
 
 SESOTHO — 10900000-10999999
 Reference: Lesotho standard Sesotho.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 10900000-10900014; no syllabus frontier.
 
 DHOLUO — 11000000-11099999
 Reference: Kenyan Dholuo.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 11000000-11000014; no syllabus frontier.
 
 MAASAI — 11100000-11199999
 Reference: Kenyan Maasai reference; Tanzanian usage labelled.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 11100000-11100014; no syllabus frontier.
 
 UYGHUR — 11200000-11299999
 Reference: Standard Uyghur in Arabic-derived script.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 11200000-11200014; no syllabus frontier.
 
 TURKMEN — 11300000-11399999
 Reference: Standard Turkmen in Latin script.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 11300000-11300014; no syllabus frontier.
 
 KYRGYZ — 11400000-11499999
 Reference: Standard Kyrgyz in Cyrillic script.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 11400000-11400014; no syllabus frontier.
 
 TATAR — 11500000-11599999
 Reference: Kazan Tatar in Cyrillic script.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 11500000-11500014; no syllabus frontier.
 
 CHECHEN — 11600000-11699999
 Reference: Standard Chechen in Cyrillic script.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 11600000-11600014; no syllabus frontier.
 
 ABKHAZ — 11700000-11799999
 Reference: Standard Abkhaz in Cyrillic script.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 11700000-11700014; no syllabus frontier.
 
 PASHTO — 11800000-11899999
 Reference: Contemporary standard Pashto; regional spelling/pronunciation differences labelled.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 11800000-11800014; no syllabus frontier.
 
 MARATHI — 11900000-11999999
 Reference: Standard Marathi.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 11900000-11900014; no syllabus frontier.
 
 NEPALI — 12000000-12099999
 Reference: Standard Nepal Nepali.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 12000000-12000014; no syllabus frontier.
 
 URDU — 12100000-12199999
 Reference: Standard Pakistani Urdu in Nastaliq.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 12100000-12100014; no syllabus frontier.
 
 ODIA — 12200000-12299999
 Reference: Standard Odia.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 12200000-12200014; no syllabus frontier.
 
 ASSAMESE — 12300000-12399999
 Reference: Standard Assamese.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 12300000-12300014; no syllabus frontier.
 
 KASHMIRI — 12400000-12499999
 Reference: Kashmir Valley reference in Perso-Arabic script.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 12400000-12400014; no syllabus frontier.
 
 SINDHI — 12500000-12599999
 Reference: Pakistan Sindhi in Perso-Arabic script; Devanagari later.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 12500000-12500014; no syllabus frontier.
 
 DHIVEHI — 12600000-12699999
 Reference: Standard Maldivian Dhivehi in Thaana.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 12600000-12600014; no syllabus frontier.
 
 MALAYALAM — 12700000-12799999
 Reference: Standard Malayalam.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 12700000-12700014; no syllabus frontier.
 
 KANNADA — 12800000-12899999
 Reference: Standard Kannada.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 12800000-12800014; no syllabus frontier.
 
 MONGOLIAN — 12900000-12999999
 Reference: Khalkha Mongolian in Cyrillic; traditional script later.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 12900000-12900014; no syllabus frontier.
 
 HOKKIEN — 13000000-13099999
-Reference: Taiwanese Hokkien reference; Tâi-lô romanization and Han-character variants labelled.
-Status: ID reserved; no cards allocated.
+Reference: Taiwanese Hokkien; Tâi-lô romanization with tone marks for card answers; Han-character strand later.
+Status: Exploratory 15-card micro deck; IDs 13000000-13000014; no syllabus frontier.
 
 SHANGHAINESE — 13100000-13199999
-Reference: Urban Shanghainese reference representing Wu; other Wu varieties labelled.
-Status: ID reserved; no cards allocated.
+Reference: Urban Shanghainese; Wugniu romanization for card answers; other Wu varieties labelled.
+Status: Exploratory 15-card micro deck; IDs 13100000-13100014; no syllabus frontier.
 
 HAKKA — 13200000-13299999
-Reference: Taiwan Sixian Hakka reference; other Hakka varieties labelled.
-Status: ID reserved; no cards allocated.
+Reference: Taiwan Sixian Hakka; Taiwanese Hakka romanization with tone marks for card answers.
+Status: Exploratory 15-card micro deck; IDs 13200000-13200014; no syllabus frontier.
 
 HMONG — 13300000-13399999
 Reference: White Hmong (Hmong Daw) in RPA; Green Hmong later.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 13300000-13300014; no syllabus frontier.
 
 MALAY — 13400000-13499999
 Reference: Standard Malaysian Malay.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 13400000-13400014; no syllabus frontier.
 
 LAO — 13500000-13599999
 Reference: Standard Vientiane Lao.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 13500000-13500014; no syllabus frontier.
 
 CEBUANO — 13600000-13699999
 Reference: Contemporary Cebuano (Central Visayas).
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 13600000-13600014; no syllabus frontier.
 
 TETUM — 13700000-13799999
 Reference: Tetum Dili (Tetun Prasa), standard Timor-Leste orthography.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 13700000-13700014; no syllabus frontier.
 
 SUNDANESE — 13800000-13899999
 Reference: Standard Priangan Sundanese.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 13800000-13800014; no syllabus frontier.
 
 ILOCANO — 13900000-13999999
 Reference: Standard Ilocano.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 13900000-13900014; no syllabus frontier.
 
 ACEHNESE — 14000000-14099999
 Reference: Banda Aceh/Aceh Besar reference, Latin orthography.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 14000000-14000014; no syllabus frontier.
 
 FIJIAN — 14100000-14199999
 Reference: Standard Bauan Fijian.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 14100000-14100014; no syllabus frontier.
 
 TOK PISIN — 14200000-14299999
 Reference: Contemporary Papua New Guinea Tok Pisin.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 14200000-14200014; no syllabus frontier.
 
 MĀORI — 14300000-14399999
 Reference: Standard New Zealand Māori with macrons.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 14300000-14300014; no syllabus frontier.
 
 TONGAN — 14400000-14499999
 Reference: Standard Tongan.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 14400000-14400014; no syllabus frontier.
 
 SAMOAN — 14500000-14599999
 Reference: Standard Samoan.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 14500000-14500014; no syllabus frontier.
 
 HAWAIIAN — 14600000-14699999
 Reference: Standard Hawaiian with ʻokina and kahakō.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 14600000-14600014; no syllabus frontier.
 
 MARSHALLESE — 14700000-14799999
-Reference: Standard Marshallese; orthography must be specified consistently.
-Status: ID reserved; no cards allocated.
+Reference: Standard Marshallese; modern orthography with full diacritics.
+Status: Exploratory 15-card micro deck; IDs 14700000-14700014; no syllabus frontier.
 
 WARLPIRI — 14800000-14899999
 Reference: Central Australian Warlpiri, standard orthography.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 14800000-14800014; no syllabus frontier.
 
 MOHAWK — 14900000-14999999
-Reference: Kanyen’kéha; choose and label a community-specific orthography before card generation.
-Status: ID reserved; no cards allocated.
+Reference: Six Nations of the Grand River Kanyen’kéha; Six Nations orthography.
+Status: Exploratory 15-card micro deck; IDs 14900000-14900014; no syllabus frontier.
 
 NAVAJO — 15000000-15099999
 Reference: Standard Navajo orthography.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 15000000-15000014; no syllabus frontier.
 
 AYMARA — 15100000-15199999
 Reference: Central/Southern Aymara, unified alphabet.
-Status: ID reserved; no cards allocated.
+Status: Exploratory 15-card micro deck; IDs 15100000-15100014; no syllabus frontier.
 
 Existing allocations and checkpoints above are retained verbatim; current-used figures may lag later card expansions and should be reconciled against the authoritative CSV files separately.
