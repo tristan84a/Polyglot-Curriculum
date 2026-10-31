@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+10600000,Nyanja,house,nyumba,,noun
+10600001,Nyanja,water,madzi,,noun
+10600002,Nyanja,man,mwamuna,,noun
+10600003,Nyanja,woman,mkazi,,noun
+10600004,Nyanja,child,mwana,,noun
+10600005,Nyanja,book,buku,,noun
+10600006,Nyanja,big,-kulu,,adjective
+10600007,Nyanja,small,-ng'ono,,adjective
+10600008,Nyanja,This is a house.,Iyi ndi nyumba.,,sentence
+10600009,Nyanja,This is water.,Awa ndi madzi.,,sentence
+10600010,Nyanja,This is a book.,Ili ndi buku.,,sentence
+10600011,Nyanja,The house is big.,Nyumbayi ndi yaikulu.,,sentence
+10600012,Nyanja,I want water.,Ndikufuna madzi.,,sentence
+10600013,Nyanja,Thank you.,Zikomo.,,sentence
+10600014,Nyanja,Hello.,Moni.,,sentence
