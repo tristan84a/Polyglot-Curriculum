@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+10800000,Setswana,house,ntlo,,noun
+10800001,Setswana,water,metsi,,noun
+10800002,Setswana,man,monna,,noun
+10800003,Setswana,woman,mosadi,,noun
+10800004,Setswana,child,ngwana,,noun
+10800005,Setswana,book,buka,,noun
+10800006,Setswana,big,kgolo,,adjective
+10800007,Setswana,small,nnye,,adjective
+10800008,Setswana,This is a house.,Eno ke ntlo.,,sentence
+10800009,Setswana,This is water.,A ke metsi.,,sentence
+10800010,Setswana,This is a book.,Eno ke buka.,,sentence
+10800011,Setswana,The house is big.,Ntlo e kgolo.,,sentence
+10800012,Setswana,I want water.,Ke batla metsi.,,sentence
+10800013,Setswana,Thank you.,Ke a leboga.,,sentence
+10800014,Setswana,Hello.,Dumela.,,sentence
