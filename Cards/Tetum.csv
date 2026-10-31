@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+13700000,Tetum,house,uma,,noun
+13700001,Tetum,water,bee,,noun
+13700002,Tetum,man,mane,,noun
+13700003,Tetum,woman,feto,,noun
+13700004,Tetum,child,labarik,,noun
+13700005,Tetum,book,livru,,noun
+13700006,Tetum,big,boot,,adjective
+13700007,Tetum,small,ki'ik,,adjective
+13700008,Tetum,This is a house.,Ne'e uma ida.,,sentence
+13700009,Tetum,This is water.,Ne'e bee.,,sentence
+13700010,Tetum,This is a book.,Ne'e livru ida.,,sentence
+13700011,Tetum,The house is big.,Uma ne'e boot.,,sentence
+13700012,Tetum,I want water.,Ha'u hakarak bee.,,sentence
+13700013,Tetum,Thank you.,Obrigadu.,,sentence
+13700014,Tetum,Hello.,Bondia.,,sentence
