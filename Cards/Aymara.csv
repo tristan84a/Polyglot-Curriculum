@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+15100000,Aymara,house,uta,,noun
+15100001,Aymara,water,uma,,noun
+15100002,Aymara,man,chacha,,noun
+15100003,Aymara,woman,warmi,,noun
+15100004,Aymara,child,wawa,,noun
+15100005,Aymara,book,panka,,noun
+15100006,Aymara,big,jach'a,,adjective
+15100007,Aymara,small,jisk'a,,adjective
+15100008,Aymara,This is a house.,Akax utawa.,,sentence
+15100009,Aymara,This is water.,Akax umawa.,,sentence
+15100010,Aymara,This is a book.,Akax pankawa.,,sentence
+15100011,Aymara,The house is big.,Utax jach'awa.,,sentence
+15100012,Aymara,I want water.,Uma munta.,,sentence
+15100013,Aymara,Thank you.,Yuspajara.,,sentence
+15100014,Aymara,Hello.,Kamisaraki.,,sentence
