@@ -14,3 +14,88 @@
 3500012,Tamil,He has a car.,அவரிடம் ஒரு கார் இருக்கிறது.,,sentence
 3500013,Tamil,He has a red car.,அவரிடம் ஒரு சிவப்பு கார் இருக்கிறது.,,sentence
 3500014,Tamil,I see four cars.,நான் நான்கு கார்களைப் பார்க்கிறேன்.,,sentence
+3500015,Tamil,woman,பெண்,,noun
+3500016,Tamil,child,குழந்தை,,noun
+3500017,Tamil,book,புத்தகம்,,noun
+3500018,Tamil,school,பள்ளி,,noun
+3500019,Tamil,teacher,ஆசிரியர்,,noun
+3500020,Tamil,student,மாணவர்,,noun
+3500021,Tamil,friend,நண்பர்,,noun
+3500022,Tamil,cat,பூனை,,noun
+3500023,Tamil,dog,நாய்,,noun
+3500024,Tamil,tree,மரம்,,noun
+3500025,Tamil,flower,பூ,,noun
+3500026,Tamil,milk,பால்,,noun
+3500027,Tamil,rice (cooked),சோறு,,noun
+3500028,Tamil,small,சிறிய,,adjective
+3500029,Tamil,good,நல்ல,,adjective
+3500030,Tamil,new,புதிய,,adjective
+3500031,Tamil,one,ஒன்று,,number
+3500032,Tamil,two,இரண்டு,,number
+3500033,Tamil,three,மூன்று,,number
+3500034,Tamil,five,ஐந்து,,number
+3500035,Tamil,I,நான்,,pronoun
+3500036,Tamil,you (singular informal),நீ,,pronoun
+3500037,Tamil,you (respectful or plural),நீங்கள்,,pronoun
+3500038,Tamil,he (ordinary),அவன்,,pronoun
+3500039,Tamil,she (ordinary),அவள்,,pronoun
+3500040,Tamil,we (including the listener),நாம்,,pronoun
+3500041,Tamil,we (excluding the listener),நாங்கள்,,pronoun
+3500042,Tamil,they (human plural),அவர்கள்,,pronoun
+3500043,Tamil,this,இது,,pronoun
+3500044,Tamil,that,அது,,pronoun
+3500045,Tamil,This is a book.,இது ஒரு புத்தகம்.,,sentence
+3500046,Tamil,That is a house.,அது ஒரு வீடு.,,sentence
+3500047,Tamil,This is a car.,இது ஒரு கார்.,,sentence
+3500048,Tamil,He is a student.,அவன் ஒரு மாணவன்.,,sentence
+3500049,Tamil,She is a teacher.,அவள் ஓர் ஆசிரியை.,,sentence
+3500050,Tamil,I am a student (male speaker).,நான் ஒரு மாணவன்.,,sentence
+3500051,Tamil,This is not a book.,இது புத்தகம் அல்ல.,,sentence
+3500052,Tamil,That is not a house.,அது வீடு அல்ல.,,sentence
+3500053,Tamil,The book is big.,புத்தகம் பெரியது.,,sentence
+3500054,Tamil,The car is small.,கார் சிறியது.,,sentence
+3500055,Tamil,The flower is red.,பூ சிவப்பாக இருக்கிறது.,,sentence
+3500056,Tamil,The tree is big.,மரம் பெரியது.,,sentence
+3500057,Tamil,The house is new.,வீடு புதியது.,,sentence
+3500058,Tamil,a big house,ஒரு பெரிய வீடு,,phrase
+3500059,Tamil,a small book,ஒரு சிறிய புத்தகம்,,phrase
+3500060,Tamil,a red flower,ஒரு சிவப்பு பூ,,phrase
+3500061,Tamil,a new car,ஒரு புதிய கார்,,phrase
+3500062,Tamil,a good teacher,ஒரு நல்ல ஆசிரியர்,,phrase
+3500063,Tamil,I have a book.,என்னிடம் ஒரு புத்தகம் இருக்கிறது.,,sentence
+3500064,Tamil,He has a book.,அவனிடம் ஒரு புத்தகம் இருக்கிறது.,,sentence
+3500065,Tamil,She has a cat.,அவளிடம் ஒரு பூனை இருக்கிறது.,,sentence
+3500066,Tamil,I have a dog.,என்னிடம் ஒரு நாய் இருக்கிறது.,,sentence
+3500067,Tamil,I do not have a car.,என்னிடம் கார் இல்லை.,,sentence
+3500068,Tamil,He does not have a book.,அவனிடம் புத்தகம் இல்லை.,,sentence
+3500069,Tamil,The book is here.,புத்தகம் இங்கே இருக்கிறது.,,sentence
+3500070,Tamil,The car is there.,கார் அங்கே இருக்கிறது.,,sentence
+3500071,Tamil,The cat is at home.,பூனை வீட்டில் இருக்கிறது.,,sentence
+3500072,Tamil,The child is at school.,குழந்தை பள்ளியில் இருக்கிறது.,,sentence
+3500073,Tamil,The dog is in the house.,நாய் வீட்டில் இருக்கிறது.,,sentence
+3500074,Tamil,The book is in the house.,புத்தகம் வீட்டில் இருக்கிறது.,,sentence
+3500075,Tamil,The teacher is at school.,ஆசிரியர் பள்ளியில் இருக்கிறார்.,,sentence
+3500076,Tamil,Where is the book?,புத்தகம் எங்கே இருக்கிறது?,,sentence
+3500077,Tamil,Where is the cat?,பூனை எங்கே இருக்கிறது?,,sentence
+3500078,Tamil,What is this?,இது என்ன?,,sentence
+3500079,Tamil,Who is he?,அவன் யார்?,,sentence
+3500080,Tamil,Who is she?,அவள் யார்?,,sentence
+3500081,Tamil,Is this a book?,இது ஒரு புத்தகமா?,,sentence
+3500082,Tamil,Is that a car?,அது ஒரு காரா?,,sentence
+3500083,Tamil,Is the house big?,வீடு பெரியதா?,,sentence
+3500084,Tamil,Is the book small?,புத்தகம் சிறியதா?,,sentence
+3500085,Tamil,I see a cat.,நான் ஒரு பூனையைப் பார்க்கிறேன்.,,sentence
+3500086,Tamil,I see a dog.,நான் ஒரு நாயைப் பார்க்கிறேன்.,,sentence
+3500087,Tamil,I see a tree.,நான் ஒரு மரத்தைப் பார்க்கிறேன்.,,sentence
+3500088,Tamil,I see a flower.,நான் ஒரு பூவைப் பார்க்கிறேன்.,,sentence
+3500089,Tamil,I see a book.,நான் ஒரு புத்தகத்தைப் பார்க்கிறேன்.,,sentence
+3500090,Tamil,I see a car.,நான் ஒரு காரைப் பார்க்கிறேன்.,,sentence
+3500091,Tamil,I see two cats.,நான் இரண்டு பூனைகளைப் பார்க்கிறேன்.,,sentence
+3500092,Tamil,I see three books.,நான் மூன்று புத்தகங்களைப் பார்க்கிறேன்.,,sentence
+3500093,Tamil,I drink water.,நான் தண்ணீர் குடிக்கிறேன்.,,sentence
+3500094,Tamil,I drink milk.,நான் பால் குடிக்கிறேன்.,,sentence
+3500095,Tamil,I eat rice.,நான் சோறு சாப்பிடுகிறேன்.,,sentence
+3500096,Tamil,He drinks water.,அவன் தண்ணீர் குடிக்கிறான்.,,sentence
+3500097,Tamil,She drinks milk.,அவள் பால் குடிக்கிறாள்.,,sentence
+3500098,Tamil,Do you drink water? (informal singular),நீ தண்ணீர் குடிக்கிறாயா?,,sentence
+3500099,Tamil,Do you eat rice? (informal singular),நீ சோறு சாப்பிடுகிறாயா?,,sentence
