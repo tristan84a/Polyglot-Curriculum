@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+13600000,Cebuano,house,balay,,noun
+13600001,Cebuano,water,tubig,,noun
+13600002,Cebuano,man,lalaki,,noun
+13600003,Cebuano,woman,babaye,,noun
+13600004,Cebuano,child,bata,,noun
+13600005,Cebuano,book,libro,,noun
+13600006,Cebuano,big,dako,,adjective
+13600007,Cebuano,small,gamay,,adjective
+13600008,Cebuano,This is a house.,Balay kini.,,sentence
+13600009,Cebuano,This is water.,Tubig kini.,,sentence
+13600010,Cebuano,This is a book.,Libro kini.,,sentence
+13600011,Cebuano,The house is big.,Dako ang balay.,,sentence
+13600012,Cebuano,I want water.,Gusto ko og tubig.,,sentence
+13600013,Cebuano,Thank you.,Salamat.,,sentence
+13600014,Cebuano,Hello.,Kumusta?,,sentence
