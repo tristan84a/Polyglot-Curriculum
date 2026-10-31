@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+12100000,Urdu,house,گھر,,noun
+12100001,Urdu,water,پانی,,noun
+12100002,Urdu,man,مرد,,noun
+12100003,Urdu,woman,عورت,,noun
+12100004,Urdu,child,بچہ,,noun
+12100005,Urdu,book,کتاب,,noun
+12100006,Urdu,big,بڑا,,adjective
+12100007,Urdu,small,چھوٹا,,adjective
+12100008,Urdu,This is a house.,یہ ایک گھر ہے۔,,sentence
+12100009,Urdu,This is water.,یہ پانی ہے۔,,sentence
+12100010,Urdu,This is a book.,یہ ایک کتاب ہے۔,,sentence
+12100011,Urdu,The house is big.,گھر بڑا ہے۔,,sentence
+12100012,Urdu,I want water.,مجھے پانی چاہیے۔,,sentence
+12100013,Urdu,Thank you.,شکریہ۔,,sentence
+12100014,Urdu,Hello.,سلام۔,,sentence
