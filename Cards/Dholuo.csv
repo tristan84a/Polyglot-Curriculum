@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+11000000,Dholuo,water,pi,,vocabulary
+11000001,Dholuo,house,ot,,vocabulary
+11000002,Dholuo,person,dhano,,vocabulary
+11000003,Dholuo,man,dichuo,,vocabulary
+11000004,Dholuo,woman,dhako,,vocabulary
+11000005,Dholuo,child,nyathi,,vocabulary
+11000006,Dholuo,sun,chieng',,vocabulary
+11000007,Dholuo,moon,dwe,,vocabulary
+11000008,Dholuo,one,achiel,,vocabulary
+11000009,Dholuo,two,ariyo,,vocabulary
+11000010,Dholuo,three,adek,,vocabulary
+11000011,Dholuo,four,ang'wen,,vocabulary
+11000012,Dholuo,five,abich,,vocabulary
+11000013,Dholuo,Thank you.,Erokamano.,,phrase
+11000014,Dholuo,Hello.,Amosi.,,phrase
