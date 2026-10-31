@@ -1,0 +1,16 @@
+﻿ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech
+14200000,Tok Pisin,house,haus,,noun
+14200001,Tok Pisin,water,wara,,noun
+14200002,Tok Pisin,man,man,,noun
+14200003,Tok Pisin,woman,meri,,noun
+14200004,Tok Pisin,child,pikinini,,noun
+14200005,Tok Pisin,book,buk,,noun
+14200006,Tok Pisin,big,bikpela,,adjective
+14200007,Tok Pisin,small,liklik,,adjective
+14200008,Tok Pisin,This is a house.,Dispela em haus.,,sentence
+14200009,Tok Pisin,This is water.,Dispela em wara.,,sentence
+14200010,Tok Pisin,This is a book.,Dispela em buk.,,sentence
+14200011,Tok Pisin,The house is big.,Haus i bikpela.,,sentence
+14200012,Tok Pisin,I want water.,Mi laikim wara.,,sentence
+14200013,Tok Pisin,Thank you.,Tenkyu.,,sentence
+14200014,Tok Pisin,Hello.,Halo.,,sentence
