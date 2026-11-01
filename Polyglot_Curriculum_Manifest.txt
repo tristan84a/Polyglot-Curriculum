@@ -306,7 +306,11 @@ Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 BENGALI
 ID allocation: 4000000-4099999
 CSV: Cards/Bengali.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Systematic seed deck; actual count and used IDs authoritative in CSV.
+Reference: Contemporary standard Bengali script; original Bangladesh-compatible lexical choices retained, regional variants labelled.
+Syllabus: Syllabi/Polyglot_Bengali_Syllabus_v0.1.txt
+Frontier: BN-20 — Respectful present verb endings and pronoun agreement
+Checkpoint: Original 15 micro cards preserved; expanded to 100 cards with pronouns and address levels, nominal and adjective predicates, identity and verbal negation, possession, location, counting suffixes, polar/content questions and first present-habitual agreement contrasts.
 
 UZBEK
 ID allocation: 4100000-4199999
