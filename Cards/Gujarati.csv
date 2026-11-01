@@ -14,3 +14,88 @@
 5600012,Gujarati,He has a car.,તેની પાસે ગાડી છે.,,sentence
 5600013,Gujarati,He has a red car.,તેની પાસે લાલ ગાડી છે.,,sentence
 5600014,Gujarati,I see four cars.,હું ચાર ગાડીઓ જોઉં છું.,,sentence
+5600015,Gujarati,woman,સ્ત્રી,,noun
+5600016,Gujarati,child,બાળક,,noun
+5600017,Gujarati,book,પુસ્તક,,noun
+5600018,Gujarati,school,શાળા,,noun
+5600019,Gujarati,teacher,શિક્ષક,,noun
+5600020,Gujarati,student,વિદ્યાર્થી,,noun
+5600021,Gujarati,friend,મિત્ર,,noun
+5600022,Gujarati,cat,બિલાડી,,noun
+5600023,Gujarati,dog,કૂતરો,,noun
+5600024,Gujarati,tree,ઝાડ,,noun
+5600025,Gujarati,flower,ફૂલ,,noun
+5600026,Gujarati,milk,દૂધ,,noun
+5600027,Gujarati,rice (cooked),ભાત,,noun
+5600028,Gujarati,small (neuter singular),નાનું,,adjective
+5600029,Gujarati,good (neuter singular),સારું,,adjective
+5600030,Gujarati,new (neuter singular),નવું,,adjective
+5600031,Gujarati,one,એક,,number
+5600032,Gujarati,two,બે,,number
+5600033,Gujarati,three,ત્રણ,,number
+5600034,Gujarati,five,પાંચ,,number
+5600035,Gujarati,I,હું,,pronoun
+5600036,Gujarati,you (familiar singular),તું,,pronoun
+5600037,Gujarati,you (respectful or plural),તમે,,pronoun
+5600038,Gujarati,he or she (ordinary),તે,,pronoun
+5600039,Gujarati,we,અમે,,pronoun
+5600040,Gujarati,we (including the listener),આપણે,,pronoun
+5600041,Gujarati,they,તેઓ,,pronoun
+5600042,Gujarati,this (neuter),આ,,pronoun
+5600043,Gujarati,that (neuter),તે,,pronoun
+5600044,Gujarati,This is a book.,આ એક પુસ્તક છે.,,sentence
+5600045,Gujarati,That is a house.,તે એક ઘર છે.,,sentence
+5600046,Gujarati,This is a car.,આ એક ગાડી છે.,,sentence
+5600047,Gujarati,He is a student.,તે વિદ્યાર્થી છે.,,sentence
+5600048,Gujarati,She is a teacher.,તે શિક્ષિકા છે.,,sentence
+5600049,Gujarati,I am a student.,હું વિદ્યાર્થી છું.,,sentence
+5600050,Gujarati,You are a doctor (respectful).,તમે ડૉક્ટર છો.,,sentence
+5600051,Gujarati,I am not a doctor.,હું ડૉક્ટર નથી.,,sentence
+5600052,Gujarati,He is not a student.,તે વિદ્યાર્થી નથી.,,sentence
+5600053,Gujarati,The book is new.,પુસ્તક નવું છે.,,sentence
+5600054,Gujarati,The house is small.,ઘર નાનું છે.,,sentence
+5600055,Gujarati,The car is big.,ગાડી મોટી છે.,,sentence
+5600056,Gujarati,The cat is small.,બિલાડી નાની છે.,,sentence
+5600057,Gujarati,The flower is red.,ફૂલ લાલ છે.,,sentence
+5600058,Gujarati,a big house,એક મોટું ઘર,,phrase
+5600059,Gujarati,a small book,એક નાનું પુસ્તક,,phrase
+5600060,Gujarati,a new car,એક નવી ગાડી,,phrase
+5600061,Gujarati,a red flower,એક લાલ ફૂલ,,phrase
+5600062,Gujarati,a good teacher,એક સારા શિક્ષક,,phrase
+5600063,Gujarati,I have a book.,મારી પાસે એક પુસ્તક છે.,,sentence
+5600064,Gujarati,He has a book.,તેની પાસે એક પુસ્તક છે.,,sentence
+5600065,Gujarati,She has a cat.,તેની પાસે એક બિલાડી છે.,,sentence
+5600066,Gujarati,I do not have a car.,મારી પાસે ગાડી નથી.,,sentence
+5600067,Gujarati,He does not have a book.,તેની પાસે પુસ્તક નથી.,,sentence
+5600068,Gujarati,The book is here.,પુસ્તક અહીં છે.,,sentence
+5600069,Gujarati,The car is there.,ગાડી ત્યાં છે.,,sentence
+5600070,Gujarati,The cat is at home.,બિલાડી ઘરે છે.,,sentence
+5600071,Gujarati,The child is at school.,બાળક શાળામાં છે.,,sentence
+5600072,Gujarati,The teacher is at school.,શિક્ષક શાળામાં છે.,,sentence
+5600073,Gujarati,Where is the book?,પુસ્તક ક્યાં છે?,,sentence
+5600074,Gujarati,Where is the car?,ગાડી ક્યાં છે?,,sentence
+5600075,Gujarati,Where is the cat?,બિલાડી ક્યાં છે?,,sentence
+5600076,Gujarati,What is this?,આ શું છે?,,sentence
+5600077,Gujarati,Who is he?,તે કોણ છે?,,sentence
+5600078,Gujarati,Who is the teacher?,શિક્ષક કોણ છે?,,sentence
+5600079,Gujarati,Is this a book?,શું આ પુસ્તક છે?,,sentence
+5600080,Gujarati,Is that a car?,શું તે ગાડી છે?,,sentence
+5600081,Gujarati,Is the house big?,શું ઘર મોટું છે?,,sentence
+5600082,Gujarati,I see a cat.,હું એક બિલાડી જોઉં છું.,,sentence
+5600083,Gujarati,I see a dog.,હું એક કૂતરો જોઉં છું.,,sentence
+5600084,Gujarati,I see a tree.,હું એક ઝાડ જોઉં છું.,,sentence
+5600085,Gujarati,I see a flower.,હું એક ફૂલ જોઉં છું.,,sentence
+5600086,Gujarati,I see a book.,હું એક પુસ્તક જોઉં છું.,,sentence
+5600087,Gujarati,I see two cats.,હું બે બિલાડીઓ જોઉં છું.,,sentence
+5600088,Gujarati,I see three books.,હું ત્રણ પુસ્તકો જોઉં છું.,,sentence
+5600089,Gujarati,I drink water.,હું પાણી પીઉં છું.,,sentence
+5600090,Gujarati,I drink milk.,હું દૂધ પીઉં છું.,,sentence
+5600091,Gujarati,I eat rice.,હું ભાત ખાઉં છું.,,sentence
+5600092,Gujarati,He drinks water.,તે પાણી પીવે છે.,,sentence
+5600093,Gujarati,She drinks milk.,તે દૂધ પીવે છે.,,sentence
+5600094,Gujarati,Do you drink water? (respectful),શું તમે પાણી પીઓ છો?,,sentence
+5600095,Gujarati,Do you eat rice? (respectful),શું તમે ભાત ખાઓ છો?,,sentence
+5600096,Gujarati,I do not drink milk (male speaker).,હું દૂધ પીતો નથી.,,sentence
+5600097,Gujarati,He does not eat rice.,તે ભાત ખાતો નથી.,,sentence
+5600098,Gujarati,What do you eat? (respectful),તમે શું ખાઓ છો?,,sentence
+5600099,Gujarati,I see five cars.,હું પાંચ ગાડીઓ જોઉં છું.,,sentence
