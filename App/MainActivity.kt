@@ -485,14 +485,10 @@ fun StudyScreen(context: Context) {
                     )
 
                     SelectionContainer {
-                        Text(
-                            text = if (card.inputHint.isNotBlank()) {
-                                "${card.target} [${card.inputHint}]"
-                            } else {
-                                card.target
-                            },
-                            fontSize = 24.sp
-                        )
+                        Text(text = card.target, fontSize = 24.sp)
+                    }
+                    if (card.inputHint.isNotBlank()) {
+                        Text(text = "[${card.inputHint}]", fontSize = 24.sp)
                     }
 
                 } else {
@@ -503,19 +499,14 @@ fun StudyScreen(context: Context) {
                         fontWeight = FontWeight.Bold
                     )
 
-                    Spacer(
-                        modifier = Modifier.height(12.dp)
-                    )
+                    Spacer(modifier = Modifier.height(12.dp))
 
+                    Text(text = "Correct answer:", fontSize = 20.sp)
                     SelectionContainer {
-                        Text(
-                            text = if (card.inputHint.isNotBlank()) {
-                                "Correct answer: ${card.target} [${card.inputHint}]"
-                            } else {
-                                "Correct answer: ${card.target}"
-                            },
-                            fontSize = 20.sp
-                        )
+                        Text(text = card.target, fontSize = 20.sp)
+                    }
+                    if (card.inputHint.isNotBlank()) {
+                        Text(text = "[${card.inputHint}]", fontSize = 20.sp)
                     }
                 }
 
