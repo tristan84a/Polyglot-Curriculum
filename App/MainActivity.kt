@@ -5,6 +5,7 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.text.selection.SelectionContainer
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -483,6 +484,8 @@ fun StudyScreen(context: Context) {
                         modifier = Modifier.height(12.dp)
                     )
 
+                    SelectionContainer {
+                    SelectionContainer {
                     Text(
                         text = if (card.inputHint.isNotBlank()) {
                             "${card.target} [${card.inputHint}]"
@@ -490,7 +493,8 @@ fun StudyScreen(context: Context) {
                             card.target
                         },
                         fontSize = 24.sp
-                    )
+                    ) 
+                    }
 
                 } else {
 
@@ -512,6 +516,7 @@ fun StudyScreen(context: Context) {
                         },
                         fontSize = 20.sp
                     )
+                    }
                 }
 
                 Spacer(
