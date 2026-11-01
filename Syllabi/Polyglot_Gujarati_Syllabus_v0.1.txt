@@ -1,0 +1,158 @@
+POLYGLOT GUJARATI SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Gujarati
+Reference variety: contemporary standard Gujarati in Gujarati script; colloquial and regional variants labelled when introduced
+Card Generation Protocol: 1.0
+
+PURPOSE
+This is the canonical introduction map for Gujarati. The original 15 exploratory cards at IDs 5600000–5600014 are preserved unchanged; 85 additions at IDs 5600015–5600099 form a systematic 100-card seed. The introduction map develops grammar, script and vocabulary in a widening, prerequisite-aware spiral toward educated-adult breadth. Passing a unit opens a branch; it does not mean the branch has been exhausted.
+
+REFERENCE VARIETY AND EXACT MATCH
+Canonical Target uses contemporary standard Gujarati in Gujarati script, with full vowel signs, conjuncts and punctuation. InputHint is normally blank: the user types Gujarati directly. Preserve orthographic distinctions, including anusvara, virama and vowel length where conventional. Gujarati script differs from Devanagari; do not use Hindi spelling or transliteration as the answer. Regional and colloquial variants can be taught later with explicit labels. The original micro deck remains intact even where it previews structures or uses a less specific English prompt.
+
+Gujarati is predominantly SOV and has grammatical gender (masculine, feminine, neuter), number, case/postpositional marking, verbal agreement, tense/aspect distinctions, and politeness-sensitive pronouns. Its morphology and syntax differ substantially from the Bengali and Hindi openings; do not transplant paradigms uncritically.
+
+EARLY PRINCIPLES
+1. Teach pronouns હું, તું, તમે, તે, અમે, આપણે and તેઓ in meaningful contexts. તમે is respectful singular or plural; English 'you' must specify the intended address where needed. Inclusive આપણે contrasts with exclusive અમે.
+2. Teach present nominal identity with છું/છે/છો and negation with નથી; do not assume an invariant English-style 'is'.
+3. Gujarati adjectives may inflect for gender/number: મોટું ઘર, મોટી ગાડી, નાનું પુસ્તક. Some adjectives such as લાલ are invariable. Establish the contrast through examples, not artificial exhaustive tables.
+4. The original micro cards introduce possession with તેની પાસે ... છે; extend to મારી પાસે and negative absence with નથી. Distinguish possession from locative expressions.
+5. Basic locatives use -માં and familiar location expressions: શાળામાં, ઘરે, અહીં, ત્યાં.
+6. Introduce content questions શું, કોણ, ક્યાં and polar questions with શું; their placement is not simply English word order.
+7. Teach SOV word order and initial present verb patterns with જોઉં છું, પીઉં છું, ખાઉં છું, પીવે છે and ખાઓ છો. Gujarati verbs require careful attention to person and gender in aspectual forms.
+8. Ordinary present and negative constructions can depend on habitual participles and gender: હું દૂધ પીતો નથી is male-speaker wording. Explicitly specify speaker gender in prompts when it changes the answer.
+9. Noun plurality and oblique forms, postpositions, and genitive નો/ની/નું agreement should be introduced progressively.
+10. Later distinguish perfective transitive alignment and ergative -એ from present nominative patterns; do not project present agreement rules onto all tenses.
+11. Keep past, future, habitual, progressive and perfective patterns separate initially, then combine them with time adverbs and familiar vocabulary.
+12. Gujarati script, phonology and sandhi require recurring exposure alongside grammar, not an isolated spelling block.
+13. Avoid long unproductive conjugation drills: establish a representative pattern, then expand with varied verbs, objects and natural clauses.
+14. Vocabulary must expand alongside grammar through daily life, culture, technology, public institutions, science and abstract expression.
+
+SEED AUDIT
+5600000–5600014: original 15-card exploratory micro deck, unchanged.
+5600015–5600099: 85 systematic seed additions.
+Seed introduces people, school, animals, food/drink, adjectives, numerals, pronouns, inclusive/exclusive first-person plural, identity, negation, adjectival agreement, possession, location, content/polar questions, plural objects and present-tense verb contrasts. A first example of a construction does not count as full coverage.
+
+CANONICAL INTRODUCTION MAP
+GU-01 Core nouns, adjectives and Gujarati script
+GU-02 Personal pronouns and basic reference
+GU-03 Familiar તું versus respectful/plural તમે
+GU-04 Inclusive આપણે versus exclusive અમે
+GU-05 Nominal identity with છે and છું
+GU-06 Negation with નથી
+GU-07 Gendered nouns and gender agreement
+GU-08 Adjective agreement in masculine, feminine and neuter
+GU-09 Basic numerals and noun phrases
+GU-10 Possession with પાસે and છે
+GU-11 Absence with નથી
+GU-12 Location with -માં and locative adverbs
+GU-13 Content questions શું, કોણ and ક્યાં
+GU-14 Polar questions with શું
+GU-15 Basic SOV clause order
+GU-16 First-person present habitual/periphrastic verbs
+GU-17 Third-person present habitual/periphrastic verbs
+GU-18 Second-person polite present verb forms
+GU-19 Present verbal negation and gender agreement
+GU-20 Present consolidation with new verbs
+GU-21 Masculine/feminine/neuter adjective contrasts
+GU-22 Plural nouns and oblique stems
+GU-23 Genitive નો, ની and નું agreement
+GU-24 Dative -ને for recipients and experiencers
+GU-25 Accusative -ને and differential object marking
+GU-26 Instrumental -થી and tools
+GU-27 Ablative -થી and sources
+GU-28 Comitative સાથે and postpositions
+GU-29 Demonstratives આ and તે and distance
+GU-30 Numbers, quantifiers and agreement
+GU-31 Pronoun oblique and possessive forms
+GU-32 Imperatives and polite requests
+GU-33 Progressive present constructions
+GU-34 Progressive past constructions
+GU-35 Simple past transitive and intransitive contrasts
+GU-36 Past participles and gender/number agreement
+GU-37 Perfective transitive ergative alignment
+GU-38 Ergative -એ and agreement with objects
+GU-39 Past negation and time expressions
+GU-40 Future first-person and second-person forms
+GU-41 Future third-person and agreement
+GU-42 Future negation and time expressions
+GU-43 Future and intention contrasts
+GU-44 Habitual versus progressive aspect
+GU-45 Ability with શકવું
+GU-46 Wanting with ઇચ્છવું and related forms
+GU-47 Necessity and obligation જોઈએ
+GU-48 Permission and prohibition
+GU-49 Conditional clauses
+GU-50 Infinitives and verbal complements
+GU-51 Conjunctive participles and sequencing
+GU-52 Causative verb derivation
+GU-53 Passive and affectedness constructions
+GU-54 Compound verbs and light verbs
+GU-55 Reflexive and reciprocal expressions
+GU-56 Comparatives and degree
+GU-57 Adverbial forms and manner
+GU-58 Postpositions and case stacking
+GU-59 Quantifiers and distributives
+GU-60 Word order and information structure
+GU-61 Coordination and alternatives
+GU-62 Cause and consequence
+GU-63 Purpose and intention clauses
+GU-64 Temporal subordination
+GU-65 Concession and contrast
+GU-66 Relative-correlative clauses
+GU-67 Complement and reported speech clauses
+GU-68 Indirect questions and question particles
+GU-69 Negation scope and polarity
+GU-70 Honorific usage and social register
+GU-71 Standard written versus colloquial Gujarati
+GU-72 Regional Gujarati varieties and lexical choices
+GU-73 Gujarati vowels and independent signs
+GU-74 Dependent vowel signs and consonant combinations
+GU-75 Virama, conjuncts and ligatures
+GU-76 Anusvara, nasalization and spelling
+GU-77 Pronunciation, aspiration and retroflexion
+GU-78 Keyboard input and Unicode normalization
+GU-79 Household and everyday routines
+GU-80 Family, relationships and kinship
+GU-81 Food, cooking and restaurants
+GU-82 Health, body and medicine
+GU-83 School, education and institutions
+GU-84 Work, occupations and employment
+GU-85 Transport, travel and directions
+GU-86 Towns, buildings and public spaces
+GU-87 Shopping, money and commerce
+GU-88 Nature, weather and environment
+GU-89 Technology, media and communication
+GU-90 Government, law and civic institutions
+GU-91 Science, mathematics and engineering
+GU-92 Arts, literature and entertainment
+GU-93 History, culture and society
+GU-94 Religion, philosophy and ethics
+GU-95 Emotion, personality and social relations
+GU-96 Abstract concepts and semantic nuance
+GU-97 Idioms, collocations and figurative speech
+GU-98 Academic and professional vocabulary
+GU-99 Advanced discourse and educated-adult lexical long tail
+
+Units are first-introduction milestones. Previously introduced script, vocabulary and grammatical structures continue to recur in later cards.
+
+CARD GENERATION RULES
+- CSV columns: ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech.
+- Permanent Gujarati ID allocation: 5600000–5699999.
+- Preserve original 15 cards and IDs; append new IDs sequentially.
+- EnglishPrompt unique within Gujarati; one canonical Target per card.
+- Use standard Gujarati script and normal punctuation; InputHint normally blank.
+- Explicitly distinguish familiar/respectful address, inclusive/exclusive we, and speaker gender when relevant.
+- Respect adjective gender/number agreement and Gujarati verb/person patterns.
+- Introduce ergative perfective constructions as a separate later system.
+- Keep sentences independently meaningful when shuffled and use new vocabulary throughout.
+- Treat colloquial or regional alternatives as labelled variants, not silent replacements.
+
+CURRENT FRONTIER
+At 100 cards, the next frontier is GU-21: masculine/feminine/neuter adjective contrasts. Consolidate the first-person, third-person and polite present forms, then add more adjective agreement with a small set of known nouns. Continue with plural and oblique forms, genitive નો/ની/નું and dative/accusative -ને before expanding into past tense and ergative perfective patterns.
+
+AMENDMENT HISTORY
+Version 0.1 graduates the 15-card Gujarati micro deck to a 100-card systematic seed and establishes a Gujarati-specific adjective agreement, verb morphology, case, ergativity and script roadmap.
