@@ -359,19 +359,11 @@ fun StudyScreen(context: Context) {
 
             Text(
                 text =
-                    if (currentCardIsNew) {
-                        "New card #${card.id}"
-                    } else {
-                        "$newCardCounter · ${
-                            cards.count {
-                                it.active && it.lastShown == null
-                            }
-                        } · ${
-                            cards.count {
-                                it.active && it.lastShown != null
-                            }
-                        }"
-                    },
+                    "${card.id} · ${if (currentCardIsNew) "New" else newCardCounter.toString()} · ${
+                        "%,d".format(cards.count { it.active && it.lastShown == null })
+                    } · ${
+                        "%,d".format(cards.count { it.active && it.lastShown != null })
+                    }",
                 fontSize = 14.sp,
                 color = MaterialTheme.colorScheme.onSurfaceVariant
             )
