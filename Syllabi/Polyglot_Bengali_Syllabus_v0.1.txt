@@ -1,0 +1,160 @@
+POLYGLOT BENGALI SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Bengali (Bangla)
+Reference variety: contemporary standard Bengali in Bengali script; the seed retains its existing Bangladesh-compatible lexical choices
+Card Generation Protocol: 1.0
+
+PURPOSE
+This is the canonical introduction map for Bengali. Preserve the original 15 exploratory cards (4000000–4000014) unchanged. The 85 additions (4000015–4000099) form a systematic 100-card seed. Units mark prerequisite-aware first introductions, not sealed textbook chapters. Previously introduced grammar and vocabulary remain active in a widening spiral toward educated-adult productive breadth.
+
+REFERENCE VARIETY, REGISTER AND EXACT MATCH
+Use modern standard Bengali orthography in Bengali script with appropriate vowel signs, consonant conjuncts and punctuation. The original micro deck uses পানি and গাড়ি; these and the new seed's পানির/পানি-related vocabulary are compatible with everyday Bangladeshi usage. Bangladesh and West Bengal differ in lexical preferences, pronunciation and some register choices (for example পানি versus জল); do not silently replace existing answers or imply one regional choice is universal. Later introduce regional alternatives with explicit labels.
+
+The seed uses broadly standard colloquial Bengali sentence patterns, not highly literary সাধু ভাষা. Bengali has socially meaningful pronoun and verb agreement: intimate তুই, familiar তুমি and respectful আপনি, plus ordinary সে and respectful তিনি. English 'you' and 'he/she' are often insufficiently specific for exact-match testing; label intended social register when it changes the Target. Bengali third-person pronouns do not grammatically encode English he/she gender. When a human predicate noun has a gendered lexical form such as ছাত্র versus ছাত্রী, make the English prompt's intended gender explicit.
+
+SCRIPT AND INPUT
+Canonical Target uses Bengali script with normal diacritics and conjuncts; InputHint is normally blank. Preserve exact Unicode spelling and conventional punctuation. Teach inherent vowels, dependent vowel signs, hasanta, conjuncts, aspiration, vowel quality and keyboard entry longitudinally using familiar words. Do not romanize required answers.
+
+OPENING GRAMMAR PRINCIPLES
+1. Nominal and adjectival predicates normally lack an overt present-tense 'be': সে একজন ডাক্তার; বাড়িটা বড়. Do not introduce আছে as a universal copula.
+2. Distinguish nominal identity negation নই/নয় from ordinary verbal negation with না and absence with নেই.
+3. Teach the pronoun/address hierarchy and verb endings together; respectful তিনি requires corresponding respectful verb agreement.
+4. Bengali word order is commonly SOV, with postpositions and case suffixes rather than English-style prepositions.
+5. Possession often uses genitive possessor plus আছে: আমার একটা বই আছে. Absence uses নেই.
+6. Introduce counting expressions with -টা/-টি for objects and -জন for people, without treating them as identical to obligatory articles.
+7. Bengali present habitual verb forms encode person and address level: দেখি, দেখো, দেখে; খাই, খাও, খায়. Introduce a controlled representative pattern, then reinforce through new verbs rather than filling every paradigm.
+8. The seed uses খাই for both eating and drinking certain liquids, a normal Bengali pattern. More specific পান করা and other expressions are introduced when context requires.
+9. Introduce locatives with -এ/-তে and demonstrative adverbs এখানে/ওখানে; broaden to motion and postpositions later.
+10. Questions distinguish কি (polar) from কী (what), with normal Bengali question syntax. Teach the diacritic contrast as meaningful in exact-match input.
+11. Bengali number and noun phrase systems involve definiteness, classifiers, plurality and animacy/humanity; avoid assuming English articles or plural endings map one-to-one.
+12. Build past, future, progressive and perfect forms only after an intelligible present-tense and agreement foundation.
+13. Standard colloquial Bengali differs from formal/literary registers; explicitly label marked variants and regional preferences.
+14. Maintain lexical expansion alongside grammatical development through everyday, professional, cultural and abstract domains.
+
+SEED AUDIT
+4000000–4000014: original 15-card exploratory deck, preserved.
+4000015–4000099: 85 systematic additions.
+The seed introduces people, school, animals, food and drink, adjectives, numerals, pronouns, nominal identity, adjective predicates, negation, possession, location, polar/content questions, counting suffixes and initial present-habitual person contrasts. Later units deepen honorific agreement, case/postpositions, tense and aspect.
+
+CANONICAL INTRODUCTION MAP
+BN-01 Core nouns, adjectives and Bengali script
+BN-02 Personal pronouns আমি, তুমি, আপনি, সে and তিনি
+BN-03 Familiar, respectful and intimate address distinctions
+BN-04 Nominal identity without an overt present copula
+BN-05 Adjectival predicates and adjective placement
+BN-06 Nominal identity negation with নই and নয়
+BN-07 Numbers and common quantity expressions
+BN-08 Definiteness and counting suffixes -টা, -টি and -জন
+BN-09 Possession with genitive forms and আছে
+BN-10 Absence and nonexistence with নেই
+BN-11 Locative -এ/-তে and এখানে/ওখানে
+BN-12 Content questions কী, কে and কোথায়
+BN-13 Polar question particle কি
+BN-14 Basic SOV clause order
+BN-15 Present habitual first person দেখি and খাই
+BN-16 Present habitual familiar second person খাও
+BN-17 Present habitual ordinary third person খায়
+BN-18 Ordinary verbal negation with না
+BN-19 Present habitual consolidation with new verbs
+BN-20 Respectful present verb endings and pronoun agreement
+BN-21 Genitive pronouns আমার, তোমার and তাঁর
+BN-22 Dative/accusative -কে and recipient/object marking
+BN-23 Instrumental/comitative দিয়ে and সঙ্গে
+BN-24 Ablative থেকে and source expressions
+BN-25 Locative and directional contrasts
+BN-26 Demonstratives এই, ওই and সেই
+BN-27 Numeral-classifier constructions and optionality
+BN-28 Plural nouns and markers -রা and -গুলো
+BN-29 Definiteness, specificity and discourse reference
+BN-30 Past tense first-person regular and irregular patterns
+BN-31 Past familiar second-person patterns
+BN-32 Past third-person and respectful forms
+BN-33 Past negation and time expressions
+BN-34 Future tense first-person and familiar forms
+BN-35 Future third-person and respectful forms
+BN-36 Future negation and time expressions
+BN-37 Progressive present constructions
+BN-38 Progressive past constructions
+BN-39 Perfect and resultative forms
+BN-40 Tense and aspect in controlled contrast
+BN-41 Imperatives: familiar and respectful
+BN-42 Prohibitives and negative commands
+BN-43 Requests and politeness
+BN-44 Infinitives and verbal nouns
+BN-45 Wanting with চাই and infinitival complements
+BN-46 Ability with পারা
+BN-47 Obligation and necessity with উচিত and দরকার
+BN-48 Permission and possibility
+BN-49 Comparison with চেয়ে and বেশি
+BN-50 Superlatives and degree
+BN-51 Adverbs and manner
+BN-52 Compound verbs and light verbs
+BN-53 Conjunctive participles and sequential events
+BN-54 Causative morphology and constructions
+BN-55 Passive-like and affectedness constructions
+BN-56 Reflexive and reciprocal expressions
+BN-57 Postpositions and case relationships
+BN-58 Word order variation and topic/focus
+BN-59 Coordination and alternatives
+BN-60 Cause and consequence clauses
+BN-61 Conditionals and hypothetical expressions
+BN-62 Purpose clauses
+BN-63 Temporal subordinate clauses
+BN-64 Concession and contrast
+BN-65 Relative-correlative clauses
+BN-66 Complement clauses and reported speech
+BN-67 Questions and indirect questions
+BN-68 Negation scope and polarity
+BN-69 Honorific agreement and interpersonal pragmatics
+BN-70 Colloquial versus formal written Bengali
+BN-71 Bangladesh and West Bengal lexical conventions
+BN-72 Bengali vowels and dependent vowel signs
+BN-73 Consonants, inherent vowel and hasanta
+BN-74 Conjunct letters and spelling conventions
+BN-75 Pronunciation, aspiration and consonant contrasts
+BN-76 Keyboard entry and Unicode normalization
+BN-77 Household and everyday routines
+BN-78 Family, relationships and kinship
+BN-79 Food, cooking and restaurants
+BN-80 Body, health and medicine
+BN-81 Education and institutions
+BN-82 Work, occupations and employment
+BN-83 Transport, travel and navigation
+BN-84 Towns, buildings and public spaces
+BN-85 Shopping, money and commerce
+BN-86 Nature, weather and environment
+BN-87 Technology, media and communication
+BN-88 Government, law and public institutions
+BN-89 Science, mathematics and engineering
+BN-90 Arts, literature and entertainment
+BN-91 History, culture and society
+BN-92 Religion, philosophy and ethics
+BN-93 Emotion, personality and social relations
+BN-94 Abstract concepts and semantic nuance
+BN-95 Idioms, collocations and figurative language
+BN-96 Academic and professional vocabulary
+BN-97 Advanced discourse and educated-adult lexical long tail
+
+Units indicate first introductions rather than mastery milestones. Script, pronunciation, vocabulary and earlier structures recur continuously.
+
+CARD GENERATION RULES
+- Six columns: ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech.
+- Bengali ID allocation: 4000000–4099999.
+- Preserve original 15 cards and append subsequent IDs in order.
+- EnglishPrompt must be unique within Bengali and specify a single intended canonical Target.
+- Use standard Bengali script and Unicode spelling; InputHint normally blank.
+- Distinguish intimate, familiar and respectful pronouns and verb forms when relevant.
+- Distinguish কি from কী, and নেই from নই/নয় and verbal না.
+- Do not insert a present-tense copula into ordinary nominal/adjective predicates.
+- Use counting expressions and case suffixes naturally, not by mechanically translating English articles.
+- Prefer short independent cards and a widening spiral of new vocabulary with reused grammar.
+- Keep regional variants labelled and avoid silently replacing existing micro-deck choices.
+
+CURRENT FRONTIER
+At 100 cards, the next frontier is BN-20: respectful present verb endings and pronoun agreement. Consolidate the familiar and ordinary present forms, then introduce respectful আপনি/তিনি with the corresponding verb endings. Continue with genitive and dative/accusative marking, additional counting patterns and plural noun phrases. Introduce past and future systems only after the initial agreement contrasts are stable.
+
+AMENDMENT HISTORY
+Version 0.1 graduates the original 15-card Bengali micro deck into a 100-card systematic seed and establishes a Bengali-specific pronoun, agreement, classifier, case, tense and script roadmap.
