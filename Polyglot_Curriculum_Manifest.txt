@@ -392,7 +392,11 @@ Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 GUJARATI
 ID allocation: 5600000-5699999
 CSV: Cards/Gujarati.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Systematic seed deck; actual count and used IDs authoritative in CSV.
+Reference: Contemporary standard Gujarati in Gujarati script; colloquial and regional variants labelled.
+Syllabus: Syllabi/Polyglot_Gujarati_Syllabus_v0.1.txt
+Frontier: GU-21 — Masculine/feminine/neuter adjective contrasts
+Checkpoint: Original 15 micro cards preserved; expanded to 100 cards with pronouns, inclusive/exclusive we, identity, negation, adjective agreement, possession, location, polar/content questions, plural objects and initial present-tense agreement. Next deepen gender contrasts, genitives and case marking.
 
 LATVIAN
 ID allocation: 5700000-5799999
