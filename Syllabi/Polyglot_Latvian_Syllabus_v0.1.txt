@@ -1,0 +1,137 @@
+POLYGLOT LATVIAN SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Latvian (latviešu valoda)
+Reference variety: contemporary Standard Latvian
+Card Generation Protocol: 1.0
+Charter version: 0.8
+
+PURPOSE
+This syllabus is the canonical introduction map for Standard Latvian. Original exploratory micro-deck cards 5700000–5700014 are preserved unchanged. The seed extends the curriculum to 100 cards. A syllabus unit introduces a branch; it neither closes that branch nor mandates a fixed card quota. Vocabulary, inflection, and natural syntax should develop in a widening spiral.
+
+LANGUAGE-SPECIFIC AUTHORING GUIDANCE
+Use modern Latvian orthography, including long vowels ā ē ī ū, consonants č ģ ķ ļ ņ š ž, and normal punctuation. Do not strip macrons or cedillas. InputHint is normally empty.
+Latvian has two grammatical genders, masculine and feminine, and normally seven nominal cases: nominative, genitive, dative, accusative, instrumental, locative and vocative. Traditional instrumental forms overlap with accusative in singular and dative in plural, and instrumental function is often expressed with ar. Some noun declensions have stem alternations; introduce productive contrasts with real nouns before unusual paradigms.
+Adjectives agree in gender, number and case, and distinguish indefinite versus definite endings. Start with frequent indefinite adjectives; use definite forms when the context motivates them.
+There are no English-style definite and indefinite articles. Preserve natural bare noun phrases. Possession is ordinarily expressed by a dative possessor plus ir; negative possession by nav often involves a genitive possessed noun: Man ir grāmata; Man nav grāmatas. Avoid transferring Lithuanian's genitive-under-verbal-negation rule indiscriminately: Latvian commonly retains the accusative object with a negated transitive verb, e.g. Es neredzu māju.
+Latvian personal subjects are often expressed, though pro-drop is possible in context. The unmarked written and spoken standard is the baseline. Tu is singular familiar, jūs plural or polite; do not force informal labels into natural English prompts unless essential for disambiguation.
+Teach present tense agreement using representative verbs with appropriate stem and ending patterns; progress through past and future without imposing English progressive aspect. Later introduce reflexive -ties verbs, prefixal aspectual/lexical contrasts, participles, and debitive jā- constructions.
+Standalone prompts must select an intended exact answer without relying on adjacent rows. Choose idiomatic English and natural contemporary Latvian; revise prompts if distinct intended meanings would collide. Keep citations of verbs in dictionary infinitive form.
+
+MICRO TO SEED
+5700000–5700014: preserved original exploratory material. Its accusative forms, possession with a dative possessor and numeral agreement are useful previews, not evidence that all corresponding branches are established.
+5700015–5700099: systematic seed, with common nouns and adjectives, personal pronouns, būt, agreement, dative possession, accusative objects, questions, negation, basic numbers, and the first everyday lexical verbs.
+At 100 cards, the useful forward frontier is LV-16, the core present-tense verb patterns. Earlier case, number, question, and negation contrasts should remain actively reinforced.
+
+CANONICAL INTRODUCTION MAP
+
+LV-01 — Core concrete nouns and standard orthography
+LV-02 — Noun gender and nominative singular endings
+LV-03 — Independent personal pronouns and address
+LV-04 — Present of būt: identity and nominal predicates
+LV-05 — Predicative indefinite adjective agreement
+LV-06 — Attributive adjectives: nominative gender and number
+LV-07 — Possession with dative pronouns + ir
+LV-08 — Accusative singular direct objects: common noun classes
+LV-09 — First present-tense transitive verb: redzēt
+LV-10 — Plural nominatives and adjectival agreement
+LV-11 — Numerals and nominative/accusative plural agreement
+LV-12 — Polar questions with vai
+LV-13 — Negation of būt and present verbs
+LV-14 — Negative possession with nav and genitive
+LV-15 — Core content questions: kas, ko, kur, kā
+LV-16 — Core present-tense verb patterns: lasīt, dzert, ēst
+LV-17 — Wider present paradigms and selected irregularities
+LV-18 — Genitive singular: possession, absence and governed phrases
+LV-19 — Dative noun phrases: recipients and experiencers
+LV-20 — Accusative plural across principal declensions
+LV-21 — Locative singular and plural: place and residence
+LV-22 — Motion and direction: iet, braukt and uz + accusative
+LV-23 — Prepositions and their governed case/number
+LV-24 — Instrumental function and ar phrases
+LV-25 — Vocative forms and direct address
+LV-26 — Common noun declensions and stem alternations
+LV-27 — Definite adjective endings versus indefinite
+LV-28 — Possessive pronouns and agreement
+LV-29 — Demonstratives šis/tas and declension
+LV-30 — Personal pronoun oblique cases
+LV-31 — Relative and interrogative pronouns
+LV-32 — More noun plural classes and irregular plurals
+LV-33 — Present-tense verb conjugation synthesis
+LV-34 — Reflexive verbs in -ties
+LV-35 — Present tense and reflexive agreement
+LV-36 — Past tense: representative regular paradigms
+LV-37 — Past-tense stem alternations and frequent irregulars
+LV-38 — Future tense and future stem patterns
+LV-39 — Time reference: present, past, future
+LV-40 — Adverbs of time, frequency and manner
+LV-41 — Imperative singular and plural
+LV-42 — Prohibition and negative imperatives
+LV-43 — Debitive mood with jā- and dative experiencer
+LV-44 — Permission, ability and necessity constructions
+LV-45 — Infinitive complements and common modal verbs
+LV-46 — Conditional forms and polite hypotheticals
+LV-47 — Reported/quotative mood
+LV-48 — Debitive past and future
+LV-49 — Prefixes on verbs: direction and lexical meaning
+LV-50 — Prefixal completed-event contrasts
+LV-51 — Reflexive and prefixed verbs in combination
+LV-52 — Present active and passive participles
+LV-53 — Past active participles and agreement
+LV-54 — Passive participles and voice constructions
+LV-55 — Compound/perfect constructions with būt
+LV-56 — Passive constructions with tikt and būt
+LV-57 — Converbs and adverbial participles
+LV-58 — Noun-adjective phrase case synthesis
+LV-59 — Comparative and superlative adjectives
+LV-60 — Numerals, ordinals, measurements and dates
+LV-61 — Quantification and genitive plural
+LV-62 — Negation scope, pronouns and negative polarity
+LV-63 — Word order, information structure and emphasis
+LV-64 — Coordination: un, bet, vai, tomēr
+LV-65 — Complement clauses with ka and vai
+LV-66 — Relative clauses with kas and kurš
+LV-67 — Time clauses and sequence
+LV-68 — Cause, purpose and result clauses
+LV-69 — Conditionals and counterfactuals
+LV-70 — Concession and contrast in subordinate clauses
+LV-71 — Direct and indirect questions
+LV-72 — Reported speech and evidential nuance
+LV-73 — Discourse particles, emphasis and pragmatics
+LV-74 — Social address, politeness and register
+LV-75 — Family, people and relationships
+LV-76 — Home, household and everyday possessions
+LV-77 — Food, cooking and shops
+LV-78 — Work, professions and institutions
+LV-79 — School, university and study
+LV-80 — Travel, transport and directions
+LV-81 — Nature, geography and weather
+LV-82 — Health, body and medicine
+LV-83 — Feelings, opinions and social interaction
+LV-84 — Technology and digital life
+LV-85 — Commerce, finances and contracts
+LV-86 — Government, politics and civic life
+LV-87 — Law, administration and public services
+LV-88 — Science, mathematics and engineering
+LV-89 — History, culture and geography of Latvia
+LV-90 — Literature, art and media
+LV-91 — Formal writing and institutional register
+LV-92 — Conversational colloquialisms and idiom
+LV-93 — Derivation, diminutives and word families
+LV-94 — Collocation, prepositional selection and verb valency
+LV-95 — Semantic distinctions and near-synonyms
+LV-96 — Advanced case, agreement and number usage
+LV-97 — Advanced clauses, focus and discourse
+LV-98 — Regional variation and dialect recognition
+LV-99 — Educated-adult lexical breadth and authentic-text backward validation
+
+GENERATION POLICY
+Original micro cards are immutable for this graduation. New IDs rise consecutively within 5700000–5799999; CSV row order is canonical introduction order. Avoid duplicate EnglishPrompt entries and exact duplicate cards. New content should interleave useful vocabulary with natural morphology and syntax. A first conjugation or declension paradigm may be dense when each cell teaches a genuine contrast; do not mechanically exhaust the same paradigm for every new stem. Later preemptive examples are permissible but must not falsely advance the recorded frontier. Every card must make sense in isolation after shuffling.
+
+FRONTIER
+LV-16 — Core present-tense verb patterns: lasīt, dzert, ēst. The seed previews these patterns; extend their person-number contrasts and broaden everyday verbs before proceeding to full genitive and dative noun paradigms.
+
+AMENDMENT HISTORY
+v0.1 — Latvian systematic 100-card seed and initial 99-unit introduction map.

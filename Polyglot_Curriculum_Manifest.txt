@@ -401,7 +401,10 @@ Checkpoint: Original 15 micro cards preserved; expanded to 100 cards with pronou
 LATVIAN
 ID allocation: 5700000-5799999
 CSV: Cards/Latvian.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
+Syllabus: Syllabi/Polyglot_Latvian_Syllabus_v0.1.txt
+Frontier: LV-16 — Core present-tense verb patterns
+Checkpoint: Original 15 micro cards preserved; graduated to a 100-card seed with pronouns, būt, gender/adjective agreement, dative possession, accusative objects, questions, negation, negative possession, numbers and initial present-tense verbs. Continue LV-16 with full representative present paradigms.
 
 JAVANESE
 ID allocation: 5800000-5899999

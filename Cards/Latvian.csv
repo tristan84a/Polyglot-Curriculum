@@ -14,3 +14,88 @@
 5700012,Latvian,He has a car.,Viņam ir automašīna.,,sentence
 5700013,Latvian,He has a red car.,Viņam ir sarkana automašīna.,,sentence
 5700014,Latvian,I see four cars.,Es redzu četras automašīnas.,,sentence
+5700015,Latvian,woman,sieviete,,noun
+5700016,Latvian,child,bērns,,noun
+5700017,Latvian,girl,meitene,,noun
+5700018,Latvian,boy,zēns,,noun
+5700019,Latvian,book,grāmata,,noun
+5700020,Latvian,school,skola,,noun
+5700021,Latvian,city,pilsēta,,noun
+5700022,Latvian,table,galds,,noun
+5700023,Latvian,apple,ābols,,noun
+5700024,Latvian,bread,maize,,noun
+5700025,Latvian,coffee,kafija,,noun
+5700026,Latvian,teacher (male),skolotājs,,noun
+5700027,Latvian,student (male),students,,noun
+5700028,Latvian,friend (male),draugs,,noun
+5700029,Latvian,small,mazs,,adjective
+5700030,Latvian,good,labs,,adjective
+5700031,Latvian,new,jauns,,adjective
+5700032,Latvian,green,zaļš,,adjective
+5700033,Latvian,I,es,,pronoun
+5700034,Latvian,you (singular),tu,,pronoun
+5700035,Latvian,he,viņš,,pronoun
+5700036,Latvian,she,viņa,,pronoun
+5700037,Latvian,we,mēs,,pronoun
+5700038,Latvian,you (plural),jūs,,pronoun
+5700039,Latvian,they (masculine or mixed group),viņi,,pronoun
+5700040,Latvian,they (feminine group),viņas,,pronoun
+5700041,Latvian,I am a student.,Es esmu students.,,sentence
+5700042,Latvian,You are a teacher.,Tu esi skolotājs.,,sentence
+5700043,Latvian,She is a doctor.,Viņa ir ārste.,,sentence
+5700044,Latvian,We are friends.,Mēs esam draugi.,,sentence
+5700045,Latvian,You are students.,Jūs esat studenti.,,sentence
+5700046,Latvian,They are students.,Viņi ir studenti.,,sentence
+5700047,Latvian,The child is small.,Bērns ir mazs.,,sentence
+5700048,Latvian,The school is big.,Skola ir liela.,,sentence
+5700049,Latvian,The book is new.,Grāmata ir jauna.,,sentence
+5700050,Latvian,The apple is green.,Ābols ir zaļš.,,sentence
+5700051,Latvian,The coffee is good.,Kafija ir laba.,,sentence
+5700052,Latvian,The girl is small.,Meitene ir maza.,,sentence
+5700053,Latvian,The table is new.,Galds ir jauns.,,sentence
+5700054,Latvian,The woman is a teacher.,Sieviete ir skolotāja.,,sentence
+5700055,Latvian,a new book,jauna grāmata,,phrase
+5700056,Latvian,a small city,maza pilsēta,,phrase
+5700057,Latvian,a green apple,zaļš ābols,,phrase
+5700058,Latvian,a big school,liela skola,,phrase
+5700059,Latvian,a good friend (male),labs draugs,,phrase
+5700060,Latvian,I have a book.,Man ir grāmata.,,sentence
+5700061,Latvian,She has an apple.,Viņai ir ābols.,,sentence
+5700062,Latvian,We have a car.,Mums ir automašīna.,,sentence
+5700063,Latvian,They have a house.,Viņiem ir māja.,,sentence
+5700064,Latvian,Do you have a book?,Vai tev ir grāmata?,,sentence
+5700065,Latvian,I see the girl.,Es redzu meiteni.,,sentence
+5700066,Latvian,I see the boy.,Es redzu zēnu.,,sentence
+5700067,Latvian,She sees the doctor.,Viņa redz ārstu.,,sentence
+5700068,Latvian,We see the city.,Mēs redzam pilsētu.,,sentence
+5700069,Latvian,The child sees an apple.,Bērns redz ābolu.,,sentence
+5700070,Latvian,I see a new book.,Es redzu jaunu grāmatu.,,sentence
+5700071,Latvian,She sees a small house.,Viņa redz mazu māju.,,sentence
+5700072,Latvian,I see two books.,Es redzu divas grāmatas.,,sentence
+5700073,Latvian,He sees three apples.,Viņš redz trīs ābolus.,,sentence
+5700074,Latvian,We see four houses.,Mēs redzam četras mājas.,,sentence
+5700075,Latvian,Are you a student?,Vai tu esi students?,,sentence
+5700076,Latvian,Is the house big?,Vai māja ir liela?,,sentence
+5700077,Latvian,Is the book new?,Vai grāmata ir jauna?,,sentence
+5700078,Latvian,I am not a doctor.,Es neesmu ārsts.,,sentence
+5700079,Latvian,The car is not red.,Automašīna nav sarkana.,,sentence
+5700080,Latvian,I do not see the house.,Es neredzu māju.,,sentence
+5700081,Latvian,She does not see the book.,Viņa neredz grāmatu.,,sentence
+5700082,Latvian,I do not have a car.,Man nav automašīnas.,,sentence
+5700083,Latvian,He does not have a book.,Viņam nav grāmatas.,,sentence
+5700084,Latvian,Where is the book?,Kur ir grāmata?,,sentence
+5700085,Latvian,Where is the school?,Kur ir skola?,,sentence
+5700086,Latvian,Who is that?,Kas tas ir?,,sentence
+5700087,Latvian,What do you see?,Ko tu redzi?,,sentence
+5700088,Latvian,to read,lasīt,,verb
+5700089,Latvian,I read a book.,Es lasu grāmatu.,,sentence
+5700090,Latvian,She reads a book.,Viņa lasa grāmatu.,,sentence
+5700091,Latvian,We read books.,Mēs lasām grāmatas.,,sentence
+5700092,Latvian,to drink,dzert,,verb
+5700093,Latvian,I drink water.,Es dzeru ūdeni.,,sentence
+5700094,Latvian,He drinks coffee.,Viņš dzer kafiju.,,sentence
+5700095,Latvian,to eat,ēst,,verb
+5700096,Latvian,The child eats bread.,Bērns ēd maizi.,,sentence
+5700097,Latvian,We eat apples.,Mēs ēdam ābolus.,,sentence
+5700098,Latvian,I read a new book.,Es lasu jaunu grāmatu.,,sentence
+5700099,Latvian,He reads a book.,Viņš lasa grāmatu.,,sentence
