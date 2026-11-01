@@ -1,2 +1,134 @@
 POLYGLOT HAITIAN CREOLE SYLLABUS
+
 Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Haitian Creole (Kreyòl ayisyen)
+Reference variety: contemporary standard Haitian Creole orthography
+Card Generation Protocol: 1.0
+
+PURPOSE
+This syllabus is the canonical introduction map for Haitian Creole. Preserve original micro-deck cards 7300000–7300014 unchanged. Added cards 7300015–7300099 create a 100-card systematic seed. Each unit marks a first introduction rather than completion; established vocabulary and structures remain active in a widening spiral.
+
+LANGUAGE-SPECIFIC GUIDANCE
+Haitian Creole has predominantly SVO order, largely invariant verbs, preverbal tense/aspect/mood markers, postposed definite articles, and no grammatical gender agreement. It is not simply French with simplified spelling. Use contemporary official-style Haitian Creole spelling with accents and nasal vowel distinctions. Avoid French spelling, silent conjugation, or gender agreement. Standard answers must be independent of neighboring cards, with English prompts distinguishing habitual, progressive, past and future where these would yield different Haitian Creole answers.
+
+Article forms depend on the phonological ending of the preceding word: kay la, liv la, timoun nan, chen an and machin nan. Teach these as a productive system, not interchangeable spellings. The definite plural marker yo follows the noun phrase. Indefinite yon precedes the noun. Adjectives commonly follow nouns, but important common adjectives such as gwo and ti precede them.
+
+Copular constructions differ: Sa se yon liv, but Kay la gwo, and Mwen la. Do not insert se indiscriminately. Teach negation with pa and its interaction with tense/aspect markers. Unmarked verbs can have present or completed interpretations depending on context; use explicit time adverbs or markers when an exact answer is needed. The progressive marker ap contracts with preceding pronouns: m ap, l ap, n ap, y ap. Distinguish te (past), ap (progressive and some future uses), pral (prospective/near future), konn (habitual) and ta (conditional).
+
+SEED CHECKPOINT
+7300000–7300014: original 15 exploratory cards, preserved.
+7300015–7300099: 85 new cards, introducing pronouns, articles, noun phrases, adjectives, identification, possession, location, negation, questions, common verbs, habitual, progressive, past and prospective expressions.
+The seed is a preview, not full mastery, of each construction.
+
+CANONICAL INTRODUCTION MAP
+HC-01 Core vocabulary and Haitian Creole orthography
+HC-02 Personal pronouns mwen ou li nou yo
+HC-03 Demonstratives sa and simple reference
+HC-04 Indefinite article yon
+HC-05 Postposed definite article la
+HC-06 Article allomorphs la a an nan lan
+HC-07 Plural definite marker yo
+HC-08 Adjective position and invariable modifiers
+HC-09 Nominal identification with se
+HC-10 Predicative adjectives without a copula
+HC-11 Location and existential predicates
+HC-12 Possession with gen
+HC-13 Basic negation with pa
+HC-14 Content questions kisa kiyès kote
+HC-15 Polar questions with èske and intonation
+HC-16 Basic SVO clause order
+HC-17 Unmarked verbs and contextual present
+HC-18 Habitual interpretation with konn
+HC-19 Progressive aspect with ap
+HC-20 Past reference with te
+HC-21 Near future with pral
+HC-22 Tense and aspect consolidation
+HC-23 More everyday verbs and arguments
+HC-24 Pronoun contraction before ap
+HC-25 Negation with tense and aspect markers
+HC-26 Object pronouns and pronoun order
+HC-27 Possessive noun phrases with mwen ou li
+HC-28 Possessive noun phrases with nou yo
+HC-29 Possession with pa and gen
+HC-30 Numerals and counting expressions
+HC-31 Plural indefinites and quantifiers
+HC-32 Adjective intensification and comparison
+HC-33 Locative prepositions and directional phrases
+HC-34 Movement verbs ale vini
+HC-35 Questions with kilè poukisa kijan
+HC-36 Question word placement and focus
+HC-37 Imperatives and requests
+HC-38 Politeness and social address
+HC-39 Completed past and perfect interpretation
+HC-40 Past progressive te ap
+HC-41 Past habitual te konn
+HC-42 Future ap and pral contrasts
+HC-43 Future with va and a
+HC-44 Future negation
+HC-45 Anteriority and sequence
+HC-46 Conditional marker ta
+HC-47 Hypothetical and counterfactual clauses
+HC-48 Ability with kapab
+HC-49 Obligation with dwe and fòk
+HC-50 Desire with vle and ta renmen
+HC-51 Permission and prohibition
+HC-52 Infinitive-like complements and bare verbs
+HC-53 Serial verb and multi-verb constructions
+HC-54 Causative and permissive constructions
+HC-55 Reflexive and reciprocal expressions
+HC-56 Prepositions and complex locatives
+HC-57 Benefactive and purpose with pou
+HC-58 Comitative with ak
+HC-59 Instrumental expressions
+HC-60 Temporal adverbs and calendar terms
+HC-61 Aspectual adverbs and completion
+HC-62 Relative clauses with ki
+HC-63 Relative clauses with kote and other relativizers
+HC-64 Complement clauses with ke
+HC-65 Reported speech and quotations
+HC-66 Coordination with ak epi oubyen
+HC-67 Subordination with paske lè si
+HC-68 Concession and contrast
+HC-69 Focus particle se and cleft constructions
+HC-70 Topic marking and discourse organization
+HC-71 Negation scope and polarity
+HC-72 Indefinite and negative expressions
+HC-73 Pronoun reference and discourse cohesion
+HC-74 Definiteness and specificity distinctions
+HC-75 Noun phrase structure and modification
+HC-76 Noun reduplication and expressive forms
+HC-77 Verb reduplication and aspectual nuance
+HC-78 Idioms and conventional expressions
+HC-79 Haitian Creole sound-spelling correspondence
+HC-80 Nasal vowels and nasal consonants
+HC-81 Consonant contrasts and orthography
+HC-82 Elision contractions and apostrophes
+HC-83 Formal written versus everyday speech
+HC-84 Regional and diaspora variation
+HC-85 French cognates and false friends
+HC-86 Home family and kinship
+HC-87 Food cooking and markets
+HC-88 Health body and medicine
+HC-89 School and education
+HC-90 Work occupations and commerce
+HC-91 Travel transport and directions
+HC-92 Environment weather and geography
+HC-93 Technology and communication
+HC-94 Government law and institutions
+HC-95 Arts literature music and culture
+HC-96 History and social life
+HC-97 Science and technical vocabulary
+HC-98 Abstract reasoning and academic discourse
+HC-99 Advanced pragmatic and stylistic nuance
+
+CARD GENERATION RULES
+CSV fields: ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech.
+Allocation: 7300000–7399999. Preserve all existing cards and their IDs. Append in prerequisite-aware order; EnglishPrompt must be unique within Haitian Creole. Use a single canonical Target per card and distinguish tense/aspect, specificity and intended referent in English where necessary. Keep InputHint blank unless a meaningful input aid is required. Retain orthographic accents. Reinforce established forms with new vocabulary, not duplicate prompts.
+
+CURRENT FRONTIER
+At 100 cards, the next frontier is HC-23: tense and aspect consolidation. Before introducing more complex aspect, review the contrast among unmarked verbs, konn, ap, te and pral in independent sentences, including negative and interrogative contexts.
+
+AMENDMENT HISTORY
+v0.1: graduated 15-card micro deck to 100-card systematic seed and established a 99-unit Haitian Creole introduction map.
