@@ -14,3 +14,88 @@
 7300012,Haitian Creole,Hello!,Bonjou!,,sentence
 7300013,Haitian Creole,Thank you.,Mèsi.,,sentence
 7300014,Haitian Creole,I am here.,Mwen la.,,sentence
+7300015,Haitian Creole,I,mwen,,pronoun
+7300016,Haitian Creole,you (singular),ou,,pronoun
+7300017,Haitian Creole,he or she,li,,pronoun
+7300018,Haitian Creole,we,nou,,pronoun
+7300019,Haitian Creole,they,yo,,pronoun
+7300020,Haitian Creole,this,sa,,pronoun
+7300021,Haitian Creole,school,lekòl,,noun
+7300022,Haitian Creole,market,mache,,noun
+7300023,Haitian Creole,car,machin,,noun
+7300024,Haitian Creole,table,tab,,noun
+7300025,Haitian Creole,chair,chèz,,noun
+7300026,Haitian Creole,teacher,pwofesè,,noun
+7300027,Haitian Creole,student,elèv,,noun
+7300028,Haitian Creole,friend,zanmi,,noun
+7300029,Haitian Creole,food,manje,,noun
+7300030,Haitian Creole,rice,diri,,noun
+7300031,Haitian Creole,bread,pen,,noun
+7300032,Haitian Creole,milk,lèt,,noun
+7300033,Haitian Creole,coffee,kafe,,noun
+7300034,Haitian Creole,big,gwo,,adjective
+7300035,Haitian Creole,small,piti,,adjective
+7300036,Haitian Creole,red,wouj,,adjective
+7300037,Haitian Creole,good,bon,,adjective
+7300038,Haitian Creole,three,twa,,number
+7300039,Haitian Creole,four,kat,,number
+7300040,Haitian Creole,five,senk,,number
+7300041,Haitian Creole,a house,yon kay,,phrase
+7300042,Haitian Creole,a book,yon liv,,phrase
+7300043,Haitian Creole,a child,yon timoun,,phrase
+7300044,Haitian Creole,the house,kay la,,phrase
+7300045,Haitian Creole,the book,liv la,,phrase
+7300046,Haitian Creole,the child,timoun nan,,phrase
+7300047,Haitian Creole,the table,tab la,,phrase
+7300048,Haitian Creole,the dog,chen an,,phrase
+7300049,Haitian Creole,the houses,kay yo,,phrase
+7300050,Haitian Creole,the books,liv yo,,phrase
+7300051,Haitian Creole,a big house,yon gwo kay,,phrase
+7300052,Haitian Creole,a small book,yon ti liv,,phrase
+7300053,Haitian Creole,a red car,yon machin wouj,,phrase
+7300054,Haitian Creole,This is a book.,Sa se yon liv.,,sentence
+7300055,Haitian Creole,This is a house.,Sa se yon kay.,,sentence
+7300056,Haitian Creole,He is a teacher.,Li se yon pwofesè.,,sentence
+7300057,Haitian Creole,She is a student.,Li se yon elèv.,,sentence
+7300058,Haitian Creole,The house is big.,Kay la gwo.,,sentence
+7300059,Haitian Creole,The book is small.,Liv la piti.,,sentence
+7300060,Haitian Creole,The car is red.,Machin nan wouj.,,sentence
+7300061,Haitian Creole,The child is here.,Timoun nan la.,,sentence
+7300062,Haitian Creole,The book is on the table.,Liv la sou tab la.,,sentence
+7300063,Haitian Creole,The cat is under the table.,Chat la anba tab la.,,sentence
+7300064,Haitian Creole,I have a book.,Mwen gen yon liv.,,sentence
+7300065,Haitian Creole,She has a car.,Li gen yon machin.,,sentence
+7300066,Haitian Creole,I do not have a car.,Mwen pa gen machin.,,sentence
+7300067,Haitian Creole,The house is not big.,Kay la pa gwo.,,sentence
+7300068,Haitian Creole,He is not a doctor.,Li pa yon doktè.,,sentence
+7300069,Haitian Creole,What is this?,Kisa sa ye?,,sentence
+7300070,Haitian Creole,Who is that?,Kiyès sa ye?,,sentence
+7300071,Haitian Creole,Where is the book?,Kote liv la ye?,,sentence
+7300072,Haitian Creole,Where is the child?,Kote timoun nan ye?,,sentence
+7300073,Haitian Creole,Is this a book?,Èske sa se yon liv?,,sentence
+7300074,Haitian Creole,Is the car red?,Èske machin nan wouj?,,sentence
+7300075,Haitian Creole,I see the house.,Mwen wè kay la.,,sentence
+7300076,Haitian Creole,I see a dog.,Mwen wè yon chen.,,sentence
+7300077,Haitian Creole,I see two cats.,Mwen wè de chat.,,sentence
+7300078,Haitian Creole,I see three books.,Mwen wè twa liv.,,sentence
+7300079,Haitian Creole,I want water.,Mwen vle dlo.,,sentence
+7300080,Haitian Creole,I want a book.,Mwen vle yon liv.,,sentence
+7300081,Haitian Creole,I like coffee.,Mwen renmen kafe.,,sentence
+7300082,Haitian Creole,He likes milk.,Li renmen lèt.,,sentence
+7300083,Haitian Creole,I eat rice (habitually).,Mwen konn manje diri.,,sentence
+7300084,Haitian Creole,I drink water (habitually).,Mwen konn bwè dlo.,,sentence
+7300085,Haitian Creole,I am eating rice.,M ap manje diri.,,sentence
+7300086,Haitian Creole,I am drinking water.,M ap bwè dlo.,,sentence
+7300087,Haitian Creole,He is reading a book.,L ap li yon liv.,,sentence
+7300088,Haitian Creole,She is going to school.,L ap ale lekòl.,,sentence
+7300089,Haitian Creole,We are eating.,N ap manje.,,sentence
+7300090,Haitian Creole,They are reading.,Y ap li.,,sentence
+7300091,Haitian Creole,I ate rice yesterday.,Mwen te manje diri yè.,,sentence
+7300092,Haitian Creole,He drank water yesterday.,Li te bwè dlo yè.,,sentence
+7300093,Haitian Creole,We saw the house yesterday.,Nou te wè kay la yè.,,sentence
+7300094,Haitian Creole,I am going to eat.,Mwen pral manje.,,sentence
+7300095,Haitian Creole,She is going to read.,Li pral li.,,sentence
+7300096,Haitian Creole,We are going to school tomorrow.,Nou pral lekòl demen.,,sentence
+7300097,Haitian Creole,I do not want coffee.,Mwen pa vle kafe.,,sentence
+7300098,Haitian Creole,I am not reading.,Mwen p ap li.,,sentence
+7300099,Haitian Creole,Thank you very much.,Mèsi anpil.,,sentence
