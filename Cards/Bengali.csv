@@ -14,3 +14,88 @@
 4000012,Bengali,He has a car.,তার একটা গাড়ি আছে।,,sentence
 4000013,Bengali,He has a red car.,তার একটা লাল গাড়ি আছে।,,sentence
 4000014,Bengali,I see four cars.,আমি চারটা গাড়ি দেখি।,,sentence
+4000015,Bengali,woman,নারী,,noun
+4000016,Bengali,child,শিশু,,noun
+4000017,Bengali,book,বই,,noun
+4000018,Bengali,school,স্কুল,,noun
+4000019,Bengali,teacher,শিক্ষক,,noun
+4000020,Bengali,student,ছাত্র,,noun
+4000021,Bengali,friend,বন্ধু,,noun
+4000022,Bengali,cat,বিড়াল,,noun
+4000023,Bengali,dog,কুকুর,,noun
+4000024,Bengali,tree,গাছ,,noun
+4000025,Bengali,flower,ফুল,,noun
+4000026,Bengali,milk,দুধ,,noun
+4000027,Bengali,rice (cooked),ভাত,,noun
+4000028,Bengali,small,ছোট,,adjective
+4000029,Bengali,good,ভালো,,adjective
+4000030,Bengali,new,নতুন,,adjective
+4000031,Bengali,one,এক,,number
+4000032,Bengali,two,দুই,,number
+4000033,Bengali,three,তিন,,number
+4000034,Bengali,five,পাঁচ,,number
+4000035,Bengali,I,আমি,,pronoun
+4000036,Bengali,you (informal familiar),তুমি,,pronoun
+4000037,Bengali,you (respectful),আপনি,,pronoun
+4000038,Bengali,he or she (ordinary),সে,,pronoun
+4000039,Bengali,he or she (respectful),তিনি,,pronoun
+4000040,Bengali,we,আমরা,,pronoun
+4000041,Bengali,they (ordinary),তারা,,pronoun
+4000042,Bengali,this,এটা,,pronoun
+4000043,Bengali,that,ওটা,,pronoun
+4000044,Bengali,This is a book.,এটা একটা বই।,,sentence
+4000045,Bengali,That is a house.,ওটা একটা বাড়ি।,,sentence
+4000046,Bengali,He is a student.,সে একজন ছাত্র।,,sentence
+4000047,Bengali,She is a teacher.,সে একজন শিক্ষিকা।,,sentence
+4000048,Bengali,I am a student (male speaker).,আমি একজন ছাত্র।,,sentence
+4000049,Bengali,You are a doctor (respectful).,আপনি একজন ডাক্তার।,,sentence
+4000050,Bengali,I am not a doctor.,আমি ডাক্তার নই।,,sentence
+4000051,Bengali,He is not a student.,সে ছাত্র নয়।,,sentence
+4000052,Bengali,The book is new.,বইটা নতুন।,,sentence
+4000053,Bengali,The house is small.,বাড়িটা ছোট।,,sentence
+4000054,Bengali,The cat is small.,বিড়ালটা ছোট।,,sentence
+4000055,Bengali,The dog is big.,কুকুরটা বড়।,,sentence
+4000056,Bengali,The flower is red.,ফুলটা লাল।,,sentence
+4000057,Bengali,a big house,একটা বড় বাড়ি,,phrase
+4000058,Bengali,a small book,একটা ছোট বই,,phrase
+4000059,Bengali,a new car,একটা নতুন গাড়ি,,phrase
+4000060,Bengali,a red flower,একটা লাল ফুল,,phrase
+4000061,Bengali,a good teacher,একজন ভালো শিক্ষক,,phrase
+4000062,Bengali,I have a book.,আমার একটা বই আছে।,,sentence
+4000063,Bengali,He has a book.,তার একটা বই আছে।,,sentence
+4000064,Bengali,She has a cat.,তার একটা বিড়াল আছে।,,sentence
+4000065,Bengali,I do not have a car.,আমার গাড়ি নেই।,,sentence
+4000066,Bengali,He does not have a book.,তার বই নেই।,,sentence
+4000067,Bengali,The book is here.,বইটা এখানে আছে।,,sentence
+4000068,Bengali,The car is there.,গাড়িটা ওখানে আছে।,,sentence
+4000069,Bengali,The cat is at home.,বিড়ালটা বাড়িতে আছে।,,sentence
+4000070,Bengali,The child is at school.,শিশুটি স্কুলে আছে।,,sentence
+4000071,Bengali,The teacher is at school.,শিক্ষক স্কুলে আছেন।,,sentence
+4000072,Bengali,Where is the book?,বইটা কোথায়?,,sentence
+4000073,Bengali,Where is the car?,গাড়িটা কোথায়?,,sentence
+4000074,Bengali,Where is the cat?,বিড়ালটা কোথায়?,,sentence
+4000075,Bengali,What is this?,এটা কী?,,sentence
+4000076,Bengali,Who is he?,সে কে?,,sentence
+4000077,Bengali,Who is the teacher?,শিক্ষক কে?,,sentence
+4000078,Bengali,Is this a book?,এটা কি বই?,,sentence
+4000079,Bengali,Is that a car?,ওটা কি গাড়ি?,,sentence
+4000080,Bengali,Is the house big?,বাড়িটা কি বড়?,,sentence
+4000081,Bengali,I see a cat.,আমি একটা বিড়াল দেখি।,,sentence
+4000082,Bengali,I see a dog.,আমি একটা কুকুর দেখি।,,sentence
+4000083,Bengali,I see a tree.,আমি একটা গাছ দেখি।,,sentence
+4000084,Bengali,I see a flower.,আমি একটা ফুল দেখি।,,sentence
+4000085,Bengali,I see a book.,আমি একটা বই দেখি।,,sentence
+4000086,Bengali,I see two cats.,আমি দুটো বিড়াল দেখি।,,sentence
+4000087,Bengali,I see three books.,আমি তিনটা বই দেখি।,,sentence
+4000088,Bengali,I drink water.,আমি পানি খাই।,,sentence
+4000089,Bengali,I drink milk.,আমি দুধ খাই।,,sentence
+4000090,Bengali,I eat rice.,আমি ভাত খাই।,,sentence
+4000091,Bengali,He drinks water.,সে পানি খায়।,,sentence
+4000092,Bengali,She drinks milk.,সে দুধ খায়।,,sentence
+4000093,Bengali,Do you drink water? (informal familiar),তুমি কি পানি খাও?,,sentence
+4000094,Bengali,Do you eat rice? (informal familiar),তুমি কি ভাত খাও?,,sentence
+4000095,Bengali,I do not drink milk.,আমি দুধ খাই না।,,sentence
+4000096,Bengali,He does not eat rice.,সে ভাত খায় না।,,sentence
+4000097,Bengali,What do you eat? (informal familiar),তুমি কী খাও?,,sentence
+4000098,Bengali,What do you drink? (informal familiar),তুমি কী পান করো?,,sentence
+4000099,Bengali,I see five cars.,আমি পাঁচটা গাড়ি দেখি।,,sentence
