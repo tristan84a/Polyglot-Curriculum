@@ -485,7 +485,11 @@ Development: Exploratory micro deck; no syllabus frontier.
 HAITIAN CREOLE
 ID allocation: 7300000-7399999
 CSV: Cards/Haitian Creole.csv
-Development: Exploratory micro deck; no syllabus frontier.
+Development: Systematic 100-card seed (original 15 micro cards preserved).
+Reference: Contemporary standard Haitian Creole (Kreyòl ayisyen) orthography.
+Syllabus: Syllabi/Polyglot_Haitian_Creole_Syllabus_v0.1.txt
+Frontier: HC-23 — Tense and aspect consolidation
+Checkpoint: 100 cards through 7300099. Introduced postposed definite articles, plural yo, pronouns, se versus zero copula, possession, negation, questions, SVO, habitual konn, progressive ap, past te and prospective pral.
 
 YUCATEC MAYA
 ID allocation: 7400000-7499999
