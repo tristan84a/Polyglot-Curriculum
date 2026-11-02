@@ -1,0 +1,140 @@
+POLYGLOT ZULU SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Zulu (isiZulu)
+Reference variety: contemporary Standard Zulu (South African standard orthography)
+Card Generation Protocol: 1.0
+Charter version: 0.8
+
+PURPOSE
+This is the canonical introduction map for isiZulu in Polyglot. Preserve original 15 micro cards 6000000–6000014. The systematic seed comprises IDs 6000015–6000106, for 107 cards in total. A unit marks the start of a learning branch rather than a promise of exhaustive treatment; revisit active structures in a widening spiral.
+
+LANGUAGE-SPECIFIC AUTHORING GUIDANCE
+Use standard conjunctive isiZulu spelling: grammatical prefixes and verbal morphology are generally written together with their hosts. Standard spelling does not mark lexical tone. Keep c, q, x clicks distinct, alongside aspirated and voiced combinations, and respect ordinary Unicode punctuation. InputHint is normally blank.
+
+Zulu belongs to the Nguni branch of Bantu languages. Nouns carry class prefixes, and agreement with subject markers, adjectives, possessives, relatives and object markers is pervasive. Do not assume a single noun-class prefix determines every concord, nor treat noun classes as grammatical gender in the European sense. Introduce high-frequency class 1/2 (um-/aba-), class 9/10 (in-/izin-), class 7/8 (isi-/izi-) and additional classes through useful noun pairs. Class 1a/2a human names, kinship and loanwords deserve special attention.
+
+Noun description uses class-dependent forms; common adjective roots such as -khulu, -ncane, -hle and -sha are not free-standing interchangeable adjectives. Distinguish predicative from attributive construction and use the appropriate concord. Preserve the original exploratory micro forms even if more idiomatic contextual alternatives exist.
+
+The verbal complex contains subject concord, tense/aspect/mood, optional object concord, stem, extensions and final vowel. The present long/conjoint distinction (including -ya-) is structurally important; do not teach -ya- as a universal present-tense marker. First teach independent complete-clause forms, then introduce the short/conjoint form in object and complement contexts. Third-person singular subject markers can coincide for he and she; the English source prompt must not presume a grammatical sex contrast. Negative verb morphology changes prefixes and often final vowels.
+
+Dictionary infinitives usually begin uku-; a lexical item such as ukudla is both the verbal infinitive 'to eat' and a noun meaning 'food'. Unique EnglishPrompt values remain mandatory; allowing distinct prompts to share a target is fine. No English articles map directly to Zulu. Avoid unnatural artificial distinctions merely to force one-to-one English translation.
+
+Where common natural variants exist, choose one defensible canonical answer and make the English prompt self-contained, adding sparse qualifiers only when necessary. Respect standard regional variety and contemporary usage. Do not pack several new agreement or verbal mechanisms into one otherwise opaque sentence. Numerals, demonstratives, possessives, negation and relatives must be introduced by class-sensitive examples rather than English templates.
+
+MICRO TO SEED
+6000000–6000014: immutable original exploratory opening. Contains noun-class and adjective agreement previews, possession, a verb with an object, and a numeral phrase. These previews do not imply mastery of the corresponding branches.
+6000015–6000106: systematic expansion with people, objects, classes, identity predicates, adjective predicates and attributes, plurals, negative identity/description, questions, uku- verbs, independent pronouns, present subject markers, simple present clauses, negative verbs and a few direct objects. Later constructions such as locatives and object concords remain to be systematically taught.
+
+CANONICAL INTRODUCTION MAP
+
+ZU-01 — Orthography and click consonants: c q x; vowel and tone awareness
+ZU-02 — Core concrete nouns across common classes
+ZU-03 — Common property stems and descriptive predicates
+ZU-04 — Independent pronouns versus subject agreement
+ZU-05 — Personal identity predicates and occupations
+ZU-06 — Class 1/2 human nouns and plural agreement
+ZU-07 — Class 9/10 nouns and plural identity/alternations
+ZU-08 — Class 7/8 nouns and agreement
+ZU-09 — Class 3/4 nouns and agreement
+ZU-10 — Class 5/6 nouns and agreement
+ZU-11 — Class 11/10 and 14/15 nouns
+ZU-12 — Attributive adjective agreement
+ZU-13 — Predicative adjective agreement
+ZU-14 — Early noun-class synthesis and plurals
+ZU-15 — Negation of identity predicates
+ZU-16 — Negative adjectival predicates
+ZU-17 — Polar questions and ingabe
+ZU-18 — Infinitives with uku- and verbal stems
+ZU-19 — Present subject concords and first regular paradigm
+ZU-20 — Present long form with -ya-
+ZU-21 — Present short form and conjoint/disjoint distribution
+ZU-22 — Present-tense negation
+ZU-23 — Present questions and early content questions
+ZU-24 — Direct objects and simple transitive clauses
+ZU-25 — Object concords: first/second person
+ZU-26 — Object concords: third-person and noun-class objects
+ZU-27 — Possessive concords and pronominal possessives
+ZU-28 — Demonstratives across near/medial/far distance
+ZU-29 — Locative forms in -ini and irregular locations
+ZU-30 — Locative copulas and basic spatial expressions
+ZU-31 — Basic numerals with noun-class agreement
+ZU-32 — Quantifiers and inclusive expressions
+ZU-33 — Past recent tense and present-perfect patterns
+ZU-34 — Remote past and narrative past
+ZU-35 — Future tense with -zo- and -yo-
+ZU-36 — Progressive and ongoing-event readings
+ZU-37 — Aspect contrast and verb-final alternations
+ZU-38 — Imperative singular/plural and commands
+ZU-39 — Negative imperatives and prohibitions
+ZU-40 — Infinitival complements and modal expressions
+ZU-41 — Ability and necessity
+ZU-42 — Desire and preferences
+ZU-43 — Subjunctive formation and functions
+ZU-44 — Subjunctive in purpose and complement clauses
+ZU-45 — Potential mood
+ZU-46 — Conditional constructions
+ZU-47 — Negation across tense/aspect/mood
+ZU-48 — Reflexive -zi-
+ZU-49 — Reciprocal -an-
+ZU-50 — Applicative -el-
+ZU-51 — Causative -is-
+ZU-52 — Passive -w- and -iw-
+ZU-53 — Neuter/stative -ek-
+ZU-54 — Verb extension combinations
+ZU-55 — Relative concords and subject relatives
+ZU-56 — Object relatives and relative morphology
+ZU-57 — Adjectival/relative clauses and attributive predicates
+ZU-58 — Copular affirmative and negative across classes
+ZU-59 — Associative constructions and possession
+ZU-60 — Pronominal forms and emphatic reference
+ZU-61 — Demonstrative and possessive synthesis
+ZU-62 — Basic adverbs and manner
+ZU-63 — Comparison and degree
+ZU-64 — Time adverbials and frequency
+ZU-65 — Coordination and disjunction
+ZU-66 — Complement clauses and reported content
+ZU-67 — Temporal and causal subordinate clauses
+ZU-68 — Condition and concession
+ZU-69 — Focus and information structure
+ZU-70 — Question particles and pragmatic emphasis
+ZU-71 — Politeness and forms of address
+ZU-72 — Kinship and family
+ZU-73 — Home and household
+ZU-74 — Food and cooking
+ZU-75 — Shopping and money
+ZU-76 — Work and occupations
+ZU-77 — School and education
+ZU-78 — Travel and transport
+ZU-79 — Nature and weather
+ZU-80 — Body and health
+ZU-81 — Feelings and relationships
+ZU-82 — Media and technology
+ZU-83 — Community and institutions
+ZU-84 — History and culture of southern Africa
+ZU-85 — Government and civic life
+ZU-86 — Law and administration
+ZU-87 — Science and mathematics
+ZU-88 — Environment and agriculture
+ZU-89 — Engineering and technical vocabulary
+ZU-90 — Formal written style
+ZU-91 — Conversational idioms and discourse markers
+ZU-92 — Derivational word families and reduplication
+ZU-93 — Tone-sensitive interpretation and pronunciation
+ZU-94 — Dialect and regional usage
+ZU-95 — Borrowings and lexical register
+ZU-96 — Advanced nominal agreement and irregular classes
+ZU-97 — Advanced verb chains and discourse
+ZU-98 — Semantic contrasts and collocation
+ZU-99 — Authentic-text backward validation and educated-adult breadth
+
+FRONTIER
+ZU-24 — Direct objects and simple transitive clauses. The seed previews unmarked noun objects (ngibona incwadi; sibona izimoto). Next establish more object-bearing present clauses while contrasting long and short present forms, then progress to object concords. Earlier noun-class agreement and present negation must remain in active reinforcement.
+
+GENERATION POLICY
+Continue consecutive IDs after 6000106 in the permanent Zulu 6000000–6099999 allocation. Preserve the original micro cards and the current seed. EnglishPrompt must be unique within Zulu. Respect the protocol, canonical introduction order, standard CSV quoting and UTF-8 BOM. The syllabus is an introduction map rather than a fixed per-unit quota. Later vocabulary and morphology should be developed jointly; audit all targets for natural contemporary Standard Zulu before extensive expansion.
+
+AMENDMENT HISTORY
+v0.1 — Graduated 15-card micro deck to 107 cards; created 99-unit language-specific Zulu syllabus.
