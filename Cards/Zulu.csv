@@ -14,3 +14,95 @@
 6000012,Zulu,He has a car.,Unemoto.,,sentence
 6000013,Zulu,He has a red car.,Unemoto ebomvu.,,sentence
 6000014,Zulu,I see four cars.,Ngibona izimoto ezine.,,sentence
+6000015,Zulu,woman,umfazi,,noun
+6000016,Zulu,child,umntwana,,noun
+6000017,Zulu,book,incwadi,,noun
+6000018,Zulu,school,isikole,,noun
+6000019,Zulu,friend,umngane,,noun
+6000020,Zulu,teacher,uthisha,,noun
+6000021,Zulu,food,ukudla,,noun
+6000022,Zulu,apple,i-apula,,noun
+6000023,Zulu,small,ncane,,adjective
+6000024,Zulu,good,hle,,adjective
+6000025,Zulu,new,sha,,adjective
+6000026,Zulu,one,kunye,,number
+6000027,Zulu,I (independent pronoun),mina,,pronoun
+6000028,Zulu,you (singular independent pronoun),wena,,pronoun
+6000029,Zulu,he or she (independent pronoun),yena,,pronoun
+6000030,Zulu,we (independent pronoun),thina,,pronoun
+6000031,Zulu,you (plural independent pronoun),nina,,pronoun
+6000032,Zulu,they (independent pronoun),bona,,pronoun
+6000033,Zulu,I am a teacher.,Nginguthisha.,,sentence
+6000034,Zulu,You are a teacher.,Unguthisha.,,sentence
+6000035,Zulu,She is a teacher.,Unguthisha.,,sentence
+6000036,Zulu,We are teachers.,Singothisha.,,sentence
+6000037,Zulu,They are teachers.,Bangothisha.,,sentence
+6000038,Zulu,The child is small.,Umntwana mncane.,,sentence
+6000039,Zulu,The man is big.,Indoda inkulu.,,sentence
+6000040,Zulu,The book is new.,Incwadi intsha.,,sentence
+6000041,Zulu,The food is good.,Ukudla kuhle.,,sentence
+6000042,Zulu,men,amadoda,,noun
+6000043,Zulu,women,abafazi,,noun
+6000044,Zulu,children,abantwana,,noun
+6000045,Zulu,books,izincwadi,,noun
+6000046,Zulu,houses,izindlu,,noun
+6000047,Zulu,cars,izimoto,,noun
+6000048,Zulu,friends,abangane,,noun
+6000049,Zulu,teachers,othisha,,noun
+6000050,Zulu,schools,izikole,,noun
+6000051,Zulu,The children are small.,Abantwana bancane.,,sentence
+6000052,Zulu,The houses are big.,Izindlu zinkulu.,,sentence
+6000053,Zulu,The books are new.,Izincwadi zintsha.,,sentence
+6000054,Zulu,The cars are red.,Izimoto zibomvu.,,sentence
+6000055,Zulu,a big house,indlu enkulu,,phrase
+6000056,Zulu,a small child,umntwana omncane,,phrase
+6000057,Zulu,a new book,incwadi entsha,,phrase
+6000058,Zulu,a good friend,umngane omuhle,,phrase
+6000059,Zulu,a red car,imoto ebomvu,,phrase
+6000060,Zulu,small houses,izindlu ezincane,,phrase
+6000061,Zulu,new books,izincwadi ezintsha,,phrase
+6000062,Zulu,good children,abantwana abahle,,phrase
+6000063,Zulu,I am not a teacher.,Angiyena uthisha.,,sentence
+6000064,Zulu,He is not a teacher.,Akayena uthisha.,,sentence
+6000065,Zulu,The house is not big.,Indlu ayinkulu.,,sentence
+6000066,Zulu,The car is not red.,Imoto ayibomvu.,,sentence
+6000067,Zulu,Is the house big?,Ingabe indlu inkulu?,,sentence
+6000068,Zulu,Is the car red?,Ingabe imoto ibomvu?,,sentence
+6000069,Zulu,to see,ukubona,,verb
+6000070,Zulu,to read,ukufunda,,verb
+6000071,Zulu,to work,ukusebenza,,verb
+6000072,Zulu,to go,ukuya,,verb
+6000073,Zulu,to eat,ukudla,,verb
+6000074,Zulu,to drink,ukuphuza,,verb
+6000075,Zulu,to want,ukufuna,,verb
+6000076,Zulu,to speak,ukukhuluma,,verb
+6000077,Zulu,to live,ukuhlala,,verb
+6000078,Zulu,I work.,Ngiyasebenza.,,sentence
+6000079,Zulu,You work.,Uyasebenza.,,sentence
+6000080,Zulu,He works.,Uyasebenza.,,sentence
+6000081,Zulu,We work.,Siyasebenza.,,sentence
+6000082,Zulu,You (plural) work.,Niyasebenza.,,sentence
+6000083,Zulu,They work.,Bayasebenza.,,sentence
+6000084,Zulu,I read.,Ngiyafunda.,,sentence
+6000085,Zulu,She reads.,Uyafunda.,,sentence
+6000086,Zulu,We read.,Siyafunda.,,sentence
+6000087,Zulu,They read.,Bayafunda.,,sentence
+6000088,Zulu,I go.,Ngiyahamba.,,sentence
+6000089,Zulu,She goes.,Uyahamba.,,sentence
+6000090,Zulu,I eat.,Ngiyadla.,,sentence
+6000091,Zulu,We eat.,Siyadla.,,sentence
+6000092,Zulu,I drink.,Ngiyaphuza.,,sentence
+6000093,Zulu,They drink.,Bayaphuza.,,sentence
+6000094,Zulu,I do not work.,Angisebenzi.,,sentence
+6000095,Zulu,She does not read.,Akafundi.,,sentence
+6000096,Zulu,We do not eat.,Asidli.,,sentence
+6000097,Zulu,They do not drink.,Abaphuzi.,,sentence
+6000098,Zulu,Do you work?,Uyasebenza?,,sentence
+6000099,Zulu,Do they read?,Bayafunda?,,sentence
+6000100,Zulu,Where are you going?,Uyaphi?,,sentence
+6000101,Zulu,I want water.,Ngifuna amanzi.,,sentence
+6000102,Zulu,I want food.,Ngifuna ukudla.,,sentence
+6000103,Zulu,I see a book.,Ngibona incwadi.,,sentence
+6000104,Zulu,I see the child.,Ngibona umntwana.,,sentence
+6000105,Zulu,She sees the man.,Ubona indoda.,,sentence
+6000106,Zulu,We see cars.,Sibona izimoto.,,sentence
