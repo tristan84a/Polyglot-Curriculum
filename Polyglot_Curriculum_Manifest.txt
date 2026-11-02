@@ -420,7 +420,10 @@ Notes: Kurmanji in Latin script is the initial reference variety.
 ZULU
 ID allocation: 6000000-6099999
 CSV: Cards/Zulu.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
+Syllabus: Syllabi/Polyglot_Zulu_Syllabus_v0.1.txt
+Frontier: ZU-24 — Direct objects and simple transitive clauses
+Checkpoint: Original 15 micro cards preserved; extended to 107 cards with noun-class pairs, agreement, pronouns, identity and descriptive predicates, negation, questions, core uku- verbs, present subject concords and first transitive clauses. Next deepen short/conjoint present forms and object-bearing clauses before object concords.
 
 KHMER
 ID allocation: 6100000-6199999
