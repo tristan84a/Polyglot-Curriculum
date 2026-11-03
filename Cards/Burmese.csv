@@ -14,3 +14,88 @@
 6300012,Burmese,He has a car.,သူ့မှာ ကားရှိတယ်။,,sentence
 6300013,Burmese,He has a red car.,သူ့မှာ အနီရောင်ကားရှိတယ်။,,sentence
 6300014,Burmese,I see four cars.,ကားလေးစီးကို မြင်တယ်။,,sentence
+6300015,Burmese,woman,အမျိုးသမီး,,noun
+6300016,Burmese,child,ကလေး,,noun
+6300017,Burmese,book,စာအုပ်,,noun
+6300018,Burmese,school,ကျောင်း,,noun
+6300019,Burmese,teacher (male),ဆရာ,,noun
+6300020,Burmese,student (male),ကျောင်းသား,,noun
+6300021,Burmese,friend,သူငယ်ချင်း,,noun
+6300022,Burmese,cat,ကြောင်,,noun
+6300023,Burmese,dog,ခွေး,,noun
+6300024,Burmese,rice (cooked),ထမင်း,,noun
+6300025,Burmese,tea (milk tea),လက်ဖက်ရည်,,noun
+6300026,Burmese,coffee,ကော်ဖီ,,noun
+6300027,Burmese,small,သေး,,adjective
+6300028,Burmese,good,ကောင်း,,adjective
+6300029,Burmese,new,အသစ်,,adjective
+6300030,Burmese,one,တစ်,,number
+6300031,Burmese,two,နှစ်,,number
+6300032,Burmese,three,သုံး,,number
+6300033,Burmese,five,ငါး,,number
+6300034,Burmese,"I (male speaker, polite)",ကျွန်တော်,,pronoun
+6300035,Burmese,"you (polite, male addressee)",ခင်ဗျား,,pronoun
+6300036,Burmese,he or she,သူ,,pronoun
+6300037,Burmese,we (male speaker),ကျွန်တော်တို့,,pronoun
+6300038,Burmese,they,သူတို့,,pronoun
+6300039,Burmese,She is a teacher.,သူက ဆရာမပါ။,,sentence
+6300040,Burmese,I am a student. (male speaker),ကျွန်တော်က ကျောင်းသားပါ။,,sentence
+6300041,Burmese,He is a student.,သူက ကျောင်းသားပါ။,,sentence
+6300042,Burmese,This is a book.,ဒါ စာအုပ်ပါ။,,sentence
+6300043,Burmese,This is a school.,ဒါ ကျောင်းပါ။,,sentence
+6300044,Burmese,The book is new.,စာအုပ်က အသစ်ပါ။,,sentence
+6300045,Burmese,The house is small.,အိမ်က သေးတယ်။,,sentence
+6300046,Burmese,The cat is small.,ကြောင်က သေးတယ်။,,sentence
+6300047,Burmese,The dog is big.,ခွေးက ကြီးတယ်။,,sentence
+6300048,Burmese,The tea is good.,လက်ဖက်ရည်က ကောင်းတယ်။,,sentence
+6300049,Burmese,a big house,အိမ်ကြီး,,phrase
+6300050,Burmese,a small house,အိမ်သေး,,phrase
+6300051,Burmese,a red car,ကားနီ,,phrase
+6300052,Burmese,a new book,စာအုပ်အသစ်,,phrase
+6300053,Burmese,two books,စာအုပ်နှစ်အုပ်,,phrase
+6300054,Burmese,three cats,ကြောင်သုံးကောင်,,phrase
+6300055,Burmese,four cars,ကားလေးစီး,,phrase
+6300056,Burmese,The child is at school.,ကလေးက ကျောင်းမှာ ရှိတယ်။,,sentence
+6300057,Burmese,The book is at home.,စာအုပ်က အိမ်မှာ ရှိတယ်။,,sentence
+6300058,Burmese,The teacher is here. (male teacher),ဆရာက ဒီမှာ ရှိတယ်။,,sentence
+6300059,Burmese,Where is the book?,စာအုပ် ဘယ်မှာလဲ။,,sentence
+6300060,Burmese,Where is the school?,ကျောင်း ဘယ်မှာလဲ။,,sentence
+6300061,Burmese,Who is this?,ဒါ ဘယ်သူလဲ။,,sentence
+6300062,Burmese,What is this?,ဒါ ဘာလဲ။,,sentence
+6300063,Burmese,I have a book. (male speaker),ကျွန်တော့်မှာ စာအုပ်ရှိတယ်။,,sentence
+6300064,Burmese,She has a cat.,သူ့မှာ ကြောင်ရှိတယ်။,,sentence
+6300065,Burmese,I have two books. (male speaker),ကျွန်တော့်မှာ စာအုပ်နှစ်အုပ်ရှိတယ်။,,sentence
+6300066,Burmese,I do not have a car. (male speaker),ကျွန်တော့်မှာ ကားမရှိဘူး။,,sentence
+6300067,Burmese,Do you have a book? (male addressee),ခင်ဗျားမှာ စာအုပ်ရှိလား။,,sentence
+6300068,Burmese,The teacher is not here. (male teacher),ဆရာ ဒီမှာ မရှိဘူး။,,sentence
+6300069,Burmese,The house is not big.,အိမ်က မကြီးဘူး။,,sentence
+6300070,Burmese,The car is not new.,ကားက အသစ်မဟုတ်ဘူး။,,sentence
+6300071,Burmese,I am not a doctor. (male speaker),ကျွန်တော် ဆရာဝန်မဟုတ်ပါဘူး။,,sentence
+6300072,Burmese,Is the house big?,အိမ်က ကြီးလား။,,sentence
+6300073,Burmese,Is this a book?,ဒါ စာအုပ်လား။,,sentence
+6300074,Burmese,to eat,စား,,verb
+6300075,Burmese,to drink,သောက်,,verb
+6300076,Burmese,to read,ဖတ်,,verb
+6300077,Burmese,to see,မြင်,,verb
+6300078,Burmese,to go,သွား,,verb
+6300079,Burmese,to come,လာ,,verb
+6300080,Burmese,to speak,ပြော,,verb
+6300081,Burmese,I eat rice. (male speaker),ကျွန်တော် ထမင်းစားတယ်။,,sentence
+6300082,Burmese,He eats rice.,သူ ထမင်းစားတယ်။,,sentence
+6300083,Burmese,I drink water. (male speaker),ကျွန်တော် ရေသောက်တယ်။,,sentence
+6300084,Burmese,She drinks tea.,သူ လက်ဖက်ရည်သောက်တယ်။,,sentence
+6300085,Burmese,I read a book. (male speaker),ကျွန်တော် စာအုပ်ဖတ်တယ်။,,sentence
+6300086,Burmese,She reads a book.,သူ စာအုပ်ဖတ်တယ်။,,sentence
+6300087,Burmese,I see a cat. (male speaker),ကျွန်တော် ကြောင်ကို မြင်တယ်။,,sentence
+6300088,Burmese,I see two dogs. (male speaker),ကျွန်တော် ခွေးနှစ်ကောင်ကို မြင်တယ်။,,sentence
+6300089,Burmese,I do not drink coffee. (male speaker),ကျွန်တော် ကော်ဖီမသောက်ဘူး။,,sentence
+6300090,Burmese,He does not eat rice.,သူ ထမင်းမစားဘူး။,,sentence
+6300091,Burmese,Do you drink tea? (male addressee),ခင်ဗျား လက်ဖက်ရည်သောက်လား။,,sentence
+6300092,Burmese,What do you drink? (male addressee),ခင်ဗျား ဘာသောက်လဲ။,,sentence
+6300093,Burmese,I go to school. (male speaker),ကျွန်တော် ကျောင်းကို သွားတယ်။,,sentence
+6300094,Burmese,She goes home.,သူ အိမ်ပြန်တယ်။,,sentence
+6300095,Burmese,He comes here.,သူ ဒီကို လာတယ်။,,sentence
+6300096,Burmese,I speak Burmese. (male speaker),ကျွန်တော် မြန်မာလို ပြောတယ်။,,sentence
+6300097,Burmese,I do not understand. (male speaker),ကျွန်တော် နားမလည်ဘူး။,,sentence
+6300098,Burmese,Thank you.,ကျေးဇူးတင်ပါတယ်။,,phrase
+6300099,Burmese,Hello.,မင်္ဂလာပါ။,,phrase
