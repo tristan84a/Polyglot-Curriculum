@@ -14,3 +14,94 @@
 4900012,Yoruba,He has a car.,Ó ní ọkọ̀ ayọ́kẹ́lẹ́.,,sentence
 4900013,Yoruba,He has a red car.,Ó ní ọkọ̀ ayọ́kẹ́lẹ́ pupa.,,sentence
 4900014,Yoruba,I see four cars.,Mo rí ọkọ̀ ayọ́kẹ́lẹ́ mẹ́rin.,,sentence
+4900015,Yoruba,woman,obìnrin,,noun
+4900016,Yoruba,child,ọmọ,,noun
+4900017,Yoruba,book,ìwé,,noun
+4900018,Yoruba,school,ilé ẹ̀kọ́,,noun
+4900019,Yoruba,teacher,olùkọ́,,noun
+4900020,Yoruba,student,akẹ́kọ̀ọ́,,noun
+4900021,Yoruba,friend,ọ̀rẹ́,,noun
+4900022,Yoruba,market,ọjà,,noun
+4900023,Yoruba,food,oúnjẹ,,noun
+4900024,Yoruba,rice,ìrẹsì,,noun
+4900025,Yoruba,dog,ajá,,noun
+4900026,Yoruba,cat,ológbò,,noun
+4900027,Yoruba,table,tábìlì,,noun
+4900028,Yoruba,small,kékeré,,adjective
+4900029,Yoruba,good,rere,,adjective
+4900030,Yoruba,new,tuntun,,adjective
+4900031,Yoruba,two,méjì,,number
+4900032,Yoruba,three,mẹ́ta,,number
+4900033,Yoruba,five,márùn-ún,,number
+4900034,Yoruba,I,èmi,,pronoun
+4900035,Yoruba,you (singular, independent),ìwọ,,pronoun
+4900036,Yoruba,he or she (independent),òun,,pronoun
+4900037,Yoruba,we (independent),àwa,,pronoun
+4900038,Yoruba,you (plural, independent),ẹ̀yin,,pronoun
+4900039,Yoruba,they (independent),àwọn,,pronoun
+4900040,Yoruba,I am a teacher.,Olùkọ́ ni mí.,,sentence
+4900041,Yoruba,She is a teacher.,Olùkọ́ ni ó jẹ́.,,sentence
+4900042,Yoruba,He is a student.,Akẹ́kọ̀ọ́ ni ó jẹ́.,,sentence
+4900043,Yoruba,The woman is a teacher.,Olùkọ́ ni obìnrin náà.,,sentence
+4900044,Yoruba,The child is small.,Ọmọ náà kéré.,,sentence
+4900045,Yoruba,The man is tall.,Ọkùnrin náà ga.,,sentence
+4900046,Yoruba,The book is new.,Ìwé náà tuntun.,,sentence
+4900047,Yoruba,The food is good.,Oúnjẹ náà dára.,,sentence
+4900048,Yoruba,the book,ìwé náà,,phrase
+4900049,Yoruba,the child,ọmọ náà,,phrase
+4900050,Yoruba,the woman,obìnrin náà,,phrase
+4900051,Yoruba,a big house,ilé ńlá,,phrase
+4900052,Yoruba,a small child,ọmọ kékeré,,phrase
+4900053,Yoruba,a red car,ọkọ̀ ayọ́kẹ́lẹ́ pupa,,phrase
+4900054,Yoruba,a new book,ìwé tuntun,,phrase
+4900055,Yoruba,two books,ìwé méjì,,phrase
+4900056,Yoruba,three houses,ilé mẹ́ta,,phrase
+4900057,Yoruba,five children,ọmọ márùn-ún,,phrase
+4900058,Yoruba,the children,àwọn ọmọ náà,,phrase
+4900059,Yoruba,the books,àwọn ìwé náà,,phrase
+4900060,Yoruba,The children are small.,Àwọn ọmọ náà kéré.,,sentence
+4900061,Yoruba,The books are new.,Àwọn ìwé náà tuntun.,,sentence
+4900062,Yoruba,I have a book.,Mo ní ìwé.,,sentence
+4900063,Yoruba,You have water.,O ní omi.,,sentence
+4900064,Yoruba,We have a house.,A ní ilé.,,sentence
+4900065,Yoruba,They have food.,Wọ́n ní oúnjẹ.,,sentence
+4900066,Yoruba,I do not have a car.,Mi ò ní ọkọ̀ ayọ́kẹ́lẹ́.,,sentence
+4900067,Yoruba,The house is not big.,Ilé náà kò tóbi.,,sentence
+4900068,Yoruba,The book is not new.,Ìwé náà kò tuntun.,,sentence
+4900069,Yoruba,He is not a teacher.,Kì í ṣe olùkọ́.,,sentence
+4900070,Yoruba,Is the house big?,Ṣé ilé náà tóbi?,,sentence
+4900071,Yoruba,Is the car red?,Ṣé ọkọ̀ ayọ́kẹ́lẹ́ náà pupa?,,sentence
+4900072,Yoruba,Do you have a book?,Ṣé o ní ìwé?,,sentence
+4900073,Yoruba,Where is the book?,Níbo ni ìwé náà wà?,,sentence
+4900074,Yoruba,Where is the child?,Níbo ni ọmọ náà wà?,,sentence
+4900075,Yoruba,What is this?,Kí ni èyí?,,sentence
+4900076,Yoruba,Who is that?,Ta ni ìyẹn?,,sentence
+4900077,Yoruba,this book,ìwé yìí,,phrase
+4900078,Yoruba,that book,ìwé yẹn,,phrase
+4900079,Yoruba,this house,ilé yìí,,phrase
+4900080,Yoruba,I am here.,Mo wà níbí.,,sentence
+4900081,Yoruba,The child is here.,Ọmọ náà wà níbí.,,sentence
+4900082,Yoruba,The teacher is at school.,Olùkọ́ náà wà ní ilé ẹ̀kọ́.,,sentence
+4900083,Yoruba,The book is on the table.,Ìwé náà wà lórí tábìlì.,,sentence
+4900084,Yoruba,I see a dog.,Mo rí ajá.,,sentence
+4900085,Yoruba,She sees the child.,Ó rí ọmọ náà.,,sentence
+4900086,Yoruba,We see the house.,A rí ilé náà.,,sentence
+4900087,Yoruba,They see three cars.,Wọ́n rí ọkọ̀ ayọ́kẹ́lẹ́ mẹ́ta.,,sentence
+4900088,Yoruba,I want water.,Mo fẹ́ omi.,,sentence
+4900089,Yoruba,I want a book.,Mo fẹ́ ìwé.,,sentence
+4900090,Yoruba,The child wants food.,Ọmọ náà fẹ́ oúnjẹ.,,sentence
+4900091,Yoruba,I like this book.,Mo fẹ́ràn ìwé yìí.,,sentence
+4900092,Yoruba,He likes rice.,Ó fẹ́ràn ìrẹsì.,,sentence
+4900093,Yoruba,I am reading a book.,Mo ń ka ìwé.,,sentence
+4900094,Yoruba,She is reading.,Ó ń kàwé.,,sentence
+4900095,Yoruba,We are eating.,A ń jẹun.,,sentence
+4900096,Yoruba,They are drinking water.,Wọ́n ń mu omi.,,sentence
+4900097,Yoruba,I am going to school.,Mo ń lọ sí ilé ẹ̀kọ́.,,sentence
+4900098,Yoruba,She is going to the market.,Ó ń lọ sí ọjà.,,sentence
+4900099,Yoruba,I am not reading.,Mi ò ń ka ìwé.,,sentence
+4900100,Yoruba,I am eating rice.,Mo ń jẹ ìrẹsì.,,sentence
+4900101,Yoruba,Are you reading?,Ṣé o ń ka ìwé?,,sentence
+4900102,Yoruba,What are you reading?,Kí ni o ń kà?,,sentence
+4900103,Yoruba,Where are you going?,Níbo ni o ń lọ?,,sentence
+4900104,Yoruba,I am drinking water.,Mo ń mu omi.,,sentence
+4900105,Yoruba,We are going to school.,A ń lọ sí ilé ẹ̀kọ́.,,sentence
