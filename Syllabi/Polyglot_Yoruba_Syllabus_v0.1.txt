@@ -1,0 +1,137 @@
+POLYGLOT YORUBA SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Yoruba (Èdè Yorùbá)
+Reference variety: contemporary Standard Yoruba, Nigerian standard orthography
+Card Generation Protocol: 1.0
+Charter version: 0.8
+
+PURPOSE
+Canonical introduction map for Yoruba in Polyglot. Original exploratory micro cards 4900000–4900014 are preserved exactly. The new systematic seed adds 91 cards (4900015–4900105) for 106 cards total. Each numbered syllabus unit opens a language branch; subsequent cards revisit earlier material in a widening spiral.
+
+LANGUAGE-SPECIFIC AUTHORING GUIDANCE
+Preserve standard Yoruba letters ẹ, ọ, ṣ and all normally written tone marks. High tone is acute, low grave and mid normally unmarked. Tone can distinguish lexical words, pronouns and grammatical forms; do not automatically strip or normalize accents. Use consistent Unicode NFC, spacing, and punctuation; InputHint remains blank. A learner is expected to type the target directly.
+
+Yoruba is chiefly SVO and analytic. Verbs do not conjugate for person like French or Russian. Distinguish subject forms (mo, o, ó, a, ẹ, wọ́n), which can vary by syntactic context and tone, from independent forms (èmi, ìwọ, òun, àwa, ẹ̀yin, àwọn). English he/she often maps to the same third-person form. Do not force separate gender readings in the target.
+
+Nouns generally lack obligatory plural inflection. Àwọn marks plurality when appropriate, and numerals normally follow nouns. Noun modifiers, demonstratives, and postnominal definite náà should be taught with meaningful contrasting examples. Noun identity can use ni; property predicates commonly lack a separate copula (Ilé náà tóbi). The source micro cards already preview both patterns, possessive ní and transitive rí.
+
+Tense, aspect and modality depend heavily on particles and context, not person-based suffixes. Teach ongoing ń first, then habitual máa ń, prospective máa and completed ti in distinct contexts. An unmarked Yoruba clause may have several English time readings; use overt time context to create self-contained exact-answer cards where needed. Distinguish negative clauses, polar question ṣé, content question constructions and focus ni. Yoruba serial verbs and information structure deserve sustained later development.
+
+The English prompt must be unique; answers are single canonical translations, not claims that alternatives are ungrammatical. New cards preserve the original first 15 rows and introduce lexical breadth together with grammar. Ordinary dictionary verb prompts beginning 'to' are allowed, but for Yoruba many bare verb forms change tone in constructions; prioritize unambiguous natural clauses when helpful. Revisit orthographic and pronunciation distinctions through authentic examples, including short publicly available phrases where reliability is a concern.
+
+MICRO TO SEED
+4900000–4900014: original micro opening, unchanged; nouns and adjectives plus previews of ni identity, descriptive predicates, possession, direct objects and counting.
+4900015–4900105: new systematic seed; occupations and personal reference, additional everyday nouns and properties, definite noun phrases, demonstratives, noun-number phrases and àwọn plurals, predicates, possession, negation, questions, location, simple transitive clauses and early progressive ń. These remain active, not exhausted.
+
+CANONICAL INTRODUCTION MAP
+YO-01 — Standard Yoruba orthography: ẹ, ọ, ṣ; high, mid and low tones
+YO-02 — Core concrete nouns, properties and numbers
+YO-03 — Nominal identity with ni and common occupations
+YO-04 — Preverbal subject pronouns versus independent pronouns
+YO-05 — Invariant noun forms and plural àwọn
+YO-06 — Attributive descriptions and modifier position
+YO-07 — Predicative descriptions without an obligatory English-style copula
+YO-08 — Definiteness with postnominal náà
+YO-09 — Simple quantity and noun–numeral ordering
+YO-10 — Possession with ní
+YO-11 — Negation of possession and property predicates
+YO-12 — Nominal identity negation with kì í ṣe
+YO-13 — Polar questions using ṣé
+YO-14 — Where, what and who questions; níbo, kí, ta
+YO-15 — Proximal and distal demonstratives yìí and yẹn
+YO-16 — Location with wà, ní and common spatial expressions
+YO-17 — Simple SVO transitive clauses and tone-sensitive verbs
+YO-18 — Wants and preferences with fẹ́ and fẹ́ràn
+YO-19 — Progressive and imperfective ń with common activity verbs
+YO-20 — Negating progressive and other aspect-marked clauses
+YO-21 — Subject agreement and clitic tone in varied clauses
+YO-22 — Habitual and generic readings, including máa ń
+YO-23 — Completed events and past reference without obligatory past conjugation
+YO-24 — Time adverbs: yesterday, today and tomorrow
+YO-25 — Future, intention and prospective máa
+YO-26 — Aspect contrasts with ń, ti, máa and unmarked verbs
+YO-27 — Negative habitual and future constructions
+YO-28 — Imperatives and positive commands
+YO-29 — Negative commands and prohibitions
+YO-30 — Questions with ṣe, ṣé and alternative polar constructions
+YO-31 — Interrogative placement and focus
+YO-32 — Possessive noun phrases and genitive relationships
+YO-33 — Possessive pronouns and dependent forms
+YO-34 — Demonstrative pronouns and distance contrasts
+YO-35 — Plurality, collectives and quantifiers
+YO-36 — Counting, classifier-like units and measure nouns
+YO-37 — Larger numerals and traditional Yoruba numeral system
+YO-38 — Ordinals, dates and clock time
+YO-39 — Spatial expressions, direction and movement
+YO-40 — Prepositions and relational nouns: ní, sí, láti, fún
+YO-41 — Motion verbs and goal/source contrasts
+YO-42 — Serial verb constructions: motion and purpose
+YO-43 — Serial verb constructions: transfer and instruments
+YO-44 — Serial verb constructions: results and manner
+YO-45 — Giving, recipients and benefactives
+YO-46 — Ability, permission and possibility
+YO-47 — Necessity, obligation and advice
+YO-48 — Desire, preference and intention
+YO-49 — Complements with pé and other clause-linking strategies
+YO-50 — Purpose clauses and purposive markers
+YO-51 — Conditional clauses and hypothetical reference
+YO-52 — Because, therefore and causal relations
+YO-53 — When, before, after and temporal clauses
+YO-54 — Coordination and conjunctions
+YO-55 — Contrast and concession
+YO-56 — Relative clauses and noun modification
+YO-57 — Focus with ni and focused constituents
+YO-58 — Topic-comment constructions and discourse reference
+YO-59 — Emphatic, contrastive and independent pronouns
+YO-60 — Negation scope and polarity-sensitive constructions
+YO-61 — Comparatives, inequality and degree
+YO-62 — Superlatives, intensification and quantity
+YO-63 — Adverbs, manner and frequency
+YO-64 — Reduplication and expressive intensification
+YO-65 — Verb compounds and lexicalized combinations
+YO-66 — Causation and affectedness
+YO-67 — Reciprocals and reflexive interpretations
+YO-68 — Object and subject omission in recoverable discourse
+YO-69 — Reported speech and quotation
+YO-70 — Questions and response particles in conversation
+YO-71 — Greeting formulas and polite requests
+YO-72 — Forms of address, respect and social relationships
+YO-73 — Family and kinship terminology
+YO-74 — Home, rooms and household objects
+YO-75 — Food, agriculture and cooking
+YO-76 — Shopping, prices and money
+YO-77 — Work, jobs and occupations
+YO-78 — School, learning and education
+YO-79 — Transport and travel
+YO-80 — Places, towns and public services
+YO-81 — Nature, weather and environment
+YO-82 — Body, health and medical care
+YO-83 — Emotions, relationships and personality
+YO-84 — Communication, media and technology
+YO-85 — Community, religion and cultural life
+YO-86 — Yoruba oral literature, sayings and proverbs
+YO-87 — Arts, literature and entertainment
+YO-88 — History, geography and society
+YO-89 — Politics, government and civic language
+YO-90 — Law, contracts and administration
+YO-91 — Science, mathematics and engineering
+YO-92 — Formal writing, education and professional register
+YO-93 — Conversational pragmatics and discourse particles
+YO-94 — Dialectal and regional variation
+YO-95 — Tone sandhi and connected-speech interpretation
+YO-96 — Yoruba orthographic conventions and input consistency
+YO-97 — Borrowings, modern coinages and lexical variation
+YO-98 — Idioms, collocations and semantic precision
+YO-99 — Educated-adult breadth and authentic-text backward validation
+
+FRONTIER
+YO-20 — Negating progressive and other aspect-marked clauses. The seed establishes progressive ń with selected activity verbs, simple questions and basic unmarked predicates. Continue by contrasting affirmative and negative aspect-marked clauses, then expand preverbal subject tone contrasts and habitual reference. Preserve earlier grammar and lexical material for longitudinal reinforcement.
+
+GENERATION POLICY
+Preserve the 15 existing cards exactly. Append from 4900106 within the Yoruba allocation 4900000–4999999. Maintain CSV schema ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech, UTF-8 BOM, unique EnglishPrompt, full spelling and tone marks, and natural standalone answerable prompts. The syllabus does not mandate a fixed quota per unit; pace is guided by actual productivity and authentic usage.
+
+AMENDMENT HISTORY
+v0.1 — Graduated the original 15-card exploratory micro deck into a 106-card seed and created a 99-unit Yoruba introduction map.

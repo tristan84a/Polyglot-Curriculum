@@ -360,7 +360,10 @@ Notes: — Syllabus: Syllabi/Polyglot_Indonesian_Syllabus_v0.1.txt. Frontier: ID
 YORUBA
 ID allocation: 4900000-4999999
 CSV: Cards/Yoruba.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
+Syllabus: Syllabi/Polyglot_Yoruba_Syllabus_v0.1.txt
+Frontier: YO-20 — Negating progressive and other aspect-marked clauses
+Checkpoint: Preserved original 15 micro cards (4900000–4900014) and appended 91 new cards through 4900105, establishing Yoruba orthography and tone-aware spelling, personal reference, identity/property predicates, noun phrase order, plurality, negation, questions, location, simple SVO clauses and ongoing ń. Continue contrasting negative progressive clauses and habitual reference.
 
 TIBETAN
 ID allocation: 5000000-5099999
