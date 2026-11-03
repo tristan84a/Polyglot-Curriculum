@@ -14,3 +14,108 @@
 4100012,Uzbek,He has a car.,Uning mashinasi bor.,,sentence
 4100013,Uzbek,He has a red car.,Uning qizil mashinasi bor.,,sentence
 4100014,Uzbek,I see four cars.,Men to‘rtta mashinani ko‘raman.,,sentence
+4100015,Uzbek,woman,ayol,,noun
+4100016,Uzbek,child,bola,,noun
+4100017,Uzbek,girl,qiz,,noun
+4100018,Uzbek,boy,o‘g‘il bola,,noun
+4100019,Uzbek,book,kitob,,noun
+4100020,Uzbek,school,maktab,,noun
+4100021,Uzbek,city,shahar,,noun
+4100022,Uzbek,table,stol,,noun
+4100023,Uzbek,apple,olma,,noun
+4100024,Uzbek,bread,non,,noun
+4100025,Uzbek,tea,choy,,noun
+4100026,Uzbek,coffee,qahva,,noun
+4100027,Uzbek,teacher,o‘qituvchi,,noun
+4100028,Uzbek,student,talaba,,noun
+4100029,Uzbek,friend,do‘st,,noun
+4100030,Uzbek,small,kichik,,adjective
+4100031,Uzbek,good,yaxshi,,adjective
+4100032,Uzbek,new,yangi,,adjective
+4100033,Uzbek,green,yashil,,adjective
+4100034,Uzbek,old (not new),eski,,adjective
+4100035,Uzbek,I,men,,pronoun
+4100036,Uzbek,you,sen,,pronoun
+4100037,Uzbek,he,u,,pronoun
+4100038,Uzbek,we,biz,,pronoun
+4100039,Uzbek,you guys,sizlar,,pronoun
+4100040,Uzbek,they,ular,,pronoun
+4100041,Uzbek,one,bir,,number
+4100042,Uzbek,two,ikki,,number
+4100043,Uzbek,three,uch,,number
+4100044,Uzbek,five,besh,,number
+4100045,Uzbek,I am a student.,Men talabaman.,,sentence
+4100046,Uzbek,You are a teacher.,Sen o‘qituvchisan.,,sentence
+4100047,Uzbek,He is a student.,U talaba.,,sentence
+4100048,Uzbek,We are students.,Biz talabamiz.,,sentence
+4100049,Uzbek,They are teachers.,Ular o‘qituvchilar.,,sentence
+4100050,Uzbek,The child is small.,Bola kichik.,,sentence
+4100051,Uzbek,The school is big.,Maktab katta.,,sentence
+4100052,Uzbek,The book is new.,Kitob yangi.,,sentence
+4100053,Uzbek,The apple is green.,Olma yashil.,,sentence
+4100054,Uzbek,The tea is good.,Choy yaxshi.,,sentence
+4100055,Uzbek,The table is old.,Stol eski.,,sentence
+4100056,Uzbek,a new book,yangi kitob,,phrase
+4100057,Uzbek,a small city,kichik shahar,,phrase
+4100058,Uzbek,a green apple,yashil olma,,phrase
+4100059,Uzbek,a big school,katta maktab,,phrase
+4100060,Uzbek,a good friend,yaxshi do‘st,,phrase
+4100061,Uzbek,The children are small.,Bolalar kichik.,,sentence
+4100062,Uzbek,The books are new.,Kitoblar yangi.,,sentence
+4100063,Uzbek,The cars are red.,Mashinalar qizil.,,sentence
+4100064,Uzbek,two books,ikki kitob,,phrase
+4100065,Uzbek,three apples,uchta olma,,phrase
+4100066,Uzbek,four children,to‘rtta bola,,phrase
+4100067,Uzbek,My book is new.,Mening kitobim yangi.,,sentence
+4100068,Uzbek,Your book is old.,Sening kitobing eski.,,sentence
+4100069,Uzbek,His book is big.,Uning kitobi katta.,,sentence
+4100070,Uzbek,Our school is big.,Bizning maktabimiz katta.,,sentence
+4100071,Uzbek,Their house is small.,Ularning uyi kichik.,,sentence
+4100072,Uzbek,I have a book.,Mening kitobim bor.,,sentence
+4100073,Uzbek,You have a car.,Sening mashinang bor.,,sentence
+4100074,Uzbek,We have a house.,Bizning uyimiz bor.,,sentence
+4100075,Uzbek,They have a new car.,Ularning yangi mashinasi bor.,,sentence
+4100076,Uzbek,Do you have a book?,Sening kitobing bormi?,,sentence
+4100077,Uzbek,Does he have a car?,Uning mashinasi bormi?,,sentence
+4100078,Uzbek,I do not have a car.,Mening mashinam yo‘q.,,sentence
+4100079,Uzbek,She does not have a book.,Uning kitobi yo‘q.,,sentence
+4100080,Uzbek,I am not a doctor.,Men shifokor emasman.,,sentence
+4100081,Uzbek,The car is not new.,Mashina yangi emas.,,sentence
+4100082,Uzbek,They are not students.,Ular talaba emas.,,sentence
+4100083,Uzbek,Are you a student?,Sen talabamisan?,,sentence
+4100084,Uzbek,Is the house big?,Uy kattami?,,sentence
+4100085,Uzbek,Is the apple green?,Olma yashilmi?,,sentence
+4100086,Uzbek,Who is this?,Bu kim?,,sentence
+4100087,Uzbek,What is this?,Bu nima?,,sentence
+4100088,Uzbek,Where is the school?,Maktab qayerda?,,sentence
+4100089,Uzbek,Where is the book?,Kitob qayerda?,,sentence
+4100090,Uzbek,The book is on the table.,Kitob stol ustida.,,sentence
+4100091,Uzbek,The child is at school.,Bola maktabda.,,sentence
+4100092,Uzbek,The car is in the city.,Mashina shaharda.,,sentence
+4100093,Uzbek,I am at home.,Men uydaman.,,sentence
+4100094,Uzbek,He is at school.,U maktabda.,,sentence
+4100095,Uzbek,The teacher is at home.,O‘qituvchi uyda.,,sentence
+4100096,Uzbek,to see,ko‘rmoq,,verb
+4100097,Uzbek,I see the book.,Men kitobni ko‘raman.,,sentence
+4100098,Uzbek,He sees the car.,U mashinani ko‘radi.,,sentence
+4100099,Uzbek,We see the school.,Biz maktabni ko‘ramiz.,,sentence
+4100100,Uzbek,You see the child.,Sen bolani ko‘rasan.,,sentence
+4100101,Uzbek,They see the house.,Ular uyni ko‘radilar.,,sentence
+4100102,Uzbek,I see two books.,Men ikkita kitobni ko‘raman.,,sentence
+4100103,Uzbek,I do not see the car.,Men mashinani ko‘rmayman.,,sentence
+4100104,Uzbek,He does not see the book.,U kitobni ko‘rmaydi.,,sentence
+4100105,Uzbek,Do you see the school?,Sen maktabni ko‘rasanmi?,,sentence
+4100106,Uzbek,What do you see?,Sen nimani ko‘rasan?,,sentence
+4100107,Uzbek,to read,o‘qimoq,,verb
+4100108,Uzbek,I read a book.,Men kitob o‘qiyman.,,sentence
+4100109,Uzbek,She reads a book.,U kitob o‘qiydi.,,sentence
+4100110,Uzbek,We read books.,Biz kitob o‘qiymiz.,,sentence
+4100111,Uzbek,to drink,ichmoq,,verb
+4100112,Uzbek,I drink water.,Men suv ichaman.,,sentence
+4100113,Uzbek,He drinks tea.,U choy ichadi.,,sentence
+4100114,Uzbek,to eat,yemoq,,verb
+4100115,Uzbek,The child eats bread.,Bola non yeydi.,,sentence
+4100116,Uzbek,We eat apples.,Biz olma yeymiz.,,sentence
+4100117,Uzbek,I read a new book.,Men yangi kitob o‘qiyman.,,sentence
+4100118,Uzbek,Do you drink coffee?,Sen qahva ichasanmi?,,sentence
+4100119,Uzbek,I do not drink coffee.,Men qahva ichmayman.,,sentence
