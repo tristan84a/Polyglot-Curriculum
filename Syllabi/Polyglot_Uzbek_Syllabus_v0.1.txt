@@ -1,0 +1,141 @@
+POLYGLOT UZBEK SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Uzbek (o‘zbek tili)
+Reference variety: contemporary Standard Uzbek, Latin orthography (Uzbekistan)
+Card Generation Protocol: 1.0
+Charter version: 0.8
+
+PURPOSE
+This is the canonical introduction map for Uzbek in Polyglot. Original exploratory micro cards 4100000–4100014 are preserved unchanged. A systematic seed adds 105 cards, for 120 total (4100000–4100119). The syllabus is a prerequisite-aware sequence of openings, not an exhaustive sequence of sealed lessons. Continue building productive language through a widening spiral of grammar and everyday vocabulary.
+
+LANGUAGE-SPECIFIC AUTHORING GUIDANCE
+Use contemporary Standard Uzbek in Latin script. Represent o‘ and g‘ with the same U+2018 left single quotation mark convention as the original micro deck (o‘, g‘, to‘rt, ko‘rmoq); retain sh and ch digraphs. Do not mix U+2018 with straight ASCII apostrophes or typographic right apostrophes within new cards. The Latin convention is the standard for this course, although Uzbek also appears widely in Cyrillic. InputHint is normally blank. Use conventional capitalization and sentence punctuation.
+
+Uzbek is Turkic, typically SOV and agglutinative, with no grammatical gender and no articles. Nominal case is primarily suffixal: unmarked nominative, accusative -ni, genitive -ning, dative -ga/-ka/-qa, locative -da and ablative -dan. Introduce familiar case uses through meaningful contrasting phrases and sentences; retain the distinction between often-unmarked indefinite objects and marked definite/specific objects. Nouns after numerals ordinarily remain singular, and counting suffix -ta is common.
+
+Noun plurality is often expressed by -lar, but plural marking is not automatic after numbers or whenever English uses a plural. Possessive suffixes combine with genitive possessors (mening kitobim, sening kitobing, uning kitobi); existence and possession are often conveyed by bor, absence by yo‘q. These are not direct equivalents of English 'have.' Common personal pronouns include men, sen, u, biz, siz and ular. Sen is familiar singular, siz is respectful singular or plural, and sizlar is explicitly plural; the seed has an independently prompted 'you guys' card with sizlar. Maintain politeness decisions without adding repetitive glosses when context supplies them.
+
+Present/general nonpast is commonly conveyed by -a/-y plus personal agreement (ko‘raman, ko‘radi, o‘qiyman), but do not reduce the Uzbek tense/aspect system to simple English present tense. In particular, -yap- progressive, -moqda formal continuous, -di definite past, -gan resultative/experience, -ar/-r aorist/habitual, and future/intention constructions need separate later introduction. Negation of ordinary finite verbs regularly uses -ma-; polar interrogatives use -mi, attached orthographically. Subject pronouns may be dropped when clear, while the seed sometimes keeps them for ease of learning and contrast. Choose naturally plausible defaults as the deck matures.
+
+The original 15 cards preview definite accusative -ni, genitive-plus-possessive construction and numeral -ta. Preserve these rows exactly as live identities. The seed then establishes lexical nouns/adjectives, pronouns, predicative person endings, attributive adjectives, plural nouns, counting expressions, possessive suffixes, bor/yo‘q, emas, polar and content questions, locative -da, and the opening of nonpast finite verb patterns. A few locative and negated constructions are previews of deeper branches.
+
+All EnglishPrompt values must be unique within Uzbek, with natural canonical targets. The app shuffles introduced cards, so every prompt must stand alone. Verbs take dictionary infinitive -moq ('to see' = ko‘rmoq). When an English prompt cannot reliably distinguish formal vs informal address or specific vs indefinite objects, select a consistent default or rewrite minimally rather than creating unnecessary English metalinguistic labels. Be mindful that Uzbek has no he/she distinction in u; the seed includes an existing 'He is a doctor' and new 'She reads a book' that both use u naturally.
+
+MICRO TO SEED
+4100000–4100014: preserved original exploratory micro deck. Its early grammatical previews are kept intact.
+4100015–4100119: 105 added cards, progressing from reusable noun/adjective/pronoun/number stock through predicates, number, possession, existence, negation, questions, place, -ni objects, then first finite lexical verbs with affirmative, negative and interrogative examples. Some branches introduced earlier remain open for reinforcement.
+The next forward frontier is UZ-21 — Dative destinations and recipients: -ga/-ka/-qa. Keep nonpast agreement and marked versus unmarked accusatives in the active spiral.
+
+CANONICAL INTRODUCTION MAP
+
+UZ-01 — Standard Latin spelling: o‘, g‘, sh, ch and sound distinctions
+UZ-02 — Core concrete nouns and bare nominal reference
+UZ-03 — Attributive and predicative adjectives without agreement
+UZ-04 — Independent pronouns and familiar/respectful address
+UZ-05 — Nominal predicates and personal predicative suffixes
+UZ-06 — Plural -lar and ordinary noun-number usage
+UZ-07 — Numerals and counting suffix -ta
+UZ-08 — Possessive suffixes: first/second/third person singular
+UZ-09 — Genitive -ning with possessed nouns
+UZ-10 — Plural possessors and possessive forms
+UZ-11 — Existence and possession with bor
+UZ-12 — Absence and negative possession with yo‘q
+UZ-13 — Nominal/adjectival negation with emas
+UZ-14 — Polar questions with -mi on nominal predicates
+UZ-15 — Core question words: kim, nima, qayer, qaysi
+UZ-16 — Locative -da and ordinary place expressions
+UZ-17 — Accusative -ni versus unmarked indefinite objects
+UZ-18 — Citation verbs in -moq; infinitive/stem awareness
+UZ-19 — First finite nonpast forms: -a/-y with person endings
+UZ-20 — Finite negative -ma- and polar verbal questions
+UZ-21 — Dative destinations and recipients: -ga/-ka/-qa
+UZ-22 — Ablative -dan: source, departure and comparisons preview
+UZ-23 — Spatial postpositions and possessed location nouns
+UZ-24 — Word order: default SOV and focus-sensitive variation
+UZ-25 — Person/number paradigm of simple nonpast verbs
+UZ-26 — Intransitive motion: bormoq, kelmoq, ketmoq
+UZ-27 — Transitive verbs: specific versus general objects
+UZ-28 — Present progressive -yap- and agreement
+UZ-29 — Simple nonpast versus progressive meaning
+UZ-30 — Lexical expansion: daily actions and routines
+UZ-31 — Imperatives: basic second-person commands
+UZ-32 — Negative imperatives and polite requests
+UZ-33 — Present habitual, general truths and frequency
+UZ-34 — Definite past -di: first paradigms
+UZ-35 — Past questions and negation
+UZ-36 — Past progressive and overlapping events
+UZ-37 — Future-oriented present and intention
+UZ-38 — Future/intention with -moqchi
+UZ-39 — Aorist/general future -ar/-r and its contrasts
+UZ-40 — Perfect/resultative -gan forms
+UZ-41 — Evidential and resultative nuance in past reference
+UZ-42 — Ability and possibility with -a olmoq
+UZ-43 — Necessity with kerak and lozim
+UZ-44 — Desire and preference with xohlamoq and istamoq
+UZ-45 — Infinitival complements and verbal nouns
+UZ-46 — Conditional -sa and basic if-clauses
+UZ-47 — Wish, politeness and hypothetical conditionals
+UZ-48 — Reflexive and reciprocal meanings
+UZ-49 — Causative verb formation
+UZ-50 — Passive voice and agent expressions
+UZ-51 — Voice suffix combinations and transitivity
+UZ-52 — Participles in -gan and relative modification
+UZ-53 — Nonpast participles and habitual attributes
+UZ-54 — Verbal nouns in -ish and nominalization
+UZ-55 — Converbs in -ib/-b and event sequencing
+UZ-56 — Converbs in -a/-y and complex verbal predicates
+UZ-57 — Auxiliary verbs and aspectual combinations
+UZ-58 — Negation scope, negative words and polarity
+UZ-59 — Personal pronouns across all principal cases
+UZ-60 — Demonstratives bu, shu, u, o‘sha and their inflection
+UZ-61 — Reflexive pronoun o‘z and possessive emphasis
+UZ-62 — Indefinite and negative pronouns
+UZ-63 — Quantifiers: ko‘p, oz, hamma, har, bir necha
+UZ-64 — Ordinals, dates, times and measurements
+UZ-65 — Comparative and superlative strategies
+UZ-66 — Degree, manner, adverbs and repetition
+UZ-67 — Postpositions and case-governed relations
+UZ-68 — Coordination: va, lekin, yoki, ammo
+UZ-69 — Complement clauses and deb constructions
+UZ-70 — Relative participial clauses and nominal heads
+UZ-71 — Temporal subordination and conjunctions
+UZ-72 — Cause, result and purpose clauses
+UZ-73 — Concession and complex conditionals
+UZ-74 — Questions, focus particles and information structure
+UZ-75 — Reported speech and quotative constructions
+UZ-76 — Complex sentence integration and punctuation
+UZ-77 — Family, kinship and relationships
+UZ-78 — Home, household objects and daily life
+UZ-79 — Food, cooking, shopping and hospitality
+UZ-80 — Work, occupations and workplace language
+UZ-81 — School, learning and university life
+UZ-82 — Travel, cities, public transport and directions
+UZ-83 — Nature, geography, weather and agriculture
+UZ-84 — Body, health, symptoms and healthcare
+UZ-85 — Feelings, opinions and social relationships
+UZ-86 — Technology, computing and digital communication
+UZ-87 — Commerce, money, banking and contracts
+UZ-88 — Government, politics and civic institutions
+UZ-89 — Law, administration and public services
+UZ-90 — Science, mathematics and engineering
+UZ-91 — Arts, literature, history and Central Asian culture
+UZ-92 — Formal writing, letters and bureaucratic register
+UZ-93 — Everyday conversation, hospitality and pragmatics
+UZ-94 — Politeness, honorific reference and address forms
+UZ-95 — Word formation, derivation and lexical families
+UZ-96 — Collocations, idioms, postpositions and verb selection
+UZ-97 — Advanced verbal aspect, mood, modality and voice
+UZ-98 — Script variation, dialect recognition and Russian contact
+UZ-99 — Educated-adult breadth and authentic-text backward validation
+
+FRONTIER
+UZ-21 — Dative destinations and recipients: -ga/-ka/-qa. The seed already uses locative -da, selected -ni objects, bor/yo‘q and core -a/-y nonpast finite sentences; next introduce motion toward destinations and recipient marking while reviewing possession and finite negation. Neither locative nor nonpast constructions are exhausted by the seed, and -yap- progressive has not yet been systematically introduced.
+
+GENERATION POLICY
+Keep 4100000–4100014 unchanged and maintain newly added IDs 4100015–4100119 as stable identities once in live use. Continue new rows from 4100120 within the reserved allocation 4100000–4199999. Maintain unique EnglishPrompt, six-column CSV schema, natural Latin-script targets, empty InputHint unless justified, standard CSV quoting and UTF-8 BOM. Teach a new form through enough contrasts to become useful, then gradually reduce paradigm density and interleave lexical breadth. Do not insist on exhaustive mastery of one unit before the next. Audit all Uzbek spelling, suffix assimilation, and natural usage when extending or correcting cards.
+
+AMENDMENT HISTORY
+v0.1 — Graduated 15-card micro deck to 120-card systematic seed and created first 99-unit Uzbek introduction map.
