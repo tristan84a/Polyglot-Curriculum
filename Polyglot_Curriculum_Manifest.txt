@@ -315,7 +315,10 @@ Checkpoint: Original 15 micro cards preserved; expanded to 100 cards with pronou
 UZBEK
 ID allocation: 4100000-4199999
 CSV: Cards/Uzbek.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
+Syllabus: Syllabi/Polyglot_Uzbek_Syllabus_v0.1.txt
+Frontier: UZ-21 — Dative destinations and recipients: -ga/-ka/-qa
+Checkpoint: Preserved original 15 micro cards (4100000–4100014); added 105 cards through 4100119 for a total of 120. Covers nominal predicates, personal pronouns, plural and numeral expressions, possessive suffixes, genitive, bor/yo‘q, emas, questions, locative -da, accusative -ni and initial nonpast verb patterns with negation. Continue at UZ-21 while reinforcing nonpast agreement and case marking.
 
 HAUSA
 ID allocation: 4200000-4299999
