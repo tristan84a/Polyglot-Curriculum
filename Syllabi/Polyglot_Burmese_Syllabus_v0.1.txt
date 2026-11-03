@@ -1,0 +1,150 @@
+POLYGLOT BURMESE SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Burmese (Myanmar)
+Reference variety: contemporary colloquial Standard Burmese, with Yangon-oriented neutral usage; standard modern Myanmar script
+Card Generation Protocol: 1.0
+
+PURPOSE
+This is a language-specific map for graduating the 15-card Burmese micro deck (6300000–6300014) to a 100-card seed (6300000–6300099) and for subsequent expansion toward educated-adult competence. The 15 original cards are preserved exactly. Syllabus units mark the introduction of a productive branch, not its completion. Revisit prior constructions, handwriting/script issues and vocabulary through a widening spiral.
+
+REFERENCE VARIETY, REGISTER AND SCRIPT
+Use contemporary spoken Burmese grammar rendered in standard Myanmar Unicode orthography, not a mechanical translation into formal literary Burmese. Standard Burmese has a substantial colloquial-versus-literary diglossia: conversational တယ်, ပါ, လား, လဲ, ဘူး and related particles are not freely interchangeable with literary သည်, ပါသည်, မည်, etc. Teach literary grammar later as a separate productive register. Regional pronunciation and lexical differences should be introduced explicitly rather than silently mixed.
+Use Myanmar script in Target, with correct stacked consonants, vowel signs, medials, tone/creaky markers, and ordinary spacing. The script is an abugida; symbols around a consonant are not all 'tone marks.' Teach Unicode typing and non-phonemic spelling conventions gradually. InputHint is empty in the seed; if a transliteration standard or keyboard-specific help is subsequently adopted, apply it consistently and do not turn it into a second answer. Preserve Burmese punctuation ။ for sentences where used.
+
+LANGUAGE-SPECIFIC OPENING PRINCIPLES
+1. Preserve existing IDs 6300000–6300014 verbatim; they already preview က topic/subject marking, ကို object marking, မှာ possession/location, ရှိ existence, and human/vehicle classifiers.
+2. Burmese is predominantly SOV and head-final. Verbs usually appear clause-final with particles; subjects and objects may be omitted when recoverable. Natural neutral Burmese often omits explicit pronouns.
+3. Establish the colloquial declarative particle တယ်, polite ပါ, and everyday negative မ…ဘူး before complex tense/aspect. Distinguish nominal identity with ဖြစ်/ဟုတ် patterns from simple adjective predicates; do not introduce an English-style universal 'be.'
+4. First-person forms vary with gender and register (ကျွန်တော်, ကျွန်မ), and second-person address is socially sensitive. The seed uses a male-speaker ကျွန်တော် and male-addressee ခင်ဗျား convention for controlled examples, not as a universal default. Later expand respectful address by names, kinship terms and titles; avoid robotic overuse of explicit 'you.'
+5. Introduce noun modifiers and postnominal numeral–classifier constructions early; ordinary unmarked nouns need not display grammatical plural, and classifier choice is lexical/semantic.
+6. Distinguish topic က, object/destination ကို, location မှာ, possessive ရဲ့/colloquial noun juxtaposition, and existential/possessive ရှိ/မရှိ. Avoid claiming a single English preposition maps to one particle.
+7. Everyday yes/no questions can use လား; information questions commonly use လဲ with the wh expression. Other question particles and the role of polite ပါ are later developments.
+8. Build lexical breadth with ordinary nouns, food, people, motion, communication and practical phrases while grammar is opened. Do not require dictionary verb forms with artificial infinitival endings: use the bare stem as a citation-form flashcard when appropriate.
+9. Burmese reference and pronouns do not require English grammatical gender agreement; prompts must distinguish male/female forms of occupations or personal address when the intended Target does.
+10. Exact matching selects one reasonable canonical answer, not the only natural translation. Avoid artificially stilted English prompts; qualify only material contrasts such as a gendered first-person form or register.
+11. Written syllables and word spacing do not map one-for-one onto English words. Preserve normal orthography; do not insert spaces inside complex written syllables.
+12. Supplement common spoken constructions with literary language, idioms, collocations, professional vocabulary and authentic-text backward validation as proficiency grows.
+
+SEED CHECKPOINT
+6300000–6300014: original exploratory micro deck, unchanged.
+6300015–6300099: 85 additions. Nouns and basic modifiers, numbers and classifiers, male-speaker/recipient reference, nominal and adjectival predicates, negation, everyday location, ရှိ possession, content and yes/no questions, everyday transitive/intransitive verbs, topic and object/destination markers, and politeness expressions. Some cards preview constructions whose systematic development is scheduled later; those previews do not imply completed coverage.
+
+CANONICAL INTRODUCTION MAP
+BY-01 Myanmar script, syllables and essential concrete nouns
+BY-02 Topic and subject marking with က
+BY-03 Colloquial adjectival predicates with တယ်
+BY-04 Basic nominal identification and polite ပါ
+BY-05 People, roles and gendered occupation terms
+BY-06 Person reference: သူ, ကျွန်တော် and gender-sensitive forms
+BY-07 Basic SOV constituent order and recoverable subject omission
+BY-08 Modifiers with nouns: attributes before nominal heads
+BY-09 Cardinal numbers and common counted-noun patterns
+BY-10 Core classifiers for books, animals, people and vehicles
+BY-11 Existential ရှိ and everyday locations with မှာ
+BY-12 Possession: possessor + မှာ + ရှိ
+BY-13 Negative existence မရှိ and verbal မ…ဘူး
+BY-14 Negated qualities and nominal identity contrasts
+BY-15 Polar questions with လား
+BY-16 Information questions with ဘာ, ဘယ်သူ, ဘယ်မှာ and လဲ
+BY-17 Objects and destinations with ကို
+BY-18 Core lexical verbs: eating, drinking, seeing, reading
+BY-19 Movement verbs သွား, လာ and ပြန်
+BY-20 Speaking, understanding, polite phrases and review
+BY-21 More numeral–classifier expressions and irregular counting
+BY-22 Demonstratives ဒီ, အဲဒီ, ဟို and deictic places
+BY-23 Possessive noun modifiers, ရဲ့ and zero-marked possession
+BY-24 Personal reference and polite forms ကျွန်မ, ကျွန်တော်, ခင်ဗျား
+BY-25 Common kinship terms and context-appropriate address
+BY-26 More colloquial predicate types and verbal complements
+BY-27 Habitual, general and contextual temporal interpretation
+BY-28 Progressive နေ and ongoing activities
+BY-29 Completed events with ပြီ and related aspect
+BY-30 Past reference with time adverbs and aspectual context
+BY-31 Future, intention and prospective မယ်
+BY-32 Future and intention negation
+BY-33 Temporal questions and days, dates, clock time
+BY-34 Frequency, duration and repetition
+BY-35 Wanting and volition with ချင်
+BY-36 Ability and possibility with နိုင် and တတ်
+BY-37 Necessity, obligation and permission
+BY-38 Commands, prohibitions and polite requests
+BY-39 Yes/no answers and polarity-sensitive response patterns
+BY-40 Question particles, scope and pragmatic contrasts
+BY-41 Adjectival and verbal negation in longer clauses
+BY-42 Plural လူတွေ/တွေ and quantifier behavior
+BY-43 Measure expressions, weights and containers
+BY-44 Comparatives, degree and superlatives
+BY-45 Locative nouns: inside, on, under, in front and behind
+BY-46 Motion pathways, source and destination particles
+BY-47 Giving, recipients and benefactive relations
+BY-48 Instrumental and accompaniment expressions
+BY-49 Serial verbs and common multi-verb predicates
+BY-50 Directionals, result states and completion auxiliaries
+BY-51 Causation and permissive constructions
+BY-52 Passive/affectedness and ခံ patterns
+BY-53 Reflexive, reciprocal and associative reference
+BY-54 Relative clauses and prenominal verbal modification
+BY-55 Nominalization and verbal nouns
+BY-56 Complement clauses and reported speech
+BY-57 Purpose and reason clauses
+BY-58 Conditionals and hypothetical situations
+BY-59 Concession, contrast and alternatives
+BY-60 Coordination and discourse conjunctions
+BY-61 Topics, focus, information structure and ကတော့
+BY-62 Emphasis, restriction, additive particles and လည်း
+BY-63 Inference, evidentiality and speaker stance
+BY-64 Sentence-final particles and interpersonal nuance
+BY-65 Orthographic syllable structure, medials and stacked letters
+BY-66 Tone, phonation, vowel length and spelling distinctions
+BY-67 Unicode keyboard input and common spelling traps
+BY-68 Written literary Burmese: nominal and verbal endings
+BY-69 Colloquial–literary register contrasts and switching
+BY-70 Formal documents, notices and bureaucratic language
+BY-71 Home, household objects and daily routine
+BY-72 Family, friends, relationships and social address
+BY-73 Food, restaurants, markets and cooking
+BY-74 Shopping, money, prices and services
+BY-75 Roads, transport, travel and navigation
+BY-76 Body, symptoms, illness and medical care
+BY-77 School, study, books and education
+BY-78 Work, professions and business interactions
+BY-79 Weather, nature, agriculture and geography
+BY-80 Technology, phones, computing and the internet
+BY-81 Media, journalism and public discussion
+BY-82 Government, elections and civic institutions
+BY-83 Law, rights, administration and public services
+BY-84 Science, mathematics and engineering
+BY-85 Arts, literature, theatre, music and film
+BY-86 Myanmar history, religion and cultural references
+BY-87 Emotions, mental states and personal opinions
+BY-88 Abstract reasoning and logical relations
+BY-89 Derivation, compounds, reduplication and lexical families
+BY-90 Idioms, collocations and fixed expressions
+BY-91 Advanced classifier and noun-phrase nuance
+BY-92 Complex aspect, modality and multi-clause argument structure
+BY-93 Discourse reference, ellipsis and natural conversation
+BY-94 Speech levels, social hierarchy and honorific strategies
+BY-95 Dialect recognition and regional vocabulary
+BY-96 News, nonfiction and academic registers
+BY-97 Professional and technical vocabulary breadth
+BY-98 Extended narrative, explanation and persuasion
+BY-99 Authentic-text backward validation and lexical long tail
+
+CURRENT FRONTIER
+BY-21 — More numeral–classifier expressions and irregular counting. The first 100 cards introduce common classifiers (-အုပ် books, -ကောင် animals, -စီး vehicles), က/ကို/မှာ, ရှိ/မရှိ, simple negatives and questions, and elementary verbal predicates. Continue with additional classifiers and numbers, then demonstratives and possessive modifiers, while revisiting sentence-final particles and adding common vocabulary. These introductions are not claims of comprehensive mastery.
+
+CARD GENERATION RULES
+- Allocation: 6300000–6399999. Existing 6300000–6300014 stable and unchanged; new seed cards 6300015–6300099; continue at 6300100.
+- CSV schema: ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech. Use UTF-8 BOM where practical and correct CSV quoting. EnglishPrompt values must be unique.
+- Canonical Target: natural modern Unicode Burmese, standard script, colloquial core style. Do not romanize Target or mix literary verb endings into neutral spoken clauses.
+- Seed uses male-speaker first-person and a polite masculine second-person form where explicitly qualified in the English prompt. Broaden reference forms soon rather than hard-coding these as universal.
+- InputHint blank unless a consistent, pedagogically justified keyboard/romanization scheme is chosen later.
+- Every card must be independently interpretable after shuffling, with a single intended canonical answer; maintain natural English and avoid exact duplicates.
+- Teach classifiers in realistic phrases, verbal particles in coherent clauses, and interleave vocabulary with structural developments.
+- Revisit register, pronunciation and script distinctions in small increments. Real-world language examples may be adapted when generation confidence is limited.
+
+AMENDMENT HISTORY
+v0.1: graduated Burmese from its 15-card micro deck to a 100-card seed and established a 99-unit language-specific introduction map.
