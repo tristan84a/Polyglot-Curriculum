@@ -267,7 +267,11 @@ Notes: — Syllabus: Syllabi/Polyglot_Thai_Syllabus_v0.1.txt. Frontier: TH-12 �
 ARMENIAN
 ID allocation: 3400000-3499999
 CSV: Cards/Armenian.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Established/seed deck; consult CSV for actual card count and used IDs.
+Reference: Contemporary standard Eastern Armenian (Armenia), reformed orthography; Western Armenian treated separately.
+Syllabus: Syllabi/Polyglot_Armenian_Syllabus_v0.1.txt
+Frontier: AM-16 — Present verbal negation and polar questions
+Checkpoint: Original 15 micro cards 3400000-3400014 preserved; 3400015-3400099 add foundational nouns and adjectives, independent pronouns, present copula, negation, questions, plurals, demonstratives, numerals, infinitives, present -ում + auxiliary paradigms, and previews of verbal negation and questions.
 
 TAMIL
 ID allocation: 3500000-3599999
