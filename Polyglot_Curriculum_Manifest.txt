@@ -100,7 +100,8 @@ ID allocation: 1100000-1199999
 CSV: Cards/Greek.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Greek_Syllabus_v0.1.txt
-Checkpoint: Seed deck in ordinary monotonic Greek with agreement, articles, pro-drop, present verbs, negation/questions, possession, accusative contrasts and an early να preview.
+Frontier: GR-11 — Plural noun phrases
+Checkpoint: GR-01–GR-10 established through expanded singular/plural article and adjective agreement, present morphology, pronoun omission, negation, content questions, έχω possession, and nominative/accusative synthesis. Plurals are previewed ahead of GR-11; να remains an early preview.
 
 HINDI
 ID allocation: 1200000-1299999
