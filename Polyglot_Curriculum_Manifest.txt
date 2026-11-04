@@ -444,7 +444,10 @@ Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 BURMESE
 ID allocation: 6300000-6399999
 CSV: Cards/Burmese.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Systematic seed deck; original 15-card micro deck preserved; now 100 cards (6300000–6300099).
+Syllabus: Syllabi/Polyglot_Burmese_Syllabus_v0.1.txt
+Frontier: BY-21 — More numeral–classifier expressions and irregular counting
+Checkpoint: Seed opens colloquial sentence-final particles, nominal/adjectival predicates, negation, yes/no and content questions, က/ကို/မှာ, existence/possession, simple verbs, common classifiers, and Burmese-script practice. Continue with classifier variety, demonstratives, gender/socially appropriate pronouns and broader everyday vocabulary.
 
 MALAGASY
 ID allocation: 6400000-6499999
