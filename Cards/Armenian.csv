@@ -14,3 +14,88 @@
 3400012,Armenian,He has a car.,Նա մեքենա ունի։,,sentence
 3400013,Armenian,He has a red car.,Նա կարմիր մեքենա ունի։,,sentence
 3400014,Armenian,I see four cars.,Ես չորս մեքենա եմ տեսնում։,,sentence
+3400015,Armenian,woman,կին,,noun
+3400016,Armenian,child,երեխա,,noun
+3400017,Armenian,book,գիրք,,noun
+3400018,Armenian,school,դպրոց,,noun
+3400019,Armenian,city,քաղաք,,noun
+3400020,Armenian,friend,ընկեր,,noun
+3400021,Armenian,teacher,ուսուցիչ,,noun
+3400022,Armenian,apple,խնձոր,,noun
+3400023,Armenian,bread,հաց,,noun
+3400024,Armenian,coffee,սուրճ,,noun
+3400025,Armenian,small,փոքր,,adjective
+3400026,Armenian,good,լավ,,adjective
+3400027,Armenian,new,նոր,,adjective
+3400028,Armenian,old,հին,,adjective
+3400029,Armenian,green,կանաչ,,adjective
+3400030,Armenian,I,ես,,pronoun
+3400031,Armenian,you (singular),դու,,pronoun
+3400032,Armenian,he or she,նա,,pronoun
+3400033,Armenian,we,մենք,,pronoun
+3400034,Armenian,you (plural or polite),դուք,,pronoun
+3400035,Armenian,they,նրանք,,pronoun
+3400036,Armenian,I am a doctor.,Ես բժիշկ եմ։,,sentence
+3400037,Armenian,You are a teacher.,Դու ուսուցիչ ես։,,sentence
+3400038,Armenian,She is a teacher.,Նա ուսուցիչ է։,,sentence
+3400039,Armenian,We are friends.,Մենք ընկերներ ենք։,,sentence
+3400040,Armenian,You are doctors.,Դուք բժիշկներ եք։,,sentence
+3400041,Armenian,They are teachers.,Նրանք ուսուցիչներ են։,,sentence
+3400042,Armenian,a big house,մեծ տուն,,phrase
+3400043,Armenian,a small book,փոքր գիրք,,phrase
+3400044,Armenian,a red apple,կարմիր խնձոր,,phrase
+3400045,Armenian,a new car,նոր մեքենա,,phrase
+3400046,Armenian,The city is big.,Քաղաքը մեծ է։,,sentence
+3400047,Armenian,The child is small.,Երեխան փոքր է։,,sentence
+3400048,Armenian,The book is new.,Գիրքը նոր է։,,sentence
+3400049,Armenian,The coffee is good.,Սուրճը լավ է։,,sentence
+3400050,Armenian,The book is not new.,Գիրքը նոր չէ։,,sentence
+3400051,Armenian,I am not a teacher.,Ես ուսուցիչ չեմ։,,sentence
+3400052,Armenian,He is not a doctor.,Նա բժիշկ չէ։,,sentence
+3400053,Armenian,Is the house big?,Տունը մե՞ծ է։,,sentence
+3400054,Armenian,Are you a doctor?,Դու բժի՞շկ ես։,,sentence
+3400055,Armenian,books,գրքեր,,noun
+3400056,Armenian,houses,տներ,,noun
+3400057,Armenian,cars,մեքենաներ,,noun
+3400058,Armenian,children,երեխաներ,,noun
+3400059,Armenian,big houses,մեծ տներ,,phrase
+3400060,Armenian,red cars,կարմիր մեքենաներ,,phrase
+3400061,Armenian,The books are new.,Գրքերը նոր են։,,sentence
+3400062,Armenian,The houses are small.,Տները փոքր են։,,sentence
+3400063,Armenian,this house,այս տունը,,phrase
+3400064,Armenian,that house (over there),այն տունը,,phrase
+3400065,Armenian,this book,այս գիրքը,,phrase
+3400066,Armenian,that car (over there),այն մեքենան,,phrase
+3400067,Armenian,This is a book.,Սա գիրք է։,,sentence
+3400068,Armenian,That is a house.,Դա տուն է։,,sentence
+3400069,Armenian,one,մեկ,,number
+3400070,Armenian,two,երկու,,number
+3400071,Armenian,three,երեք,,number
+3400072,Armenian,five,հինգ,,number
+3400073,Armenian,two books,երկու գիրք,,phrase
+3400074,Armenian,three cars,երեք մեքենա,,phrase
+3400075,Armenian,five houses,հինգ տուն,,phrase
+3400076,Armenian,to read,կարդալ,,verb
+3400077,Armenian,to write,գրել,,verb
+3400078,Armenian,to work,աշխատել,,verb
+3400079,Armenian,to live,ապրել,,verb
+3400080,Armenian,to speak,խոսել,,verb
+3400081,Armenian,to eat,ուտել,,verb
+3400082,Armenian,to drink,խմել,,verb
+3400083,Armenian,to go,գնալ,,verb
+3400084,Armenian,I read.,Ես կարդում եմ։,,sentence
+3400085,Armenian,You read.,Դու կարդում ես։,,sentence
+3400086,Armenian,He reads.,Նա կարդում է։,,sentence
+3400087,Armenian,We read.,Մենք կարդում ենք։,,sentence
+3400088,Armenian,You all read.,Դուք կարդում եք։,,sentence
+3400089,Armenian,They read.,Նրանք կարդում են։,,sentence
+3400090,Armenian,I work.,Ես աշխատում եմ։,,sentence
+3400091,Armenian,She works.,Նա աշխատում է։,,sentence
+3400092,Armenian,We live here.,Մենք այստեղ ենք ապրում։,,sentence
+3400093,Armenian,I speak Armenian.,Ես հայերեն եմ խոսում։,,sentence
+3400094,Armenian,The child reads a book.,Երեխան գիրք է կարդում։,,sentence
+3400095,Armenian,I drink water.,Ես ջուր եմ խմում։,,sentence
+3400096,Armenian,He eats bread.,Նա հաց է ուտում։,,sentence
+3400097,Armenian,I do not read.,Ես չեմ կարդում։,,sentence
+3400098,Armenian,She does not work.,Նա չի աշխատում։,,sentence
+3400099,Armenian,Do you read?,Դու կարդո՞ւմ ես։,,sentence

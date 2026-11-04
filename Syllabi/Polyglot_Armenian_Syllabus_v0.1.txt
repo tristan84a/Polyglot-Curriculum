@@ -1,0 +1,143 @@
+POLYGLOT ARMENIAN SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Armenian
+Reference variety: contemporary standard Eastern Armenian (Republic of Armenia), modern reformed Armenian orthography
+Card Generation Protocol: 1.0
+
+PURPOSE
+Canonical introduction roadmap for the Eastern Armenian seed and subsequent open-ended Polyglot development. Units are openings for productive structures and lexical domains, not sealed textbook chapters. Build a widening spiral in which earlier forms recur while useful vocabulary continues to expand.
+
+REFERENCE VARIETY AND SCRIPT
+Use contemporary standard Eastern Armenian, the Republic of Armenia's reformed orthography, and neutral colloquial-to-standard constructions. Write Armenian script directly in Target from the first card. Do not silently mix Western Armenian verb forms, pronunciations, classical spellings or diaspora orthography into the Eastern baseline. Those varieties are worthy of later receptive comparison but not interchangeable answers. Keep InputHint blank unless a consistent input convention is expressly introduced.
+
+LANGUAGE-SPECIFIC GENERATION RULES
+1. Preserve micro cards 3400000–3400014 exactly. Their definite nouns, present verbs, word order, numbers and possession preview structures taught more fully downstream.
+2. Armenian has no grammatical gender, and նա can refer to he or she. Do not invent gender agreement. Let the original micro English pronouns remain as written.
+3. The definite article is normally suffixed (-ը or -ն) and its surface form depends partly on phonological environment; teach this in natural contexts, not as a mechanical English 'the' substitution.
+4. Eastern Armenian independent pronouns are useful but are often omitted when person marking and context suffice. Begin with overt subjects for controlled paradigms and increasingly prefer neutral omission.
+5. The present imperfective uses a -ում participial form with inflected auxiliary եմ/ես/է/ենք/եք/են. Demonstrate the full first paradigm, then broaden verbs with declining density.
+6. Preverbal negation with չեմ/չես/չի/չենք/չեք/չեն combines with the participial form; question marks (՞) attach to a stressed element and need not be located where English would put '?'.
+7. Animate and inanimate objects differ in case behaviour. Teach the dative/accusative overlap with examples; avoid claiming that every direct object uses one universal suffix.
+8. Noun plurals commonly take -եր/-ներ. Stem shapes, stress and declension alternations require later longitudinal development.
+9. Most neutral clauses prefer subject-object-verb order; the auxiliary, information structure, topicalisation and focus create normal alternatives. Do not mechanically mimic English word order.
+10. Teach infinitive, finite tense/aspect, participles and moods by natural usage, with high-frequency irregulars introduced as needed.
+11. Use canonical English prompts unique within Armenian.csv, no exact duplicate cards, sequential IDs inside 3400000–3499999, correct UTF-8 Armenian and six-column CSV schema. Each card must stand independently when shuffled.
+12. Grammar is normally taught through complete useful examples rather than metalinguistic prompts; a reference to a unit's introduction does not certify its exhaustive coverage.
+
+MICRO AND SEED
+3400000–3400014: original 15-card micro opening, left intact.
+3400015–3400099: systematic 85-card expansion, establishing nominal and adjectival vocabulary, pronouns, copula, negation, questions, plurals, demonstratives, cardinal noun phrases, infinitive anchors and the first full present paradigm. The last three cards preview verbal negation and polar questions.
+The frontier at 100 cards is AM-16, to develop verbal negation and polar question patterns systematically while recycling familiar present verbs.
+
+CANONICAL INTRODUCTION MAP
+AM-01 — Concrete nouns and Armenian script
+AM-02 — Core adjectives and colour vocabulary
+AM-03 — Independent personal pronouns and address
+AM-04 — Present copula across person and number
+AM-05 — Bare nouns and attributive adjective phrases
+AM-06 — Definite suffix -ը/-ն and sound-conditioned selection
+AM-07 — Negation of copular predicates
+AM-08 — Yes/no questions and the Armenian question mark
+AM-09 — Productive noun plurals -եր/-ներ
+AM-10 — Plural copular descriptions and negation
+AM-11 — Demonstratives այս/այդ/այն and սա/դա/նա
+AM-12 — Cardinal numbers and unmarked numeral noun phrases
+AM-13 — Everyday verb dictionary infinitives -ել/-ալ
+AM-14 — Present imperfective with -ում + auxiliary
+AM-15 — Present person-number contrasts and frequent verbs
+AM-16 — Present verbal negation and polar questions
+AM-17 — Direct-object noun phrases and specificity
+AM-18 — Transitive present clauses and neutral word order
+AM-19 — Subject omission and discourse context
+AM-20 — Interrogatives ով/ինչ/որտեղ/երբ/ինչու/ինչպես
+AM-21 — Existence կա/կան and location
+AM-22 — Possession with ունենալ and existential constructions
+AM-23 — Genitive-dative singular and common possessors
+AM-24 — Possessive suffixes and possessive determiners
+AM-25 — Accusative and nominative syncretism in inanimates
+AM-26 — Animate direct objects and dative-accusative marking
+AM-27 — Dative recipients and beneficiaries
+AM-28 — Ablative -ից as source and comparison
+AM-29 — Instrumental -ով and common means expressions
+AM-30 — Locative -ում and prepositional/postpositional alternatives
+AM-31 — Noun declension classes and stem alternations
+AM-32 — Definiteness and case combinations
+AM-33 — Oblique personal pronouns
+AM-34 — Postpositions and governed forms
+AM-35 — Spatial deixis, motion and direction
+AM-36 — Present habitual/progressive interpretations
+AM-37 — Simple future with կ- and irregular verb forms
+AM-38 — Future of լինել and ունենալ
+AM-39 — Past imperfective with -ում + past auxiliary
+AM-40 — Simple past/aorist of regular -ել verbs
+AM-41 — Simple past/aorist of -ալ and irregular verbs
+AM-42 — Past versus imperfective aspect in narrative
+AM-43 — Perfect/resultative -ել + auxiliary
+AM-44 — Pluperfect and relative past
+AM-45 — Tense-aspect synthesis with negatives and questions
+AM-46 — Imperative and prohibitive forms
+AM-47 — Ability, necessity and permission
+AM-48 — Infinitive complements and control constructions
+AM-49 — Conditional/hypothetical forms
+AM-50 — Subjunctive and non-indicative finite forms
+AM-51 — Participles and adjectival verbal forms
+AM-52 — Passive and inchoative -վ- morphology
+AM-53 — Causative morphology and valency alternations
+AM-54 — Reflexive and reciprocal constructions
+AM-55 — Motion verbs and directional complements
+AM-56 — Negation scope and negative pronouns
+AM-57 — Indefinite, universal and distributive pronouns
+AM-58 — Quantity, measure and numeral agreement
+AM-59 — Ordinal numbers, dates and time
+AM-60 — Comparatives, superlatives and degree
+AM-61 — Adverbs and manner expressions
+AM-62 — Coordination with և/բայց/կամ
+AM-63 — Complement clauses and reported statements
+AM-64 — Relative clauses and relative pronouns
+AM-65 — Temporal clauses and temporal sequence
+AM-66 — Cause, purpose and result clauses
+AM-67 — Real and hypothetical conditionals
+AM-68 — Concessive and contrast clauses
+AM-69 — Reported questions and indirect speech
+AM-70 — Word order, focus, clitic placement and emphasis
+AM-71 — Pro-drop, deixis and anaphora in discourse
+AM-72 — Polite address and conversational pragmatics
+AM-73 — Colloquial spoken versus standard written forms
+AM-74 — Eastern versus Western Armenian recognition
+AM-75 — Orthographic conventions and punctuation
+AM-76 — Common derivational prefixes and suffixes
+AM-77 — Compound words and lexical families
+AM-78 — Common collocations and verb argument frames
+AM-79 — Household, family and social relationships
+AM-80 — Food, cooking and shopping
+AM-81 — Body, health and medical life
+AM-82 — Travel, transit and directions
+AM-83 — Home, buildings and neighbourhoods
+AM-84 — Work, professions and workplaces
+AM-85 — School, university and learning
+AM-86 — Nature, animals and weather
+AM-87 — Technology, media and communication
+AM-88 — Money, commerce and finance
+AM-89 — Government, law and public institutions
+AM-90 — Science, mathematics and technical vocabulary
+AM-91 — History and Armenian cultural references
+AM-92 — Literature, art and religion
+AM-93 — Feelings, opinions and interpersonal nuance
+AM-94 — Abstract nouns and discourse organisation
+AM-95 — Formal correspondence and institutional register
+AM-96 — Idioms, figurative meaning and proverbs
+AM-97 — Advanced inflection and irregular morphology
+AM-98 — Semantic contrasts, polysemy and near-synonyms
+AM-99 — Educated-adult vocabulary and authentic-text validation
+
+SEED CHECKPOINT AND NEXT ACTION
+At 3400099 the canonical forward frontier is AM-16 — Present verbal negation and polar questions. Develop negative verb forms and natural question prosody/orthography with several -ել/-ալ verbs, then introduce object marking (AM-17/AM-18), omission (AM-19) and questions (AM-20). Continue frequent vocabulary in parallel. The original micro previews do not leapfrog the frontier.
+
+LONGITUDINAL POLICY
+The later language-wide topics, including word formation, authentic reading, register, law, technology, literature and science, are domains to open and revisit rather than exhaustive lists. Once the major map is substantially traversed, identify productive gaps in real contemporary Armenian writing and speech and build targeted new cards. Existing live IDs remain stable.
+
+AMENDMENT HISTORY
+v0.1 — First Armenian syllabus; 100-card Eastern Armenian seed, following Card Generation Protocol v1.0 and Charter v0.8.
