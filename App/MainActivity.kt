@@ -42,6 +42,9 @@ import androidx.compose.ui.text.intl.Locale
 import androidx.compose.ui.text.intl.LocaleList
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.TextButton
+import androidx.compose.material3.Checkbox
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.runtime.saveable.rememberSaveable
 
 data class VocabCard(
@@ -85,9 +88,17 @@ fun StudyScreen(context: Context) {
             loadCardsFromCsv(context)
         )
     }
+    // V2: exclusions persist; newly imported languages are included by default.
+    val availableLanguages = cards.map { it.language }.distinct().sorted()
+    var excludedLanguages by remember {
+        mutableStateOf(preferences.getStringSet("excluded_study_languages", emptySet())!!.toSet())
+    }
+    var showLanguagePicker by remember { mutableStateOf(false) }
+    var languageSearch by remember { mutableStateOf("") }
+    val studyCards = cards.filter { it.language !in excludedLanguages }
     // Pick the first card by weighted random selection.
     var currentCard by remember {
-        mutableStateOf(weightedRandomCard(cards, null))
+        mutableStateOf(weightedRandomCard(studyCards, null) ?: studyCards.firstOrNull { it.active && it.language !in excludedLanguages && it.lastShown == null })
     }
 
     var answer by remember {
@@ -125,6 +136,19 @@ fun StudyScreen(context: Context) {
 
     var localeEntry by rememberSaveable {
         mutableStateOf("")
+    }
+
+    fun applyLanguageExclusions(next: Set<String>) {
+        excludedLanguages = next
+        preferences.edit().putStringSet("excluded_study_languages", next).apply()
+        val eligible = cards.filter { it.active && it.language !in next }
+        currentCard = weightedRandomCard(eligible, null) ?: eligible.firstOrNull { it.lastShown == null }
+        currentCardIsNew = currentCard?.lastShown == null && currentCard != null
+        answer = ""
+        submitted = false
+        wasCorrect = null
+        oldWeight = null
+        newWeight = null
     }
 
     val exportLauncher =
@@ -207,7 +231,7 @@ fun StudyScreen(context: Context) {
 // If there are no unseen cards, use the normal weighted selection.
                         val firstUnseen =
                             cards.firstOrNull {
-                                it.active && it.lastShown == null
+                                it.active && it.language !in excludedLanguages && it.lastShown == null
                             }
 
                         if (firstUnseen != null) {
@@ -215,10 +239,7 @@ fun StudyScreen(context: Context) {
                             currentCardIsNew = true
                         } else {
                             currentCard =
-                                weightedRandomCard(
-                                    cards,
-                                    null
-                                )
+                                weightedRandomCard(studyCards, null)
                             currentCardIsNew = false
                         }
 
@@ -265,7 +286,9 @@ fun StudyScreen(context: Context) {
                 horizontalAlignment = Alignment.CenterHorizontally,
                 verticalArrangement = Arrangement.Center
             ) {
-                Text("No active vocabulary cards were found.")
+                Text("No cards available in the selected languages.")
+                Spacer(modifier = Modifier.height(12.dp))
+                Button(onClick = { showLanguagePicker = true }) { Text("LANGUAGES") }
             }
 
             return@Scaffold
@@ -361,9 +384,9 @@ fun StudyScreen(context: Context) {
             Text(
                 text =
                     "${card.id} · ${if (currentCardIsNew) "New" else newCardCounter.toString()} · ${
-                        "%,d".format(cards.count { it.active && it.lastShown == null })
+                        "%,d".format(studyCards.count { it.active && it.language !in excludedLanguages && it.lastShown == null })
                     } · ${
-                        "%,d".format(cards.count { it.active && it.lastShown != null })
+                        "%,d".format(studyCards.count { it.active && it.lastShown != null })
                     }",
                 fontSize = 14.sp,
                 color = MaterialTheme.colorScheme.onSurfaceVariant
@@ -538,7 +561,7 @@ fun StudyScreen(context: Context) {
 
                             val unseenCards =
                                 cards.filter {
-                                    it.active &&
+                                    it.active && it.language !in excludedLanguages &&
                                             it.lastShown == null
                                 }
 
@@ -566,7 +589,7 @@ fun StudyScreen(context: Context) {
                                 currentCardIsNew = false
                                 currentCard =
                                     weightedRandomCard(
-                                        cards = cards,
+                                        cards = studyCards,
                                         excludedId = previousId
                                     )
                             }
@@ -577,7 +600,7 @@ fun StudyScreen(context: Context) {
 
                             val nextReviewCard =
                                 weightedRandomCard(
-                                    cards = cards,
+                                    cards = studyCards,
                                     excludedId = previousId
                                 )
 
@@ -589,7 +612,7 @@ fun StudyScreen(context: Context) {
 
                                 val nextUnseen =
                                     cards.firstOrNull {
-                                        it.active &&
+                                        it.active && it.language !in excludedLanguages &&
                                                 it.lastShown == null
                                     }
 
@@ -599,7 +622,7 @@ fun StudyScreen(context: Context) {
                                 } else {
                                     currentCard =
                                         weightedRandomCard(
-                                            cards = cards,
+                                            cards = studyCards,
                                             excludedId = null
                                         )
                                 }
