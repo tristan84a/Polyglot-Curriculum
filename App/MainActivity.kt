@@ -273,6 +273,47 @@ fun StudyScreen(context: Context) {
         }
     }
 
+    if (showLanguagePicker) {
+        AlertDialog(
+            onDismissRequest = { showLanguagePicker = false },
+            title = { Text("Study languages") },
+            text = {
+                Column {
+                    Text("${availableLanguages.count { it !in excludedLanguages }} of ${availableLanguages.size} selected")
+                    androidx.compose.foundation.layout.Row {
+                        TextButton(onClick = { applyLanguageExclusions(emptySet()) }) { Text("ALL") }
+                        TextButton(onClick = { applyLanguageExclusions(availableLanguages.toSet()) }) { Text("NONE") }
+                    }
+                    OutlinedTextField(
+                        value = languageSearch,
+                        onValueChange = { languageSearch = it },
+                        label = { Text("Search languages") },
+                        singleLine = true,
+                        modifier = Modifier.fillMaxWidth()
+                    )
+                    Column(modifier = Modifier.height(320.dp).verticalScroll(rememberScrollState())) {
+                        availableLanguages.filter { it.contains(languageSearch, ignoreCase = true) }
+                            .forEach { language ->
+                                androidx.compose.foundation.layout.Row(verticalAlignment = Alignment.CenterVertically) {
+                                    Checkbox(
+                                        checked = language !in excludedLanguages,
+                                        onCheckedChange = { checked ->
+                                            applyLanguageExclusions(
+                                                if (checked) excludedLanguages - language
+                                                else excludedLanguages + language
+                                            )
+                                        }
+                                    )
+                                    Text(language)
+                                }
+                            }
+                    }
+                }
+            },
+            confirmButton = { TextButton(onClick = { showLanguagePicker = false }) { Text("DONE") } }
+        )
+    }
+
     Scaffold(
         modifier = Modifier.fillMaxSize()
     ) { innerPadding ->
@@ -371,6 +412,10 @@ fun StudyScreen(context: Context) {
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Center
         ) {
+            Button(onClick = { showLanguagePicker = true }) {
+                Text("LANGUAGES (${availableLanguages.count { it !in excludedLanguages }}/${availableLanguages.size})")
+            }
+            Spacer(modifier = Modifier.height(12.dp))
             Text(
                 text = card.language.uppercase(),
                 fontSize = 18.sp,
