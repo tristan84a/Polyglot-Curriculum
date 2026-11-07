@@ -163,7 +163,8 @@ ID allocation: 1900000-1999999
 CSV: Cards/Punjabi.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Punjabi_Syllabus_v0.1.txt
-Checkpoint: Seed deck governed by Punjabi syllabus v0.1.
+Frontier: PA-13 — Adjective plural agreement
+Checkpoint: PA-01–PA-12 introduced; reinforced pronouns, habitual agreement, question words, object marking, oblique noun forms and noun plurals. Earlier topics continue longitudinally.
 
 PORTUGUESE
 ID allocation: 2000000-2099999
