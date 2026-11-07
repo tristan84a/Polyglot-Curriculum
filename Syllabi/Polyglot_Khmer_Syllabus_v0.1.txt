@@ -103,37 +103,35 @@ KM-67 Subscript consonants (ជើង) and consonant clusters
 KM-68 Diacritics, silent letters and spelling conventions
 KM-69 Unicode keyboard entry, normalization and word boundaries
 KM-70 Pronunciation: registers, vowel quality and syllable structure
-KM-71 Consonant clusters and final consonants in speech
-KM-72 Regional Cambodian varieties and pronunciation awareness
-KM-73 Formal Khmer, official writing and literary vocabulary
-KM-74 Honorifics and social hierarchy in address
-KM-75 Household objects, family and daily routines
-KM-76 Food, markets, cooking and restaurants
-KM-77 Shopping, prices, money and services
-KM-78 Roads, transport, travel and directions
-KM-79 Body, illness, symptoms and health care
-KM-80 School, study, literacy and education
-KM-81 Work, trades, professions and employment
-KM-82 Weather, geography, agriculture and the environment
-KM-83 Technology, telephones, computers and the internet
-KM-84 News, media and public discussion
-KM-85 Government, elections and civic institutions
-KM-86 Law, administration, rights and public services
-KM-87 Science, mathematics and engineering
-KM-88 Arts, theatre, music, film and literature
-KM-89 Cambodian history, religious language and cultural references
-KM-90 Emotions, opinions and mental-state vocabulary
-KM-91 Abstract reasoning, logic and argumentation
-KM-92 Word formation, compounds and lexical families
-KM-93 Idioms, collocations and natural fixed expressions
-KM-94 Advanced classifiers and noun-phrase nuance
-KM-95 Aspect, modality and multi-clause combinations
-KM-96 Discourse reference, ellipsis and natural dialogue
-KM-97 Register distinctions, honorific pragmatics and formal speech
-KM-98 Journalistic, nonfiction and academic register
-KM-99 Professional and technical vocabulary breadth
-KM-100 Extended narrative, explanations and persuasive writing
-KM-101 Authentic-text backward validation and educated-adult lexical long tail
+KM-71 Formal Khmer, official writing and literary vocabulary
+KM-72 Honorifics and social hierarchy in address
+KM-73 Household objects, family and daily routines
+KM-74 Food, markets, cooking and restaurants
+KM-75 Shopping, prices, money and services
+KM-76 Roads, transport, travel and directions
+KM-77 Body, illness, symptoms and health care
+KM-78 School, study, literacy and education
+KM-79 Work, trades, professions and employment
+KM-80 Weather, geography, agriculture and the environment
+KM-81 Technology, telephones, computers and the internet
+KM-82 News, media and public discussion
+KM-83 Government, elections and civic institutions
+KM-84 Law, administration, rights and public services
+KM-85 Science, mathematics and engineering
+KM-86 Arts, theatre, music, film and literature
+KM-87 Cambodian history, religious language and cultural references
+KM-88 Emotions, opinions and mental-state vocabulary
+KM-89 Abstract reasoning, logic and argumentation
+KM-90 Word formation, compounds and lexical families
+KM-91 Idioms, collocations and natural fixed expressions
+KM-92 Advanced classifiers and noun-phrase nuance
+KM-93 Aspect, modality and multi-clause combinations
+KM-94 Discourse reference, ellipsis and natural dialogue
+KM-95 Register distinctions, honorific pragmatics and formal speech
+KM-96 Journalistic, nonfiction and academic register
+KM-97 Professional and technical vocabulary breadth
+KM-98 Extended narrative, explanations and persuasive writing
+KM-99 Authentic-text backward validation and educated-adult lexical long tail
 
 CURRENT FRONTIER
 KM-21 — Expanding numeral–classifier patterns and counting.
