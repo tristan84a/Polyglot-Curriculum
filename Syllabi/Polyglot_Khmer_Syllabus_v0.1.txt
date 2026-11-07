@@ -1,0 +1,154 @@
+POLYGLOT KHMER SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Khmer (Cambodian)
+Reference variety: contemporary standard Central/Phnom Penh Khmer in conventional modern Khmer Unicode script
+Card Generation Protocol: 1.0
+
+PURPOSE
+Graduate the original 15-card micro deck (6100000–6100014) into a systematic 100-card seed (6100000–6100099). The initial cards are preserved verbatim. This introduction map guides eventual educated-adult breadth rather than prescribing sealed chapters: opened branches continue to recur as the curriculum grows.
+
+REFERENCE VARIETY, REGISTER AND SCRIPT
+Use contemporary, natural Cambodian Khmer in standard Khmer orthography, not a transliterated Target. The seed uses neutral common expressions and familiar spoken constructions; later introduce formal/written alternatives explicitly rather than mixing registers without notice. The script is an abugida with two consonant series affecting the realization of dependent vowels, subscript consonants, inherent vowels, silent letters and specialized diacritics. Spaces are not reliable English-style word separators; retain normal Khmer spacing and punctuation rather than adding artificial spaces between every word. InputHint remains blank until a consistent, justified keyboard hint system is adopted. Khmer is not a tonal language; do not transfer Thai or Vietnamese tonal pedagogy to Khmer.
+
+OPENING PRINCIPLES
+1. Preserve the 15 micro cards and their IDs. They preview SVO word order, non-copular adjective predicates, ជា nominal identity, មាន possession and គ្រឿង for vehicles.
+2. Khmer is broadly analytic: verbs do not conjugate for person or number. Temporal interpretation may be contextual and aspect/time markers are not one-for-one English tense inflections.
+3. Introduce subject–verb–object clauses and postnominal modifiers through small controlled examples. An English 'is' with a noun often requires ជា, while ordinary adjective predicates do not require a universal copula.
+4. Distinguish ជា for classification, នៅ for location, and មាន for having/existence; do not equate all with 'to be.'
+5. Introduce the common negative frame មិន…ទេ; nominal identity uses មិនមែនជា…ទេ. Other negatives and modal scope belong later.
+6. Controlled polar questions use តើ…ទេ or relevant មែនទេ patterns, but everyday speech has other possible formats; teach variation later rather than imposing one obligatory question frame.
+7. Personal reference is socially contextual. ខ្ញុំ, អ្នក and គាត់ are useful early canonical choices, not universal equivalents of English I/you/he/she. គាត់ need not encode gender. Introduce pronoun avoidance, titles, kinship terms and hierarchy in later units.
+8. Numerals follow counted nouns in many basic phrases, with classifiers such as ក្បាល for animals/other lexical classes, គ្រឿង for vehicles and នាក់ for people. Classifiers are not obligatory in every context; expand exceptions and optionality gradually.
+9. Teach content questions with អ្វី, នរណា and ឯណា, keeping natural Khmer word order and independently interpretable prompts.
+10. Build vocabulary and grammar together. Initial verbs: ញ៉ាំ, ផឹក, អាន, ឃើញ, ទៅ, មក, និយាយ and យល់.
+11. Exact-match English prompts specify social reference, plurality or meaning only when these distinctions materially affect Target. An exact Target is canonical for the card, not the only possible Khmer translation.
+12. Scripts, common grammar, social register and broader lexical domains should be revisited via controlled contrast, authentic-text inspection and widening-spiral practice.
+
+SEED CHECKPOINT
+6100000–6100014: original micro deck preserved exactly.
+6100015–6100099: 85 additional cards covering elementary nouns, modifiers, people, personal reference, numbers, classifiers, nominal/adjectival predicates, negation, polar and information questions, មាន, នៅ, ordinary verbs, basic motion, speaking and polite phrases.
+Seed coverage opens the first twenty syllabus branches in a controlled form. It does not claim completion of all future classifier, discourse, orthographic or register contrasts.
+
+CANONICAL INTRODUCTION MAP
+KM-01 Khmer script: consonant symbols, inherent vowels and initial concrete nouns
+KM-02 Basic subject–predicate clauses and topic recoverability
+KM-03 Adjective/stative predicates without an English-style copula
+KM-04 Nominal identity and classification with ជា
+KM-05 Human nouns, occupation terms and social reference
+KM-06 ខ្ញុំ, គាត់, អ្នក: context-sensitive person reference
+KM-07 Core subject–verb–object order and subject omission
+KM-08 Postnominal adjectives and colour expressions
+KM-09 Numbers ១–១០ and spoken numeral words
+KM-10 Counted nouns and classifiers គ្រឿង, ក្បាល, នាក់
+KM-11 Existence and possession with មាន
+KM-12 Negative possession and negative clauses with មិន…ទេ
+KM-13 Negated identity with មិនមែនជា…ទេ
+KM-14 Negated qualities and adjectival predicates
+KM-15 Polar questions with តើ…ទេ and មែនទេ
+KM-16 Basic content questions: អ្វី, នរណា, ឯណា
+KM-17 Location and presence with នៅ
+KM-18 Common verbs: ញ៉ាំ, ផឹក, ឃើញ, អាន
+KM-19 Motion verbs ទៅ and មក
+KM-20 Speaking, understanding and everyday polite phrases
+KM-21 Expanding numeral–classifier patterns and counting
+KM-22 Demonstratives នេះ, នោះ and distance distinctions
+KM-23 Possessive noun phrases with របស់ and juxtaposition
+KM-24 Personal reference: គេ, ពួកគេ, យើង and plurality
+KM-25 Kinship and age-sensitive forms of address
+KM-26 Everyday verb complements and serial verb sequences
+KM-27 Time-neutral predicates and contextual temporal reference
+KM-28 Progressive aspect with កំពុង
+KM-29 Completed past and perfective use of បាន
+KM-30 Prospective and future reference with នឹង
+KM-31 Completion and change-of-state expressions with ហើយ
+KM-32 Not-yet and experiential reference with មិនទាន់ and ធ្លាប់
+KM-33 Days of week, calendar expressions and clock time
+KM-34 Frequency, duration and repeated events
+KM-35 Wanting with ចង់ and preferences
+KM-36 Ability and potential with អាច and ចេះ
+KM-37 Obligation, necessity and advisability
+KM-38 Commands, requests and prohibitions
+KM-39 Polite response conventions and yes/no answers
+KM-40 Interrogatives: ហេតុអ្វី, ពេលណា, យ៉ាងម៉េច
+KM-41 Negation scope and contrastive negatives
+KM-42 Plural expressions with ពួក, ទាំង and contextual plurality
+KM-43 Units, measures and quantifiers
+KM-44 Comparatives with ជាង
+KM-45 Superlatives and degree expressions
+KM-46 Locative nouns and relational positions
+KM-47 Movement paths, origin and destination
+KM-48 Giving, recipients and benefactives
+KM-49 Instruments, accompaniment and manner
+KM-50 Serial verb combinations in motion and purpose
+KM-51 Resultative and directional complements
+KM-52 Causatives and permission constructions
+KM-53 Passive and affectedness with ត្រូវ and related patterns
+KM-54 Reflexive, reciprocal and associative reference
+KM-55 Relative clauses and nominal modification with ដែល
+KM-56 Nominalization and common verbal nouns
+KM-57 Complement clauses, quotation and reported speech
+KM-58 Reason and purpose clauses with ព្រោះ and ដើម្បី
+KM-59 Conditional constructions with បើ
+KM-60 Concession and contrast with ទោះបី and ប៉ុន្តែ
+KM-61 Coordination, alternatives and compound sentences
+KM-62 Topicalization, focus and information order
+KM-63 Emphasis, restrictions and additive particles
+KM-64 Epistemic stance, uncertainty and inference
+KM-65 Sentence-final particles, interpersonal nuance and politeness
+KM-66 Khmer orthography: dependent vowels and consonant series
+KM-67 Subscript consonants (ជើង) and consonant clusters
+KM-68 Diacritics, silent letters and spelling conventions
+KM-69 Unicode keyboard entry, normalization and word boundaries
+KM-70 Pronunciation: registers, vowel quality and syllable structure
+KM-71 Consonant clusters and final consonants in speech
+KM-72 Regional Cambodian varieties and pronunciation awareness
+KM-73 Formal Khmer, official writing and literary vocabulary
+KM-74 Honorifics and social hierarchy in address
+KM-75 Household objects, family and daily routines
+KM-76 Food, markets, cooking and restaurants
+KM-77 Shopping, prices, money and services
+KM-78 Roads, transport, travel and directions
+KM-79 Body, illness, symptoms and health care
+KM-80 School, study, literacy and education
+KM-81 Work, trades, professions and employment
+KM-82 Weather, geography, agriculture and the environment
+KM-83 Technology, telephones, computers and the internet
+KM-84 News, media and public discussion
+KM-85 Government, elections and civic institutions
+KM-86 Law, administration, rights and public services
+KM-87 Science, mathematics and engineering
+KM-88 Arts, theatre, music, film and literature
+KM-89 Cambodian history, religious language and cultural references
+KM-90 Emotions, opinions and mental-state vocabulary
+KM-91 Abstract reasoning, logic and argumentation
+KM-92 Word formation, compounds and lexical families
+KM-93 Idioms, collocations and natural fixed expressions
+KM-94 Advanced classifiers and noun-phrase nuance
+KM-95 Aspect, modality and multi-clause combinations
+KM-96 Discourse reference, ellipsis and natural dialogue
+KM-97 Register distinctions, honorific pragmatics and formal speech
+KM-98 Journalistic, nonfiction and academic register
+KM-99 Professional and technical vocabulary breadth
+KM-100 Extended narrative, explanations and persuasive writing
+KM-101 Authentic-text backward validation and educated-adult lexical long tail
+
+CURRENT FRONTIER
+KM-21 — Expanding numeral–classifier patterns and counting.
+The first 100 cards establish simple nouns, descriptive predicates, ជា identity, មិន…ទេ and មិនមែនជា…ទេ negatives, តើ questions, មាន possession, នៅ location, and simple everyday SVO clauses. Continue with further classifier/number patterns and their optionality, then demonstratives, possessive expressions, time/aspect, and socially appropriate address. Recycle initial material in independent natural sentences.
+
+CARD GENERATION RULES
+- ID allocation: 6100000–6199999. Original micro IDs 6100000–6100014 are stable. Append subsequent new cards from 6100100.
+- Canonical CSV header: ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech. UTF-8 with BOM when practical.
+- All EnglishPrompt values within Khmer must be unique; no exact duplicate cards.
+- Target: ordinary written Khmer script with correct Unicode and natural word spacing. Do not romanize the Target.
+- InputHint blank until a coherent Khmer input approach is chosen.
+- Preserve existing cards even if later development chooses a slightly different register or lexical variant; introduce distinct variants with carefully differentiated prompts.
+- Prefer plausible, idiomatic Khmer and exact-match prompts that stand alone after shuffling. Never rely on a preceding card to interpret an example.
+- New grammar stays active in later lessons; avoid long blocks of isolated vocabulary or duplicate English-to-Khmer mappings.
+- Check classifier semantics, register, orthographic sequencing and script entry carefully in subsequent batches.
+
+AMENDMENT HISTORY
+v0.1: Original 15-card Khmer micro deck graduated to 100-card systematic seed; language-specific 99-unit syllabus established.
