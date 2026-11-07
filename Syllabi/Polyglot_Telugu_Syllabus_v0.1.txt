@@ -1,0 +1,158 @@
+POLYGLOT TELUGU SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Encoding: UTF-8
+
+PURPOSE
+
+Canonical introduction roadmap for contemporary Standard Telugu. The unqualified production baseline is widely understood modern Telugu in Telugu script, favouring natural everyday usage over Sanskritized literary prose. The first 15 cards are the original exploratory micro deck and remain unchanged. The seed extends them into productive sentences.
+
+REFERENCE VARIETY AND ORTHOGRAPHY
+
+Use Telugu script and normal contemporary spelling. Do not use romanization as a Target. Telugu has no grammatical gender agreement on adjectives comparable to Punjabi; person, number, animacy, and gender are expressed principally in pronouns, verb agreement, and some nominal predicates. Third-person and polite forms require particular attention. Spoken and formal written Telugu diverge; teach neutral everyday constructions first and label regionally or stylistically marked variants. English prompts should qualify speaker, addressee, honorific status, or referent whenever needed to select a unique answer.
+
+COURSE-WIDE PRINCIPLES
+
+1. Telugu is broadly SOV, with postpositions and case suffixes.
+2. Start with useful lexical items and sentences; teach script systematically in parallel rather than requiring an alphabet recital.
+3. Distinguish inclusive మనం and exclusive మేము early.
+4. Distinguish informal నువ్వు and respectful/plural మీరు.
+5. Pronoun and verbal paradigms distinguish honorific and human/nonhuman reference; do not force English he/she distinctions into every Telugu form.
+6. Telugu adjectives are generally invariant before nouns; predicate forms and agreement patterns need separate treatment.
+7. The affirmative existential ఉంది contrasts with లేదు and plural/human forms such as ఉన్నాయి and ఉన్నారు.
+8. Progressive -తున్న- forms expose agreement and provide a useful early productive system.
+9. Neutral nonpast/habitual -తా- forms should be taught in contrast with ongoing action.
+10. Questions can be expressed with interrogative morphology, not only intonation.
+11. Case suffixes vary phonologically and morphologically by stem; introduce ordinary high-frequency patterns first.
+12. Accusative -ని/-ను is not obligatory in every context; teach controlled contrasts rather than an English-style universal object marker.
+13. Dative -కి/-కు is central to goals, recipients, possession, experiencers, and desire.
+14. Possession uses దగ్గర and other constructions, not a single direct equivalent of English 'have'.
+15. Verb stems and tense/aspect constructions can differ from citation verbal nouns; teach natural forms rather than deriving every form mechanically.
+16. Telugu has a rich participial and relative-clause system, introduced after the basic verbal spine.
+17. Politeness, register, and regional variation are longitudinal strands.
+18. Vocabulary continues growing alongside grammatical introductions.
+
+EMPIRICAL OPENING
+
+The original 15-card micro deck establishes nouns, adjectives, numbers, identity, description, an accusative object, dative possession, and a numeral-plus-plural object. The additional seed establishes pronouns, basic existential clauses, location, questions, present progressive, simple nonpast, negation, plural nouns, object marking, dative goals, and locative -లో. Later units remain open for expansion.
+
+INITIAL STRUCTURAL ROADMAP
+
+TE-01 Core nouns and Telugu script exposure
+TE-02 Pronouns and person distinctions
+TE-03 Nominal identity and basic predicates
+TE-04 Existence and location with ఉంది
+TE-05 Adjectives and attributive forms
+TE-06 Present progressive and person agreement
+TE-07 Negation of progressive clauses
+TE-08 Yes/no questions and interrogative suffixes
+TE-09 Content questions
+TE-10 Possession and దగ్గర constructions
+TE-11 Noun plurals and human agreement
+TE-12 Accusative objects and -ని/-ను
+TE-13 Habitual and simple present
+TE-14 Dative goals and -కి/-కు
+TE-15 Locative -లో and spatial expressions
+TE-16 Instrumental and comitative marking
+TE-17 Ablative and source marking
+TE-18 Genitives and possessive determiners
+TE-19 Demonstratives and deixis
+TE-20 Quantifiers and numerals
+TE-21 Infinitives and verbal nouns
+TE-22 Imperatives and polite requests
+TE-23 Past tense introduction
+TE-24 Past tense agreement
+TE-25 Future and nonpast contrasts
+TE-26 Aspect synthesis
+TE-27 Ability and possibility
+TE-28 Desire and necessity
+TE-29 Experiencer and dative-subject constructions
+TE-30 Negation across tense and modality
+TE-31 Questions and negative questions
+TE-32 Reflexives and reciprocal expressions
+TE-33 Object and dative pronouns
+TE-34 Comparatives
+TE-35 Superlatives and degree
+TE-36 Time adverbs and frequency
+TE-37 Cardinal numbers
+TE-38 Ordinals and counting classifiers
+TE-39 Dates and calendars
+TE-40 Clock time
+TE-41 Prices and measurements
+TE-42 Coordination
+TE-43 Complement clauses
+TE-44 Relative participles and relative clauses
+TE-45 Temporal subordination
+TE-46 Causal clauses
+TE-47 Conditional clauses
+TE-48 Purpose clauses
+TE-49 Concessive clauses
+TE-50 Reported speech
+TE-51 Word order and focus
+TE-52 Topic and contrast
+TE-53 Politeness and address
+TE-54 Honorific agreement
+TE-55 Compound predicates
+TE-56 Light verbs
+TE-57 Serial and conjunctive participles
+TE-58 Causatives
+TE-59 Passive and impersonal constructions
+TE-60 Reduplication
+TE-61 Particles and emphasis
+TE-62 Discourse markers
+TE-63 Genuine lexical derivation
+TE-64 Nominalization
+TE-65 Postpositions and case synthesis
+TE-66 Telugu vowel letters and vowel signs
+TE-67 Consonants and inherent vowel
+TE-68 Conjunct letters and virama
+TE-69 Retroflex and dental contrasts
+TE-70 Gemination
+TE-71 Vowel length and pronunciation
+TE-72 Sandhi in ordinary speech
+TE-73 Spelling and colloquial pronunciation
+TE-74 Formal written versus spoken Telugu
+TE-75 Regional varieties and register
+TE-76 Everyday greetings and social routines
+TE-77 Household and daily life
+TE-78 Food and cooking
+TE-79 Family and relationships
+TE-80 Body and health
+TE-81 Work and occupations
+TE-82 Education
+TE-83 Travel and transport
+TE-84 Buildings and places
+TE-85 Nature and weather
+TE-86 Technology and communications
+TE-87 Commerce and finance
+TE-88 Government and law
+TE-89 Science and mathematics
+TE-90 Arts and literature
+TE-91 History and public discourse
+TE-92 Religion and philosophy
+TE-93 Emotions and behaviour
+TE-94 Abstract concepts
+TE-95 Academic and professional vocabulary
+TE-96 Idioms and collocations
+TE-97 Polysemy and near-synonyms
+TE-98 Literary and historical vocabulary
+TE-99 Educated-adult long tail
+
+CARD-SPECIFIC RULES
+
+1. Keep EnglishPrompt unique and select one intended Telugu Target.
+2. InputHint is normally blank; avoid transliteration and English grammatical terminology in Targets.
+3. Preserve existing card IDs; append new cards in canonical introduction order.
+4. Use standard Telugu orthography, including vowel signs, conjuncts and punctuation.
+5. Specify informal/respectful address where forms differ.
+6. Specify inclusive/exclusive 'we' where the distinction matters.
+7. Do not duplicate a prompt solely to demonstrate another acceptable translation.
+8. Keep early contrasts short and reusable; prefer productive sentences over isolated paradigms.
+9. Use ordinary spoken-neutral constructions unless a formal, literary, or regional label is explicit.
+10. A preview of a later structure does not advance the frontier past intervening introductions.
+
+DEVELOPMENT POLICY
+
+The first 15 micro cards remain intact. The initial systematic seed adds 100 cards and opens TE-01 through TE-15, with TE-16 (instrumental and comitative marking) as the next forward-construction frontier. Earlier material continues longitudinally. Future expansion should deepen case allomorphy, plural patterns, human/nonhuman agreement, and the nonpast/progressive contrast before advancing through past tense and modality. Pronunciation, script, register, and lexical strands should be revisited throughout.

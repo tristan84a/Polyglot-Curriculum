@@ -14,3 +14,103 @@
 7100012,Telugu,He has a car.,అతనికి కారు ఉంది.,,sentence
 7100013,Telugu,He has a red car.,అతనికి ఎరుపు కారు ఉంది.,,sentence
 7100014,Telugu,I see four cars.,నేను నాలుగు కార్లను చూస్తాను.,,sentence
+7100015,Telugu,I,నేను,,pronoun
+7100016,Telugu,you (informal singular),నువ్వు,,pronoun
+7100017,Telugu,you (respectful or plural),మీరు,,pronoun
+7100018,Telugu,he (ordinary),అతను,,pronoun
+7100019,Telugu,she,ఆమె,,pronoun
+7100020,Telugu,we (including listener),మనం,,pronoun
+7100021,Telugu,we (excluding listener),మేము,,pronoun
+7100022,Telugu,they (people),వాళ్లు,,pronoun
+7100023,Telugu,this,ఇది,,pronoun
+7100024,Telugu,that,అది,,pronoun
+7100025,Telugu,woman,స్త్రీ,,noun
+7100026,Telugu,child,పిల్లవాడు,,noun
+7100027,Telugu,girl,అమ్మాయి,,noun
+7100028,Telugu,boy,అబ్బాయి,,noun
+7100029,Telugu,book,పుస్తకం,,noun
+7100030,Telugu,school,పాఠశాల,,noun
+7100031,Telugu,friend,స్నేహితుడు,,noun
+7100032,Telugu,rice (cooked),అన్నం,,noun
+7100033,Telugu,milk,పాలు,,noun
+7100034,Telugu,tea,టీ,,noun
+7100035,Telugu,small,చిన్న,,adjective
+7100036,Telugu,good,మంచి,,adjective
+7100037,Telugu,new,కొత్త,,adjective
+7100038,Telugu,old (not new),పాత,,adjective
+7100039,Telugu,one,ఒకటి,,number
+7100040,Telugu,two,రెండు,,number
+7100041,Telugu,three,మూడు,,number
+7100042,Telugu,here,ఇక్కడ,,adverb
+7100043,Telugu,there,అక్కడ,,adverb
+7100044,Telugu,where,ఎక్కడ,,grammar
+7100045,Telugu,what,ఏమి,,grammar
+7100046,Telugu,who,ఎవరు,,grammar
+7100047,Telugu,when,ఎప్పుడు,,grammar
+7100048,Telugu,This is a book.,ఇది పుస్తకం.,,sentence
+7100049,Telugu,That is a house.,అది ఇల్లు.,,sentence
+7100050,Telugu,She is a doctor.,ఆమె డాక్టర్.,,sentence
+7100051,Telugu,He is a boy.,అతను అబ్బాయి.,,sentence
+7100052,Telugu,The book is here.,పుస్తకం ఇక్కడ ఉంది.,,sentence
+7100053,Telugu,The car is there.,కారు అక్కడ ఉంది.,,sentence
+7100054,Telugu,Where is the house?,ఇల్లు ఎక్కడ ఉంది?,,sentence
+7100055,Telugu,Where is the book?,పుస్తకం ఎక్కడ ఉంది?,,sentence
+7100056,Telugu,Who is he?,అతను ఎవరు?,,sentence
+7100057,Telugu,What is this?,ఇది ఏమిటి?,,sentence
+7100058,Telugu,The house is small.,ఇల్లు చిన్నది.,,sentence
+7100059,Telugu,The book is new.,పుస్తకం కొత్తది.,,sentence
+7100060,Telugu,The car is old.,కారు పాతది.,,sentence
+7100061,Telugu,This is a good book.,ఇది మంచి పుస్తకం.,,sentence
+7100062,Telugu,to go,వెళ్లడం,,verb
+7100063,Telugu,to come,రావడం,,verb
+7100064,Telugu,to eat,తినడం,,verb
+7100065,Telugu,to drink,తాగడం,,verb
+7100066,Telugu,to read,చదవడం,,verb
+7100067,Telugu,to write,రాయడం,,verb
+7100068,Telugu,to work,పని చేయడం,,verb
+7100069,Telugu,to speak,మాట్లాడడం,,verb
+7100070,Telugu,I am going. (male speaker),నేను వెళ్తున్నాను.,,sentence
+7100071,Telugu,She is coming.,ఆమె వస్తోంది.,,sentence
+7100072,Telugu,He is eating.,అతను తింటున్నాడు.,,sentence
+7100073,Telugu,I am drinking water.,నేను నీళ్లు తాగుతున్నాను.,,sentence
+7100074,Telugu,She is reading a book.,ఆమె పుస్తకం చదువుతోంది.,,sentence
+7100075,Telugu,He is writing.,అతను రాస్తున్నాడు.,,sentence
+7100076,Telugu,I am working.,నేను పని చేస్తున్నాను.,,sentence
+7100077,Telugu,We are coming. (including listener),మనం వస్తున్నాం.,,sentence
+7100078,Telugu,We are going. (excluding listener),మేము వెళ్తున్నాం.,,sentence
+7100079,Telugu,They are working.,వాళ్లు పని చేస్తున్నారు.,,sentence
+7100080,Telugu,I am not going.,నేను వెళ్లడం లేదు.,,sentence
+7100081,Telugu,She is not coming.,ఆమె రావడం లేదు.,,sentence
+7100082,Telugu,Are you coming? (respectful),మీరు వస్తున్నారా?,,sentence
+7100083,Telugu,Are you reading? (informal singular),నువ్వు చదువుతున్నావా?,,sentence
+7100084,Telugu,Is he eating?,అతను తింటున్నాడా?,,sentence
+7100085,Telugu,I want water.,నాకు నీళ్లు కావాలి.,,sentence
+7100086,Telugu,I have a book.,నా దగ్గర పుస్తకం ఉంది.,,sentence
+7100087,Telugu,She has a car.,ఆమె దగ్గర కారు ఉంది.,,sentence
+7100088,Telugu,I do not have a car.,నా దగ్గర కారు లేదు.,,sentence
+7100089,Telugu,books,పుస్తకాలు,,noun
+7100090,Telugu,houses,ఇళ్లు,,noun
+7100091,Telugu,children,పిల్లలు,,noun
+7100092,Telugu,boys,అబ్బాయిలు,,noun
+7100093,Telugu,girls,అమ్మాయిలు,,noun
+7100094,Telugu,cars,కార్లు,,noun
+7100095,Telugu,The books are here.,పుస్తకాలు ఇక్కడ ఉన్నాయి.,,sentence
+7100096,Telugu,The children are there.,పిల్లలు అక్కడ ఉన్నారు.,,sentence
+7100097,Telugu,The cars are new.,కార్లు కొత్తవి.,,sentence
+7100098,Telugu,I see the book.,నేను పుస్తకాన్ని చూస్తాను.,,sentence
+7100099,Telugu,I see the boy.,నేను అబ్బాయిని చూస్తాను.,,sentence
+7100100,Telugu,I see the girl.,నేను అమ్మాయిని చూస్తాను.,,sentence
+7100101,Telugu,I see the children.,నేను పిల్లలను చూస్తాను.,,sentence
+7100102,Telugu,I see the cars.,నేను కార్లను చూస్తాను.,,sentence
+7100103,Telugu,He sees the house.,అతను ఇంటిని చూస్తాడు.,,sentence
+7100104,Telugu,She sees the house.,ఆమె ఇంటిని చూస్తుంది.,,sentence
+7100105,Telugu,I read books.,నేను పుస్తకాలు చదువుతాను.,,sentence
+7100106,Telugu,He reads books.,అతను పుస్తకాలు చదువుతాడు.,,sentence
+7100107,Telugu,She reads books.,ఆమె పుస్తకాలు చదువుతుంది.,,sentence
+7100108,Telugu,Do you read books? (respectful),మీరు పుస్తకాలు చదువుతారా?,,sentence
+7100109,Telugu,I do not read books.,నేను పుస్తకాలు చదవను.,,sentence
+7100110,Telugu,I am at home.,నేను ఇంట్లో ఉన్నాను.,,sentence
+7100111,Telugu,She is at school.,ఆమె పాఠశాలలో ఉంది.,,sentence
+7100112,Telugu,The book is in the house.,పుస్తకం ఇంట్లో ఉంది.,,sentence
+7100113,Telugu,I go to school.,నేను పాఠశాలకు వెళ్తాను.,,sentence
+7100114,Telugu,He goes home.,అతను ఇంటికి వెళ్తాడు.,,sentence

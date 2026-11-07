@@ -500,7 +500,10 @@ Notes: Southern Quechua is the initial reference variety.
 TELUGU
 ID allocation: 7100000-7199999
 CSV: Cards/Telugu.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Systematic 115-card seed (original 15 micro cards preserved).
+Syllabus: Syllabi/Polyglot_Telugu_Syllabus_v0.1.txt
+Frontier: TE-16 — Instrumental and comitative marking
+Checkpoint: TE-01–TE-15 introduced, with pronouns, progressive, simple nonpast, questions, negation, plurals, accusative objects, dative goals and locative -లో. Earlier structures continue longitudinally.
 
 GUARANI
 ID allocation: 7200000-7299999
