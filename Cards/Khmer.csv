@@ -14,3 +14,88 @@
 6100012,Khmer,He has a car.,គាត់មានឡាន។,,sentence
 6100013,Khmer,He has a red car.,គាត់មានឡានពណ៌ក្រហម។,,sentence
 6100014,Khmer,I see four cars.,ខ្ញុំឃើញឡានបួនគ្រឿង។,,sentence
+6100015,Khmer,woman,ស្ត្រី,,noun
+6100016,Khmer,child,ក្មេង,,noun
+6100017,Khmer,book,សៀវភៅ,,noun
+6100018,Khmer,school,សាលារៀន,,noun
+6100019,Khmer,teacher,គ្រូបង្រៀន,,noun
+6100020,Khmer,student,សិស្ស,,noun
+6100021,Khmer,friend,មិត្តភក្តិ,,noun
+6100022,Khmer,cat,ឆ្មា,,noun
+6100023,Khmer,dog,ឆ្កែ,,noun
+6100024,Khmer,rice (cooked),បាយ,,noun
+6100025,Khmer,tea,តែ,,noun
+6100026,Khmer,coffee,កាហ្វេ,,noun
+6100027,Khmer,small,តូច,,adjective
+6100028,Khmer,good,ល្អ,,adjective
+6100029,Khmer,new,ថ្មី,,adjective
+6100030,Khmer,one,មួយ,,number
+6100031,Khmer,two,ពីរ,,number
+6100032,Khmer,three,បី,,number
+6100033,Khmer,five,ប្រាំ,,number
+6100034,Khmer,I (neutral first person),ខ្ញុំ,,pronoun
+6100035,Khmer,you (neutral familiar),អ្នក,,pronoun
+6100036,Khmer,he or she (respectful reference),គាត់,,pronoun
+6100037,Khmer,we (with explicit plural marker),ពួកយើង,,pronoun
+6100038,Khmer,they (with explicit plural marker),ពួកគេ,,pronoun
+6100039,Khmer,She is a teacher.,គាត់ជាគ្រូបង្រៀន។,,sentence
+6100040,Khmer,I am a student.,ខ្ញុំជាសិស្ស។,,sentence
+6100041,Khmer,He is a student.,គាត់ជាសិស្ស។,,sentence
+6100042,Khmer,This is a book.,នេះជាសៀវភៅ។,,sentence
+6100043,Khmer,This is a school.,នេះជាសាលារៀន។,,sentence
+6100044,Khmer,The book is new.,សៀវភៅថ្មី។,,sentence
+6100045,Khmer,The house is small.,ផ្ទះតូច។,,sentence
+6100046,Khmer,The cat is small.,ឆ្មាតូច។,,sentence
+6100047,Khmer,The dog is big.,ឆ្កែធំ។,,sentence
+6100048,Khmer,The tea is good.,តែល្អ។,,sentence
+6100049,Khmer,I am not a doctor.,ខ្ញុំមិនមែនជាគ្រូពេទ្យទេ។,,sentence
+6100050,Khmer,He is not a teacher.,គាត់មិនមែនជាគ្រូបង្រៀនទេ។,,sentence
+6100051,Khmer,The house is not big.,ផ្ទះមិនធំទេ។,,sentence
+6100052,Khmer,The car is not new.,ឡានមិនថ្មីទេ។,,sentence
+6100053,Khmer,Is he a doctor?,តើគាត់ជាគ្រូពេទ្យមែនទេ?,,sentence
+6100054,Khmer,Is the house big?,តើផ្ទះធំទេ?,,sentence
+6100055,Khmer,I have a book.,ខ្ញុំមានសៀវភៅ។,,sentence
+6100056,Khmer,She has a cat.,គាត់មានឆ្មា។,,sentence
+6100057,Khmer,I have two books.,ខ្ញុំមានសៀវភៅពីរក្បាល។,,sentence
+6100058,Khmer,He has three cars.,គាត់មានឡានបីគ្រឿង។,,sentence
+6100059,Khmer,I do not have a car.,ខ្ញុំមិនមានឡានទេ។,,sentence
+6100060,Khmer,Do you have a book?,តើអ្នកមានសៀវភៅទេ?,,sentence
+6100061,Khmer,two books,សៀវភៅពីរក្បាល,,phrase
+6100062,Khmer,three cars,ឡានបីគ្រឿង,,phrase
+6100063,Khmer,four cats,ឆ្មាបួនក្បាល,,phrase
+6100064,Khmer,five students,សិស្សប្រាំនាក់,,phrase
+6100065,Khmer,Where is the book?,សៀវភៅនៅឯណា?,,sentence
+6100066,Khmer,The book is here.,សៀវភៅនៅទីនេះ។,,sentence
+6100067,Khmer,The teacher is at school.,គ្រូបង្រៀននៅសាលារៀន។,,sentence
+6100068,Khmer,I am at home.,ខ្ញុំនៅផ្ទះ។,,sentence
+6100069,Khmer,The cat is not here.,ឆ្មាមិននៅទីនេះទេ។,,sentence
+6100070,Khmer,What is this?,នេះជាអ្វី?,,sentence
+6100071,Khmer,Who is he?,គាត់ជានរណា?,,sentence
+6100072,Khmer,Who is the teacher?,នរណាជាគ្រូបង្រៀន?,,sentence
+6100073,Khmer,Where is the school?,សាលារៀននៅឯណា?,,sentence
+6100074,Khmer,to eat,ញ៉ាំ,,verb
+6100075,Khmer,to drink,ផឹក,,verb
+6100076,Khmer,to read,អាន,,verb
+6100077,Khmer,to see,ឃើញ,,verb
+6100078,Khmer,to go,ទៅ,,verb
+6100079,Khmer,to come,មក,,verb
+6100080,Khmer,to speak,និយាយ,,verb
+6100081,Khmer,to understand,យល់,,verb
+6100082,Khmer,I eat rice.,ខ្ញុំញ៉ាំបាយ។,,sentence
+6100083,Khmer,He eats rice.,គាត់ញ៉ាំបាយ។,,sentence
+6100084,Khmer,I drink water.,ខ្ញុំផឹកទឹក។,,sentence
+6100085,Khmer,She drinks tea.,គាត់ផឹកតែ។,,sentence
+6100086,Khmer,I read a book.,ខ្ញុំអានសៀវភៅ។,,sentence
+6100087,Khmer,He reads a book.,គាត់អានសៀវភៅ។,,sentence
+6100088,Khmer,I see a cat.,ខ្ញុំឃើញឆ្មា។,,sentence
+6100089,Khmer,I see two cats.,ខ្ញុំឃើញឆ្មាពីរក្បាល។,,sentence
+6100090,Khmer,I do not drink coffee.,ខ្ញុំមិនផឹកកាហ្វេទេ។,,sentence
+6100091,Khmer,He does not eat rice.,គាត់មិនញ៉ាំបាយទេ។,,sentence
+6100092,Khmer,Do you drink tea?,តើអ្នកផឹកតែទេ?,,sentence
+6100093,Khmer,What do you drink?,អ្នកផឹកអ្វី?,,sentence
+6100094,Khmer,I go to school.,ខ្ញុំទៅសាលារៀន។,,sentence
+6100095,Khmer,She comes here.,គាត់មកទីនេះ។,,sentence
+6100096,Khmer,I speak Khmer.,ខ្ញុំនិយាយភាសាខ្មែរ។,,sentence
+6100097,Khmer,I do not understand.,ខ្ញុំមិនយល់ទេ។,,sentence
+6100098,Khmer,Thank you.,អរគុណ។,,phrase
+6100099,Khmer,Hello.,សួស្តី។,,phrase
