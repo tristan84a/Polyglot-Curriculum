@@ -99,3 +99,53 @@
 1900097,Punjabi,You are here. (singular intimate),ਤੂੰ ਇੱਥੇ ਹੈਂ।,,sentence
 1900098,Punjabi,I see the book. (female speaker),ਮੈਂ ਕਿਤਾਬ ਵੇਖਦੀ ਹਾਂ।,,sentence
 1900099,Punjabi,The car is here.,ਗੱਡੀ ਇੱਥੇ ਹੈ।,,sentence
+1900100,Punjabi,when,ਕਦੋਂ,,grammar
+1900101,Punjabi,why,ਕਿਉਂ,,grammar
+1900102,Punjabi,how,ਕਿਵੇਂ,,grammar
+1900103,Punjabi,When do you work? (respectful),ਤੁਸੀਂ ਕਦੋਂ ਕੰਮ ਕਰਦੇ ਹੋ?,,sentence
+1900104,Punjabi,Why does she not work?,ਉਹ ਕੰਮ ਕਿਉਂ ਨਹੀਂ ਕਰਦੀ?,,sentence
+1900105,Punjabi,How do you speak Punjabi? (respectful),ਤੁਸੀਂ ਪੰਜਾਬੀ ਕਿਵੇਂ ਬੋਲਦੇ ਹੋ?,,sentence
+1900106,Punjabi,You speak Punjabi. (intimate; male),ਤੂੰ ਪੰਜਾਬੀ ਬੋਲਦਾ ਹੈਂ।,,sentence
+1900107,Punjabi,You speak Punjabi. (intimate; female),ਤੂੰ ਪੰਜਾਬੀ ਬੋਲਦੀ ਹੈਂ।,,sentence
+1900108,Punjabi,You work. (intimate; male),ਤੂੰ ਕੰਮ ਕਰਦਾ ਹੈਂ।,,sentence
+1900109,Punjabi,We speak Punjabi. (female speakers),ਅਸੀਂ ਪੰਜਾਬੀ ਬੋਲਦੀਆਂ ਹਾਂ।,,sentence
+1900110,Punjabi,They work. (female subjects),ਉਹ ਕੰਮ ਕਰਦੀਆਂ ਹਨ।,,sentence
+1900111,Punjabi,I see a car. (male speaker),ਮੈਂ ਗੱਡੀ ਵੇਖਦਾ ਹਾਂ।,,sentence
+1900112,Punjabi,I see that man. (male speaker),ਮੈਂ ਉਸ ਆਦਮੀ ਨੂੰ ਵੇਖਦਾ ਹਾਂ।,,sentence
+1900113,Punjabi,She sees that child.,ਉਹ ਉਸ ਬੱਚੇ ਨੂੰ ਵੇਖਦੀ ਹੈ।,,sentence
+1900114,Punjabi,I see the water. (male speaker),ਮੈਂ ਪਾਣੀ ਵੇਖਦਾ ਹਾਂ।,,sentence
+1900115,Punjabi,I see that girl. (female speaker),ਮੈਂ ਉਸ ਬੱਚੀ ਨੂੰ ਵੇਖਦੀ ਹਾਂ।,,sentence
+1900116,Punjabi,boy,ਮੁੰਡਾ,,noun
+1900117,Punjabi,boys,ਮੁੰਡੇ,,noun
+1900118,Punjabi,girl,ਕੁੜੀ,,noun
+1900119,Punjabi,girls,ਕੁੜੀਆਂ,,noun
+1900120,Punjabi,a boy,ਇੱਕ ਮੁੰਡਾ,,phrase
+1900121,Punjabi,to the boy,ਮੁੰਡੇ ਨੂੰ,,phrase
+1900122,Punjabi,to the boys,ਮੁੰਡਿਆਂ ਨੂੰ,,phrase
+1900123,Punjabi,to the girl,ਕੁੜੀ ਨੂੰ,,phrase
+1900124,Punjabi,to the girls,ਕੁੜੀਆਂ ਨੂੰ,,phrase
+1900125,Punjabi,I see the boy. (male speaker),ਮੈਂ ਮੁੰਡੇ ਨੂੰ ਵੇਖਦਾ ਹਾਂ।,,sentence
+1900126,Punjabi,I see the boys. (male speaker),ਮੈਂ ਮੁੰਡਿਆਂ ਨੂੰ ਵੇਖਦਾ ਹਾਂ।,,sentence
+1900127,Punjabi,She sees the girl.,ਉਹ ਕੁੜੀ ਨੂੰ ਵੇਖਦੀ ਹੈ।,,sentence
+1900128,Punjabi,She sees the girls.,ਉਹ ਕੁੜੀਆਂ ਨੂੰ ਵੇਖਦੀ ਹੈ।,,sentence
+1900129,Punjabi,the boy is here,ਮੁੰਡਾ ਇੱਥੇ ਹੈ।,,sentence
+1900130,Punjabi,the boys are here,ਮੁੰਡੇ ਇੱਥੇ ਹਨ।,,sentence
+1900131,Punjabi,the girl is here,ਕੁੜੀ ਇੱਥੇ ਹੈ।,,sentence
+1900132,Punjabi,the girls are here,ਕੁੜੀਆਂ ਇੱਥੇ ਹਨ।,,sentence
+1900133,Punjabi,children (masculine or mixed),ਬੱਚੇ,,noun
+1900134,Punjabi,to the children (masculine or mixed),ਬੱਚਿਆਂ ਨੂੰ,,phrase
+1900135,Punjabi,The children are here. (masculine or mixed),ਬੱਚੇ ਇੱਥੇ ਹਨ।,,sentence
+1900136,Punjabi,houses,ਘਰ,,noun
+1900137,Punjabi,The houses are big.,ਘਰ ਵੱਡੇ ਹਨ।,,sentence
+1900138,Punjabi,books,ਕਿਤਾਬਾਂ,,noun
+1900139,Punjabi,The books are here.,ਕਿਤਾਬਾਂ ਇੱਥੇ ਹਨ।,,sentence
+1900140,Punjabi,cars,ਗੱਡੀਆਂ,,noun
+1900141,Punjabi,The cars are new.,ਗੱਡੀਆਂ ਨਵੀਆਂ ਹਨ।,,sentence
+1900142,Punjabi,women,ਔਰਤਾਂ,,noun
+1900143,Punjabi,The women are here.,ਔਰਤਾਂ ਇੱਥੇ ਹਨ।,,sentence
+1900144,Punjabi,men,ਆਦਮੀ,,noun
+1900145,Punjabi,The men are here.,ਆਦਮੀ ਇੱਥੇ ਹਨ।,,sentence
+1900146,Punjabi,to the books,ਕਿਤਾਬਾਂ ਨੂੰ,,phrase
+1900147,Punjabi,to the cars,ਗੱਡੀਆਂ ਨੂੰ,,phrase
+1900148,Punjabi,The boys work.,ਮੁੰਡੇ ਕੰਮ ਕਰਦੇ ਹਨ।,,sentence
+1900149,Punjabi,The girls work.,ਕੁੜੀਆਂ ਕੰਮ ਕਰਦੀਆਂ ਹਨ।,,sentence
