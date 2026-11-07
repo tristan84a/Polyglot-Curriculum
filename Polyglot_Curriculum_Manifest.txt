@@ -439,7 +439,11 @@ Checkpoint: Original 15 micro cards preserved; extended to 107 cards with noun-c
 KHMER
 ID allocation: 6100000-6199999
 CSV: Cards/Khmer.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Systematic seed deck; original 15-card micro deck preserved; now 100 cards (6100000–6100099).
+Reference: Contemporary standard Central/Phnom Penh Khmer in standard Khmer Unicode orthography.
+Syllabus: Syllabi/Polyglot_Khmer_Syllabus_v0.1.txt
+Frontier: KM-21 — Expanding numeral–classifier patterns and counting
+Checkpoint: Seed introduces ជា classification, adjective predicates, មិន…ទេ negation, simple polar/content questions, មាន possession, នៅ location, common classifiers, SVO verbs, and everyday exchanges. Next deepen numeral–classifier options, demonstratives, noun phrases and social forms of address.
 
 SLOVAK
 ID allocation: 6200000-6299999
