@@ -237,8 +237,8 @@ ID allocation: 2900000-2999999
 CSV: Cards/Swahili.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Swahili_Syllabus_v0.1.txt
-Frontier: SW-18 — Subject pronoun omission
-Checkpoint: Cards 2900000-2900014 remain the standardized micro opening. Cards 2900015-2900099 form the seed, establishing core vocabulary, personal pronouns, ni identification, descriptive predication, representative M-WA, KI-VI, N and JI-MA noun-class behavior, plurals, adjective agreement, basic negation/questions, ku- infinitives, present -na- and subject markers. Earlier cards preview possession, direct objects and interrogatives without moving the frontier.
+Frontier: SW-21 — Verbal questions
+Checkpoint: Original 100 cards preserved. Cards 2900100-2900147 reinforce pronoun omission and extend SW-19 additional present verbs and SW-20 present-tense negation, including negative forms of short verbs. SW-21 verbal questions is next; earlier material continues longitudinally.
 
 ALBANIAN
 ID allocation: 3000000-3099999
