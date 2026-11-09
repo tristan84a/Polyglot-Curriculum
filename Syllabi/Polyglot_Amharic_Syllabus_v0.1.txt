@@ -1,0 +1,138 @@
+POLYGLOT AMHARIC SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Amharic (አማርኛ)
+Reference variety: contemporary Standard Ethiopian Amharic, neutral Addis Ababa-oriented usage
+Card Generation Protocol: 1.0
+
+PURPOSE
+Graduate the original fifteen-card micro deck, unchanged, into a 100-card systematic seed and establish a long-range introduction map. Units describe new branches of learning, not completed textbook lessons. Continue to recycle established features while adding new vocabulary and structures.
+
+REFERENCE VARIETY AND SCRIPT
+Write standard Amharic in Ethiopic/Geʽez (fidel) Unicode script in Target. The script is an abugida organized into consonant orders reflecting vowel qualities, with some historical spellings that do not represent contemporary phonemic contrasts. Use conventional spellings, no romanized Target, and leave InputHint blank. Ethiopian punctuation such as ። is acceptable for statements, and ordinary ? for questions. Keep spelling stable across cards and distinguish Amharic from related Tigrinya and Geʽez.
+
+AUTHORING PRINCIPLES
+1. Preserve cards 9800000–9800014 exactly, including their existing English prompts and targets.
+2. Prefer neutral standard everyday Amharic. Label formal, literary, regional, honorific or colloquial alternatives when systematically introduced.
+3. Typical unmarked clause order is subject-object-verb. Adjectives normally precede nouns; definiteness is usually suffixed, not a free-standing English-style article.
+4. Gender matters in some second- and third-person forms, the copula and verb conjugation; English prompts must disambiguate masculine/feminine second-person reference when needed.
+5. Pronouns are often omitted because verbs encode subject information. Early overt-pronoun paradigms are intentional scaffolding, not a claim that they are always necessary.
+6. Teach the present nominal copula ነኝ, ነህ, ነሽ, ነው, ናት, ነን, ናችሁ, ናቸው as contrasts; later revisit respectful and formal variation.
+7. Distinguish nominal-copular negation (አይደለም and its inflected forms) from negative lexical verbs (e.g. አልበላም) and existential negation (የለም).
+8. Plural -ዎች and other patterns are not mechanically uniform across all nouns; note irregular and lexicalized plurals such as መጽሐፍት.
+9. Possession and existence use አለ and person-marked forms such as አለኝ/አለው/አላት. Teach possessive noun phrases separately from this existential pattern.
+10. Amharic uses templatic Semitic verb morphology with person/gender prefixes and tense/aspect/person suffixes; do not describe the language as an invariant-verb SVO system. Teach high-frequency verbs through actual forms rather than treating infinitives as predictable stems.
+11. Early finite examples mainly use the imperfective/nonpast; later teach the perfective, compound progressive, future/prospective, auxiliaries, negation and imperative as distinct systems.
+12. Require unique EnglishPrompt values, continuous new IDs inside 9800000–9899999, and exactly six CSV columns (ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech). Each target must be independently understandable after shuffling; one canonical target is not necessarily the only grammatical translation.
+13. Script practice, phonology, register, and natural usage remain longitudinal strands. Avoid making a syllabus milestone imply a complete survey of an entire morphological system.
+
+SEED CHECKPOINT
+9800000–9800014: original micro deck preserved exactly.
+9800015–9800099: 85 new cards combining concrete vocabulary, adjectives, numbers, personal reference, copular agreement and gender, definite nouns, basic plurals, demonstratives, nominal negation/questions, wh-questions, location, existential possession, infinitive anchors, and first common nonpast verbs.
+The seed opens AMH-01 through AMH-20 with some natural previews of later features. The next frontier is AMH-21: systematic imperfective person/gender conjugation and contrasts with already introduced present forms. The final cards also preview negative finite verbs and lexical-verb polar questions, which require later reinforcement.
+
+CANONICAL INTRODUCTION MAP
+AMH-01 — Ethiopic script and core concrete nouns
+AMH-02 — Consonant-vowel fidel orders and everyday phonology
+AMH-03 — Basic adjectives and prenominal modification
+AMH-04 — First numbers and counting vocabulary
+AMH-05 — Independent personal pronouns and referent gender
+AMH-06 — Nominal identity and present copula
+AMH-07 — Copula person/number/gender paradigm
+AMH-08 — Definite noun suffixes -ው/-ዋ and variants
+AMH-09 — Adjective predicate clauses
+AMH-10 — Noun plurals -ዎች and lexical plural patterns
+AMH-11 — Plural nominal predicates and agreement
+AMH-12 — Demonstratives ይህ, ይች, ያ, ያቺ
+AMH-13 — Nominal negation with አይደለም
+AMH-14 — Basic polar questions and common response conventions
+AMH-15 — Content questions: ምን, ማን, የት
+AMH-16 — Here/there, location and nominal locative predicates
+AMH-17 — Existence and possession with አለ
+AMH-18 — Negative existence/possession with የለ
+AMH-19 — Dictionary infinitives and common action verbs
+AMH-20 — First imperfective/nonpast transitive and motion clauses
+AMH-21 — Imperfective person/number/gender paradigms
+AMH-22 — Negative imperfective prefixes and suffixes
+AMH-23 — Lexical-verb polar and content questions
+AMH-24 — Subject pronoun omission and agreement recovery
+AMH-25 — Basic object marking with -ን
+AMH-26 — Definiteness and specificity in object marking
+AMH-27 — First and second person object suffixes
+AMH-28 — Possessive suffixes on nouns
+AMH-29 — Genitive የ- and possessor phrases
+AMH-30 — Locative በ- and allative ወደ
+AMH-31 — Ablative ከ- and source/destination
+AMH-32 — Comitative ከ-...ጋር
+AMH-33 — Dative/benefactive ለ- and recipients
+AMH-34 — Postpositions and relational nouns
+AMH-35 — Adjective agreement, comparative descriptions and degree
+AMH-36 — Number phrases, measure nouns and counting
+AMH-37 — Quantifiers, distributives and collectives
+AMH-38 — Perfective affirmative: basic stem patterns
+AMH-39 — Perfective agreement across persons
+AMH-40 — Perfective negation and question formation
+AMH-41 — Past narrative sequencing and time adverbs
+AMH-42 — Imperfective versus perfective aspect contrasts
+AMH-43 — Compound present progressive constructions
+AMH-44 — Prospective/future constructions
+AMH-45 — Frequency, habitual events and duration
+AMH-46 — Commands and singular/plural imperative
+AMH-47 — Negative imperatives and prohibitions
+AMH-48 — Polite requests and honorific imperative forms
+AMH-49 — Ability, permission and possibility
+AMH-50 — Wanting and infinitive complements
+AMH-51 — Obligation, necessity and advice
+AMH-52 — Auxiliary verbs and compound predicate patterns
+AMH-53 — Common derived verb stems and causatives
+AMH-54 — Passive and reflexive-related derivation
+AMH-55 — Reciprocal and collective verbal meanings
+AMH-56 — Relative verbs and prenominal relative clauses
+AMH-57 — Definite nominalized relatives
+AMH-58 — Infinitival and verbal-noun complements
+AMH-59 — Purpose and reason clauses
+AMH-60 — Conditional clauses and hypotheses
+AMH-61 — Concession, contrast and coordination
+AMH-62 — Temporal clauses, simultaneity and sequence
+AMH-63 — Reported speech and quotative ብሎ
+AMH-64 — Complement clauses and clause embedding
+AMH-65 — Topic, focus, emphasis and flexible word order
+AMH-66 — Negation scope and polarity in complex clauses
+AMH-67 — Discourse particles, response markers and pragmatic nuance
+AMH-68 — Verbal stem families, gemination and lexical aspect
+AMH-69 — Fidel spelling variants and historically merged consonants
+AMH-70 — Ejectives, central vowels and consonant contrasts
+AMH-71 — Keyboard entry, Unicode fidelity and punctuation
+AMH-72 — Pronunciation, stress, rhythm and connected speech
+AMH-73 — Spoken versus formal/written Amharic
+AMH-74 — Respectful address, social register and titles
+AMH-75 — Greetings, social conventions and hospitality
+AMH-76 — Family, kinship and interpersonal relations
+AMH-77 — Household, furniture and domestic routines
+AMH-78 — Food, drinks, cooking and restaurants
+AMH-79 — Shopping, prices, money and market exchanges
+AMH-80 — Transport, streets, directions and travel
+AMH-81 — School, study, literacy and education
+AMH-82 — Employment, jobs, trades and workplaces
+AMH-83 — Body, health, symptoms and medical care
+AMH-84 — Weather, environment and geography
+AMH-85 — Agriculture, countryside and regional life
+AMH-86 — Technology, phones, computers and media
+AMH-87 — Government, elections and civic administration
+AMH-88 — Law, public services and rights
+AMH-89 — Business, finance and commerce
+AMH-90 — Science, mathematics and technical terminology
+AMH-91 — Art, literature, music, film and performance
+AMH-92 — Ethiopian history, cultures and public discourse
+AMH-93 — Religion, ceremony and culturally situated vocabulary
+AMH-94 — Emotions, behaviour and personality
+AMH-95 — Abstract evaluation, arguments and explanation
+AMH-96 — Formal writing, journalistic and academic prose
+AMH-97 — Idioms, collocations and figurative language
+AMH-98 — Dialects, loanwords and authentic-text variation
+AMH-99 — Educated-adult long tail and backward validation
+
+NEXT GENERATION
+Continue at AMH-21 with one transparent full imperfective paradigm of a frequent lexical verb, contrasting masculine/feminine second person and third person, then use varied new verbs in naturally contextualized clauses. Reinforce negative lexical-verb formation and questions before opening object marking and the perfective. Keep expanding practical vocabulary across each stage; do not use dense repetition solely to complete conjugation tables.
