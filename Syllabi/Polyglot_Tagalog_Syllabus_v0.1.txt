@@ -169,7 +169,7 @@ CARD GENERATION RULES
 
 CURRENT FRONTIER AND NEXT EXPANSION
 
-At 100 cards, the forward frontier is TL-19: actor-voice completed and contemplated aspect. The next batch should expand the um- aspect system and add mag- verbs, time words and everyday nouns. It should then introduce ng- and sa-set pronouns and move toward deliberate actor/patient voice contrasts. Earlier nakikita and four-car examples should be revisited in those later controlled voice and numeral units. Do not postpone all productive verbs until every marker is exhausted.
+At 4400158 cards total (highest ID 4400157), units TL-01 through TL-21 are introduced and reinforced. The forward frontier is TL-22: personal pronoun ng-set. TL-19 adds completed/contemplated um- aspect contrasts, TL-20 adds mag- verbs across aspects, and TL-21 combines aspect with time expressions and habitual contexts. Next develop ng- and sa-set pronouns and deliberate actor/patient voice contrasts. Earlier nakikita and four-car examples should be revisited in later controlled voice and numeral units.
 
 AMENDMENT HISTORY
 
