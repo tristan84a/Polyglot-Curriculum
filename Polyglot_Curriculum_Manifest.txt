@@ -123,8 +123,8 @@ ID allocation: 1400000-1499999
 CSV: Cards/Mandarin.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Mandarin_Syllabus_v0.1.txt
-Frontier: MN-17 — Measure words and quantities
-Checkpoint: Original 179 cards preserved. Cards 1400179–1400251 establish MN-13 的 possession, MN-14 attributive modification with 的, MN-15 restricted human plural 们 and unmarked noun plurality, and MN-16 cardinal numbers including 两/二 and 万/亿 grouping. MN-17 measure words and quantities is next. Simplified Targets and tone-marked Pinyin InputHint continue.
+Frontier: MN-19 — Time expressions
+Checkpoint: Original 179 cards preserved. Cards 1400179–1400251 establish MN-13–MN-16. Cards 1400252–1400333 introduce MN-17 classifier and quantity patterns (张/把/瓶/杯/碗/件/双/条/部/台/辆 and quantity phrases) and MN-18 localizers (里/外面/上/下/前面/后面/旁边/中间/对面/左边/右边), with 有/在 location contrasts. MN-19 time expressions is next. Simplified Targets and tone-marked Pinyin InputHint continue.
 
 ICELANDIC
 ID allocation: 1500000-1599999
