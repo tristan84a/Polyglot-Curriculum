@@ -349,3 +349,7 @@ Version 0.1
 - Treats noun classes, agreement, the verbal template, object marking, locatives, relatives and verbal derivation as longitudinal systems.
 - Avoids reducing noun classes to detached memorized tables or Swahili verbs to an English-style conjugation model.
 - Aligns the 100-card seed through subject markers and sets the forward frontier at SW-18.
+
+AMENDMENT — 2026-11-11: STAGE 2 COMPLETION
+
+The canonical live deck now introduces all Stage 2 units SW-15 through SW-23. Cards 2900100-2900147 extended SW-18 to SW-20. Cards 2900148-2900167 introduce SW-21 verbal questions including affirmative and negative polar questions. Cards 2900168-2900191 develop SW-22 question words in natural verbal clauses including who, what, where, when, why, how, how many, how much and which. Cards 2900192-2900221 synthesize the present series (SW-23) with varied subjects, familiar lexical verbs, negative morphology, question formation and first useful combinations. The forward frontier is SW-24 (proximal demonstratives), the beginning of Stage 3. Earlier grammar and vocabulary remain active for spiral reinforcement.
