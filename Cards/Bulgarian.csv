@@ -14,3 +14,147 @@
 4700012,Bulgarian,He has a car.,Той има кола.,,sentence
 4700013,Bulgarian,He has a red car.,Той има червена кола.,,sentence
 4700014,Bulgarian,I see four cars.,Виждам четири коли.,,sentence
+4700015,Bulgarian,woman,жена,,noun
+4700016,Bulgarian,child,дете,,noun
+4700017,Bulgarian,book,книга,,noun
+4700018,Bulgarian,school,училище,,noun
+4700019,Bulgarian,teacher,учител,,noun
+4700020,Bulgarian,student,ученик,,noun
+4700021,Bulgarian,friend,приятел,,noun
+4700022,Bulgarian,city,град,,noun
+4700023,Bulgarian,table,маса,,noun
+4700024,Bulgarian,bread,хляб,,noun
+4700025,Bulgarian,coffee,кафе,,noun
+4700026,Bulgarian,tea,чай,,noun
+4700027,Bulgarian,apple,ябълка,,noun
+4700028,Bulgarian,milk,мляко,,noun
+4700029,Bulgarian,good,добър,,adjective
+4700030,Bulgarian,small,малък,,adjective
+4700031,Bulgarian,new,нов,,adjective
+4700032,Bulgarian,old (not new),стар,,adjective
+4700033,Bulgarian,green,зелен,,adjective
+4700034,Bulgarian,one,едно,,number
+4700035,Bulgarian,two,две,,number
+4700036,Bulgarian,three,три,,number
+4700037,Bulgarian,five,пет,,number
+4700038,Bulgarian,I,аз,,pronoun
+4700039,Bulgarian,you (singular),ти,,pronoun
+4700040,Bulgarian,he,той,,pronoun
+4700041,Bulgarian,she,тя,,pronoun
+4700042,Bulgarian,we,ние,,pronoun
+4700043,Bulgarian,you (plural),вие,,pronoun
+4700044,Bulgarian,they,те,,pronoun
+4700045,Bulgarian,I am a student.,Аз съм ученик.,,sentence
+4700046,Bulgarian,You are a teacher.,Ти си учител.,,sentence
+4700047,Bulgarian,She is a doctor.,Тя е лекар.,,sentence
+4700048,Bulgarian,We are friends.,Ние сме приятели.,,sentence
+4700049,Bulgarian,You are students.,Вие сте ученици.,,sentence
+4700050,Bulgarian,They are teachers.,Те са учители.,,sentence
+4700051,Bulgarian,The book is new.,Книгата е нова.,,sentence
+4700052,Bulgarian,The child is small.,Детето е малко.,,sentence
+4700053,Bulgarian,The coffee is good.,Кафето е добро.,,sentence
+4700054,Bulgarian,The city is big.,Градът е голям.,,sentence
+4700055,Bulgarian,a big house,голяма къща,,phrase
+4700056,Bulgarian,a small child,малко дете,,phrase
+4700057,Bulgarian,a new book,нова книга,,phrase
+4700058,Bulgarian,a good friend,добър приятел,,phrase
+4700059,Bulgarian,houses,къщи,,noun
+4700060,Bulgarian,cars,коли,,noun
+4700061,Bulgarian,books,книги,,noun
+4700062,Bulgarian,children,деца,,noun
+4700063,Bulgarian,The houses are big.,Къщите са големи.,,sentence
+4700064,Bulgarian,The cars are new.,Колите са нови.,,sentence
+4700065,Bulgarian,The children are small.,Децата са малки.,,sentence
+4700066,Bulgarian,The book is not new.,Книгата не е нова.,,sentence
+4700067,Bulgarian,I am not a teacher.,Аз не съм учител.,,sentence
+4700068,Bulgarian,He is not a student.,Той не е ученик.,,sentence
+4700069,Bulgarian,Are you a doctor?,Ти лекар ли си?,,sentence
+4700070,Bulgarian,Is the house big?,Къщата голяма ли е?,,sentence
+4700071,Bulgarian,Is this a book?,Това книга ли е?,,sentence
+4700072,Bulgarian,this,това,,pronoun
+4700073,Bulgarian,that,онова,,pronoun
+4700074,Bulgarian,This is a school.,Това е училище.,,sentence
+4700075,Bulgarian,That is a car.,Онова е кола.,,sentence
+4700076,Bulgarian,Who is this?,Кой е това?,,sentence
+4700077,Bulgarian,What is this?,Какво е това?,,sentence
+4700078,Bulgarian,Where is the school?,Къде е училището?,,sentence
+4700079,Bulgarian,Where is the book?,Къде е книгата?,,sentence
+4700080,Bulgarian,here,тук,,adverb
+4700081,Bulgarian,there,там,,adverb
+4700082,Bulgarian,The book is here.,Книгата е тук.,,sentence
+4700083,Bulgarian,The car is there.,Колата е там.,,sentence
+4700084,Bulgarian,I have a book.,Имам книга.,,sentence
+4700085,Bulgarian,You have a car.,Имаш кола.,,sentence
+4700086,Bulgarian,She has a book.,Тя има книга.,,sentence
+4700087,Bulgarian,We have a house.,Имаме къща.,,sentence
+4700088,Bulgarian,Do you have a book?,Имаш ли книга?,,sentence
+4700089,Bulgarian,I do not have a car.,Нямам кола.,,sentence
+4700090,Bulgarian,He does not have a book.,Той няма книга.,,sentence
+4700091,Bulgarian,to read,чета,,verb
+4700092,Bulgarian,to write,пиша,,verb
+4700093,Bulgarian,to work,работя,,verb
+4700094,Bulgarian,to live,живея,,verb
+4700095,Bulgarian,to eat,ям,,verb
+4700096,Bulgarian,to drink,пия,,verb
+4700097,Bulgarian,to speak,говоря,,verb
+4700098,Bulgarian,to go,отивам,,verb
+4700099,Bulgarian,to come,идвам,,verb
+4700100,Bulgarian,to see,виждам,,verb
+4700101,Bulgarian,I read.,Чета.,,sentence
+4700102,Bulgarian,You read.,Четеш.,,sentence
+4700103,Bulgarian,He reads.,Той чете.,,sentence
+4700104,Bulgarian,We read.,Четем.,,sentence
+4700105,Bulgarian,You all read.,Вие четете.,,sentence
+4700106,Bulgarian,They read.,Те четат.,,sentence
+4700107,Bulgarian,I work.,Работя.,,sentence
+4700108,Bulgarian,You work.,Работиш.,,sentence
+4700109,Bulgarian,She works.,Тя работи.,,sentence
+4700110,Bulgarian,We work.,Работим.,,sentence
+4700111,Bulgarian,They work.,Те работят.,,sentence
+4700112,Bulgarian,I live here.,Живея тук.,,sentence
+4700113,Bulgarian,She lives in the city.,Тя живее в града.,,sentence
+4700114,Bulgarian,I speak Bulgarian.,Говоря български.,,sentence
+4700115,Bulgarian,Do you speak Bulgarian?,Говориш ли български?,,sentence
+4700116,Bulgarian,I read a book.,Чета книга.,,sentence
+4700117,Bulgarian,He reads the book.,Той чете книгата.,,sentence
+4700118,Bulgarian,We read books.,Четем книги.,,sentence
+4700119,Bulgarian,I write.,Пиша.,,sentence
+4700120,Bulgarian,You write.,Пишеш.,,sentence
+4700121,Bulgarian,I drink water.,Пия вода.,,sentence
+4700122,Bulgarian,He drinks tea.,Той пие чай.,,sentence
+4700123,Bulgarian,We eat bread.,Ядем хляб.,,sentence
+4700124,Bulgarian,The child eats an apple.,Детето яде ябълка.,,sentence
+4700125,Bulgarian,I see a car.,Виждам кола.,,sentence
+4700126,Bulgarian,I do not read.,Не чета.,,sentence
+4700127,Bulgarian,He does not work.,Той не работи.,,sentence
+4700128,Bulgarian,Do you read?,Четеш ли?,,sentence
+4700129,Bulgarian,What do you read?,Какво четеш?,,sentence
+4700130,Bulgarian,The book is on the table.,Книгата е на масата.,,sentence
+4700131,Bulgarian,The child is at school.,Детето е на училище.,,sentence
+4700132,Bulgarian,I am at home.,Вкъщи съм.,,sentence
+4700133,Bulgarian,home,дом,,noun
+4700134,Bulgarian,I go home.,Отивам вкъщи.,,sentence
+4700135,Bulgarian,I go to school.,Отивам на училище.,,sentence
+4700136,Bulgarian,I come from school.,Идвам от училище.,,sentence
+4700137,Bulgarian,My book is new.,Моята книга е нова.,,sentence
+4700138,Bulgarian,Your car is red.,Твоята кола е червена.,,sentence
+4700139,Bulgarian,His house is big.,Неговата къща е голяма.,,sentence
+4700140,Bulgarian,two books,две книги,,phrase
+4700141,Bulgarian,three apples,три ябълки,,phrase
+4700142,Bulgarian,four cars,четири коли,,phrase
+4700143,Bulgarian,five houses,пет къщи,,phrase
+4700144,Bulgarian,one book,една книга,,phrase
+4700145,Bulgarian,one car,една кола,,phrase
+4700146,Bulgarian,one child,едно дете,,phrase
+4700147,Bulgarian,the teacher (subject),учителят,,phrase
+4700148,Bulgarian,the teacher (object),учителя,,phrase
+4700149,Bulgarian,The teacher reads.,Учителят чете.,,sentence
+4700150,Bulgarian,I see the teacher.,Виждам учителя.,,sentence
+4700151,Bulgarian,I want water.,Искам вода.,,sentence
+4700152,Bulgarian,I want to read.,Искам да чета.,,sentence
+4700153,Bulgarian,She wants to work.,Тя иска да работи.,,sentence
+4700154,Bulgarian,I can read.,Мога да чета.,,sentence
+4700155,Bulgarian,We can go.,Можем да отидем.,,sentence
+4700156,Bulgarian,I cannot come.,Не мога да дойда.,,sentence
+4700157,Bulgarian,I know.,Знам.,,sentence
+4700158,Bulgarian,I do not know.,Не знам.,,sentence
