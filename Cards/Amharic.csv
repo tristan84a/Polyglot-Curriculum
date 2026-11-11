@@ -14,3 +14,88 @@
 9800012,Amharic,The child is small.,ልጁ ትንሽ ነው።,,sentence
 9800013,Amharic,I want water.,ውሃ እፈልጋለሁ።,,sentence
 9800014,Amharic,Thank you.,አመሰግናለሁ።,,sentence
+9800015,Amharic,school,ትምህርት ቤት,,noun
+9800016,Amharic,teacher,መምህር,,noun
+9800017,Amharic,student,ተማሪ,,noun
+9800018,Amharic,doctor,ሐኪም,,noun
+9800019,Amharic,friend,ጓደኛ,,noun
+9800020,Amharic,car,መኪና,,noun
+9800021,Amharic,bread,ዳቦ,,noun
+9800022,Amharic,coffee,ቡና,,noun
+9800023,Amharic,food,ምግብ,,noun
+9800024,Amharic,city,ከተማ,,noun
+9800025,Amharic,good,ጥሩ,,adjective
+9800026,Amharic,new,አዲስ,,adjective
+9800027,Amharic,red,ቀይ,,adjective
+9800028,Amharic,one,አንድ,,number
+9800029,Amharic,two,ሁለት,,number
+9800030,Amharic,three,ሶስት,,number
+9800031,Amharic,I,እኔ,,pronoun
+9800032,Amharic,you (singular masculine),አንተ,,pronoun
+9800033,Amharic,you (singular feminine),አንቺ,,pronoun
+9800034,Amharic,he,እሱ,,pronoun
+9800035,Amharic,she,እሷ,,pronoun
+9800036,Amharic,we,እኛ,,pronoun
+9800037,Amharic,you (plural or respectful),እናንተ,,pronoun
+9800038,Amharic,they,እነሱ,,pronoun
+9800039,Amharic,I am a student.,እኔ ተማሪ ነኝ።,,sentence
+9800040,Amharic,You are a student. (to a man),አንተ ተማሪ ነህ።,,sentence
+9800041,Amharic,You are a student. (to a woman),አንቺ ተማሪ ነሽ።,,sentence
+9800042,Amharic,He is a teacher.,እሱ መምህር ነው።,,sentence
+9800043,Amharic,She is a teacher.,እሷ መምህር ናት።,,sentence
+9800044,Amharic,We are students.,እኛ ተማሪዎች ነን።,,sentence
+9800045,Amharic,You are students. (plural),እናንተ ተማሪዎች ናችሁ።,,sentence
+9800046,Amharic,They are students.,እነሱ ተማሪዎች ናቸው።,,sentence
+9800047,Amharic,The car is new.,መኪናው አዲስ ነው።,,sentence
+9800048,Amharic,The book is good.,መጽሐፉ ጥሩ ነው።,,sentence
+9800049,Amharic,The woman is a doctor.,ሴቷ ሐኪም ናት።,,sentence
+9800050,Amharic,a big house,ትልቅ ቤት,,phrase
+9800051,Amharic,a small car,ትንሽ መኪና,,phrase
+9800052,Amharic,a new book,አዲስ መጽሐፍ,,phrase
+9800053,Amharic,a red car,ቀይ መኪና,,phrase
+9800054,Amharic,books,መጽሐፍት,,noun
+9800055,Amharic,houses,ቤቶች,,noun
+9800056,Amharic,cars,መኪናዎች,,noun
+9800057,Amharic,students,ተማሪዎች,,noun
+9800058,Amharic,The houses are big.,ቤቶቹ ትልቅ ናቸው።,,sentence
+9800059,Amharic,The cars are new.,መኪናዎቹ አዲስ ናቸው።,,sentence
+9800060,Amharic,This is a car.,ይህ መኪና ነው።,,sentence
+9800061,Amharic,This is a school.,ይህ ትምህርት ቤት ነው።,,sentence
+9800062,Amharic,That is a house.,ያ ቤት ነው።,,sentence
+9800063,Amharic,this book,ይህ መጽሐፍ,,phrase
+9800064,Amharic,that car,ያ መኪና,,phrase
+9800065,Amharic,two books,ሁለት መጽሐፍት,,phrase
+9800066,Amharic,three cars,ሶስት መኪናዎች,,phrase
+9800067,Amharic,I am not a doctor.,እኔ ሐኪም አይደለሁም።,,sentence
+9800068,Amharic,He is not a student.,እሱ ተማሪ አይደለም።,,sentence
+9800069,Amharic,She is not a teacher.,እሷ መምህር አይደለችም።,,sentence
+9800070,Amharic,Is this a book?,ይህ መጽሐፍ ነው?,,sentence
+9800071,Amharic,Is he a teacher?,እሱ መምህር ነው?,,sentence
+9800072,Amharic,What is this?,ይህ ምንድን ነው?,,sentence
+9800073,Amharic,Who is she?,እሷ ማን ናት?,,sentence
+9800074,Amharic,Where is the school?,ትምህርት ቤቱ የት ነው?,,sentence
+9800075,Amharic,here,እዚህ,,adverb
+9800076,Amharic,there,እዚያ,,adverb
+9800077,Amharic,The book is here.,መጽሐፉ እዚህ ነው።,,sentence
+9800078,Amharic,The school is there.,ትምህርት ቤቱ እዚያ ነው።,,sentence
+9800079,Amharic,I have a book.,መጽሐፍ አለኝ።,,sentence
+9800080,Amharic,He has a car.,መኪና አለው።,,sentence
+9800081,Amharic,She has a book.,መጽሐፍ አላት።,,sentence
+9800082,Amharic,I do not have a car.,መኪና የለኝም።,,sentence
+9800083,Amharic,There is water.,ውሃ አለ።,,sentence
+9800084,Amharic,There is no water.,ውሃ የለም።,,sentence
+9800085,Amharic,to eat,መብላት,,verb
+9800086,Amharic,to drink,መጠጣት,,verb
+9800087,Amharic,to read,ማንበብ,,verb
+9800088,Amharic,to go,መሄድ,,verb
+9800089,Amharic,to come,መምጣት,,verb
+9800090,Amharic,to speak,መናገር,,verb
+9800091,Amharic,I eat bread.,ዳቦ እበላለሁ።,,sentence
+9800092,Amharic,He eats bread.,እሱ ዳቦ ይበላል።,,sentence
+9800093,Amharic,She drinks coffee.,እሷ ቡና ትጠጣለች።,,sentence
+9800094,Amharic,I read a book.,መጽሐፍ አነባለሁ።,,sentence
+9800095,Amharic,I go to school.,ወደ ትምህርት ቤት እሄዳለሁ።,,sentence
+9800096,Amharic,He comes here.,እሱ ወደዚህ ይመጣል።,,sentence
+9800097,Amharic,I speak Amharic.,አማርኛ እናገራለሁ።,,sentence
+9800098,Amharic,I do not eat bread.,ዳቦ አልበላም።,,sentence
+9800099,Amharic,Do you speak Amharic? (to a man),አማርኛ ትናገራለህ?,,sentence

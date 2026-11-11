@@ -655,8 +655,11 @@ Reference: Standard Mali Bambara, Latin orthography.
 AMHARIC
 ID allocation: 9800000-9899999
 CSV: Cards/Amharic.csv
-Development: Exploratory 15-card micro deck; no syllabus frontier.
-Reference: Standard Ethiopian Amharic.
+Development: Systematic seed deck; original 15-card micro deck preserved; now 100 cards (9800000–9800099).
+Reference: Contemporary Standard Ethiopian Amharic, Addis Ababa-oriented usage, Ethiopic script.
+Syllabus: Syllabi/Polyglot_Amharic_Syllabus_v0.1.txt
+Frontier: AMH-21 — Imperfective person/number/gender paradigms
+Checkpoint: 85 new cards establish copular gender/person agreement, definiteness, plurals, demonstratives, negation/questions, possession/existence, basic SOV verbs and motion. Continue from AMH-21 while reinforcing negative verb forms and questions.
 
 OROMO
 ID allocation: 9900000-9999999
