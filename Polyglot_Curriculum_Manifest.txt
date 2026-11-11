@@ -340,7 +340,7 @@ TAGALOG
 ID allocation: 4400000-4499999
 CSV: Cards/Tagalog.csv
 Development: Micro/seed deck; consult CSV for actual card count and used IDs.
-Notes: — Syllabus: Syllabi/Polyglot_Tagalog_Syllabus_v0.1.txt. Frontier: TL-19 — Actor-voice completed and contemplated aspect. Original 15 micro cards preserved; seed develops linkers, pronouns, plurality, demonstratives, negation, questions, location, existence/possession and first actor-voice verbs.
+Notes: — Syllabus: Syllabi/Polyglot_Tagalog_Syllabus_v0.1.txt. Frontier: TL-22 — Personal pronoun ng-set (TL-21 complete). Original 15 micro cards preserved; seed develops linkers, pronouns, plurality, demonstratives, negation, questions, location, existence/possession and first actor-voice verbs.
 
 LITHUANIAN
 ID allocation: 4500000-4599999
