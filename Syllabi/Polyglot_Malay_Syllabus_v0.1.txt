@@ -1,0 +1,162 @@
+POLYGLOT MALAY SYLLABUS
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Charter: 0.8
+Card Generation Protocol: 1.0
+Language: Malay (Bahasa Melayu)
+Reference: Contemporary Standard Malaysian Malay (Bahasa Melayu standard, Malaysia), modern Rumi spelling
+
+PURPOSE
+This syllabus graduates the original 15-card Malay micro deck to a systematic 100-card seed, then provides the canonical order for opening productive grammatical and lexical branches. Units mark introductions, not closed chapters; re-use earlier patterns throughout a widening spiral. The course is distinct from Indonesian even where grammar and vocabulary overlap.
+
+REFERENCE AND AUTHORING CONVENTIONS
+Use mainstream contemporary Malaysian Malay in standard Rumi orthography with natural ordinary Malaysian expressions. InputHint is blank. Prefer stable, reasonably neutral written/spoken Malay in early cards: saya and awak are early pronoun anchors, without implying that awak is a universal respectful form of address. Later broaden anda, kamu, engkau, encik, puan, cik, abang, kakak and name/title-based address with their actual social contexts. Avoid silently replacing Malaysian words with Indonesian standards (e.g., kereta versus Indonesian mobil, bandar versus kota). Malaysian spelling conventions are authoritative for this deck.
+
+Malay is predominantly analytic: ordinary verbs do not conjugate for person or tense, adjectives do not agree in gender or number, and nouns lack English-style articles. Word order, definiteness, voice, affixation, aspect, classifiers, reduplication and pragmatic register remain substantial productive topics. Use idiomatic English prompts with one canonical natural Target; exact matching does not imply other translations are wrong. Avoid artificial English prompting. Card IDs remain in the reserved 13400000–13499999 block.
+
+IMPORTANT EARLY DISTINCTIONS
+1. Nominal identity and adjective predicates ordinarily have no English 'be': Saya guru; Rumah itu besar. Reserve ialah/adalah and merupakan for appropriate, often formal constructions, and distinguish ada for existence, possession and availability.
+2. Attributive adjectives normally follow nouns: rumah besar, kereta merah. Demonstratives follow modified noun phrases (buku ini, rumah itu), but stand independently in Ini buku saya.
+3. Bukan is the normal negator of identifying nouns; tidak negates verbs and adjectives. Belum means 'not yet'; jangan is prohibitive.
+4. First- and second-person reference is socially sensitive. Dia is gender-neutral; kita includes the addressee whereas kami excludes the addressee.
+5. Possession uses noun + possessor (buku saya), -nya, ada, milik and punya in different contexts. Do not equate all with an English possessive form.
+6. Di marks location, ke direction and dari source. Di as an independent preposition is distinct in spelling and function from verbal di- passive.
+7. Verbs such as makan, minum, pergi, tidur and datang may naturally occur as bare stems. Other common predicates use prefixes (membaca, menulis, bekerja); introduce them through sentences and later develop meN- and ber- morphophonology.
+8. Tense usually comes from time expressions or markers such as sudah, sedang, akan, belum, masih and pernah, not person/tense inflection.
+9. A counted or contextual noun need not be reduplicated. Later distinguish morphological reduplication from plurality, plus orang, ekor, buah, helai, batang and other numeral classifiers.
+10. Establish polite requests, particles and contact-language variation in their actual contexts. Malaysian colloquial forms such as tak, nak, lah and kan are later explicit register branches, not invisible substitutes for standard forms.
+11. Contrast Malaysian Malay with Indonesian deliberately at an advanced stage: words, spelling, affixes, idioms, honorifics and practical mutual intelligibility, rather than mechanically making paired translation lists.
+
+MICRO AND SEED CHECKPOINT
+13400000–13400014: Preserve the original 15 cards unchanged, including their early previews of sebuah, itu, mahu and ordinary greetings.
+13400015–13400099: Add 85 cards to create a 100-card systematic seed. Establish noun/adjective phrases, pronouns, identification, bukan/tidak, questions, places, simple ada possession, possessive order, frequent bare and prefixed verbs, first destination ke and an early sedang preview. The seed's introduction frontier is MY-19: fuller di/ke/dari location-and-movement contrasts. It does not imply mastery of earlier units.
+
+INTRODUCTION MAP — INITIAL STRUCTURES
+MY-01 — Rumi spelling, basic pronunciation and familiar concrete nouns
+MY-02 — Descriptive adjectives and noun–adjective order
+MY-03 — Pronouns saya, awak and dia, and independent subjects
+MY-04 — Zero-copula identification and adjective predicates
+MY-05 — Independent ini/itu and demonstratives following nouns
+MY-06 — Inclusive kita and exclusive kami, plus mereka
+MY-07 — Bukan for nominal negation
+MY-08 — Tidak for verbs and adjectives
+MY-09 — Yes/no questions with intonation and adakah
+MY-10 — Apa and siapa content questions
+MY-11 — Di mana, di sini/di sana and basic di locations
+MY-12 — Ada for possession, existence and availability
+MY-13 — Noun-possessor phrases and possessive reference
+MY-14 — Common bare-root lexical verbs and ordinary SVO clauses
+MY-15 — Early meN- verbs and ber- lexical verbs in context
+MY-16 — Verb negation and polar questions in action clauses
+MY-17 — Natural question-word positions and destinations
+MY-18 — Wants with mahu/hendak and early aspect previews
+MY-19 — Location, direction and source: di, ke and dari
+MY-20 — Integrated synthesis of identity, location, possession and action
+
+INTRODUCTION MAP — NOUN PHRASES AND EVERYDAY INTERACTION
+MY-21 — Definiteness, specificity and demonstratives in discourse
+MY-22 — Cardinal numbers and bare counted nouns
+MY-23 — Basic classifiers including orang, ekor and buah
+MY-24 — More classifiers including helai and batang
+MY-25 — Plural inference and noun reduplication
+MY-26 — Quantifiers: banyak, semua, beberapa, setiap
+MY-27 — Sebuah and se- numeral/classifier expressions
+MY-28 — -nya possession and anaphoric reference
+MY-29 — Milik and punya; possession/register contrasts
+MY-30 — Adjective degree: sangat, amat, terlalu and sekali
+MY-31 — Comparatives with lebih ... daripada
+MY-32 — Superlatives with paling and ter-
+MY-33 — Names, titles and everyday social address
+MY-34 — Family and kinship terms
+MY-35 — Greetings, introductions and courtesy
+MY-36 — Requests, imperatives and prohibitions with jangan
+MY-37 — Calendar, dates, days and clock time
+MY-38 — Frequency, routine, duration and age
+MY-39 — Local travel, directions and place descriptions
+MY-40 — Everyday adverbs of manner and degree
+
+INTRODUCTION MAP — ASPECT, MODALITY AND PREDICATION
+MY-41 — Sudah and completion/result
+MY-42 — Belum and not-yet contrasts
+MY-43 — Sedang and ongoing activity
+MY-44 — Akan and prospective/future meaning
+MY-45 — Masih and persistence
+MY-46 — Pernah and experiential meaning
+MY-47 — Mixed aspect, time reference and negation scope
+MY-48 — Mahu, hendak and ingin for desire and intention
+MY-49 — Boleh, dapat and bolehkah for permission/ability
+MY-50 — Mesti, harus, perlu and patut for necessity/advice
+MY-51 — Ada and tiada in existence and availability
+MY-52 — Ialah, adalah and merupakan in suitable register
+MY-53 — Where and how predicates link to complements
+MY-54 — Questions and answers with aspect and modality
+MY-55 — Negative clauses with compound predicates
+
+INTRODUCTION MAP — WORD FORMATION, VOICE AND PREDICATE STRUCTURE
+MY-56 — MeN- verb formation and nasal assimilation
+MY-57 — Ber- verbs, states and activities
+MY-58 — Di- passives with third-person agents
+MY-59 — First- and second-person agent passives
+MY-60 — Active/passive alternation and topicality
+MY-61 — Ter- states, unintended events and ability
+MY-62 — -kan causative/applicative constructions
+MY-63 — -i locative/applicative constructions
+MY-64 — Transitivity and valency shifts
+MY-65 — PeN- agent nouns and nominal derivation
+MY-66 — -an nominal and result forms
+MY-67 — Ke-...-an abstract nouns and states
+MY-68 — Per-, memper- and related forms
+MY-69 — Reduplication beyond simple plurality
+MY-70 — Compounds, lexical families and orthographic distinctions
+
+INTRODUCTION MAP — COMPLEX SYNTAX, REGISTER AND DISCOURSE
+MY-71 — Coordination with dan, atau and tetapi
+MY-72 — Negated alternatives and contrast
+MY-73 — Complement clauses with bahawa
+MY-74 — Relatives and nominal modification with yang
+MY-75 — Yang nominalization, focus and reference
+MY-76 — Cause and consequence: kerana, sebab, sehingga
+MY-77 — Purpose: untuk, supaya and agar
+MY-78 — Conditionals: kalau, jika and sekiranya
+MY-79 — Temporal clauses: apabila, ketika, sebelum, selepas
+MY-80 — Concessive and contrast clauses
+MY-81 — Hypothetical situations and comparison
+MY-82 — Topic, focus and predicate fronting
+MY-83 — Recoverable omission, ellipsis and pragmatics
+MY-84 — Question particles, emphasis and lah
+MY-85 — Reporting speech and embedded questions
+MY-86 — Connectors, paragraphs and coherence
+MY-87 — Everyday spoken conversation, repairs and responses
+MY-88 — Official/formal Malaysian writing and institutional style
+MY-89 — Colloquial Malaysian Malay: tak, nak, kan, lah and context
+MY-90 — Regional variation, Indonesian comparisons and code-switching
+
+INTRODUCTION MAP — EDUCATED-ADULT LEXICAL BREADTH
+MY-91 — Food, markets and cooking
+MY-92 — Home, family and household activities
+MY-93 — Health, the body and medical care
+MY-94 — School, higher education and work
+MY-95 — Housing, cities and transportation
+MY-96 — Weather, ecology and geography
+MY-97 — Technology, media and online communication
+MY-98 — Commerce, money, banking and services
+MY-99 — Government, public administration and law
+MY-100 — Malaysian history, society and cultural life
+MY-101 — Literature, arts, religion and philosophy
+MY-102 — Science, engineering and quantitative language
+MY-103 — Emotions, judgment and interpersonal nuance
+MY-104 — Opinions, evidence and academic argument
+MY-105 — Collocations, idioms and multiple senses
+MY-106 — Style, professional writing and formal discussion
+MY-107 — Specialist productive terminology and long-tail vocabulary
+MY-108 — Authentic-language gap analysis and backward validation
+
+LONGITUDINAL PRACTICE
+Every unit opens material that recurs in later cards. Reuse zero-copula predication, classifier expressions, question word placement and bare/prefixed verbs while adding vocabulary. Over time, broaden the neutral standard with explicitly contextual Malaysian spoken forms and documentary registers. Authentic Malaysian writing and speech eventually become the primary source of missing productive capabilities.
+
+NEXT FRONTIER
+MY-19 — Location, direction and source: di, ke and dari. The seed already contains di and ke examples; next explicitly introduce dari ('from') with movement and origin and reinforce di-versus-ke. Then move into classifiers, numeral phrases, reduplication, possession and temporal marking. The first meN-/ber- verbs in the seed are previews, not full treatment of the later morphology branch.
+
+AMENDMENT HISTORY
+v0.1 — First Malay systematic syllabus and 100-card seed; the original 15 cards retain their IDs and content.
