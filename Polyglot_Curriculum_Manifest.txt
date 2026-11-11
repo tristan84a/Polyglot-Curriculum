@@ -885,8 +885,11 @@ Reference: White Hmong (Hmong Daw) in RPA; Green Hmong later.
 MALAY
 ID allocation: 13400000-13499999
 CSV: Cards/Malay.csv
-Development: Exploratory 15-card micro deck; no syllabus frontier.
-Reference: Standard Malaysian Malay.
+Development: Established 100-card seed; consult CSV for authoritative count and used IDs.
+Syllabus: Syllabi/Polyglot_Malay_Syllabus_v0.1.txt
+Frontier: MY-19 — Location, direction and source: di, ke and dari
+Reference: Standard Malaysian Malay, contemporary Rumi orthography.
+Checkpoint: Preserved the original 15 micro cards (13400000–13400014). Added 85 cards (13400015–13400099) introducing pronouns and inclusive/exclusive we, zero-copula predicates, bukan/tidak, questions, location, ada possession, noun possessors, common verbs and first ke/sedang/mahu previews. Continue with dari and movement contrasts.
 
 LAO
 ID allocation: 13500000-13599999
