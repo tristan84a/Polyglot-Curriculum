@@ -15,7 +15,7 @@ Use contemporary Standard Bulgarian in Cyrillic. Targets retain ordinary Bulgari
 
 SEED CHECKPOINT
 4700000–4700014: Original micro deck left intact. Its finite present, feminine definite article, adjective agreement and direct-object sentences preview later chapters.
-4700015–4700168: 154 added seed cards. Opens basic nouns/adjectives, personal pronouns, present съм, noun gender/number, definiteness, simple negation and ли questions, demonstratives and interrogatives, имам/нямам, present lexical verbs, subject omission, locations, possessives, numeral noun phrases, masculine full/short article in written Bulgarian, and first да-complements with искам/мога.
+4700015–4700158: 144 added seed cards. Opens basic nouns/adjectives, personal pronouns, present съм, noun gender/number, definiteness, simple negation and ли questions, demonstratives and interrogatives, имам/нямам, present lexical verbs, subject omission, locations, possessives, numeral noun phrases, masculine full/short article in written Bulgarian, and first да-complements with искам/мога.
 Next frontier: BG-24 — Expand да-complement clauses, polarity, person changes and modal verbs, then move toward richer direct objects and aspectual partners.
 
 CANONICAL INTRODUCTION MAP
