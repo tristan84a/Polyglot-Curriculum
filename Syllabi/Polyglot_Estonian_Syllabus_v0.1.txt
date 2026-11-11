@@ -1,0 +1,125 @@
+POLYGLOT ESTONIAN SYLLABUS
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Charter: 0.8
+Card Generation Protocol: 1.0
+Language: Estonian (eesti keel)
+Reference: Contemporary Standard Estonian, Estonia, standard Latin orthography
+
+PURPOSE
+Graduate the original 15-card exploratory micro deck (5100000–5100014) into a systematic seed of 131 cards (5100000–5100130). The original rows are unchanged. This introduction map provides a widening spiral, not a rigid sequence of completed lessons. Revisit established constructions with new vocabulary while opening subsequent structures.
+
+AUTHORING CONVENTIONS
+Use standard written Estonian and normal diacritics (õ, ä, ö, ü), with InputHint blank. Contemporary everyday written Estonian is the default; colloquial reductions and dialect forms are separate labelled strands. No grammatical gender or articles. Ta/tema may mean he or she. Ordinary present tense does not distinguish an English progressive from a simple present by a mandatory auxiliary. Estonian generally uses nominative, genitive and partitive as its central grammatical cases; partitive is central to quantities, negation and object aspect. Do not equate Estonian object cases with an English definiteness rule. Numerals greater than one typically govern partitive singular nouns in basic number phrases (kaks raamatut). Nominative plural is commonly -d but stems alternate. Personal pronouns have full and short forms (mina/ma, sina/sa, tema/ta, meie/me, teie/te, nemad/nad); use natural short forms in ordinary sentences. Polite singular teie/te is a later strand; the seed's 'you (plural)' uses teie.
+The verb dictionary form is the -ma infinitive (lugema, sööma); the -da infinitive is a separate, important construction. Finite present verbs agree by person/number; present negation uses ei plus a non-finite stem form (ei loe), not a conjugating Finnish-style negative verb. Polar questions commonly use kas. Existence/possession commonly uses an adessive possessor (mul on, tal on); negative possession uses the partitive where appropriate. Location and direction require three-way internal (in/into/out of) and external (on/onto/off) case families. Natural case endings may trigger gradation and stem changes; teach actual forms, not mechanically attached endings.
+Keep EnglishPrompt unique and independently meaningful after shuffling. A single canonical Target does not deny grammatical alternatives. Preserve live IDs and use the reserved 5100000–5199999 range.
+
+SEED CHECKPOINT
+5100000–5100014: original micro deck unchanged, including early previews of the genitive/accusative object, adessive possession and numeral-governed partitive.
+5100015–5100130: 116 new cards with nouns, adjectives, pronouns, present olema, plural predicates, basic negation and kas questions, possession, common finite verbs, partitive objects and numbers, genitive possessors, inessive and illative/elative location, and external location. Case contrasts beyond the seed's initial examples remain open.
+Next frontier: ET-22 — Systematic partitive object contrasts and aspectual interpretation.
+
+CANONICAL INTRODUCTION MAP
+ET-01 — Latin spelling, õ/ä/ö/ü and sound distinctions
+ET-02 — Nominative singular and everyday nouns
+ET-03 — Personal pronouns and short/full forms
+ET-04 — Present tense of olema and nominal identity
+ET-05 — Adjective predicates and attributive adjectives
+ET-06 — Nominative plural nouns and stem variation
+ET-07 — Plural predicates and adjective agreement
+ET-08 — Present nominal and verbal negation with ei
+ET-09 — Yes/no questions with kas
+ET-10 — Demonstratives see and too
+ET-11 — Core content questions kes, mis, kus
+ET-12 — Genitive pronouns and possessive noun phrases
+ET-13 — Adessive possession: mul/sul/tal on
+ET-14 — Negative possession and partitive objects
+ET-15 — Dictionary -ma infinitives and common verb stems
+ET-16 — Present person/number endings
+ET-17 — Verbal negation and questions
+ET-18 — Partitive singular in simple object phrases
+ET-19 — Numerals and partitive singular counted nouns
+ET-20 — Inessive -s, illative and elative -st
+ET-21 — External local cases: adessive -l and everyday place
+ET-22 — Systematic partitive object contrasts and aspectual interpretation
+ET-23 — Genitive-form total objects in affirmative clauses
+ET-24 — Nominative total objects in imperatives and special contexts
+ET-25 — Object cases under negation and incomplete actions
+ET-26 — Genitive singular noun classes and stem alternations
+ET-27 — Partitive singular noun classes and stem alternations
+ET-28 — Consonant gradation and stem quantity
+ET-29 — Partitive plural formation
+ET-30 — Genitive and nominative plural paradigms
+ET-31 — Adjective agreement across cases
+ET-32 — Internal local case family: in/into/out of
+ET-33 — External local case family: on/onto/off
+ET-34 — Allative and ablative in recipients and sources
+ET-35 — Translative -ks and becoming
+ET-36 — Essive -na and temporary roles
+ET-37 — Comitative -ga and accompaniment
+ET-38 — Abessive -ta and absence
+ET-39 — Terminative -ni and extent
+ET-40 — Postpositions and case-governed expressions
+ET-41 — Past simple -si/-s and person paradigms
+ET-42 — Past negation with ei and past participles
+ET-43 — Present perfect with olema and -nud
+ET-44 — Pluperfect and temporal sequencing
+ET-45 — Passive/impersonal voice present
+ET-46 — Impersonal past and perfect
+ET-47 — Conditional -ks forms
+ET-48 — Imperative forms and requests
+ET-49 — Jussive and indirect commands
+ET-50 — Quotative mood and reported information
+ET-51 — -da infinitive and its complements
+ET-52 — -ma infinitive with motion and modality
+ET-53 — -mas/-mast/-mata verbal constructions
+ET-54 — Present and past participles
+ET-55 — Ability, permission and necessity
+ET-56 — Desire, intention and preference
+ET-57 — Reflexive and reciprocal constructions
+ET-58 — Causative and derived verbs
+ET-59 — Aspect, result and particle verbs
+ET-60 — Word order, focus and information structure
+ET-61 — Relative clauses and relative pronouns
+ET-62 — Complement clauses with et
+ET-63 — Conditionals and counterfactuals
+ET-64 — Temporal clauses and simultaneity
+ET-65 — Causes, purposes and consequences
+ET-66 — Concession, contrast and coordination
+ET-67 — Comparison and superlatives
+ET-68 — Quantifiers and indefinite pronouns
+ET-69 — Negation scope and polarity
+ET-70 — Numbers, ordinals and measurements
+ET-71 — Dates, clock time and scheduling
+ET-72 — Family and relationships
+ET-73 — Body, health and medicine
+ET-74 — Food, cooking and dining
+ET-75 — Shopping and services
+ET-76 — Housing and household tasks
+ET-77 — Clothing, colors and description
+ET-78 — Travel, transport and directions
+ET-79 — Weather, nature and geography
+ET-80 — Work, occupations and professions
+ET-81 — Education and academic life
+ET-82 — Technology and digital communication
+ET-83 — Feelings, emotions and personality
+ET-84 — Social interactions and politeness
+ET-85 — Opinions, explanations and argumentation
+ET-86 — Narration, storytelling and discourse
+ET-87 — Idioms and collocations
+ET-88 — Spoken colloquial Estonian
+ET-89 — Register and formal correspondence
+ET-90 — News and public discourse
+ET-91 — Civic institutions, law and policy
+ET-92 — Economics, business and finance
+ET-93 — Science, technology and mathematics
+ET-94 — Arts, literature, film and music
+ET-95 — Estonian history and cultural life
+ET-96 — Regional dialects and historical variation
+ET-97 — Complex clause integration and style
+ET-98 — Authentic language sampling and gap diagnosis
+ET-99 — Educated-adult long tail and backward validation
+
+NEXT GENERATION
+At ET-22, contrast natural partial/ongoing and total/completed objects, using varied noun stems and familiar present verbs. Revisit partitive after numbers and negation, then systematically open total-object genitive and nominative contexts. Keep early case and verb morphology active rather than treating first exposure as full mastery.

@@ -14,3 +14,119 @@
 5100012,Estonian,He has a car.,Tal on auto.,,sentence
 5100013,Estonian,He has a red car.,Tal on punane auto.,,sentence
 5100014,Estonian,I see four cars.,Ma näen nelja autot.,,sentence
+5100015,Estonian,woman,naine,,noun
+5100016,Estonian,child,laps,,noun
+5100017,Estonian,book,raamat,,noun
+5100018,Estonian,school,kool,,noun
+5100019,Estonian,teacher,õpetaja,,noun
+5100020,Estonian,student,õpilane,,noun
+5100021,Estonian,friend,sõber,,noun
+5100022,Estonian,city,linn,,noun
+5100023,Estonian,table,laud,,noun
+5100024,Estonian,bread,leib,,noun
+5100025,Estonian,milk,piim,,noun
+5100026,Estonian,coffee,kohv,,noun
+5100027,Estonian,tea,tee,,noun
+5100028,Estonian,apple,õun,,noun
+5100029,Estonian,good,hea,,adjective
+5100030,Estonian,small,väike,,adjective
+5100031,Estonian,new,uus,,adjective
+5100032,Estonian,old (not new),vana,,adjective
+5100033,Estonian,green,roheline,,adjective
+5100034,Estonian,one,üks,,number
+5100035,Estonian,two,kaks,,number
+5100036,Estonian,three,kolm,,number
+5100037,Estonian,five,viis,,number
+5100038,Estonian,I,mina,,pronoun
+5100039,Estonian,you (singular),sina,,pronoun
+5100040,Estonian,he or she,tema,,pronoun
+5100041,Estonian,we,meie,,pronoun
+5100042,Estonian,you (plural),teie,,pronoun
+5100043,Estonian,they,nemad,,pronoun
+5100044,Estonian,I am a student.,Ma olen õpilane.,,sentence
+5100045,Estonian,You are a teacher.,Sa oled õpetaja.,,sentence
+5100046,Estonian,She is a doctor.,Ta on arst.,,sentence
+5100047,Estonian,We are friends.,Me oleme sõbrad.,,sentence
+5100048,Estonian,You are students. (plural),Te olete õpilased.,,sentence
+5100049,Estonian,They are teachers.,Nad on õpetajad.,,sentence
+5100050,Estonian,The book is new.,Raamat on uus.,,sentence
+5100051,Estonian,The child is small.,Laps on väike.,,sentence
+5100052,Estonian,The coffee is good.,Kohv on hea.,,sentence
+5100053,Estonian,The school is big.,Kool on suur.,,sentence
+5100054,Estonian,a new book,uus raamat,,phrase
+5100055,Estonian,a small house,väike maja,,phrase
+5100056,Estonian,a red car,punane auto,,phrase
+5100057,Estonian,a good friend,hea sõber,,phrase
+5100058,Estonian,houses,majad,,noun
+5100059,Estonian,cars,autod,,noun
+5100060,Estonian,books,raamatud,,noun
+5100061,Estonian,children,lapsed,,noun
+5100062,Estonian,The houses are big.,Majad on suured.,,sentence
+5100063,Estonian,The cars are new.,Autod on uued.,,sentence
+5100064,Estonian,The children are small.,Lapsed on väikesed.,,sentence
+5100065,Estonian,I am not a doctor.,Ma ei ole arst.,,sentence
+5100066,Estonian,The car is not new.,Auto ei ole uus.,,sentence
+5100067,Estonian,They are not students.,Nad ei ole õpilased.,,sentence
+5100068,Estonian,Are you a student?,Kas sa oled õpilane?,,sentence
+5100069,Estonian,Is the house big?,Kas maja on suur?,,sentence
+5100070,Estonian,Is this a book?,Kas see on raamat?,,sentence
+5100071,Estonian,this,see,,pronoun
+5100072,Estonian,that,too,,pronoun
+5100073,Estonian,This is a school.,See on kool.,,sentence
+5100074,Estonian,That is a car.,Too on auto.,,sentence
+5100075,Estonian,Who is this?,Kes see on?,,sentence
+5100076,Estonian,What is this?,Mis see on?,,sentence
+5100077,Estonian,Where is the school?,Kus kool on?,,sentence
+5100078,Estonian,Where is the book?,Kus raamat on?,,sentence
+5100079,Estonian,here,siin,,adverb
+5100080,Estonian,there,seal,,adverb
+5100081,Estonian,The book is here.,Raamat on siin.,,sentence
+5100082,Estonian,The car is there.,Auto on seal.,,sentence
+5100083,Estonian,I have a book.,Mul on raamat.,,sentence
+5100084,Estonian,You have a car.,Sul on auto.,,sentence
+5100085,Estonian,She has a book.,Tal on raamat.,,sentence
+5100086,Estonian,We have a house.,Meil on maja.,,sentence
+5100087,Estonian,Do you have a book?,Kas sul on raamat?,,sentence
+5100088,Estonian,I do not have a car.,Mul ei ole autot.,,sentence
+5100089,Estonian,He does not have a book.,Tal ei ole raamatut.,,sentence
+5100090,Estonian,to live,elama,,verb
+5100091,Estonian,to read,lugema,,verb
+5100092,Estonian,to write,kirjutama,,verb
+5100093,Estonian,to eat,sööma,,verb
+5100094,Estonian,to drink,jooma,,verb
+5100095,Estonian,to see,nägema,,verb
+5100096,Estonian,to go,minema,,verb
+5100097,Estonian,to come,tulema,,verb
+5100098,Estonian,to work,töötama,,verb
+5100099,Estonian,to speak,rääkima,,verb
+5100100,Estonian,I live here.,Ma elan siin.,,sentence
+5100101,Estonian,She lives in the city.,Ta elab linnas.,,sentence
+5100102,Estonian,I read a book.,Ma loen raamatut.,,sentence
+5100103,Estonian,He reads a book.,Ta loeb raamatut.,,sentence
+5100104,Estonian,We read books.,Me loeme raamatuid.,,sentence
+5100105,Estonian,I write.,Ma kirjutan.,,sentence
+5100106,Estonian,You write.,Sa kirjutad.,,sentence
+5100107,Estonian,I drink water.,Ma joon vett.,,sentence
+5100108,Estonian,He drinks tea.,Ta joob teed.,,sentence
+5100109,Estonian,We eat bread.,Me sööme leiba.,,sentence
+5100110,Estonian,The child eats an apple.,Laps sööb õuna.,,sentence
+5100111,Estonian,I see a car.,Ma näen autot.,,sentence
+5100112,Estonian,I do not read.,Ma ei loe.,,sentence
+5100113,Estonian,He does not work.,Ta ei tööta.,,sentence
+5100114,Estonian,Do you speak Estonian?,Kas sa räägid eesti keelt?,,sentence
+5100115,Estonian,I speak Estonian.,Ma räägin eesti keelt.,,sentence
+5100116,Estonian,What do you read?,Mida sa loed?,,sentence
+5100117,Estonian,The book is on the table.,Raamat on laual.,,sentence
+5100118,Estonian,The child is at school.,Laps on koolis.,,sentence
+5100119,Estonian,I am at home.,Ma olen kodus.,,sentence
+5100120,Estonian,home,kodu,,noun
+5100121,Estonian,I go home.,Ma lähen koju.,,sentence
+5100122,Estonian,I go to school.,Ma lähen kooli.,,sentence
+5100123,Estonian,I come from school.,Ma tulen koolist.,,sentence
+5100124,Estonian,My book is new.,Minu raamat on uus.,,sentence
+5100125,Estonian,Your car is red.,Sinu auto on punane.,,sentence
+5100126,Estonian,His house is big.,Tema maja on suur.,,sentence
+5100127,Estonian,two books,kaks raamatut,,phrase
+5100128,Estonian,three apples,kolm õuna,,phrase
+5100129,Estonian,four cars,neli autot,,phrase
+5100130,Estonian,five houses,viis maja,,phrase

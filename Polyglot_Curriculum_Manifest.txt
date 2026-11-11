@@ -379,7 +379,11 @@ Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 ESTONIAN
 ID allocation: 5100000-5199999
 CSV: Cards/Estonian.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Systematic seed; 131 cards through 5100130; original 15-card micro deck unchanged.
+Reference: Contemporary Standard Estonian, standard Latin orthography.
+Syllabus: Syllabi/Polyglot_Estonian_Syllabus_v0.1.txt
+Frontier: ET-22 — Systematic partitive object contrasts and aspectual interpretation
+Checkpoint: 116 new cards introduce pronouns, olema, plurals, adjectives, questions and negation, adessive possession, present lexical verbs, early partitive objects and numeral phrases, genitive possessors and location. Total-object and case alternation systems remain to be developed.
 
 SOMALI
 ID allocation: 5200000-5299999
