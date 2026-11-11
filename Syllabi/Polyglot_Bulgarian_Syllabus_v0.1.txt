@@ -1,0 +1,126 @@
+POLYGLOT BULGARIAN SYLLABUS
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Charter: 0.8
+Card Generation Protocol: 1.0
+Language: Bulgarian (български език)
+Reference: Contemporary Standard Bulgarian (Bulgaria), standard Cyrillic orthography
+
+PURPOSE
+Graduate the 15-card micro opening to a systematic seed deck. Units are canonical introductions, not closed lessons: new grammar and vocabulary continue to reinforce earlier material in a widening spiral. Independent English prompts remain useful once cards are shuffled.
+
+REFERENCE AND AUTHORING CONVENTIONS
+Use contemporary Standard Bulgarian in Cyrillic. Targets retain ordinary Bulgarian punctuation and orthography. InputHint is blank. The Bulgarian verb citation form is conventionally the first-person singular present (чета, пиша, работя), not an infinitive: modern Bulgarian has no productive infinitive. Ordinary neutral clauses frequently omit recoverable subject pronouns; overt pronouns in the opening establish person paradigms, not mandatory usage. Bulgarian distinguishes masculine, feminine, neuter and plural noun-phrase agreement. The postposed definite article varies by gender and number and, for masculine singular, syntactic role in formal writing (учителят/учителя); use natural meaningful examples and explicitly mark the distinction where English alone does not determine the form. The literary full/short masculine article rule is an orthographic standard, not an audible case contrast. Bulgarian nouns do not retain the rich productive case inflections of other Slavic languages, though pronouns and vocatives retain distinctions. The particle ли frequently marks polar questions; не precedes ordinary finite verbs. The negative forms of имам are нямам/нямаш and are best learned as a common productive paradigm. Bulgarian has no normal English-style articles preceding the noun; its definite article is suffixed. Unqualified prompts use neutral contemporary standard forms, not regional dialects or Macedonian forms. Polite Вие and capitalisation belong to a later register strand. The reported/past, evidential, aspect, clitics, and verb conjugation systems require gradual, ongoing treatment. EnglishPrompt must be unique and stand alone; IDs stay in 4700000–4799999.
+
+SEED CHECKPOINT
+4700000–4700014: Original micro deck left intact. Its finite present, feminine definite article, adjective agreement and direct-object sentences preview later chapters.
+4700015–4700158: 144 added seed cards. Opens basic nouns/adjectives, personal pronouns, present съм, noun gender/number, definiteness, simple negation and ли questions, demonstratives and interrogatives, имам/нямам, present lexical verbs, subject omission, locations, possessives, numeral noun phrases, masculine full/short article in written Bulgarian, and first да-complements with искам/мога.
+Next frontier: BG-24 — Expand да-complement clauses, polarity, person changes and modal verbs, then move toward richer direct objects and aspectual partners.
+
+CANONICAL INTRODUCTION MAP
+BG-01 — Cyrillic spelling and characteristic letters ъ, ь, щ, ю, я
+BG-02 — Concrete nouns and grammatical gender
+BG-03 — Adjectives and masculine/feminine/neuter agreement
+BG-04 — Personal pronouns and overt-subject orientation
+BG-05 — Present съм: six-person paradigm
+BG-06 — Predicate nouns, adjectives and simple identification
+BG-07 — Definite suffixes: -ът/-ят, -а/-я, -та, -то
+BG-08 — Nominative plural nouns and adjective plural agreement
+BG-09 — Definite plurals -те/-та and mixed noun phrases
+BG-10 — Negation with не and the copula
+BG-11 — Polar questions with ли
+BG-12 — Demonstratives and basic content questions
+BG-13 — Location, тук/там and simple в/на expressions
+BG-14 — Present possession имам and negative нямам
+BG-15 — Verb citation forms and the present of чета
+BG-16 — Present conjugation of работя and contrasting classes
+BG-17 — More frequent present verbs, stem changes and irregulars
+BG-18 — Subject omission and natural present clauses
+BG-19 — Direct objects, definite/indefinite noun phrases and word order
+BG-20 — Present verbal negation and question combinations
+BG-21 — Possessive determiners, gender and agreement
+BG-22 — Cardinal numbers and basic counted nouns
+BG-23 — Masculine full/short definite articles in written syntax
+BG-24 — да clauses after wanting, being able and other predicates
+BG-25 — Person agreement across modal + да complements
+BG-26 — Present clitic personal pronouns: direct objects
+BG-27 — Present clitic personal pronouns: indirect objects
+BG-28 — Clitic placement, clusters and doubled objects
+BG-29 — Reflexive се/си and lexical reflexive verbs
+BG-30 — Demonstrative and interrogative noun phrases
+BG-31 — Prepositions for place, motion, source and destination
+BG-32 — Common verb-preposition complements
+BG-33 — Possession with на + noun and dative pronouns
+BG-34 — Quantifiers, count forms and numeral classifiers
+BG-35 — Ordinal numbers and agreement
+BG-36 — Comparatives and superlatives с по-/най-
+BG-37 — Adverbs, manner and degree
+BG-38 — Imperatives, requests and prohibitions
+BG-39 — Lexical aspect: imperfective and perfective partners
+BG-40 — Aspect choice with present, да and future
+BG-41 — Future with ще + present
+BG-42 — Negative future with няма да
+BG-43 — Future from the past and conditional future
+BG-44 — Aorist: common imperfective and perfective verbs
+BG-45 — Imperfect past tense and habitual backgrounds
+BG-46 — Aorist versus imperfect in narratives
+BG-47 — Past participles and perfect with съм
+BG-48 — Pluperfect and relative past
+BG-49 — Future perfect and future-in-the-past perfect
+BG-50 — Evidential/reported forms and information source
+BG-51 — Admirative and inferential meanings
+BG-52 — Conditional constructions with бих
+BG-53 — Passive voice and passive participles
+BG-54 — Verbal adjectives, participles and converbs
+BG-55 — Verbal nouns and derivational suffixes
+BG-56 — Prefixes, aspect and lexicalised meanings
+BG-57 — Motion verbs, direction and completed movement
+BG-58 — Habituality, iterativity and aspect interactions
+BG-59 — Negation scope and negative concord
+BG-60 — Indefinite, negative and universal pronouns
+BG-61 — Relative pronouns, including който and agreement
+BG-62 — Complement clauses with че and да
+BG-63 — Temporal clauses with когато, докато and преди
+BG-64 — Cause, purpose and consequence clauses
+BG-65 — Real and hypothetical conditionals
+BG-66 — Concession and contrast clauses
+BG-67 — Reported speech and embedded questions
+BG-68 — Coordination and sentence linking
+BG-69 — Topic, focus, word order and pragmatic emphasis
+BG-70 — Questions, particles and discourse markers
+BG-71 — Vocative forms and address conventions
+BG-72 — Personal pronoun case distinctions and polite Вие
+BG-73 — Family and social relationships
+BG-74 — Food, cooking and dining
+BG-75 — Shopping, prices and services
+BG-76 — Housing and household objects
+BG-77 — Clothes, colours and physical description
+BG-78 — Body, symptoms and healthcare
+BG-79 — Travel, transport and directions
+BG-80 — Towns, buildings and public spaces
+BG-81 — Weather, landscapes and nature
+BG-82 — Work, occupations and professional life
+BG-83 — Education, study and academic life
+BG-84 — Technology and digital communication
+BG-85 — Feelings, preferences and interpersonal nuance
+BG-86 — Daily routines and time management
+BG-87 — Calendar, dates and clock time
+BG-88 — Money, banking and business
+BG-89 — News, media and current affairs
+BG-90 — Bulgarian history, geography and cultural life
+BG-91 — Government, civic institutions and law
+BG-92 — Arts, literature, music and film
+BG-93 — Science, technology and mathematics
+BG-94 — Register: colloquial versus standard written Bulgarian
+BG-95 — Regional variation, dialects and Macedonian contrasts
+BG-96 — Orthography, stress awareness and common spelling traps
+BG-97 — Collocations, idioms and figurative expressions
+BG-98 — Complex discourse, argumentation and stylistic variation
+BG-99 — Educated-adult vocabulary and authentic-language gap validation
+
+NEXT GENERATION
+At BG-24, move from familiar want/can + да examples to independent person contrasts and polarity, then establish object clitics, reflexives and aspect. Continue reusing present clauses, noun phrases, articles and vocabulary in increasingly varied contexts. Once the map is broadly introduced, sample modern real Bulgarian writing and speech, find productive gaps and add minimal natural cards; do not artificially end the curriculum at BG-99.
+
+AMENDMENT HISTORY
+v0.1 — First Bulgarian systematic syllabus and seed expansion, preserving the original micro cards.

@@ -355,7 +355,11 @@ Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 BULGARIAN
 ID allocation: 4700000-4799999
 CSV: Cards/Bulgarian.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Systematic seed; 159 cards through 4700158; original 15 micro cards unchanged.
+Reference: Contemporary Standard Bulgarian (Bulgaria), Cyrillic orthography.
+Syllabus: Syllabi/Polyglot_Bulgarian_Syllabus_v0.1.txt
+Frontier: BG-24 — да complement clauses after wanting, being able and other predicates
+Checkpoint: 144 new cards establish basic gender/article and plural agreement, present съм and lexical verbs, negation, ли questions, possession, pronoun omission, numeral phrases, written masculine definite article forms and preview modal + да patterns. Continue BG-24 systematically.
 
 INDONESIAN
 ID allocation: 4800000-4899999
