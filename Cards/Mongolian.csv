@@ -14,3 +14,118 @@
 12900012,Mongolian,I want water.,Би ус хүсэж байна.,,sentence
 12900013,Mongolian,Thank you.,Баярлалаа.,,sentence
 12900014,Mongolian,Hello.,Сайн байна уу?,,sentence
+12900015,Mongolian,school,сургууль,,noun
+12900016,Mongolian,teacher,багш,,noun
+12900017,Mongolian,student,оюутан,,noun
+12900018,Mongolian,doctor,эмч,,noun
+12900019,Mongolian,friend,найз,,noun
+12900020,Mongolian,car,машин,,noun
+12900021,Mongolian,city,хот,,noun
+12900022,Mongolian,table,ширээ,,noun
+12900023,Mongolian,bread,талх,,noun
+12900024,Mongolian,tea,цай,,noun
+12900025,Mongolian,milk,сүү,,noun
+12900026,Mongolian,apple,алим,,noun
+12900027,Mongolian,food,хоол,,noun
+12900028,Mongolian,good,сайн,,adjective
+12900029,Mongolian,bad,муу,,adjective
+12900030,Mongolian,new,шинэ,,adjective
+12900031,Mongolian,old (not new),хуучин,,adjective
+12900032,Mongolian,red,улаан,,adjective
+12900033,Mongolian,green,ногоон,,adjective
+12900034,Mongolian,one,нэг,,number
+12900035,Mongolian,two,хоёр,,number
+12900036,Mongolian,three,гурав,,number
+12900037,Mongolian,four,дөрөв,,number
+12900038,Mongolian,five,тав,,number
+12900039,Mongolian,I,би,,pronoun
+12900040,Mongolian,you,чи,,pronoun
+12900041,Mongolian,he,тэр,,pronoun
+12900042,Mongolian,we,бид,,pronoun
+12900043,Mongolian,you (respectful or plural),та,,pronoun
+12900044,Mongolian,they,тэд,,pronoun
+12900045,Mongolian,This is a school.,Энэ бол сургууль.,,sentence
+12900046,Mongolian,This is a car.,Энэ бол машин.,,sentence
+12900047,Mongolian,That is a book.,Тэр бол ном.,,sentence
+12900048,Mongolian,I am a student.,Би оюутан.,,sentence
+12900049,Mongolian,You are a teacher.,Чи багш.,,sentence
+12900050,Mongolian,He is a doctor.,Тэр эмч.,,sentence
+12900051,Mongolian,We are students.,Бид оюутнууд.,,sentence
+12900052,Mongolian,They are teachers.,Тэд багш нар.,,sentence
+12900053,Mongolian,The car is new.,Машин шинэ.,,sentence
+12900054,Mongolian,The book is good.,Ном сайн.,,sentence
+12900055,Mongolian,The child is small.,Хүүхэд жижиг.,,sentence
+12900056,Mongolian,The tea is hot.,Цай халуун.,,sentence
+12900057,Mongolian,hot,халуун,,adjective
+12900058,Mongolian,cold,хүйтэн,,adjective
+12900059,Mongolian,a new book,шинэ ном,,phrase
+12900060,Mongolian,a small house,жижиг байшин,,phrase
+12900061,Mongolian,a red car,улаан машин,,phrase
+12900062,Mongolian,two books,хоёр ном,,phrase
+12900063,Mongolian,three apples,гурван алим,,phrase
+12900064,Mongolian,five children,таван хүүхэд,,phrase
+12900065,Mongolian,books,номууд,,noun
+12900066,Mongolian,students,оюутнууд,,noun
+12900067,Mongolian,teachers,багш нар,,noun
+12900068,Mongolian,My book is new.,Миний ном шинэ.,,sentence
+12900069,Mongolian,Your book is old.,Чиний ном хуучин.,,sentence
+12900070,Mongolian,His car is red.,Түүний машин улаан.,,sentence
+12900071,Mongolian,Our house is big.,Манай байшин том.,,sentence
+12900072,Mongolian,my book,миний ном,,phrase
+12900073,Mongolian,your friend,чиний найз,,phrase
+12900074,Mongolian,his book,түүний ном,,phrase
+12900075,Mongolian,I have a book.,Надад ном байна.,,sentence
+12900076,Mongolian,I have a car.,Надад машин байна.,,sentence
+12900077,Mongolian,He has a book.,Түүнд ном байна.,,sentence
+12900078,Mongolian,Do you have water?,Чамд ус байна уу?,,sentence
+12900079,Mongolian,I do not have a car.,Надад машин байхгүй.,,sentence
+12900080,Mongolian,There is water.,Ус байна.,,sentence
+12900081,Mongolian,There is no water.,Ус байхгүй.,,sentence
+12900082,Mongolian,here,энд,,adverb
+12900083,Mongolian,there,тэнд,,adverb
+12900084,Mongolian,The book is here.,Ном энд байна.,,sentence
+12900085,Mongolian,The car is there.,Машин тэнд байна.,,sentence
+12900086,Mongolian,The child is at school.,Хүүхэд сургуульд байна.,,sentence
+12900087,Mongolian,I am at home.,Би гэртээ байна.,,sentence
+12900088,Mongolian,home,гэр,,noun
+12900089,Mongolian,The book is on the table.,Ном ширээн дээр байна.,,sentence
+12900090,Mongolian,I am not a teacher.,Би багш биш.,,sentence
+12900091,Mongolian,The car is not new.,Машин шинэ биш.,,sentence
+12900092,Mongolian,He is not a doctor.,Тэр эмч биш.,,sentence
+12900093,Mongolian,Is this a book?,Энэ ном уу?,,sentence
+12900094,Mongolian,Are you a student?,Чи оюутан уу?,,sentence
+12900095,Mongolian,Is the house big?,Байшин том уу?,,sentence
+12900096,Mongolian,Who is this?,Энэ хэн бэ?,,sentence
+12900097,Mongolian,What is this?,Энэ юу вэ?,,sentence
+12900098,Mongolian,Where is the school?,Сургууль хаана байна вэ?,,sentence
+12900099,Mongolian,Where is my book?,Миний ном хаана байна вэ?,,sentence
+12900100,Mongolian,to read,унших,,verb
+12900101,Mongolian,to drink,уух,,verb
+12900102,Mongolian,to eat,идэх,,verb
+12900103,Mongolian,to go,явах,,verb
+12900104,Mongolian,to come,ирэх,,verb
+12900105,Mongolian,to see,харах,,verb
+12900106,Mongolian,to study,сурах,,verb
+12900107,Mongolian,to work,ажиллах,,verb
+12900108,Mongolian,I read a book.,Би ном уншдаг.,,sentence
+12900109,Mongolian,He reads books.,Тэр ном уншдаг.,,sentence
+12900110,Mongolian,I drink tea.,Би цай уудаг.,,sentence
+12900111,Mongolian,The child drinks milk.,Хүүхэд сүү уудаг.,,sentence
+12900112,Mongolian,We eat bread.,Бид талх иддэг.,,sentence
+12900113,Mongolian,I go to school.,Би сургууль руу явдаг.,,sentence
+12900114,Mongolian,She works here.,Тэр энд ажилладаг.,,sentence
+12900115,Mongolian,I study Mongolian.,Би монгол хэл сурдаг.,,sentence
+12900116,Mongolian,I am reading a book.,Би ном уншиж байна.,,sentence
+12900117,Mongolian,He is drinking water.,Тэр ус ууж байна.,,sentence
+12900118,Mongolian,We are eating.,Бид хоол идэж байна.,,sentence
+12900119,Mongolian,The child is sleeping.,Хүүхэд унтаж байна.,,sentence
+12900120,Mongolian,to sleep,унтах,,verb
+12900121,Mongolian,I am going home.,Би гэр лүүгээ явж байна.,,sentence
+12900122,Mongolian,I am not reading.,Би уншихгүй байна.,,sentence
+12900123,Mongolian,Do you read books?,Чи ном уншдаг уу?,,sentence
+12900124,Mongolian,What are you reading?,Чи юу уншиж байна вэ?,,sentence
+12900125,Mongolian,I see the house.,Би байшинг харж байна.,,sentence
+12900126,Mongolian,I see the child.,Би хүүхдийг харж байна.,,sentence
+12900127,Mongolian,The teacher sees the student.,Багш оюутныг харж байна.,,sentence
+12900128,Mongolian,I want to read.,Би уншихыг хүсэж байна.,,sentence
+12900129,Mongolian,I want tea.,Би цай хүсэж байна.,,sentence

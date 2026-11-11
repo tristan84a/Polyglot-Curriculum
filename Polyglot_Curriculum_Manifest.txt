@@ -844,8 +844,11 @@ Reference: Standard Kannada.
 MONGOLIAN
 ID allocation: 12900000-12999999
 CSV: Cards/Mongolian.csv
-Development: Exploratory 15-card micro deck; no syllabus frontier.
-Reference: Khalkha Mongolian in Cyrillic; traditional script later.
+Development: Systematic seed deck; 15 original micro cards retained unchanged; 130 cards through 12900129.
+Reference: Contemporary Standard Khalkha Mongolian in Cyrillic; traditional script later as a labelled strand.
+Syllabus: Syllabi/Polyglot_Mongolian_Syllabus_v0.1.txt
+Frontier: MO-22 — Verbal negation across habitual and progressive patterns
+Checkpoint: New cards 12900015–12900129 establish pronouns, adjectives, numbers, plural and genitive constructions, dative existence and absence, locative expressions, nominal negation and questions, citation verbs, habitual -даг/-дэг and progressive -ж/-ч байна. Accusative objects and infinitive complements appear as previews; continue systematic verb negation at MO-22.
 
 HOKKIEN
 ID allocation: 13000000-13099999
