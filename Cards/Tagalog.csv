@@ -99,3 +99,61 @@
 4400097,Tagalog,I am drinking water.,Umiinom ako ng tubig.,,sentence
 4400098,Tagalog,The child is drinking water.,Umiinom ng tubig ang bata.,,sentence
 4400099,Tagalog,I am not eating.,Hindi ako kumakain.,,sentence
+4400100,Tagalog,I ate yesterday.,Kumain ako kahapon.,,sentence
+4400101,Tagalog,The child ate.,Kumain ang bata.,,sentence
+4400102,Tagalog,I will eat tomorrow.,Kakain ako bukas.,,sentence
+4400103,Tagalog,The child will eat.,Kakain ang bata.,,sentence
+4400104,Tagalog,We will eat. (including you),Kakain tayo.,,sentence
+4400105,Tagalog,We ate. (excluding you),Kumain kami.,,sentence
+4400106,Tagalog,I drank water yesterday.,Uminom ako ng tubig kahapon.,,sentence
+4400107,Tagalog,The child drank water.,Uminom ng tubig ang bata.,,sentence
+4400108,Tagalog,I will drink water.,Iinom ako ng tubig.,,sentence
+4400109,Tagalog,The child will drink water.,Iinom ng tubig ang bata.,,sentence
+4400110,Tagalog,I am drinking water now.,Umiinom ako ng tubig ngayon.,,sentence
+4400111,Tagalog,I went to school yesterday.,Pumunta ako sa paaralan kahapon.,,sentence
+4400112,Tagalog,I go to school regularly.,Pumupunta ako sa paaralan.,,sentence
+4400113,Tagalog,I will go to school tomorrow.,Pupunta ako sa paaralan bukas.,,sentence
+4400114,Tagalog,She went home.,Umuwi siya.,,sentence
+4400115,Tagalog,She is going home.,Umuuwi siya.,,sentence
+4400116,Tagalog,She will go home.,Uuwi siya.,,sentence
+4400117,Tagalog,I entered the house.,Pumasok ako sa bahay.,,sentence
+4400118,Tagalog,I am entering the house.,Pumapasok ako sa bahay.,,sentence
+4400119,Tagalog,I will enter the house.,Papasok ako sa bahay.,,sentence
+4400120,Tagalog,to go (actor voice; completed form),pumunta,,verb
+4400121,Tagalog,to go home (actor voice; completed form),umuwi,,verb
+4400122,Tagalog,to enter (actor voice; completed form),pumasok,,verb
+4400123,Tagalog,I am studying.,Nag-aaral ako.,,sentence
+4400124,Tagalog,I studied yesterday.,Nag-aral ako kahapon.,,sentence
+4400125,Tagalog,I will study tomorrow.,Mag-aaral ako bukas.,,sentence
+4400126,Tagalog,The child is studying.,Nag-aaral ang bata.,,sentence
+4400127,Tagalog,The children studied.,Nag-aral ang mga bata.,,sentence
+4400128,Tagalog,The children will study.,Mag-aaral ang mga bata.,,sentence
+4400129,Tagalog,I am cooking.,Nagluluto ako.,,sentence
+4400130,Tagalog,I cooked yesterday.,Nagluto ako kahapon.,,sentence
+4400131,Tagalog,I will cook tomorrow.,Magluluto ako bukas.,,sentence
+4400132,Tagalog,She is working.,Nagtatrabaho siya.,,sentence
+4400133,Tagalog,She worked yesterday.,Nagtrabaho siya kahapon.,,sentence
+4400134,Tagalog,She will work tomorrow.,Magtatrabaho siya bukas.,,sentence
+4400135,Tagalog,We are playing. (including you),Naglalaro tayo.,,sentence
+4400136,Tagalog,We played. (excluding you),Naglaro kami.,,sentence
+4400137,Tagalog,We will play. (including you),Maglalaro tayo.,,sentence
+4400138,Tagalog,to study (actor voice; completed form),nag-aral,,verb
+4400139,Tagalog,to cook (actor voice; completed form),nagluto,,verb
+4400140,Tagalog,to work (actor voice; completed form),nagtrabaho,,verb
+4400141,Tagalog,yesterday,kahapon,,adverb
+4400142,Tagalog,today,ngayon,,adverb
+4400143,Tagalog,tomorrow,bukas,,adverb
+4400144,Tagalog,every day,araw-araw,,adverb
+4400145,Tagalog,every morning,tuwing umaga,,adverb
+4400146,Tagalog,last night,kagabi,,adverb
+4400147,Tagalog,later,mamaya,,adverb
+4400148,Tagalog,I eat every day.,Kumakain ako araw-araw.,,sentence
+4400149,Tagalog,I study every morning.,Nag-aaral ako tuwing umaga.,,sentence
+4400150,Tagalog,I studied last night.,Nag-aral ako kagabi.,,sentence
+4400151,Tagalog,I will cook later.,Magluluto ako mamaya.,,sentence
+4400152,Tagalog,The child is eating now.,Kumakain ang bata ngayon.,,sentence
+4400153,Tagalog,She works every day.,Nagtatrabaho siya araw-araw.,,sentence
+4400154,Tagalog,We will go tomorrow. (excluding you),Pupunta kami bukas.,,sentence
+4400155,Tagalog,I drank water this morning.,Uminom ako ng tubig kaninang umaga.,,sentence
+4400156,Tagalog,this morning (earlier today),kaninang umaga,,adverb
+4400157,Tagalog,I am studying today.,Nag-aaral ako ngayon.,,sentence
