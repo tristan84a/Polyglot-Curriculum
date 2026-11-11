@@ -14,3 +14,88 @@
 13400012,Malay,I want water.,Saya mahu air.,,sentence
 13400013,Malay,Thank you.,Terima kasih.,,sentence
 13400014,Malay,Hello.,Helo.,,sentence
+13400015,Malay,girl,budak perempuan,,noun
+13400016,Malay,boy,budak lelaki,,noun
+13400017,Malay,car,kereta,,noun
+13400018,Malay,school,sekolah,,noun
+13400019,Malay,teacher,guru,,noun
+13400020,Malay,doctor,doktor,,noun
+13400021,Malay,friend,kawan,,noun
+13400022,Malay,city,bandar,,noun
+13400023,Malay,coffee,kopi,,noun
+13400024,Malay,tea,teh,,noun
+13400025,Malay,rice (cooked),nasi,,noun
+13400026,Malay,red,merah,,adjective
+13400027,Malay,good,baik,,adjective
+13400028,Malay,new,baharu,,adjective
+13400029,Malay,I,saya,,pronoun
+13400030,Malay,you,awak,,pronoun
+13400031,Malay,he or she,dia,,pronoun
+13400032,Malay,we (including the listener),kita,,pronoun
+13400033,Malay,we (excluding the listener),kami,,pronoun
+13400034,Malay,they,mereka,,pronoun
+13400035,Malay,I am a teacher.,Saya guru.,,sentence
+13400036,Malay,She is a doctor.,Dia doktor.,,sentence
+13400037,Malay,We are friends.,Kami kawan.,,sentence
+13400038,Malay,That is a car.,Itu kereta.,,sentence
+13400039,Malay,The car is red.,Kereta itu merah.,,sentence
+13400040,Malay,The book is new.,Buku itu baharu.,,sentence
+13400041,Malay,The child is small.,Kanak-kanak itu kecil.,,sentence
+13400042,Malay,a big house,rumah besar,,phrase
+13400043,Malay,a red car,kereta merah,,phrase
+13400044,Malay,a small book,buku kecil,,phrase
+13400045,Malay,This book is good.,Buku ini bagus.,,sentence
+13400046,Malay,That house is big.,Rumah itu besar.,,sentence
+13400047,Malay,I am not a doctor.,Saya bukan doktor.,,sentence
+13400048,Malay,This is not a book.,Ini bukan buku.,,sentence
+13400049,Malay,The house is not small.,Rumah itu tidak kecil.,,sentence
+13400050,Malay,The car is not red.,Kereta itu tidak merah.,,sentence
+13400051,Malay,Are you a teacher?,Adakah awak guru?,,sentence
+13400052,Malay,Is this a house?,Adakah ini rumah?,,sentence
+13400053,Malay,What is this?,Ini apa?,,sentence
+13400054,Malay,Who is that?,Itu siapa?,,sentence
+13400055,Malay,Where is the school?,Di manakah sekolah itu?,,sentence
+13400056,Malay,where,di mana,,adverb
+13400057,Malay,what,apa,,pronoun
+13400058,Malay,who,siapa,,pronoun
+13400059,Malay,here,di sini,,adverb
+13400060,Malay,there,di sana,,adverb
+13400061,Malay,at school,di sekolah,,phrase
+13400062,Malay,in the house,di dalam rumah,,phrase
+13400063,Malay,The book is here.,Buku itu di sini.,,sentence
+13400064,Malay,The child is at school.,Kanak-kanak itu di sekolah.,,sentence
+13400065,Malay,I have a book.,Saya ada buku.,,sentence
+13400066,Malay,She has a car.,Dia ada kereta.,,sentence
+13400067,Malay,Do you have water?,Awak ada air?,,sentence
+13400068,Malay,I do not have a car.,Saya tiada kereta.,,sentence
+13400069,Malay,my book,buku saya,,phrase
+13400070,Malay,your car,kereta awak,,phrase
+13400071,Malay,his house,rumah dia,,phrase
+13400072,Malay,This is my book.,Ini buku saya.,,sentence
+13400073,Malay,That is your car.,Itu kereta awak.,,sentence
+13400074,Malay,The teacher's book,buku guru itu,,phrase
+13400075,Malay,to eat,makan,,verb
+13400076,Malay,to drink,minum,,verb
+13400077,Malay,to read,baca,,verb
+13400078,Malay,to write,tulis,,verb
+13400079,Malay,to go,pergi,,verb
+13400080,Malay,to come,datang,,verb
+13400081,Malay,to see,lihat,,verb
+13400082,Malay,to work,bekerja,,verb
+13400083,Malay,to sleep,tidur,,verb
+13400084,Malay,to speak,bercakap,,verb
+13400085,Malay,I eat rice.,Saya makan nasi.,,sentence
+13400086,Malay,She drinks tea.,Dia minum teh.,,sentence
+13400087,Malay,He reads a book.,Dia membaca buku.,,sentence
+13400088,Malay,I write a letter.,Saya menulis surat.,,sentence
+13400089,Malay,We go to school.,Kami pergi ke sekolah.,,sentence
+13400090,Malay,They come here.,Mereka datang ke sini.,,sentence
+13400091,Malay,I see the car.,Saya nampak kereta itu.,,sentence
+13400092,Malay,She works here.,Dia bekerja di sini.,,sentence
+13400093,Malay,The child is sleeping.,Kanak-kanak itu sedang tidur.,,sentence
+13400094,Malay,I do not drink coffee.,Saya tidak minum kopi.,,sentence
+13400095,Malay,What do you eat?,Awak makan apa?,,sentence
+13400096,Malay,Where are you going?,Awak hendak pergi ke mana?,,sentence
+13400097,Malay,I want to read.,Saya mahu membaca.,,sentence
+13400098,Malay,He wants water.,Dia mahu air.,,sentence
+13400099,Malay,one,satu,,number
