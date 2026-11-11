@@ -1,0 +1,139 @@
+POLYGLOT MONGOLIAN SYLLABUS
+
+Version: 0.1
+Status: Current
+Charter version: 0.8
+Card Generation Protocol: 1.0
+Encoding: UTF-8
+Language: Mongolian (монгол хэл)
+Reference variety: Contemporary Standard Khalkha Mongolian, Mongolia, Cyrillic spelling
+
+PURPOSE
+This is the canonical, prerequisite-aware introduction map for Mongolian in Polyglot. Preserve the original fifteen micro cards (12900000–12900014) unchanged. The systematic seed adds 115 cards (12900015–12900129) for 130 total. Syllabus units are openings of productive structures, not sealed grammar lessons; later cards should cycle back to strengthen earlier structures while widening everyday vocabulary.
+
+REFERENCE VARIETY, SPELLING AND INPUT
+Use contemporary Khalkha Mongolian as used in Mongolia, in standard Cyrillic orthography. Distinguish Ө/ө and Ү/ү from О/о and У/у; keep normal spellings, capital letters and punctuation. InputHint is blank: do not create a romanized duplicate answer. Later introduce traditional vertical Mongolian script as a separate explicitly labelled literacy strand, not mixed into default Cyrillic Targets. Do not substitute Inner Mongolian lexical or orthographic forms without labelling the variety.
+
+LANGUAGE-SPECIFIC AUTHORING PRINCIPLES
+1. Mongolian is canonically subject-object-verb (SOV), with postpositions, suffixal case marking and no grammatical gender or articles. Third-person тэр is not inherently he rather than she; English he/she prompts may share the same Mongolian pronoun.
+2. Personal pronouns include би, чи, та, тэр, бид and тэд. Чи is familiar singular; та is respectful singular and may also address multiple people. Prompt for respectful/plural address when the distinction matters.
+3. Adjectives usually precede nouns and do not agree for person, number or gender. Bare nominal and adjectival predicates are common (Би оюутан. Байшин том.). Бол is an emphatic/topic-introducing particle, not a mandatory English-style copula.
+4. Numerals precede nouns; do not mechanically pluralize nouns after numbers. Numerals may have attributive allomorphs (гурав → гурван, тав → таван).
+5. Plural suffixes -ууд/-үүд, -нууд/-нүүд and -нар are lexically and contextually conditioned and often omitted when number is clear.
+6. Possessive noun phrases often use genitive forms (миний, чиний, түүний); possession/existence can be expressed with dative possessor plus байна or байхгүй. Keep distinct the nominal negator биш and existential negative байхгүй.
+7. Basic polar questions often use уу/үү or юу/юү depending on phonology and syntax, while content questions may include вэ/бэ. Avoid teaching one immutable question particle.
+8. Case morphology is stem-sensitive and vowel-harmonic. Introduce real forms: accusative -ыг/-ийг/-г, genitive -ын/-ийн/-ны/-ний, dative-locative -д/-т and variants, ablative -аас/-ээс/-оос/-өөс, instrumental -аар/-ээр/-оор/-өөр, and comitative -тай/-тэй/-той. Do not force marked accusative on every indefinite object.
+9. Citation verbs normally use -х (унших, идэх, явах). Productive habitual/general present often uses -даг/-дэг/-дог/-дөг; contemporaneous ongoing action uses converbs such as -ж/-ч plus байна. These are distinct aspectual choices, not mechanically interchangeable English presents.
+10. The negative, past, future/prospective and evidential systems need distinct introductions; verbal negation may involve -гүй, үгүй, биш and auxiliary patterns. Do not treat English do-not as a single Mongolian suffix.
+11. Spelling and sound are not identical: vowel length, harmony, reduced vowels, palatalization and consonant alternations should be reinforced by authentic material. Make the meaning and context sufficient for any exact-match translation.
+12. Each EnglishPrompt must remain unique; every row must stand alone after shuffling. The single canonical Target is not a claim that alternative Mongolian expressions are invalid. Prefer natural English prompts over cryptic grammatical clues, and add qualifications only when they resolve consequential ambiguity.
+13. Preserve existing card IDs and established micro prompts exactly; use monotone new IDs in the Mongolian allocation 12900000–12999999. CSV columns: ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech.
+
+SEED CHECKPOINT
+12900000–12900014: existing micro deck retained verbatim (core nouns, adjectives, identity and basic social expressions, including previews of бол and progressive desire).
+12900015–12900129: 115 additions. New stock of nouns, adjectives, numbers and pronouns supports nominal predication, plural and attributive contrasts, genitive possession, dative existence, locative phrases, nominal negation, questions, infinitives, habitual -даг/-дэг, and first progressive -ж/-ч байна clauses. A few definite object and infinitive-complement examples preview later units.
+Next frontier: MO-22 — Verbal negation across habitual and progressive patterns. Earlier case and possession structures remain active longitudinally.
+
+CANONICAL INTRODUCTION MAP
+MO-01 — Cyrillic writing, Ө/Ү and everyday pronunciation
+MO-02 — Concrete nouns and article-free nominal reference
+MO-03 — Core adjectives and invariant attributive order
+MO-04 — Bare nominal and adjectival predicates
+MO-05 — Personal pronouns and familiar/respectful address
+MO-06 — Demonstratives энэ and тэр; contrast with pronouns
+MO-07 — Numerals and attributive number forms
+MO-08 — Plural suffixes -ууд/-үүд, -нууд/-нүүд and -нар
+MO-09 — Numbers with normally unpluralized nouns
+MO-10 — Genitive pronouns and basic possession
+MO-11 — Dative possessor and existence with байна
+MO-12 — Existential absence with байхгүй
+MO-13 — Here/there and basic locative clauses
+MO-14 — Dative-locative -д/-т in places
+MO-15 — Nominal and adjectival negation with биш
+MO-16 — Yes/no questions with уу/үү and юу/юү
+MO-17 — Core content questions with хэн, юу, хаана and вэ/бэ
+MO-18 — Dictionary verbs in -х and verb-stem awareness
+MO-19 — Habitual/general present with -даг/-дэг/-дог/-дөг
+MO-20 — Progressive actions with -ж/-ч байна
+MO-21 — Basic SOV object order and accusative preview
+MO-22 — Verbal negation across habitual and progressive patterns
+MO-23 — Negative questions and yes/no answer conventions
+MO-24 — Accusative -ыг/-ийг/-г and object specificity
+MO-25 — Genitive noun morphology and possessive noun phrases
+MO-26 — Expanded dative-locative alternations
+MO-27 — Direction and destinations with руу/рүү/луу/лүү
+MO-28 — Source and ablative -аас/-ээс/-оос/-өөс
+MO-29 — Instrumental case -аар/-ээр/-оор/-өөр
+MO-30 — Comitative -тай/-тэй/-той
+MO-31 — Spatial postpositions and relational nouns
+MO-32 — Possessive/reflexive -аа/-ээ/-оо/-өө and variants
+MO-33 — Subject and object pronouns in oblique cases
+MO-34 — Word order, topic and focus contrasts
+MO-35 — Past -сан/-сэн/-сон/-сөн affirmative
+MO-36 — Past tense negation and questions
+MO-37 — Recent/experiential past and speaker evidence
+MO-38 — Prospective future and intended action
+MO-39 — Imperatives, requests and prohibitives
+MO-40 — Desire, preference and -хыг хүсэх complements
+MO-41 — Ability and possibility with чад-
+MO-42 — Obligation and necessity with хэрэгтэй
+MO-43 — Permission, advice and prohibition
+MO-44 — Converbs -ж/-ч and clause chaining
+MO-45 — Sequential and temporal converbs
+MO-46 — Simultaneous and manner converbs
+MO-47 — Verbal nouns and nominalized complements
+MO-48 — Relative/attributive clauses before nouns
+MO-49 — Comparatives and degree expressions
+MO-50 — Negation across nonfinite constructions
+MO-51 — Reflexive and reciprocal meanings
+MO-52 — Causative verbal morphology
+MO-53 — Passive and voice morphology
+MO-54 — Aspectual auxiliaries and completion
+MO-55 — Repeated, habitual and durative aspect contrasts
+MO-56 — Evidentiality and inference
+MO-57 — Reported speech and quotation particles
+MO-58 — Conditional clauses and hypotheticals
+MO-59 — Counterfactuals and unreal conditions
+MO-60 — Reasons, consequences and concessions
+MO-61 — Purpose and intended result
+MO-62 — Coordination, contrast and alternatives
+MO-63 — Extended question words and indefinite series
+MO-64 — Quantifiers, distributives and collectives
+MO-65 — Time, dates and calendars
+MO-66 — Clock times, schedules and frequency
+MO-67 — Numbers, measurements and money
+MO-68 — Family, kinship and relationships
+MO-69 — Body, health and personal care
+MO-70 — Food, cooking and ordering
+MO-71 — Shopping, services and transactions
+MO-72 — Housing, household and everyday objects
+MO-73 — Clothing, colors and physical description
+MO-74 — Travel, transport and navigation
+MO-75 — Geography, weather and landscape
+MO-76 — Animals, plants and ecology
+MO-77 — Schooling, learning and study
+MO-78 — Work, professions and workplaces
+MO-79 — Technology, devices and digital communication
+MO-80 — Social interaction, invitations and politeness
+MO-81 — Feelings, moods and interpersonal relations
+MO-82 — Opinions, preferences and evaluation
+MO-83 — Thinking, knowing and remembering
+MO-84 — Explaining, describing and narrating
+MO-85 — Formal versus informal register
+MO-86 — Mongolian idioms, collocations and proverbs
+MO-87 — Conversational particles and pragmatic nuance
+MO-88 — Written narrative and news language
+MO-89 — Academic, professional and administrative language
+MO-90 — Civic life, institutions and public policy
+MO-91 — Economics, commerce and finance
+MO-92 — Science and technical vocabulary
+MO-93 — Arts, music, literature and film
+MO-94 — Mongolian history, culture and pastoral life
+MO-95 — Traditional Mongolian script literacy strand
+MO-96 — Dialects, regional variation and Inner Mongolian contrasts
+MO-97 — Complex syntax, subordination and stylistic choices
+MO-98 — Authentic media sampling and productive gap analysis
+MO-99 — Educated-adult long tail and backward validation
+
+NEXT GENERATION
+Begin at MO-22 with short contrasts between affirmative habitual -даг/-дэг and verbal negatives (e.g. -даггүй/-дэггүй), then distinguish negated ongoing actions from general negative habits in realistic contexts. Recycle pronouns, question particles, possession and case marking before moving systematically into definite objects at MO-24. Treat the first object-marking and desire-complement cards in the seed as previews, not proof those branches are complete. Script, pronunciation, vocabulary and register remain longitudinal.
