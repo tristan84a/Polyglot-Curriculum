@@ -1,0 +1,108 @@
+POLYGLOT MALTESE SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+
+PURPOSE AND REFERENCE VARIETY
+Contemporary standard Maltese (Malta) is the default. Use standard Maltese Latin orthography including ċ, ġ, ħ, għ and ż, and normal punctuation. Distinguish standard written Maltese from informal spoken forms when exact answers differ. The language is Semitic with substantial Romance and English vocabulary: teach productive Maltese patterns, not a simplified Arabic or Italian grammar.
+
+CARD POLICY
+The original 15-card micro deck remains unchanged. English prompts must identify distinctions relevant to exact-answer checking. Default InputHint is blank, with short notes only for disambiguation. Keep ordinary natural phrases; avoid treating every English 'is' as requiring an overt copula. Teach article assimilation, gender, noun plurals, verbal person prefixes and suffixes, and discontinuous negation through contrasting sentences. Cards can preview later units without moving the frontier. Retain allocated IDs 5300000–5399999.
+
+SEED COVERAGE AND FRONTIER
+The appended seed extends through introductory MT-30 material, but many units are only previewed; do not treat the seed as exhaustive completion. Formal forward frontier: MT-11 — Għand- possession and person suffixes. MT-01–MT-10 are introduced, with longitudinal reinforcement needed. Seed includes early possession, locations, quantities, and present verbs to support useful phrases.
+
+SYLLABUS ROADMAP
+
+STAGE 1 — NOMINAL FOUNDATIONS
+MT-01 — Opening vocabulary and script
+MT-02 — Gender and adjective agreement
+MT-03 — Indefinite nominal phrases without an article
+MT-04 — Definite article il- and phonological assimilation
+MT-05 — Independent personal pronouns
+MT-06 — Present-tense verbless nominal predicates
+MT-07 — Demonstratives dan/din/dak/dik
+MT-08 — Basic questions and min/x'inhu
+MT-09 — Negating nominal predicates
+MT-10 — Stage 1 synthesis
+
+
+STAGE 2 — POSSESSION, SPACE AND QUANTITY
+MT-11 — Għand- possession and person suffixes
+MT-12 — Negative possession
+MT-13 — Locative expressions hawn/hemm
+MT-14 — Prepositions fi/fuq/ma'
+MT-15 — Preposition + definite article contractions
+MT-16 — Numbers one to ten
+MT-17 — Number agreement and counted noun patterns
+MT-18 — Broken and suffix plurals
+MT-19 — Wants with ried
+MT-20 — Stage 2 synthesis
+
+
+STAGE 3 — FIRST VERBAL SYSTEM
+MT-21 — Imperfect/present verbal prefixes
+MT-22 — Speak and language expressions
+MT-23 — Eat and drink
+MT-24 — Read and write
+MT-25 — Motion verbs and destinations
+MT-26 — Verbal negation ma-...-x
+MT-27 — Yes/no questions with verbs
+MT-28 — Question words with verbs
+MT-29 — First person contrasts and high-frequency irregulars
+MT-30 — Stage 3 synthesis
+
+
+STAGE 4 — PAST AND FUTURE
+MT-31 — Perfect/past suffix conjugation
+MT-32 — Past of common strong verbs
+MT-33 — Past of weak and irregular verbs
+MT-34 — Past negation
+MT-35 — Future with se
+MT-36 — Future with ħa in labelled register
+MT-37 — Time adverbs and temporal ordering
+MT-38 — Present habitual versus future
+MT-39 — Past and present narrative contrasts
+MT-40 — Stage 4 synthesis
+
+
+STAGE 5 — NOUN PHRASES AND OBJECTS
+MT-41 — Construct-state possession
+MT-42 — Ta' possessive phrases
+MT-43 — Possessive suffixes
+MT-44 — Direct object suffixes
+MT-45 — Indirect objects and lil
+MT-46 — Prepositional pronoun suffixes
+MT-47 — Adjective comparison
+MT-48 — Relative marker li
+MT-49 — Negation with objects and clitics
+MT-50 — Stage 5 synthesis
+
+
+STAGE 6 — EXPANDING SYNTAX
+MT-51 — Imperatives
+MT-52 — Negative commands
+MT-53 — Modals and obligation
+MT-54 — Infinitival/complement structures
+MT-55 — Cause and purpose clauses
+MT-56 — Conditional clauses
+MT-57 — Progressive and aspectual expressions
+MT-58 — Derived verb forms and roots
+MT-59 — Register and idiom
+MT-60 — Stage 6 synthesis
+
+
+
+LONGITUDINAL STRANDS
+- Definite article assimilation and vowel-initial forms; distinguish article spelling from noun-initial consonants.
+- Masculine/feminine agreement; broken plurals and suffix plurals; count forms.
+- Semitic root-and-pattern morphology alongside borrowed and irregular verbs.
+- Subject marking in imperfect versus suffixes in perfect; irregular high-frequency verbs.
+- Ma-...-x negation, contractions and orthographic conventions.
+- Possession with għand-, ta' and pronominal suffixes.
+- Preposition fusion and pronominal suffixes; natural word order.
+- Everyday vocabulary and sociolinguistic registers, including English code-switching only when explicitly labelled.
+
+AMENDMENT NOTE
+Version 0.1 established with the standardized micro deck plus an introductory seed. Unit labels mark teaching objectives, not a promise that every listed contrast has already been drilled.
