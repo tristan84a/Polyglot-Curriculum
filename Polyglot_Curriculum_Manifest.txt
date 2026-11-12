@@ -203,8 +203,8 @@ ID allocation: 2400000-2499999
 CSV: Cards/Persian.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Persian_Syllabus_v0.1.txt
-Frontier: FA-17 — Definite direct objects with را
-Checkpoint: Cards 2400000-2400014 remain the standardized micro opening. Cards 2400015-2400099 form the seed and establish Persian-script core vocabulary, pronouns, copular predication, negation/questions, ezafe adjective and possession patterns, demonstratives, productive ها plurals, basic number phrases, present indicative morphology, verbal negation, interrogatives and داشتن possession. The micro card with را remains a preview and does not move the frontier.
+Frontier: FA-21 — Common prepositions
+Checkpoint: Cards 2400000-2400099 remain unchanged. Cards 2400100-2400201 complete Stage 2 through FA-20: specific direct objects with را (FA-17), bare and indefinite objects without را (FA-18), یک and indefinite -ی noun phrases (FA-19), and present-tense synthesis of questions, negation, داشتن, and object marking (FA-20). Stage 3 begins at FA-21.
 
 ROMANIAN
 ID allocation: 2500000-2599999
