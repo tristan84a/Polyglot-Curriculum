@@ -14,3 +14,109 @@
 5300012,Maltese,He has a car.,Għandu karozza.,,sentence
 5300013,Maltese,He has a red car.,Għandu karozza ħamra.,,sentence
 5300014,Maltese,I see four cars.,Nara erba' karozzi.,,sentence
+5300015,Maltese,woman,mara,,noun
+5300016,Maltese,child,tifel,,noun
+5300017,Maltese,girl,tifla,,noun
+5300018,Maltese,book,ktieb,,noun
+5300019,Maltese,school,skola,,noun
+5300020,Maltese,teacher,għalliem,,noun
+5300021,Maltese,bread,ħobż,,noun
+5300022,Maltese,coffee,kafè,,noun
+5300023,Maltese,milk,ħalib,,noun
+5300024,Maltese,cat,qattus,,noun
+5300025,Maltese,dog,kelb,,noun
+5300026,Maltese,small (masculine),żgħir,,adjective
+5300027,Maltese,small (feminine),żgħira,,adjective
+5300028,Maltese,good (masculine),tajjeb,,adjective
+5300029,Maltese,good (feminine),tajba,,adjective
+5300030,Maltese,new (masculine),ġdid,,adjective
+5300031,Maltese,new (feminine),ġdida,,adjective
+5300032,Maltese,a big house,dar kbira,,phrase
+5300033,Maltese,a small car,karozza żgħira,,phrase
+5300034,Maltese,a good doctor (male),tabib tajjeb,,phrase
+5300035,Maltese,a new book,ktieb ġdid,,phrase
+5300036,Maltese,the book,il-ktieb,,phrase
+5300037,Maltese,the man,ir-raġel,,phrase
+5300038,Maltese,the woman,il-mara,,phrase
+5300039,Maltese,the school,l-iskola,,phrase
+5300040,Maltese,the doctor,it-tabib,,phrase
+5300041,Maltese,the child (boy),it-tifel,,phrase
+5300042,Maltese,the cat,il-qattus,,phrase
+5300043,Maltese,the dog,il-kelb,,phrase
+5300044,Maltese,the water,l-ilma,,phrase
+5300045,Maltese,I,jien,,pronoun
+5300046,Maltese,you (singular),int,,pronoun
+5300047,Maltese,he,hu,,pronoun
+5300048,Maltese,she,hi,,pronoun
+5300049,Maltese,we,aħna,,pronoun
+5300050,Maltese,you (plural),intom,,pronoun
+5300051,Maltese,they,huma,,pronoun
+5300052,Maltese,I am a teacher.,Jien għalliem.,,sentence
+5300053,Maltese,You are a doctor.,Int tabib.,,sentence
+5300054,Maltese,She is a teacher.,Hi għalliema.,,sentence
+5300055,Maltese,We are students.,Aħna studenti.,,sentence
+5300056,Maltese,The book is new.,Il-ktieb ġdid.,,sentence
+5300057,Maltese,The girl is small.,It-tifla żgħira.,,sentence
+5300058,Maltese,The man is tall.,Ir-raġel twil.,,sentence
+5300059,Maltese,The woman is tall.,Il-mara twila.,,sentence
+5300060,Maltese,This is a book.,Dan ktieb.,,sentence
+5300061,Maltese,This is a car.,Din karozza.,,sentence
+5300062,Maltese,That is a house.,Dik dar.,,sentence
+5300063,Maltese,Who is this?,Min hu dan?,,sentence
+5300064,Maltese,What is this?,X'inhu dan?,,sentence
+5300065,Maltese,Is this a book?,Dan ktieb?,,sentence
+5300066,Maltese,Yes.,Iva.,,interjection
+5300067,Maltese,No.,Le.,,interjection
+5300068,Maltese,I am not a doctor.,M'iniex tabib.,,sentence
+5300069,Maltese,He is not a teacher.,Mhuwiex għalliem.,,sentence
+5300070,Maltese,She is not a doctor.,Mhijiex tabiba.,,sentence
+5300071,Maltese,I have a book.,Għandi ktieb.,,sentence
+5300072,Maltese,You have a car.,Għandek karozza.,,sentence
+5300073,Maltese,He has a house.,Għandu dar.,,sentence
+5300074,Maltese,She has a cat.,Għandha qattus.,,sentence
+5300075,Maltese,We have water.,Għandna ilma.,,sentence
+5300076,Maltese,They have a dog.,Għandhom kelb.,,sentence
+5300077,Maltese,I don't have a car.,M'għandix karozza.,,sentence
+5300078,Maltese,Do you have a book?,Għandek ktieb?,,sentence
+5300079,Maltese,Where is the book?,Fejn hu l-ktieb?,,sentence
+5300080,Maltese,The book is here.,Il-ktieb hawn.,,sentence
+5300081,Maltese,The car is there.,Il-karozza hemm.,,sentence
+5300082,Maltese,The cat is in the house.,Il-qattus fid-dar.,,sentence
+5300083,Maltese,The book is on the table.,Il-ktieb fuq il-mejda.,,sentence
+5300084,Maltese,The man is at school.,Ir-raġel l-iskola.,,sentence
+5300085,Maltese,one,wieħed,,number
+5300086,Maltese,two,tnejn,,number
+5300087,Maltese,three,tlieta,,number
+5300088,Maltese,five,ħamsa,,number
+5300089,Maltese,ten,għaxra,,number
+5300090,Maltese,two books,żewġ kotba,,phrase
+5300091,Maltese,three cars,tliet karozzi,,phrase
+5300092,Maltese,four houses,erbat idjar,,phrase
+5300093,Maltese,I want water.,Irrid ilma.,,sentence
+5300094,Maltese,I want a book.,Irrid ktieb.,,sentence
+5300095,Maltese,Do you want coffee?,Trid kafè?,,sentence
+5300096,Maltese,I don't want coffee.,Ma rridx kafè.,,sentence
+5300097,Maltese,I speak Maltese.,Nitkellem bil-Malti.,,sentence
+5300098,Maltese,Do you speak Maltese?,Titkellem bil-Malti?,,sentence
+5300099,Maltese,He speaks English.,Jitkellem bl-Ingliż.,,sentence
+5300100,Maltese,I eat bread.,Niekol ħobż.,,sentence
+5300101,Maltese,She eats bread.,Tiekol ħobż.,,sentence
+5300102,Maltese,We eat bread.,Nieklu ħobż.,,sentence
+5300103,Maltese,I drink water.,Nixrob ilma.,,sentence
+5300104,Maltese,He drinks milk.,Jixrob ħalib.,,sentence
+5300105,Maltese,She drinks coffee.,Tixrob kafè.,,sentence
+5300106,Maltese,I read a book.,Naqra ktieb.,,sentence
+5300107,Maltese,He reads a book.,Jaqra ktieb.,,sentence
+5300108,Maltese,I write.,Nikteb.,,sentence
+5300109,Maltese,She writes.,Tikteb.,,sentence
+5300110,Maltese,I go to school.,Immur l-iskola.,,sentence
+5300111,Maltese,He goes home.,Imur id-dar.,,sentence
+5300112,Maltese,We go home.,Immorru d-dar.,,sentence
+5300113,Maltese,I don't speak English.,Ma nitkellimx bl-Ingliż.,,sentence
+5300114,Maltese,I don't eat meat.,Ma nikolx laħam.,,sentence
+5300115,Maltese,Do you read?,Taqra?,,sentence
+5300116,Maltese,What do you want?,Xi trid?,,sentence
+5300117,Maltese,Where do you live?,Fejn toqgħod?,,sentence
+5300118,Maltese,I live in Malta.,Noqgħod Malta.,,sentence
+5300119,Maltese,Thank you.,Grazzi.,,interjection
+5300120,Maltese,Please.,Jekk jogħġbok.,,interjection
