@@ -397,7 +397,11 @@ Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 MALTESE
 ID allocation: 5300000-5399999
 CSV: Cards/Maltese.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Systematic seed deck; 121 cards through 5300120.
+Reference: Contemporary standard Maltese in Maltese Latin orthography.
+Syllabus: Syllabi/Polyglot_Maltese_Syllabus_v0.1.txt
+Frontier: MT-11 — Għand- possession and person suffixes
+Checkpoint: Original 15-card micro deck preserved. New seed introduces MT-01–MT-10 nominal foundations, with previews of possession, localizers, numbers and first present verbs from MT-11–MT-30. Later units are not yet exhaustively covered.
 
 SLOVENE
 ID allocation: 5400000-5499999
