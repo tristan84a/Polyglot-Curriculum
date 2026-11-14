@@ -179,8 +179,8 @@ ID allocation: 2100000-2199999
 CSV: Cards/Korean.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Korean_Syllabus_v0.1.txt
-Frontier: KO-19 — Plural 들
-Checkpoint: Standard South Korean Hangul seed with polite 해요체, core particles, negation/questions, location, existence/possession, demonstratives and desire clauses.
+Frontier: KO-22 — Dative/recipient 에게 and 한테
+Checkpoint: KO-19–KO-21 established context-sensitive plural 들, genitive 의 alongside ordinary noun-noun possession and kinship expressions, and comitative/coordination with 하고 and 와/과. Polite 해요체 and earlier subject/topic/object/location patterns recur in integrated clauses.
 
 FINNISH
 ID allocation: 2200000-2299999
