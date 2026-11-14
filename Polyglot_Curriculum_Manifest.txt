@@ -209,7 +209,11 @@ Checkpoint: Cards 2400000-2400099 remain unchanged. Cards 2400100-2400201 comple
 ROMANIAN
 ID allocation: 2500000-2599999
 CSV: Cards/Romanian.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Established seed deck; 196 cards, IDs 2500000-2500195.
+Reference: Contemporary standard Romanian in Romanian orthography.
+Syllabus: Syllabi/Polyglot_Romanian_Syllabus_v0.1.txt
+Frontier: RO-21 — pe with personal direct objects
+Checkpoint: Original 100 cards preserved. Cards 2500100-2500195 complete RO-15 additional conjugation patterns, RO-16 irregular present verbs, RO-17 verbal negation/questions, RO-18 question words, RO-19 present-tense synthesis and RO-20 unmarked direct objects. Stage 2 complete; Stage 3 proceeds at RO-21. Some să complements preview later RO-26 and RO-27 without advancing those units.
 
 DANISH
 ID allocation: 2600000-2699999
