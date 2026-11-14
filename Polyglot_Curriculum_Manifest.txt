@@ -285,8 +285,8 @@ CSV: Cards/Tamil.csv
 Development: Systematic seed deck; actual count and used IDs authoritative in CSV.
 Reference: Contemporary standard written Tamil in Tamil script; colloquial and regional varieties explicitly labelled.
 Syllabus: Syllabi/Polyglot_Tamil_Syllabus_v0.1.txt
-Frontier: TA-21 — Present neuter and plural/honorific agreement
-Checkpoint: Original 15 micro cards preserved; expanded to 100 cards with pronouns, inclusive/exclusive we, nominal identity, adjectival predicates, possession, locatives, polar and content questions, accusative objects and first present-tense agreement contrasts. Next deepen agreement and nominal cases.
+Frontier: TA-25 — Sociative -உடன் and comitative relations
+Checkpoint: TA-21–TA-24 introduced neuter and plural/honorific present agreement, dative -க்கு for recipients and destinations, genitive -உடைய for possession, and instrumental/causal -ஆல். Existing seed and IDs preserved; continue with sociative constructions next.
 
 NORWEGIAN
 ID allocation: 3600000-3699999
