@@ -241,8 +241,8 @@ ID allocation: 2900000-2999999
 CSV: Cards/Swahili.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_Swahili_Syllabus_v0.1.txt
-Frontier: SW-24 — Demonstratives: proximal
-Checkpoint: Stage 2 complete through SW-23. The existing 148 cards remain unchanged; 74 appended cards (2900148-2900221) establish SW-21 verbal polar questions including negative questions, SW-22 information questions and question-word expressions, and SW-23 present-series synthesis with affirmative/negative and interrogative contrasts. New forward construction begins at Stage 3. Earlier structures continue longitudinally.
+Frontier: SW-27 — Associative -a
+Checkpoint: Stage 2 complete through SW-23. Cards 2900222-2900304 establish SW-24 proximal demonstratives, SW-25 medial/distal demonstratives and SW-26 class-sensitive possessive stems (-angu, -ako, -ake, -etu, -enu, -ao). Stage 3 continues with associative -a. Earlier grammar and noun-class agreement remain active.
 
 ALBANIAN
 ID allocation: 3000000-3099999
