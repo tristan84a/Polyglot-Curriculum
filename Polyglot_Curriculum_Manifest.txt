@@ -23,8 +23,8 @@ ID allocation: 100000-199999
 CSV: Cards/French.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_French_Syllabus_v0.3.txt
-Frontier: FR-90 — Present subjunctive: regular formation
-Checkpoint: Established Stage 10 FR-80–FR-89 with 91 new cards (101035–101125), covering subject/object/place/de/complex-preposition relatives (qui, que, où, dont, lequel), coordination, cause/consequence, infinitival purpose, concession/opposition and integrated complex clauses. Existing 1035 cards unchanged. Continue at Stage 11, FR-90 (present subjunctive), with purpose clauses requiring subjunctive reserved for the mood sequence.
+Frontier: FR-94 — Doubt, uncertainty and judgment
+Checkpoint: Stage 11 FR-90–FR-93 introduced with 114 new cards (101126–101239), establishing present regular subjunctive endings, common irregular forms (être, avoir, aller, faire, savoir, pouvoir, venir, prendre, voir, vouloir, devoir), necessity and obligation, and desire, preference and emotion. Maintains earlier indicative, infinitival and relative-clause patterns, with explicit espérer + indicative contrast. Existing 1126 cards unchanged. Continue at FR-94 (doubt, uncertainty and judgment).
 
 GERMAN
 ID allocation: 200000-299999
