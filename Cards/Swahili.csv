@@ -221,3 +221,86 @@
 2900219,Swahili,I do not understand Swahili.,Sielewi Kiswahili.,,sentence
 2900220,Swahili,Do you understand Swahili?,Unaelewa Kiswahili?,,sentence
 2900221,Swahili,Why do you not understand Swahili?,Kwa nini huelewi Kiswahili?,,sentence
+2900222,Swahili,this book,kitabu hiki,,phrase
+2900223,Swahili,these books,vitabu hivi,,phrase
+2900224,Swahili,this child,mtoto huyu,,phrase
+2900225,Swahili,these children,watoto hawa,,phrase
+2900226,Swahili,this house,nyumba hii,,phrase
+2900227,Swahili,these houses,nyumba hizi,,phrase
+2900228,Swahili,this car,gari hili,,phrase
+2900229,Swahili,these cars,magari haya,,phrase
+2900230,Swahili,this city,mji huu,,phrase
+2900231,Swahili,these cities,miji hii,,phrase
+2900232,Swahili,this school,shule hii,,phrase
+2900233,Swahili,these schools,shule hizi,,phrase
+2900234,Swahili,This book is new.,Kitabu hiki ni kipya.,,sentence
+2900235,Swahili,These books are new.,Vitabu hivi ni vipya.,,sentence
+2900236,Swahili,This child reads.,Mtoto huyu anasoma.,,sentence
+2900237,Swahili,These children read.,Watoto hawa wanasoma.,,sentence
+2900238,Swahili,This car is red.,Gari hili ni jekundu.,,sentence
+2900239,Swahili,These cars are red.,Magari haya ni mekundu.,,sentence
+2900240,Swahili,This house is big.,Nyumba hii ni kubwa.,,sentence
+2900241,Swahili,This city is small.,Mji huu ni mdogo.,,sentence
+2900242,Swahili,Do you want this book?,Unataka kitabu hiki?,,sentence
+2900243,Swahili,Where do these children live?,Watoto hawa wanaishi wapi?,,sentence
+2900244,Swahili,I read this book every day.,Ninasoma kitabu hiki kila siku.,,sentence
+2900245,Swahili,I do not want these books.,Sitaki vitabu hivi.,,sentence
+2900246,Swahili,that book (near you),kitabu hicho,,phrase
+2900247,Swahili,those books (near you),vitabu hivyo,,phrase
+2900248,Swahili,that child (near you),mtoto huyo,,phrase
+2900249,Swahili,those children (near you),watoto hao,,phrase
+2900250,Swahili,that house (near you),nyumba hiyo,,phrase
+2900251,Swahili,those houses (near you),nyumba hizo,,phrase
+2900252,Swahili,that car (near you),gari hilo,,phrase
+2900253,Swahili,those cars (near you),magari hayo,,phrase
+2900254,Swahili,that city (near you),mji huo,,phrase
+2900255,Swahili,those cities (near you),miji hiyo,,phrase
+2900256,Swahili,that book over there,kitabu kile,,phrase
+2900257,Swahili,those books over there,vitabu vile,,phrase
+2900258,Swahili,that child over there,mtoto yule,,phrase
+2900259,Swahili,those children over there,watoto wale,,phrase
+2900260,Swahili,that house over there,nyumba ile,,phrase
+2900261,Swahili,those houses over there,nyumba zile,,phrase
+2900262,Swahili,that car over there,gari lile,,phrase
+2900263,Swahili,those cars over there,magari yale,,phrase
+2900264,Swahili,that city over there,mji ule,,phrase
+2900265,Swahili,those cities over there,miji ile,,phrase
+2900266,Swahili,That child over there is reading.,Mtoto yule anasoma.,,sentence
+2900267,Swahili,Those children over there are playing.,Watoto wale wanacheza.,,sentence
+2900268,Swahili,I want that book over there.,Ninataka kitabu kile.,,sentence
+2900269,Swahili,That car near you is new.,Gari hilo ni jipya.,,sentence
+2900270,Swahili,Those cars over there are red.,Magari yale ni mekundu.,,sentence
+2900271,Swahili,Where is that house over there?,Nyumba ile iko wapi?,,sentence
+2900272,Swahili,Is that book near you new?,Kitabu hicho ni kipya?,,sentence
+2900273,Swahili,I see those children over there.,Ninaona watoto wale.,,sentence
+2900274,Swahili,my book,kitabu changu,,phrase
+2900275,Swahili,your book (singular),kitabu chako,,phrase
+2900276,Swahili,his or her book,kitabu chake,,phrase
+2900277,Swahili,our book,kitabu chetu,,phrase
+2900278,Swahili,your book (plural),kitabu chenu,,phrase
+2900279,Swahili,their book,kitabu chao,,phrase
+2900280,Swahili,my books,vitabu vyangu,,phrase
+2900281,Swahili,your books (singular),vitabu vyako,,phrase
+2900282,Swahili,their books,vitabu vyao,,phrase
+2900283,Swahili,my child,mtoto wangu,,phrase
+2900284,Swahili,your child (singular),mtoto wako,,phrase
+2900285,Swahili,our children,watoto wetu,,phrase
+2900286,Swahili,their children,watoto wao,,phrase
+2900287,Swahili,my house,nyumba yangu,,phrase
+2900288,Swahili,your house (singular),nyumba yako,,phrase
+2900289,Swahili,our houses,nyumba zetu,,phrase
+2900290,Swahili,his or her house,nyumba yake,,phrase
+2900291,Swahili,my car,gari langu,,phrase
+2900292,Swahili,your car (singular),gari lako,,phrase
+2900293,Swahili,our cars,magari yetu,,phrase
+2900294,Swahili,their cars,magari yao,,phrase
+2900295,Swahili,my city,mji wangu,,phrase
+2900296,Swahili,our cities,miji yetu,,phrase
+2900297,Swahili,My book is new.,Kitabu changu ni kipya.,,sentence
+2900298,Swahili,Our children read books.,Watoto wetu wanasoma vitabu.,,sentence
+2900299,Swahili,Their cars are red.,Magari yao ni mekundu.,,sentence
+2900300,Swahili,Where is your house?,Nyumba yako iko wapi?,,sentence
+2900301,Swahili,I see your car.,Ninaona gari lako.,,sentence
+2900302,Swahili,My friends work here.,Rafiki zangu wanafanya kazi hapa.,,sentence
+2900303,Swahili,Do your children go to school?,Watoto wako wanaenda shule?,,sentence
+2900304,Swahili,Our house is big.,Nyumba yetu ni kubwa.,,sentence
