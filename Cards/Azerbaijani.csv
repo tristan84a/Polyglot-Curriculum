@@ -14,3 +14,110 @@
 5500012,Azerbaijani,He has a car.,Onun maşını var.,,sentence
 5500013,Azerbaijani,He has a red car.,Onun qırmızı maşını var.,,sentence
 5500014,Azerbaijani,I see four cars.,Mən dörd maşın görürəm.,,sentence
+5500015,Azerbaijani,woman,qadın,,noun
+5500016,Azerbaijani,child,uşaq,,noun
+5500017,Azerbaijani,book,kitab,,noun
+5500018,Azerbaijani,school,məktəb,,noun
+5500019,Azerbaijani,city,şəhər,,noun
+5500020,Azerbaijani,table,masa,,noun
+5500021,Azerbaijani,apple,alma,,noun
+5500022,Azerbaijani,bread,çörək,,noun
+5500023,Azerbaijani,tea,çay,,noun
+5500024,Azerbaijani,teacher,müəllim,,noun
+5500025,Azerbaijani,student,tələbə,,noun
+5500026,Azerbaijani,friend,dost,,noun
+5500027,Azerbaijani,small,kiçik,,adjective
+5500028,Azerbaijani,good,yaxşı,,adjective
+5500029,Azerbaijani,bad,pis,,adjective
+5500030,Azerbaijani,new,yeni,,adjective
+5500031,Azerbaijani,old (not new),köhnə,,adjective
+5500032,Azerbaijani,green,yaşıl,,adjective
+5500033,Azerbaijani,blue,mavi,,adjective
+5500034,Azerbaijani,I,mən,,pronoun
+5500035,Azerbaijani,you (singular informal),sən,,pronoun
+5500036,Azerbaijani,he / she / it,o,,pronoun
+5500037,Azerbaijani,we,biz,,pronoun
+5500038,Azerbaijani,you (plural/formal),siz,,pronoun
+5500039,Azerbaijani,they,onlar,,pronoun
+5500040,Azerbaijani,this,bu,,pronoun
+5500041,Azerbaijani,that,o,,pronoun
+5500042,Azerbaijani,one,bir,,number
+5500043,Azerbaijani,two,iki,,number
+5500044,Azerbaijani,three,üç,,number
+5500045,Azerbaijani,five,beş,,number
+5500046,Azerbaijani,This is a book.,Bu kitabdır.,,sentence
+5500047,Azerbaijani,This is a teacher.,Bu müəllimdir.,,sentence
+5500048,Azerbaijani,The child is small.,Uşaq kiçikdir.,,sentence
+5500049,Azerbaijani,The school is big.,Məktəb böyükdür.,,sentence
+5500050,Azerbaijani,The apple is green.,Alma yaşıldır.,,sentence
+5500051,Azerbaijani,The tea is good.,Çay yaxşıdır.,,sentence
+5500052,Azerbaijani,I am a student.,Mən tələbəyəm.,,sentence
+5500053,Azerbaijani,You are a teacher.,Sən müəllimsən.,,sentence
+5500054,Azerbaijani,We are students.,Biz tələbəyik.,,sentence
+5500055,Azerbaijani,You are students.,Siz tələbəsiniz.,,sentence
+5500056,Azerbaijani,They are teachers.,Onlar müəllimdirlər.,,sentence
+5500057,Azerbaijani,a new book,yeni kitab,,phrase
+5500058,Azerbaijani,a small city,kiçik şəhər,,phrase
+5500059,Azerbaijani,a good friend,yaxşı dost,,phrase
+5500060,Azerbaijani,a red apple,qırmızı alma,,phrase
+5500061,Azerbaijani,a big house,böyük ev,,phrase
+5500062,Azerbaijani,houses,evlər,,noun
+5500063,Azerbaijani,books,kitablar,,noun
+5500064,Azerbaijani,children,uşaqlar,,noun
+5500065,Azerbaijani,The houses are big.,Evlər böyükdür.,,sentence
+5500066,Azerbaijani,The books are new.,Kitablar yenidir.,,sentence
+5500067,Azerbaijani,two books,iki kitab,,phrase
+5500068,Azerbaijani,three apples,üç alma,,phrase
+5500069,Azerbaijani,five houses,beş ev,,phrase
+5500070,Azerbaijani,my book,kitabım,,phrase
+5500071,Azerbaijani,your book,kitabın,,phrase
+5500072,Azerbaijani,his book,onun kitabı,,phrase
+5500073,Azerbaijani,our house,evimiz,,phrase
+5500074,Azerbaijani,your house (plural/formal),eviniz,,phrase
+5500075,Azerbaijani,their house,onların evi,,phrase
+5500076,Azerbaijani,My book is new.,Kitabım yenidir.,,sentence
+5500077,Azerbaijani,Your book is old.,Kitabın köhnədir.,,sentence
+5500078,Azerbaijani,His house is big.,Onun evi böyükdür.,,sentence
+5500079,Azerbaijani,Our house is small.,Evimiz kiçikdir.,,sentence
+5500080,Azerbaijani,I have a book.,Mənim kitabım var.,,sentence
+5500081,Azerbaijani,We have a car.,Bizim maşınımız var.,,sentence
+5500082,Azerbaijani,Do you have a book?,Sənin kitabın var?,,sentence
+5500083,Azerbaijani,I do not have a car.,Mənim maşınım yoxdur.,,sentence
+5500084,Azerbaijani,He does not have a book.,Onun kitabı yoxdur.,,sentence
+5500085,Azerbaijani,I am not a doctor.,Mən həkim deyiləm.,,sentence
+5500086,Azerbaijani,The car is not new.,Maşın yeni deyil.,,sentence
+5500087,Azerbaijani,We are not teachers.,Biz müəllim deyilik.,,sentence
+5500088,Azerbaijani,Are you a student?,Sən tələbəsən?,,sentence
+5500089,Azerbaijani,Is the house big?,Ev böyükdür?,,sentence
+5500090,Azerbaijani,Is this a book?,Bu kitabdır?,,sentence
+5500091,Azerbaijani,Who is this?,Bu kimdir?,,sentence
+5500092,Azerbaijani,What is this?,Bu nədir?,,sentence
+5500093,Azerbaijani,Where is the school?,Məktəb haradadır?,,sentence
+5500094,Azerbaijani,Where is the book?,Kitab haradadır?,,sentence
+5500095,Azerbaijani,The book is on the table.,Kitab masanın üstündədir.,,sentence
+5500096,Azerbaijani,The child is at school.,Uşaq məktəbdədir.,,sentence
+5500097,Azerbaijani,I am at home.,Mən evdəyəm.,,sentence
+5500098,Azerbaijani,The teacher is in the city.,Müəllim şəhərdədir.,,sentence
+5500099,Azerbaijani,The book is at home.,Kitab evdədir.,,sentence
+5500100,Azerbaijani,The car is in the city.,Maşın şəhərdədir.,,sentence
+5500101,Azerbaijani,to see,görmək,,verb
+5500102,Azerbaijani,to read,oxumaq,,verb
+5500103,Azerbaijani,to drink,içmək,,verb
+5500104,Azerbaijani,to eat,yemək,,verb
+5500105,Azerbaijani,I see the book.,Mən kitabı görürəm.,,sentence
+5500106,Azerbaijani,You see the car.,Sən maşını görürsən.,,sentence
+5500107,Azerbaijani,We see the school.,Biz məktəbi görürük.,,sentence
+5500108,Azerbaijani,He sees the child.,O uşağı görür.,,sentence
+5500109,Azerbaijani,They see the house.,Onlar evi görürlər.,,sentence
+5500110,Azerbaijani,I read a book.,Mən kitab oxuyuram.,,sentence
+5500111,Azerbaijani,She reads the book.,O kitabı oxuyur.,,sentence
+5500112,Azerbaijani,We read books.,Biz kitab oxuyuruq.,,sentence
+5500113,Azerbaijani,I drink water.,Mən su içirəm.,,sentence
+5500114,Azerbaijani,He drinks tea.,O çay içir.,,sentence
+5500115,Azerbaijani,The child eats bread.,Uşaq çörək yeyir.,,sentence
+5500116,Azerbaijani,We eat apples.,Biz alma yeyirik.,,sentence
+5500117,Azerbaijani,I do not see the car.,Mən maşını görmürəm.,,sentence
+5500118,Azerbaijani,She does not read the book.,O kitabı oxumur.,,sentence
+5500119,Azerbaijani,Do you drink tea?,Sən çay içirsən?,,sentence
+5500120,Azerbaijani,What do you read?,Sən nə oxuyursan?,,sentence
+5500121,Azerbaijani,What do you see?,Sən nə görürsən?,,sentence

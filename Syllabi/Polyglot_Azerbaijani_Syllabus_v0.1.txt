@@ -1,0 +1,150 @@
+POLYGLOT AZERBAIJANI SYLLABUS
+
+Version: 0.1
+Status: Current
+Encoding: UTF-8
+Language: Azerbaijani (Azərbaycan dili)
+Reference variety: Contemporary Standard Azerbaijani as used in the Republic of Azerbaijan; Latin script
+Card Generation Protocol: 1.0
+Charter version: 0.8
+
+PURPOSE
+This is the canonical introduction map for Azerbaijani in Polyglot. Preserve the original micro deck at 5500000–5500014 unchanged. The initial systematic seed adds 107 cards (5500015–5500121), bringing the deck to 122 cards. The seed is an opening, not a claim to have exhausted the topics it touches. Proceed through a widening spiral toward productive modern educated-adult language.
+
+LANGUAGE-SPECIFIC AUTHORING GUIDANCE
+Use the standard Latin alphabet of Azerbaijan, retaining ə, ı (dotless), i (dotted), ö, ü, ğ, ş and ç. Distinguish dotted capital İ and dotless I in context; do not substitute Turkish forms or Iranian Azerbaijani Arabic-script conventions. Some capitalizations vary across names and conventions; choose ordinary contemporary Azerbaijan orthography. Maintain Unicode consistency and the six-column CSV with UTF-8 BOM, blank InputHint unless needed.
+
+Azerbaijani is Turkic and typically SOV, with no grammatical gender, agglutinative case/possessive morphology and extensive vowel harmony. It shares broad structural principles with Turkish but must be authored as Azerbaijani: e.g., görmək, oxumaq, yaxşı, deyil, var/yox, -ır/-ir/-ur/-ür present/habitual in common verbs, and the Azerbaijani nominal -dır/-dir/-dur/-dür marker. The third-person predicative marker is common in careful declaratives, while informal speech can omit it. Preserve the micro deck's explicit -dır/-dir forms; teach their use against natural copular zero forms later without treating the marker as a full equivalent of English 'is'.
+
+Pronouns: mən, sən, o, biz, siz, onlar. Sən is familiar singular; siz is polite singular or plural. O makes no he/she distinction. Azerbaijani is pro-drop when context and agreement suffice, though retaining pronouns is often sensible in controlled beginner contrasts. Possessive morphology must be learned in actual words, including vowel and consonant interactions, with genitive pronouns and noun possessive suffixes; possession/existence frequently uses var and absence uses yoxdur/yox.
+
+The four-way vowel harmony system influences accusative, possessive, personal, case and tense suffixes. Plural -lar/-lər follows two-way harmony. Nouns following numerals normally remain unmarked for plural: iki kitab, üç alma. Direct objects show important specificity contrasts: Mən kitab oxuyuram versus Mən kitabı oxuyuram, rather than a direct mechanical equivalence to English definite articles. Introduce dative -a/-ə (with buffers as needed), locative -da/-də, ablative -dan/-dən, genitive -ın/-in/-un/-ün and accusative -ı/-i/-u/-ü across stems and animate nouns in later units.
+
+Finite verbs: first teach common progressive/nonpast -ır/-ir/-ur/-ür patterns through görürəm, oxuyuram, içirəm, yeyir and their personal agreement. Develop verb stem phonology as observed (oxu-yur-am, ye-yir). Negative finite forms such as görmürəm, oxumur require their own contrast against nominal deyil. Polar questions in contemporary Azerbaijani are often expressed by intonation and question punctuation; the question particle -mı/-mi/-mu/-mü also occurs, especially in careful or emphatic usage and with its own distribution. Do not copy Turkish's obligatorily separate written mı/mi into Azerbaijani examples.
+
+The opening micro deck already previews accusative evi, present görürəm, genitive onun, possessed maşını, existence var, predicative -dır and singular count nouns after dörd. Preserve all fifteen as stable live identities. New prompts stand alone after shuffling and are unique within this deck; choose neutral idiomatic translations, not artificially literal ones. Some variants in verbal and predicate expression are possible; each CSV row chooses one canonical answer.
+
+MICRO-TO-SEED CHECKPOINT
+5500000–5500014: 15 preserved exploratory micro cards.
+5500015–5500121: 107 systematic seed cards: reusable nouns, adjectives, pronouns and numbers; nominal identity and predication; adjective phrases and plural -lar/-lər; possession and var/yoxdur; nominal negation and yes/no questions; question words and locatives; citation verbs; selected definite accusatives, indefinite objects, present finite verbs and verbal negation/questions.
+Next frontier: AZ-21 — Dative destinations and recipients. Continue reinforcing possessive agreement, verb person forms, nominative/unmarked versus marked objects and everyday vocabulary during that expansion.
+
+CANONICAL INTRODUCTION MAP
+
+STAGE 1 — NOMINAL FOUNDATIONS
+AZ-01 — Standard Latin orthography, Azerbaijani-specific letters and spelling
+AZ-02 — Core concrete nouns and descriptive vocabulary
+AZ-03 — Predicative adjectives and nominal identity: zero versus -dır/-dir
+AZ-04 — Demonstratives bu and o; basic noun phrases
+AZ-05 — Personal pronouns, gender-neutral o and familiar/polite address
+AZ-06 — Person marking on nominal/adjectival predicates
+AZ-07 — Attributive adjectives and adjective–noun order
+AZ-08 — Numerals and singular count nouns after numbers
+AZ-09 — Plural nouns with -lar/-lər and two-way vowel harmony
+AZ-10 — Nominal/adjectival negation with deyil
+
+STAGE 2 — POSSESSION, QUESTIONS AND FIRST VERBS
+AZ-11 — Singular possessive suffixes and vowel harmony
+AZ-12 — Genitive -ın/-in/-un/-ün and possessed constructions
+AZ-13 — Plural possessors and first-/second-person plural possessives
+AZ-14 — Existence and possession with var
+AZ-15 — Absence with yox and yoxdur
+AZ-16 — Polar nominal questions and intonation
+AZ-17 — Core question words: kim, nə, hara, harada
+AZ-18 — Locative -da/-də and everyday places
+AZ-19 — Infinitives in -maq/-mək and first finite present/nonpast patterns
+AZ-20 — Definite accusative versus unmarked objects, verbal negation and questions
+AZ-21 — Dative destinations and recipients: -(y)a/-(y)ə
+AZ-22 — Ablative source: -dan/-dən and phonological variants
+AZ-23 — Spatial nominals and postpositions: üst, alt, yan, qabaq
+AZ-24 — Full person/number present forms and subject omission
+AZ-25 — Present habitual versus ongoing readings and context
+AZ-26 — Everyday motion: getmək, gəlmək, çıxmaq
+AZ-27 — Transitive/nontransitive verb expansion and object specificity
+AZ-28 — Polar question particle -mı/-mi/-mu/-mü versus intonation
+AZ-29 — Lexical expansion: daily routines and frequent predicates
+AZ-30 — Imperatives, prohibitives and respectful requests
+
+STAGE 3 — TENSE, ASPECT AND MODALITY
+AZ-31 — Definite past -dı/-di/-du/-dü and consonant variants
+AZ-32 — Past tense agreement, negation and polar questions
+AZ-33 — Imperfect/past progressive -ırdı/-irdi patterns
+AZ-34 — Narrative/evidential past -mış/-miş/-muş/-müş
+AZ-35 — Resultative and evidentiality contrasts
+AZ-36 — Future -acaq/-əcək and stem alternations
+AZ-37 — Future negation and future-oriented present
+AZ-38 — Habitual/generic -ar/-ər and negative -maz/-məz
+AZ-39 — Conditional -sa/-sə and if-clauses
+AZ-40 — Counterfactual and hypothetical conditionals
+AZ-41 — Ability and possibility with -a/-ə bilmək
+AZ-42 — Necessity and obligation with -malı/-məli and lazımdır
+AZ-43 — Wishes, intentions and desire constructions
+AZ-44 — Modality, polite mitigation and discourse nuance
+AZ-45 — Compound tense/mood and aspect combinations
+
+STAGE 4 — CASE, VOICE AND NONFINITE VERBS
+AZ-46 — Accusative specificity across noun classes
+AZ-47 — Dative and case selection with verbs
+AZ-48 — Genitive/possessive noun phrases and noun compounds
+AZ-49 — Personal, demonstrative and interrogative declension
+AZ-50 — Reflexive öz and reciprocal bir-biri
+AZ-51 — Passive voice and valency alternations
+AZ-52 — Causatives and productive verb derivation
+AZ-53 — Reciprocal and reflexive voice formations
+AZ-54 — Participles: -an/-ən and descriptive clauses
+AZ-55 — Past participles -mış/-miş and -dıq/-dik
+AZ-56 — Future participles -acaq/-əcək
+AZ-57 — Verbal nouns -maq/-mək, -ma/-mə and nominal clauses
+AZ-58 — Converbs in -ıb/-ib/-ub/-üb
+AZ-59 — Converbs in -araq/-ərək and -anda/-əndə
+AZ-60 — Auxiliary constructions and complex predicates
+AZ-61 — Relative clauses, embedded questions and complement clauses
+AZ-62 — Negation scope, polarity and focus
+AZ-63 — Coordinators, subordination and reported speech
+AZ-64 — Information structure, focus and flexible word order
+
+STAGE 5 — LEXICAL AND DISCOURSE BREADTH
+AZ-65 — Ordinals, dates, time and calendrical expressions
+AZ-66 — Quantifiers, measures and distributive numbers
+AZ-67 — Comparative and superlative strategies
+AZ-68 — Adverbs, intensifiers, manner and degree
+AZ-69 — Postpositions and case-government patterns
+AZ-70 — Word building, derivation and common suffix families
+AZ-71 — Family, kinship and social relationships
+AZ-72 — Home, household items and daily life
+AZ-73 — Food, cooking and hospitality
+AZ-74 — Shopping, prices and money
+AZ-75 — School, education and learning
+AZ-76 — Work, professions and workplace communication
+AZ-77 — Cities, transport, directions and travel
+AZ-78 — Geography, nature and weather
+AZ-79 — Body, health and medical services
+AZ-80 — Feelings, opinions and interpersonal interaction
+AZ-81 — Digital technology and communication
+AZ-82 — Government, public administration and civic life
+AZ-83 — Law, institutions and formal requests
+AZ-84 — Business, banking and commercial vocabulary
+AZ-85 — Science, mathematics and technical language
+AZ-86 — Literature, the arts, media and history
+AZ-87 — Azerbaijan's cultural and geographic context
+AZ-88 — Formal correspondence, education and news register
+AZ-89 — Conversation openers, greetings and closings
+AZ-90 — Pragmatics, politeness, address and indirectness
+AZ-91 — Idioms, set phrases and collocations
+AZ-92 — Common compound verbs and light-verb predicates
+AZ-93 — Advanced tense, aspect, modality and evidentiality
+AZ-94 — Advanced case selection, relative syntax and voice
+AZ-95 — Dialect, register and Turkish/Iranian Azerbaijani contrasts
+AZ-96 — Spelling, capitalization, punctuation and spoken reductions
+AZ-97 — Longer sentences, coherent narrative and argument
+AZ-98 — Authentic-text sampling and productive gap analysis
+AZ-99 — Educated-adult breadth and ongoing backward validation
+
+FRONTIER
+AZ-21 — Dative destinations and recipients: -(y)a/-(y)ə. The seed establishes a first productive present system and gives selected accusative, locative, genitive, possession, negation and questions. These branches remain active and far from exhaustive; continue naturally interleaving them with new material.
+
+GENERATION POLICY
+Keep original 5500000–5500014 intact as live card identities. New IDs begin at 5500015 and advance monotonically within 5500000–5599999. Preserve unique EnglishPrompt and six-column CSV schema; UTF-8 with BOM; empty InputHint unless justified. Prefer natural contemporary Azerbaijani targets, controlled contrasts, and sufficient lexical diversity. Do not transpose Turkish words or suffixes without verifying Azerbaijani usage. Use the published Card Generation Protocol to validate extensions.
+
+AMENDMENT HISTORY
+v0.1 — Expanded exploratory 15-card micro deck to 122-card systematic seed; established initial AZ-01–AZ-99 introduction map and AZ-21 as next frontier.
