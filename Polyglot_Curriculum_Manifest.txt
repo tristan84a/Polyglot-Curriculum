@@ -415,7 +415,11 @@ Development: Micro/seed deck; consult CSV for actual card count and used IDs.
 AZERBAIJANI
 ID allocation: 5500000-5599999
 CSV: Cards/Azerbaijani.csv
-Development: Micro/seed deck; consult CSV for actual card count and used IDs.
+Development: Systematic seed deck; 122 cards, 5500000-5500121.
+Reference: Contemporary Standard Azerbaijani in Azerbaijan Latin orthography.
+Syllabus: Syllabi/Polyglot_Azerbaijani_Syllabus_v0.1.txt
+Frontier: AZ-21 — Dative destinations and recipients: -(y)a/-(y)ə.
+Checkpoint: Original 15-card micro deck preserved unchanged; 107 new cards establish nominal predication, pronouns, plurals, possessives, genitive constructions, var/yoxdur, negation, questions, locative, first present verbs and accusative-object contrasts.
 
 GUJARATI
 ID allocation: 5600000-5699999
