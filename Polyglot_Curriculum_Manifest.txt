@@ -23,8 +23,8 @@ ID allocation: 100000-199999
 CSV: Cards/French.csv
 Development: Established/seed deck; consult CSV for actual card count and used IDs.
 Syllabus: Syllabi/Polyglot_French_Syllabus_v0.3.txt
-Frontier: FR-94 — Doubt, uncertainty and judgment
-Checkpoint: Stage 11 FR-90–FR-93 introduced with 114 new cards (101126–101239), establishing present regular subjunctive endings, common irregular forms (être, avoir, aller, faire, savoir, pouvoir, venir, prendre, voir, vouloir, devoir), necessity and obligation, and desire, preference and emotion. Maintains earlier indicative, infinitival and relative-clause patterns, with explicit espérer + indicative contrast. Existing 1126 cards unchanged. Continue at FR-94 (doubt, uncertainty and judgment).
+Frontier: FR-95 — Subjunctive after conjunctions
+Checkpoint: Stage 11 FR-90–FR-94 now introduced, with 102 new FR-94 cards (101240–101341) covering indicative/subjunctive contrasts for affirmation, negation and questions, certainty and doubt, possibility/probability, evaluative judgment, and selected past subjunctive previews. Existing 1240 cards preserved. Continue at FR-95 (subjunctive after conjunctions).
 
 GERMAN
 ID allocation: 200000-299999
