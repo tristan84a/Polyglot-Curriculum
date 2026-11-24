@@ -979,153 +979,67 @@ fun parseLanguageWeightsCsv(csv: String, current: Map<String, Int>): Map<String,
 
 fun readVocabularyCsv(file: File): List<VocabCard> {
     val lines = file.readLines(Charsets.UTF_8)
-    if (lines.isEmpty()) return emptyList()
-    val header = parseCsvLine(lines.first()).map { it.removePrefix("\uFEFF") }
-    fun idx(name: String) = header.indexOf(name)
+    val header = parseCsvLine(lines.first()).map { it.removePrefix("\uFEFF").trim() }
+    fun index(name: String) = header.indexOf(name)
     return lines.drop(1).filter { it.isNotBlank() }.map { line ->
-        val f = parseCsvLine(line)
+        val fields = parseCsvLine(line)
+        fun value(name: String): String {
+            val i = index(name)
+            return if (i >= 0) fields[i] else ""
+        }
         VocabCard(
-            id = f[idx("ID")].toInt(),
-            language = f[idx("Language")],
-            englishPrompt = f[idx("EnglishPrompt")],
-            target = f[idx("Target")],
-            inputHint = idx("InputHint").takeIf { it >= 0 }?.let { f[it] } ?: "",
-            partOfSpeech = f[idx("PartOfSpeech")],
-            weight = f[idx("Weight")].toInt(),
-            active = f[idx("Active")].equals("TRUE", ignoreCase = true),
-            lastShown = idx("LastShown").takeIf { it >= 0 }?.let { f[it] }
-                ?.takeIf { it.isNotBlank() }?.let { Instant.parse(it).toEpochMilli() }
+            id = value("ID").toInt(),
+            language = value("Language"),
+            englishPrompt = value("EnglishPrompt"),
+            target = value("Target"),
+            inputHint = value("InputHint"),
+            partOfSpeech = value("PartOfSpeech"),
+            weight = if (index("Weight") >= 0) value("Weight").toInt() else 100,
+            active = if (index("Active") >= 0) value("Active").equals("TRUE", ignoreCase = true) else true,
+            lastShown = value("LastShown").takeIf { it.isNotBlank() }
+                ?.let { Instant.parse(it).toEpochMilli() }
         )
     }
 }
 
-fun validateVocabularyCsv(
-    file: File
-): Boolean {
-
-    val lines =
-        file.bufferedReader(Charsets.UTF_8)
-            .readLines()
-
-    if (lines.size < 2) {
-        return false
-    }
-
-    val header =
-        parseCsvLine(lines.first())
-            .map {
-                it.removePrefix("\uFEFF")
-            }
-
-    val oldHeader =
-        listOf(
-            "ID",
-            "Language",
-            "EnglishPrompt",
-            "Target",
-            "PartOfSpeech",
-            "Weight",
-            "Active",
-            "LastShown"
-        )
-
-    val newHeader =
-        listOf(
-            "ID",
-            "Language",
-            "EnglishPrompt",
-            "Target",
-            "InputHint",
-            "PartOfSpeech",
-            "Weight",
-            "Active",
-            "LastShown"
-        )
-
-    if (header != oldHeader && header != newHeader) {
-        return false
-    }
-
-    val hasInputHint = header == newHeader
-
-    val ids =
-        mutableSetOf<Int>()
-
-    val prompts =
-        mutableSetOf<Pair<String, String>>()
-
+fun validateVocabularyCsv(file: File): Boolean {
+    val lines = file.readLines(Charsets.UTF_8)
+    if (lines.size < 2) return false
+    val header = parseCsvLine(lines.first()).map { it.removePrefix("\uFEFF").trim() }
+    val mandatory = listOf("ID", "Language", "EnglishPrompt", "Target", "PartOfSpeech")
+    val allowed = listOf(
+        listOf("ID", "Language", "EnglishPrompt", "Target", "PartOfSpeech"),
+        listOf("ID", "Language", "EnglishPrompt", "Target", "InputHint", "PartOfSpeech"),
+        listOf("ID", "Language", "EnglishPrompt", "Target", "PartOfSpeech", "Weight", "Active", "LastShown"),
+        listOf("ID", "Language", "EnglishPrompt", "Target", "InputHint", "PartOfSpeech", "Weight", "Active", "LastShown")
+    )
+    if (header !in allowed) return false
+    val ids = mutableSetOf<Int>()
+    val prompts = mutableSetOf<Pair<String, String>>()
+    fun field(fields: List<String>, name: String) = fields[header.indexOf(name)]
     for (line in lines.drop(1)) {
-
-        if (line.isBlank()) {
-            continue
+        if (line.isBlank()) continue
+        val fields = parseCsvLine(line)
+        if (fields.size != header.size) return false
+        val id = field(fields, "ID").toIntOrNull() ?: return false
+        if (id <= 0 || !ids.add(id)) return false
+        val language = field(fields, "Language").trim()
+        val prompt = field(fields, "EnglishPrompt").trim()
+        val target = field(fields, "Target").trim()
+        if (language.isEmpty() || prompt.isEmpty() || target.isEmpty()) return false
+        if (!prompts.add(language to prompt)) return false
+        if ("Weight" in header) {
+            val weight = field(fields, "Weight").toIntOrNull() ?: return false
+            if (weight !in 2..3200) return false
         }
-
-        val fields =
-            parseCsvLine(line)
-
-        val expectedFieldCount =
-            if (hasInputHint) 9 else 8
-
-        if (fields.size != expectedFieldCount) {
-            return false
+        if ("Active" in header) {
+            if (field(fields, "Active").uppercase() !in listOf("TRUE", "FALSE")) return false
         }
-
-        val partOfSpeechField = if (hasInputHint) 5 else 4
-        val weightField = if (hasInputHint) 6 else 5
-        val activeField = if (hasInputHint) 7 else 6
-        val lastShownField = if (hasInputHint) 8 else 7
-
-        val id =
-            fields[0].toIntOrNull()
-                ?: return false
-
-        if (id <= 0 || !ids.add(id)) {
-            return false
-        }
-
-        val language = fields[1].trim()
-        val englishPrompt = fields[2].trim()
-        val target = fields[3].trim()
-        val partOfSpeech = fields[partOfSpeechField].trim()
-
-        if (
-            language.isEmpty() ||
-            englishPrompt.isEmpty() ||
-            target.isEmpty()
-        ) {
-            return false
-        }
-
-        val promptKey = Pair(language, englishPrompt)
-
-        if (!prompts.add(promptKey)) {
-            return false
-        }
-
-        val weight =
-            fields[weightField].toIntOrNull()
-                ?: return false
-
-        if (weight !in 2..3200) {
-            return false
-        }
-
-        if (
-            !fields[activeField].equals("TRUE", ignoreCase = true) &&
-            !fields[activeField].equals("FALSE", ignoreCase = true)
-        ) {
-            return false
-        }
-
-        if (fields[lastShownField].isNotBlank()) {
-            try {
-                Instant.parse(fields[lastShownField])
-            } catch (_: Exception) {
-                return false
-            }
+        if ("LastShown" in header && field(fields, "LastShown").isNotBlank()) {
+            try { Instant.parse(field(fields, "LastShown")) }
+            catch (_: Exception) { return false }
         }
     }
-
     return true
 }
 fun adoptImportedState(
