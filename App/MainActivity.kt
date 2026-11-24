@@ -96,9 +96,8 @@ fun StudyScreen(context: Context) {
     var showLanguagePicker by remember { mutableStateOf(false) }
     var languageSearch by remember { mutableStateOf("") }
     val studyCards = cards.filter { it.language !in excludedLanguages }
-    // Pick the first card by weighted random selection.
     var currentCard by remember {
-        mutableStateOf(weightedRandomCard(studyCards, null) ?: studyCards.firstOrNull { it.active && it.language !in excludedLanguages && it.lastShown == null })
+        mutableStateOf(selectScheduledCard(studyCards, emptyMap(), emptyMap(), null).first)
     }
 
     var answer by remember {
@@ -121,17 +120,40 @@ fun StudyScreen(context: Context) {
         mutableStateOf<Int?>(null)
     }
 
-    var newCardCounter by remember {
-        mutableStateOf(
-            context.getSharedPreferences(
-                "polyglot_state",
-                Context.MODE_PRIVATE
-            ).getInt("new_card_counter", 3)
-        )
+    var languageCounters by remember {
+        mutableStateOf(cards.map { it.language }.distinct().associateWith {
+            preferences.getInt("counter_$it", 3)
+        })
     }
+    var languageWeights by remember {
+        mutableStateOf(cards.map { it.language }.distinct().associateWith {
+            preferences.getInt("language_weight_$it", 100)
+        })
+    }
+    var currentCardIsNew by remember { mutableStateOf(currentCard?.lastShown == null) }
+    var importMessage by remember { mutableStateOf<String?>(null) }
+    var replaceConfirmation by remember { mutableStateOf(false) }
+    var clearConfirmation by remember { mutableStateOf(false) }
 
-    var currentCardIsNew by remember {
-        mutableStateOf(false)
+    fun setCounter(language: String, value: Int) {
+        languageCounters = languageCounters + (language to value)
+        preferences.edit().putInt("counter_$language", value).apply()
+    }
+    fun resetCounters() {
+        val editor = preferences.edit()
+        preferences.all.keys.filter { it.startsWith("counter_") }.forEach { editor.remove(it) }
+        languageCounters = cards.map { it.language }.distinct().associateWith { 3 }
+        languageCounters.forEach { (language, counter) -> editor.putInt("counter_$language", counter) }
+        editor.apply()
+    }
+    fun chooseCard(excludedId: Int?) {
+        val (next, isNew) = selectScheduledCard(
+            cards.filter { it.language !in excludedLanguages },
+            languageWeights, languageCounters, excludedId
+        )
+        currentCard = next
+        currentCardIsNew = isNew
+        if (isNew && next != null) setCounter(next.language, 3)
     }
 
     var localeEntry by rememberSaveable {
@@ -141,9 +163,12 @@ fun StudyScreen(context: Context) {
     fun applyLanguageExclusions(next: Set<String>) {
         excludedLanguages = next
         preferences.edit().putStringSet("excluded_study_languages", next).apply()
-        val eligible = cards.filter { it.active && it.language !in next }
-        currentCard = weightedRandomCard(eligible, null) ?: eligible.firstOrNull { it.lastShown == null }
-        currentCardIsNew = currentCard?.lastShown == null && currentCard != null
+        val (selected, isNew) = selectScheduledCard(
+            cards.filter { it.language !in next }, languageWeights, languageCounters, null
+        )
+        currentCard = selected
+        currentCardIsNew = isNew
+        if (isNew && selected != null) setCounter(selected.language, 3)
         answer = ""
         submitted = false
         wasCorrect = null
@@ -170,6 +195,7 @@ fun StudyScreen(context: Context) {
                     }
             }
         }
+    var pendingImportReplace by remember { mutableStateOf(false) }
     val importLauncher =
         rememberLauncherForActivityResult(
             contract = ActivityResultContracts.OpenDocument()
@@ -202,59 +228,38 @@ fun StudyScreen(context: Context) {
                                 }
                         }
 
-                    if (
-                        temporaryFile.exists() &&
-                        validateVocabularyCsv(
-                            temporaryFile
-                        )
-                    ) {
-
-                        temporaryFile.copyTo(
-                            importedFile,
-                            overwrite = true
-                        )
-
-// Remove state belonging to the previously loaded CSV.
-                        clearCardState(context)
-
-// Adopt Weight and LastShown from the newly imported CSV.
-                        adoptImportedState(
-                            context,
-                            importedFile
-                        )
-
-// Reload cards from the newly imported CSV.
-                        cards =
-                            loadCardsFromCsv(context)
-
-// Start with the first unseen active card.
-// If there are no unseen cards, use the normal weighted selection.
-                        val firstUnseen =
-                            cards.firstOrNull {
-                                it.active && it.language !in excludedLanguages && it.lastShown == null
-                            }
-
-                        if (firstUnseen != null) {
-                            currentCard = firstUnseen
-                            currentCardIsNew = true
-                        } else {
-                            currentCard =
-                                weightedRandomCard(studyCards, null)
-                            currentCardIsNew = false
+                    if (temporaryFile.exists() && validateVocabularyCsv(temporaryFile)) {
+                        val incoming = readVocabularyCsv(temporaryFile)
+                        val existingIds = cards.map { it.id }.toSet()
+                        val additions = incoming.filter { it.id !in existingIds }
+                        val replacing = pendingImportReplace
+                        val combined = if (replacing) incoming else cards + additions
+                        val staged = File(context.filesDir, "polyglot_vocabulary.stage.csv")
+                        staged.writeText(buildExportCsv(combined), Charsets.UTF_8)
+                        if (replacing) {
+                            clearCardState(context)
+                            adoptImportedState(context, staged)
                         }
-
-                        newCardCounter = 3
-
-                        preferences
-                            .edit()
-                            .putInt("new_card_counter", 3)
-                            .apply()
-
+                        staged.copyTo(importedFile, overwrite = true)
+                        staged.delete()
+                        cards = loadCardsFromCsv(context)
+                        if (replacing) resetCounters()
+                        languageWeights = cards.map { it.language }.distinct().associateWith {
+                            preferences.getInt("language_weight_$it", 100)
+                        }
+                        languageCounters = cards.map { it.language }.distinct().associateWith {
+                            preferences.getInt("counter_$it", 3)
+                        }
+                        chooseCard(null)
+                        importMessage = if (replacing) "Replaced deck with ${cards.size} cards."
+                            else "Added ${additions.size} cards; skipped ${incoming.size - additions.size} existing IDs."
                         answer = ""
                         submitted = false
                         wasCorrect = null
                         oldWeight = null
                         newWeight = null
+                    } else {
+                        importMessage = "Invalid vocabulary CSV. Existing cards were not changed."
                     }
 
                 } finally {
@@ -263,6 +268,63 @@ fun StudyScreen(context: Context) {
                 }
             }
         }
+
+    val weightImportLauncher = rememberLauncherForActivityResult(
+        ActivityResultContracts.OpenDocument()
+    ) { uri ->
+        if (uri != null) {
+            try {
+                val csv = context.contentResolver.openInputStream(uri)
+                    ?.bufferedReader(Charsets.UTF_8)?.use { it.readText() }
+                val updated = csv?.let { parseLanguageWeightsCsv(it, languageWeights) }
+                if (updated == null) {
+                    importMessage = "Invalid language-weight CSV; nothing changed."
+                } else {
+                    languageWeights = updated
+                    val editor = preferences.edit()
+                    updated.forEach { (language, weight) ->
+                        editor.putInt("language_weight_$language", weight)
+                    }
+                    editor.apply()
+                    importMessage = "Language weights updated."
+                }
+            } catch (_: Exception) { importMessage = "Could not import language weights." }
+        }
+    }
+
+    if (replaceConfirmation) {
+        AlertDialog(onDismissRequest = { replaceConfirmation = false },
+            title = { Text("Replace entire deck?") },
+            text = { Text("All existing cards and card study history will be replaced with the selected CSV. Language preferences will be kept.") },
+            confirmButton = { TextButton(onClick = {
+                replaceConfirmation = false
+                pendingImportReplace = true
+                importLauncher.launch(arrayOf("*/*"))
+            }) { Text("REPLACE") } },
+            dismissButton = { TextButton(onClick = { replaceConfirmation = false }) { Text("CANCEL") } })
+    }
+    if (clearConfirmation) {
+        AlertDialog(onDismissRequest = { clearConfirmation = false },
+            title = { Text("Clear entire deck?") },
+            text = { Text("All cards and card study history will be deleted. Language preferences will be kept.") },
+            confirmButton = { TextButton(onClick = {
+                File(context.filesDir, "polyglot_vocabulary.csv").writeText(
+                    "ID,Language,EnglishPrompt,Target,InputHint,PartOfSpeech,Weight,Active,LastShown\n"
+                )
+                clearCardState(context)
+                cards = emptyList()
+                currentCard = null
+                resetCounters()
+                clearConfirmation = false
+                importMessage = "Deck cleared."
+            }) { Text("CLEAR") } },
+            dismissButton = { TextButton(onClick = { clearConfirmation = false }) { Text("CANCEL") } })
+    }
+    if (importMessage != null) {
+        AlertDialog(onDismissRequest = { importMessage = null },
+            title = { Text("Data management") }, text = { Text(importMessage ?: "") },
+            confirmButton = { TextButton(onClick = { importMessage = null }) { Text("OK") } })
+    }
 
     // Whenever a new card appears, record when it was shown.
     LaunchedEffect(currentCard?.id) {
@@ -330,6 +392,10 @@ fun StudyScreen(context: Context) {
                 Text("No cards available in the selected languages.")
                 Spacer(modifier = Modifier.height(12.dp))
                 Button(onClick = { showLanguagePicker = true }) { Text("LANGUAGES") }
+                Button(onClick = {
+                    pendingImportReplace = false
+                    importLauncher.launch(arrayOf("*/*"))
+                }) { Text("ADD CARDS") }
             }
 
             return@Scaffold
@@ -428,7 +494,7 @@ fun StudyScreen(context: Context) {
 
             Text(
                 text =
-                    "${card.id} · ${if (currentCardIsNew) "New" else newCardCounter.toString()} · ${
+                    "${card.id} · ${if (currentCardIsNew) "New" else (languageCounters[card.language] ?: 3).toString()} · ${
                         "%,d".format(studyCards.count { it.active && it.language !in excludedLanguages && it.lastShown == null })
                     } · ${
                         "%,d".format(studyCards.count { it.active && it.lastShown != null })
@@ -508,24 +574,8 @@ fun StudyScreen(context: Context) {
                         )
 
                         if (!currentCardIsNew) {
-
-                            newCardCounter =
-                                if (correct) {
-                                    newCardCounter - 1
-                                } else {
-                                    newCardCounter + 1
-                                }
-
-                            context.getSharedPreferences(
-                                "polyglot_state",
-                                Context.MODE_PRIVATE
-                            )
-                                .edit()
-                                .putInt(
-                                    "new_card_counter",
-                                    newCardCounter
-                                )
-                                .apply()
+                            val old = languageCounters[card.language] ?: 3
+                            setCounter(card.language, if (correct) (old - 1).coerceAtLeast(0) else old + 1)
                         }
 
                         wasCorrect = correct
@@ -602,77 +652,7 @@ fun StudyScreen(context: Context) {
                         oldWeight = null
                         newWeight = null
 
-                        if (newCardCounter <= 0) {
-
-                            val unseenCards =
-                                cards.filter {
-                                    it.active && it.language !in excludedLanguages &&
-                                            it.lastShown == null
-                                }
-
-                            if (unseenCards.isNotEmpty()) {
-
-                                currentCardIsNew = true
-                                currentCard =
-                                    unseenCards.first()
-
-                                newCardCounter = 3
-
-                                context.getSharedPreferences(
-                                    "polyglot_state",
-                                    Context.MODE_PRIVATE
-                                )
-                                    .edit()
-                                    .putInt(
-                                        "new_card_counter",
-                                        3
-                                    )
-                                    .apply()
-
-                            } else {
-
-                                currentCardIsNew = false
-                                currentCard =
-                                    weightedRandomCard(
-                                        cards = studyCards,
-                                        excludedId = previousId
-                                    )
-                            }
-
-                        } else {
-
-                            currentCardIsNew = false
-
-                            val nextReviewCard =
-                                weightedRandomCard(
-                                    cards = studyCards,
-                                    excludedId = previousId
-                                )
-
-                            if (nextReviewCard != null) {
-
-                                currentCard = nextReviewCard
-
-                            } else {
-
-                                val nextUnseen =
-                                    cards.firstOrNull {
-                                        it.active && it.language !in excludedLanguages &&
-                                                it.lastShown == null
-                                    }
-
-                                if (nextUnseen != null) {
-                                    currentCard = nextUnseen
-                                    currentCardIsNew = true
-                                } else {
-                                    currentCard =
-                                        weightedRandomCard(
-                                            cards = studyCards,
-                                            excludedId = null
-                                        )
-                                }
-                            }
-                        }
+                        chooseCard(previousId)
                     },
                     modifier = Modifier.fillMaxWidth()
                 ) {
@@ -699,12 +679,17 @@ fun StudyScreen(context: Context) {
 
             Button(
                 onClick = {
-                    importLauncher.launch(
-                        arrayOf("*/*")
-                    )
+                    pendingImportReplace = false
+                    importLauncher.launch(arrayOf("*/*"))
                 }
             ) {
-                Text("IMPORT CSV")
+                Text("ADD CARDS")
+            }
+            Spacer(modifier = Modifier.height(12.dp))
+            Button(onClick = { replaceConfirmation = true }) { Text("REPLACE DECK") }
+            Button(onClick = { clearConfirmation = true }) { Text("CLEAR DECK") }
+            Button(onClick = { weightImportLauncher.launch(arrayOf("*/*")) }) {
+                Text("IMPORT LANGUAGE WEIGHTS")
             }
         }
     }
@@ -948,6 +933,70 @@ fun loadCardsFromCsv(
     }
 
     return cards
+}
+
+fun selectScheduledCard(
+    cards: List<VocabCard>,
+    languageWeights: Map<String, Int>,
+    counters: Map<String, Int>,
+    excludedId: Int?
+): Pair<VocabCard?, Boolean> {
+    val active = cards.filter { it.active }
+    val languages = active.map { it.language }.distinct().filter { (languageWeights[it] ?: 100) > 0 }
+    if (languages.isEmpty()) return Pair(null, false)
+    val total = languages.sumOf { (languageWeights[it] ?: 100).toLong() }
+    var draw = Random.nextLong(total)
+    var chosen = languages.last()
+    for (language in languages) {
+        val weight = (languageWeights[language] ?: 100).toLong()
+        if (draw < weight) { chosen = language; break }
+        draw -= weight
+    }
+    val pool = active.filter { it.language == chosen }
+    val unseen = pool.firstOrNull { it.lastShown == null }
+    val reviews = pool.filter { it.lastShown != null }
+    if (unseen != null && ((counters[chosen] ?: 3) <= 0 || reviews.isEmpty()))
+        return Pair(unseen, true)
+    return Pair(weightedRandomCard(reviews, excludedId)
+        ?: weightedRandomCard(reviews, null), false)
+}
+
+fun parseLanguageWeightsCsv(csv: String, current: Map<String, Int>): Map<String, Int>? {
+    val lines = csv.lines().filter { it.isNotBlank() }
+    if (lines.isEmpty()) return null
+    if (parseCsvLine(lines.first()).map { it.removePrefix("\uFEFF").trim() } != listOf("Language", "Weight")) return null
+    val result = current.toMutableMap()
+    for (line in lines.drop(1)) {
+        val fields = parseCsvLine(line)
+        if (fields.size != 2) return null
+        val language = fields[0].trim()
+        val weight = fields[1].trim().toIntOrNull() ?: return null
+        if (language.isEmpty() || weight !in 0..100000) return null
+        result[language] = weight
+    }
+    return result
+}
+
+fun readVocabularyCsv(file: File): List<VocabCard> {
+    val lines = file.readLines(Charsets.UTF_8)
+    if (lines.isEmpty()) return emptyList()
+    val header = parseCsvLine(lines.first()).map { it.removePrefix("\uFEFF") }
+    fun idx(name: String) = header.indexOf(name)
+    return lines.drop(1).filter { it.isNotBlank() }.map { line ->
+        val f = parseCsvLine(line)
+        VocabCard(
+            id = f[idx("ID")].toInt(),
+            language = f[idx("Language")],
+            englishPrompt = f[idx("EnglishPrompt")],
+            target = f[idx("Target")],
+            inputHint = idx("InputHint").takeIf { it >= 0 }?.let { f[it] } ?: "",
+            partOfSpeech = f[idx("PartOfSpeech")],
+            weight = f[idx("Weight")].toInt(),
+            active = f[idx("Active")].equals("TRUE", ignoreCase = true),
+            lastShown = idx("LastShown").takeIf { it >= 0 }?.let { f[it] }
+                ?.takeIf { it.isNotBlank() }?.let { Instant.parse(it).toEpochMilli() }
+        )
+    }
 }
 
 fun validateVocabularyCsv(
