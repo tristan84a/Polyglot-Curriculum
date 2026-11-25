@@ -1,6 +1,8 @@
 package com.tristan.polyglot
 
 import android.content.Context
+import android.content.ClipData
+import android.content.ClipboardManager
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -664,6 +666,14 @@ fun StudyScreen(context: Context) {
                     }
                     Text(text = "$oldWeight → $newWeight", fontSize = 20.sp)
                     Spacer(modifier = Modifier.height(12.dp))
+                    Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+                        Button(
+                            onClick = {
+                                val clipboard = context.getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
+                                clipboard.setPrimaryClip(ClipData.newPlainText("Polyglot translation", card.target))
+                            },
+                            modifier = Modifier.weight(1f)
+                        ) { Text("COPY") }
                     Button(
                         onClick = {
                         val previousId = card.id
@@ -676,8 +686,9 @@ fun StudyScreen(context: Context) {
 
                         chooseCard(previousId)
                         },
-                        modifier = Modifier.fillMaxWidth()
+                        modifier = Modifier.weight(1f)
                     ) { Text("NEXT") }
+                    }
                 } else {
                     Button(
                         onClick = {
