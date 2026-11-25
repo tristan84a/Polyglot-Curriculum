@@ -556,16 +556,34 @@ fun StudyScreen(context: Context) {
             }
             Spacer(modifier = Modifier.height(12.dp))
 
-            Text(
-                text =
-                    "${card.id} · ${if (currentCardIsNew) "New" else (languageCounters[card.language] ?: 3).toString()} · ${
-                        "%,d".format(cards.count { it.active && it.language == card.language && it.lastShown == null })
-                    } · ${
-                        "%,d".format(cards.count { it.active && it.language == card.language && it.lastShown != null })
-                    }",
-                fontSize = 14.sp,
-                color = MaterialTheme.colorScheme.onSurfaceVariant
-            )
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.SpaceBetween
+            ) {
+                Text(
+                    text = "#${card.id % 100000}",
+                    fontSize = 16.sp,
+                    fontWeight = FontWeight.Medium,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+                Text(
+                    text = "○ ${"%,d".format(cards.count { it.active && it.language == card.language && it.lastShown == null })}",
+                    fontSize = 16.sp,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+                Text(
+                    text = "● ${"%,d".format(cards.count { it.active && it.language == card.language && it.lastShown != null })}",
+                    fontSize = 16.sp,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+                Text(
+                    text = if (currentCardIsNew) "NEW" else "${languageCounters[card.language] ?: 3}",
+                    fontSize = 22.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.primary
+                )
+            }
 
             Spacer(
                 modifier = Modifier.height(28.dp)
