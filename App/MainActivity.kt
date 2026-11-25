@@ -50,7 +50,6 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.MoreVert
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.weight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.material3.Checkbox
 import androidx.compose.foundation.rememberScrollState
