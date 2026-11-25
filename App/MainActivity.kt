@@ -47,6 +47,9 @@ import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.IconButton
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.size
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.material3.Checkbox
 import androidx.compose.foundation.rememberScrollState
@@ -389,8 +392,11 @@ fun StudyScreen(context: Context) {
     @Composable
     fun StudyMenu() {
         Box {
-            IconButton(onClick = { menuExpanded = true }) {
-                Text("⋮", fontSize = 26.sp)
+            IconButton(
+                onClick = { menuExpanded = true },
+                modifier = Modifier.size(56.dp).background(MaterialTheme.colorScheme.secondary)
+            ) {
+                Text("⋮", fontSize = 28.sp, color = MaterialTheme.colorScheme.onSecondary)
             }
             DropdownMenu(expanded = menuExpanded, onDismissRequest = { menuExpanded = false }) {
                 DropdownMenuItem(text = { Text("Study languages") }, onClick = {
@@ -531,11 +537,19 @@ fun StudyScreen(context: Context) {
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Top
         ) {
-            Row(modifier = Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .height(56.dp)
+                    .background(MaterialTheme.colorScheme.primary),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
                 Text(
-                    text = card.language,
-                    fontSize = 18.sp,
+                    text = card.language.uppercase(),
+                    fontSize = 20.sp,
                     fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.onPrimary,
+                    textAlign = TextAlign.Center,
                     modifier = Modifier.weight(1f)
                 )
                 StudyMenu()
