@@ -42,6 +42,15 @@ import androidx.compose.ui.text.intl.Locale
 import androidx.compose.ui.text.intl.LocaleList
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.TextButton
+import androidx.compose.material3.DropdownMenu
+import androidx.compose.material3.DropdownMenuItem
+import androidx.compose.material3.IconButton
+import androidx.compose.material3.Icon
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.MoreVert
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Box
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.material3.Checkbox
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
@@ -132,6 +141,10 @@ fun StudyScreen(context: Context) {
     }
     var currentCardIsNew by remember { mutableStateOf(currentCard?.lastShown == null) }
     var importMessage by remember { mutableStateOf<String?>(null) }
+    var menuExpanded by remember { mutableStateOf(false) }
+    var answerFontSize by remember {
+        mutableStateOf(preferences.getInt("answer_font_size", 30).coerceIn(20, 42))
+    }
     var replaceConfirmation by remember { mutableStateOf(false) }
     var clearConfirmation by remember { mutableStateOf(false) }
 
@@ -376,6 +389,50 @@ fun StudyScreen(context: Context) {
         )
     }
 
+    @Composable
+    fun StudyMenu() {
+        Box {
+            IconButton(onClick = { menuExpanded = true }) {
+                Icon(Icons.Default.MoreVert, contentDescription = "More options")
+            }
+            DropdownMenu(expanded = menuExpanded, onDismissRequest = { menuExpanded = false }) {
+                DropdownMenuItem(text = { Text("Study languages") }, onClick = {
+                    menuExpanded = false
+                    showLanguagePicker = true
+                })
+                DropdownMenuItem(text = { Text("Add cards") }, onClick = {
+                    menuExpanded = false
+                    pendingImportReplace = false
+                    importLauncher.launch(arrayOf("*/*"))
+                })
+                DropdownMenuItem(text = { Text("Import language weights") }, onClick = {
+                    menuExpanded = false
+                    weightImportLauncher.launch(arrayOf("*/*"))
+                })
+                DropdownMenuItem(text = { Text("Export deck") }, onClick = {
+                    menuExpanded = false
+                    exportLauncher.launch("polyglot_export.csv")
+                })
+                DropdownMenuItem(text = { Text("Replace deck") }, onClick = {
+                    menuExpanded = false
+                    replaceConfirmation = true
+                })
+                DropdownMenuItem(text = { Text("Clear deck") }, onClick = {
+                    menuExpanded = false
+                    clearConfirmation = true
+                })
+                DropdownMenuItem(text = { Text("Answer font smaller (−)") }, onClick = {
+                    answerFontSize = (answerFontSize - 2).coerceAtLeast(20)
+                    preferences.edit().putInt("answer_font_size", answerFontSize).apply()
+                })
+                DropdownMenuItem(text = { Text("Answer font larger (+)") }, onClick = {
+                    answerFontSize = (answerFontSize + 2).coerceAtMost(42)
+                    preferences.edit().putInt("answer_font_size", answerFontSize).apply()
+                })
+            }
+        }
+    }
+
     Scaffold(
         modifier = Modifier.fillMaxSize()
     ) { innerPadding ->
@@ -389,13 +446,11 @@ fun StudyScreen(context: Context) {
                 horizontalAlignment = Alignment.CenterHorizontally,
                 verticalArrangement = Arrangement.Center
             ) {
+                Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.End) {
+                    StudyMenu()
+                }
                 Text("No cards available in the selected languages.")
-                Spacer(modifier = Modifier.height(12.dp))
-                Button(onClick = { showLanguagePicker = true }) { Text("LANGUAGES") }
-                Button(onClick = {
-                    pendingImportReplace = false
-                    importLauncher.launch(arrayOf("*/*"))
-                }) { Text("ADD CARDS") }
+
             }
 
             return@Scaffold
@@ -478,16 +533,16 @@ fun StudyScreen(context: Context) {
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Center
         ) {
-            Button(onClick = { showLanguagePicker = true }) {
-                Text("LANGUAGES (${availableLanguages.count { it !in excludedLanguages }}/${availableLanguages.size})")
+            Row(modifier = Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+                Text(
+                    text = card.language,
+                    fontSize = 18.sp,
+                    fontWeight = FontWeight.Bold,
+                    modifier = Modifier.weight(1f)
+                )
+                StudyMenu()
             }
             Spacer(modifier = Modifier.height(12.dp))
-            Text(
-                text = card.language.uppercase(),
-                fontSize = 18.sp,
-                fontWeight = FontWeight.Bold
-            )
-
             Spacer(
                 modifier = Modifier.height(12.dp)
             )
@@ -495,9 +550,9 @@ fun StudyScreen(context: Context) {
             Text(
                 text =
                     "${card.id} · ${if (currentCardIsNew) "New" else (languageCounters[card.language] ?: 3).toString()} · ${
-                        "%,d".format(studyCards.count { it.active && it.language !in excludedLanguages && it.lastShown == null })
+                        "%,d".format(cards.count { it.active && it.language == card.language && it.lastShown == null })
                     } · ${
-                        "%,d".format(studyCards.count { it.active && it.lastShown != null })
+                        "%,d".format(cards.count { it.active && it.language == card.language && it.lastShown != null })
                     }",
                 fontSize = 14.sp,
                 color = MaterialTheme.colorScheme.onSurfaceVariant
@@ -526,7 +581,9 @@ fun StudyScreen(context: Context) {
                 label = {
                     Text("Translation")
                 },
-                singleLine = true,
+                singleLine = false,
+                minLines = 2,
+                maxLines = 5,
                 enabled = !submitted,
                 keyboardOptions = if (localeCode != null) {
                     KeyboardOptions(
@@ -590,42 +647,36 @@ fun StudyScreen(context: Context) {
 
             } else {
 
-                if (wasCorrect == true) {
-
+                Text(
+                    text = if (wasCorrect == true) "✓ Correct" else "✗ Incorrect",
+                    fontSize = 20.sp,
+                    fontWeight = FontWeight.Bold
+                )
+                Spacer(modifier = Modifier.height(12.dp))
+                Text(
+                    text = "Correct answer:",
+                    fontSize = 16.sp,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+                Spacer(modifier = Modifier.height(8.dp))
+                SelectionContainer {
                     Text(
-                        text = "✓ Correct",
-                        fontSize = 20.sp,
-                        fontWeight = FontWeight.Bold
+                        text = card.target,
+                        fontSize = answerFontSize.sp,
+                        lineHeight = (answerFontSize * 1.5f).sp,
+                        fontWeight = FontWeight.Medium,
+                        textAlign = TextAlign.Center,
+                        modifier = Modifier.fillMaxWidth()
                     )
-
-                    Spacer(
-                        modifier = Modifier.height(12.dp)
-                    )
-
-                    SelectionContainer {
-                        Text(text = card.target, fontSize = 24.sp)
-                    }
-                    if (card.inputHint.isNotBlank()) {
-                        Text(text = "[${card.inputHint}]", fontSize = 24.sp)
-                    }
-
-                } else {
-
+                }
+                if (card.inputHint.isNotBlank()) {
+                    Spacer(modifier = Modifier.height(8.dp))
                     Text(
-                        text = "✗ Incorrect",
-                        fontSize = 20.sp,
-                        fontWeight = FontWeight.Bold
+                        text = "[${card.inputHint}]",
+                        fontSize = 18.sp,
+                        lineHeight = 26.sp,
+                        textAlign = TextAlign.Center
                     )
-
-                    Spacer(modifier = Modifier.height(12.dp))
-
-                    Text(text = "Correct answer:", fontSize = 20.sp)
-                    SelectionContainer {
-                        Text(text = card.target, fontSize = 20.sp)
-                    }
-                    if (card.inputHint.isNotBlank()) {
-                        Text(text = "[${card.inputHint}]", fontSize = 20.sp)
-                    }
                 }
 
                 Spacer(
@@ -660,37 +711,7 @@ fun StudyScreen(context: Context) {
                 }
             }
 
-            Spacer(
-                modifier = Modifier.height(32.dp)
-            )
-
-            Button(
-                onClick = {
-                    exportLauncher.launch(
-                        "polyglot_export.csv"
-                    )
-                }
-            ) {
-                Text("EXPORT CSV")
-            }
-            Spacer(
-                modifier = Modifier.height(12.dp)
-            )
-
-            Button(
-                onClick = {
-                    pendingImportReplace = false
-                    importLauncher.launch(arrayOf("*/*"))
-                }
-            ) {
-                Text("ADD CARDS")
-            }
-            Spacer(modifier = Modifier.height(12.dp))
-            Button(onClick = { replaceConfirmation = true }) { Text("REPLACE DECK") }
-            Button(onClick = { clearConfirmation = true }) { Text("CLEAR DECK") }
-            Button(onClick = { weightImportLauncher.launch(arrayOf("*/*")) }) {
-                Text("IMPORT LANGUAGE WEIGHTS")
-            }
+ 
         }
     }
 }
