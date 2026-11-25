@@ -532,11 +532,16 @@ fun StudyScreen(context: Context) {
             modifier = Modifier
                 .fillMaxSize()
                 .padding(innerPadding)
-                .verticalScroll(rememberScrollState())
-                .padding(24.dp),
-            horizontalAlignment = Alignment.CenterHorizontally,
-            verticalArrangement = Arrangement.Top
         ) {
+            Column(
+                modifier = Modifier
+                    .weight(1f)
+                    .fillMaxWidth()
+                    .verticalScroll(rememberScrollState())
+                    .padding(horizontal = 24.dp, vertical = 12.dp),
+                horizontalAlignment = Alignment.CenterHorizontally,
+                verticalArrangement = Arrangement.Top
+            ) {
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
@@ -624,15 +629,58 @@ fun StudyScreen(context: Context) {
                 modifier = Modifier.fillMaxWidth()
             )
 
-            Spacer(
-                modifier = Modifier.height(24.dp)
-            )
+                if (submitted) {
+                    Spacer(modifier = Modifier.height(16.dp))
+                    SelectionContainer {
+                        Text(
+                            text = card.target,
+                            fontSize = answerFontSize.sp,
+                            lineHeight = (answerFontSize * 1.5f).sp,
+                            fontWeight = FontWeight.Medium,
+                            color = if (wasCorrect == true) Color(0xFF21613C) else Color(0xFF78343D),
+                            textAlign = TextAlign.Center,
+                            modifier = Modifier.fillMaxWidth()
+                        )
+                    }
+                }
+            }
 
-            if (!submitted) {
+            // A fixed action area keeps NEXT reachable even for long answers.
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(horizontal = 24.dp, vertical = 12.dp),
+                horizontalAlignment = Alignment.CenterHorizontally
+            ) {
+                if (submitted) {
+                    if (card.inputHint.isNotBlank()) {
+                        Text(
+                            text = "[${card.inputHint}]",
+                            fontSize = 18.sp,
+                            lineHeight = 26.sp,
+                            textAlign = TextAlign.Center
+                        )
+                        Spacer(modifier = Modifier.height(8.dp))
+                    }
+                    Text(text = "$oldWeight → $newWeight", fontSize = 20.sp)
+                    Spacer(modifier = Modifier.height(12.dp))
+                    Button(
+                        onClick = {
+                        val previousId = card.id
 
-                Button(
-                    onClick = {
+                        answer = ""
+                        submitted = false
+                        wasCorrect = null
+                        oldWeight = null
+                        newWeight = null
 
+                        chooseCard(previousId)
+                        },
+                        modifier = Modifier.fillMaxWidth()
+                    ) { Text("NEXT") }
+                } else {
+                    Button(
+                        onClick = {
                         val correct =
                             normalizeForComparison(answer) ==
                                     normalizeForComparison(card.target)
@@ -666,79 +714,11 @@ fun StudyScreen(context: Context) {
                         oldWeight = before
                         newWeight = after
                         submitted = true
-                    },
-                    modifier = Modifier.fillMaxWidth()
-                ) {
-                    Text("SUBMIT")
-                }
-
-            } else {
-
-                Text(
-                    text = if (wasCorrect == true) "✓ Correct" else "✗ Incorrect",
-                    fontSize = 20.sp,
-                    fontWeight = FontWeight.Bold
-                )
-                Spacer(modifier = Modifier.height(12.dp))
-                Text(
-                    text = "Correct answer:",
-                    fontSize = 16.sp,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant
-                )
-                Spacer(modifier = Modifier.height(8.dp))
-                SelectionContainer {
-                    Text(
-                        text = card.target,
-                        fontSize = answerFontSize.sp,
-                        lineHeight = (answerFontSize * 1.5f).sp,
-                        fontWeight = FontWeight.Medium,
-                        textAlign = TextAlign.Center,
+                        },
                         modifier = Modifier.fillMaxWidth()
-                    )
-                }
-                if (card.inputHint.isNotBlank()) {
-                    Spacer(modifier = Modifier.height(8.dp))
-                    Text(
-                        text = "[${card.inputHint}]",
-                        fontSize = 18.sp,
-                        lineHeight = 26.sp,
-                        textAlign = TextAlign.Center
-                    )
-                }
-
-                Spacer(
-                    modifier = Modifier.height(16.dp)
-                )
-
-                Text(
-                    text = "$oldWeight → $newWeight",
-                    fontSize = 20.sp
-                )
-
-                Spacer(
-                    modifier = Modifier.height(24.dp)
-                )
-
-                Button(
-                    onClick = {
-
-                        val previousId = card.id
-
-                        answer = ""
-                        submitted = false
-                        wasCorrect = null
-                        oldWeight = null
-                        newWeight = null
-
-                        chooseCard(previousId)
-                    },
-                    modifier = Modifier.fillMaxWidth()
-                ) {
-                    Text("NEXT")
+                    ) { Text("SUBMIT") }
                 }
             }
-
- 
         }
     }
 }
