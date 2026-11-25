@@ -528,7 +528,7 @@ fun StudyScreen(context: Context) {
                 .padding(innerPadding)
                 .padding(24.dp),
             horizontalAlignment = Alignment.CenterHorizontally,
-            verticalArrangement = Arrangement.Center
+            verticalArrangement = Arrangement.Top
         ) {
             Row(modifier = Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
                 Text(
@@ -540,9 +540,6 @@ fun StudyScreen(context: Context) {
                 StudyMenu()
             }
             Spacer(modifier = Modifier.height(12.dp))
-            Spacer(
-                modifier = Modifier.height(12.dp)
-            )
 
             Text(
                 text =
