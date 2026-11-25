@@ -631,6 +631,46 @@ fun StudyScreen(context: Context) {
                 modifier = Modifier.fillMaxWidth()
             )
 
+                if (!submitted) {
+                    Spacer(modifier = Modifier.height(12.dp))
+                    Button(
+                        onClick = {
+                        val correct =
+                            normalizeForComparison(answer) ==
+                                    normalizeForComparison(card.target)
+
+                        val before = card.weight
+
+                        val after =
+                            if (correct) {
+                                (before * 0.75)
+                                    .roundToInt()
+                                    .coerceAtLeast(2)
+                            } else {
+                                (before * 2)
+                                    .coerceAtMost(3200)
+                            }
+
+                        card.weight = after
+
+                        saveWeight(
+                            context = context,
+                            id = card.id,
+                            weight = after
+                        )
+
+                        if (!currentCardIsNew) {
+                            val old = languageCounters[card.language] ?: 3
+                            setCounter(card.language, if (correct) (old - 1).coerceAtLeast(0) else old + 1)
+                        }
+
+                        wasCorrect = correct
+                        oldWeight = before
+                        newWeight = after
+                        submitted = true
+                        },
+                        modifier = Modifier.fillMaxWidth()
+                    ) { Text("SUBMIT") }                }
                 if (submitted) {
                     Spacer(modifier = Modifier.height(16.dp))
                     SelectionContainer {
@@ -689,45 +729,6 @@ fun StudyScreen(context: Context) {
                         modifier = Modifier.weight(1f)
                     ) { Text("NEXT") }
                     }
-                } else {
-                    Button(
-                        onClick = {
-                        val correct =
-                            normalizeForComparison(answer) ==
-                                    normalizeForComparison(card.target)
-
-                        val before = card.weight
-
-                        val after =
-                            if (correct) {
-                                (before * 0.75)
-                                    .roundToInt()
-                                    .coerceAtLeast(2)
-                            } else {
-                                (before * 2)
-                                    .coerceAtMost(3200)
-                            }
-
-                        card.weight = after
-
-                        saveWeight(
-                            context = context,
-                            id = card.id,
-                            weight = after
-                        )
-
-                        if (!currentCardIsNew) {
-                            val old = languageCounters[card.language] ?: 3
-                            setCounter(card.language, if (correct) (old - 1).coerceAtLeast(0) else old + 1)
-                        }
-
-                        wasCorrect = correct
-                        oldWeight = before
-                        newWeight = after
-                        submitted = true
-                        },
-                        modifier = Modifier.fillMaxWidth()
-                    ) { Text("SUBMIT") }
                 }
             }
         }
